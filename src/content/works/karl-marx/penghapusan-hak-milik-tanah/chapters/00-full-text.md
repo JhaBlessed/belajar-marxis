@@ -1,0 +1,43 @@
+# Penghapusan Hak Milik Tanah
+
+### Memorandum untuk Robert Applegarth, 3 Desember 1869
+
+## Karl Marx (1869)
+
+* * *
+
+**Penerjemah**: Anonim
+
+**Sumber:** _The Abolition of Landed Property, Memorandum for Robert Applegarth_, December 3 1869
+
+* * *
+
+Saudara yang tercinta,
+
+Pemilikan atas tanah-sumber awal dari semua kekayaan-telah menjadi masalah besar yang pemecahannya menentukan hari-depan klas pekerja.
+
+Sekalipun tidak bermaksud mendiskusikan di sini semua argumen yang dikedepankan oleh para pembela hak-pemilikan partikelir atas tanah-para ahli-hukum, -filsafat, dan -ekonomi-politik-pertama-tama akan kita nyatakan bahwa mereka menyamarkan kenyataan sebenarnya tentang penaklukan dengan jubah hak-alamiah. Jika penaklukan (perebutan) merupakan suatu hak alamiah di pihak (orang-orang) yang sedikit jumlahnya, maka yang banyak hanya perlu mengumpulkan kekuatan secukupnya untuk memperoleh hak alamiah merebut kembali yang telah dirampas dari pihak mereka. Dalam perjalanan sejarah, para penakluk itu berusaha memberikan semacam sanksi sosial pada hak asli mereka yang mereka dapatkan melalui kekerasan kasat mata, melalui alat-alat hukum yang mereka paksakan. Pada akhirnya datanglah filsuf yang menyatakan hukum-hukum itu mengimplikasikan persetujuan universal dari masyarakat. Seandainya memang benar hak-pemilikan tanah secara perseorangan itu berdasarkan persetujuan universal seperti itu, maka kita menegaskan bahwa perkembangan ekonomi masyarakat, peningkatan jumlah dan konsentrasi rakyat, keharusan akan kerja kolektif dan terorganisasinya pertanian maupun mesin-mesin dan penemuan-penemuan serupa, menjadikan nasionalisasi atas tanah suatu keharusan sosial, yang terhadapnya tidak akan mempan segala macam omongan tentang hak-hak pemilikan.
+
+Perubahan-perubahan yang mengucapkan keharusan sosial pasti akan berjalan, lambat atau cepat, karena tuntutan-tuntutan kebutuhan masyarakat harus dipenuhi, dan perundang-undangan selalu akan dipaksa untuk menyesuaikan diri dengan keperluan itu.
+
+Yang kita perlukan ialah produksi yang hari demi hari meningkat, yang urgensinya tidak dapat dipenuhi dengan membiarkan sekelompok kecil individu mengaturnya sesuka mereka dan kepentingan-kepentingan pribadi atau secara bodoh menghabis-habiskan daya bumi (tanah). Semua cara modern seperti irigasi, drainasi, penggarapan tanah dengan mesin, pemeliharaan secara kimiawi, dsb., pada akhirnya haruslah dilakukan dalam pertanian. Namun, pengetahuan ilmiah yang kita miliki, dan alat-alat tehnik pertanian yang kita kuasai, seperti permesinan, dsb., tidak akan pernah dapat diterapkan secara berhasil kecuali dengan pembumidayaan tanah secara besar-besaran. Penggarapan tanah secara besar-besaran-bahkan dalam bentuk sekarang yang kapitalistik, yang memerosotkan produser itu sendiri menjadi sekedar hewan kerja-mesti menunjukan hasil-hasil yang jauh lebih unggul ketimbang penggarapan tanah secara sebagian-sebagian dan kecil-kecilan-tidakkah itu, jika diterapkan dalam dimensi-dimensi nasional, jelas memberikan dorongan luar biasa pada produksi? Kebutuhan rakyat yang terus-meningkat di satu pihak, terus meningkatnya harga produk-produk agrikultur di lain pihak, menjadi bukti yang tidak dapat disangkal bahwa nasionalisasi atas tanah telah menjadi suatu keharusan sosial. Pengerdilan produksi pertanian yang bersumber pada penyalahgunaan individual menjadi tidak dimungkinkan lagi dengan pelaksanaan kultivasi yang terkendali/diawasi, dengan suatu biaya dan demi keuntungan bangsa.
+
+Perancis seringkali dijadikan contoh, tetapi dengan hak-pemilikan pertaniannya Perancis adalah lebih jauh dari nasionalisasi tanah jika dibandingkan dengan Inggris dengan landlordisme-(sistem tuan-tanah)-nya. Memang benar, bahwa di Perancis, tanah itu 'terbuka' bagi semua orang yang dapat membelinya, tetapi justru kemudahan ini telah melahirkan pembagian tanah menjadi bidang-bidang kecil yang digarap oleh orang yang berpenghasilan rendah dan terutama mesti bersandar pada sumber-sumber kerja badaniah diri mereka sendiri dan keluarga-keluarga mereka. Bentuk pemilikan tanah ini dan penggarapan yang berbidang kecil-kecil yang diakibatkannya tidak saja memustahilkan semua penerapanan kemajuan-kemajuan pertanian modern, melainkan sekaligus mengubah penggarap itu sendiri menjadi musuh paling keras terhadap segala kemajuan sosial, dan terutama sekali, musuh terhadap nasionalisasi tanah. Terikat pada tanah, yang penggarapannya menyedot seluruh daya vitalnya agar dapat memperoleh hasil yang relatif sedikit, terikat pula untuk melepaskan sebagian besar poroduksinya kepada negara dalam bentuk pajak-pajak, pada hukum rumpun dalam bentuk biaya-biaya _judiciary_, dan pada lintah-darat dalam bentuk bunga; sepenuhnya buta mengenai gerakan masyarakat di luar bidang sempit kegiatannya; ia masih saja bergayut dengan kecintaan-buta pada bidang tanahnya dan sekedar hak-pemilikannya yang cuma nominal atas bidang tanah itu. Dengan cara ini, petani Perancis telah terlempar ke dalam antagonisme yang paling fatal dengan klas pekerja industrial. Hak pemilikan tanah pertanian dengan demikian menjadi halangan terbesar bagi nasionalisasi tanah.
+
+Perancis, dalam keadaannya sekarang, jelas bukan tempat di mana kita mesti mencari suatu pemecahan bagi masalah besar ini. Menasionalisasi tanah dan membaginya dalam bidang-bidang tanah kecil pada orang perseorangan atau perhimpunan-perhimpunan pekerja akan, dengan sebuah pemerintah klas-menengah, cuma menimbulkan persaingan serampangan di antara mereka, dan menyebabkan suatu peningkatan 'bunga' tertentu, dan dengan demikian memberikan fasilitas-fasilitas baru pada para pemilik dalam menghisap kaum produsen.
+
+Dalam Kongres Internasional di Brussel, pada tahun 1868, seorang teman berkata:
+
+“Hak pemilikan tanah kecil secara perseorangan bernasib gagal oleh keputusan ilmu pengetahuan; hak pemilikan tanah luas secara perseorangan oleh keadilan. Maka hanya tersisa satu alternatif saja. Tanah mesti menjadi milik persekutuan-persekutuan desa, atau milik seluruh bangsa. Masa depan akan menentukan hal ini.”
+
+Tetapi saya, sebaliknya, mengatakan:
+
+“Masa depan akan menentukan bahwa tanah hanya dapat dimiliki secara nasional. Menyerahkan tanah ke tangan pekerja-pekerja pedesaan yang bersatu akan berarti menyerahkan seluruh masyarakat pada satu klas produser saja. Nasionalisasi atas tanah akan menghasilkan suatu perubahan menyeluruh dalam hubungan antara kerja dan modal dan akhirnya akan sepenuhnya menghapus produksi kapitalis, baik yang industrial atau yang pedesaan. Hanya pada waktu itulah perbedaan-perbedaan klas dan hak-hak istimewa klas akan lenyap bersama basis ekonomik yang menjadi asal-muasalnya dan masyarakat akan ditransformasi menjadi suatu asosiasi kaum 'produser'. Hidup atas kerja orang lain akan menjadi sesuatu dari masa lalu. Tidak akan ada lagi suatu pemerintahan atau suatu negara yang beda dari masyarakat itu sendiri.”
+
+Pertanian, pertambangan, manufaktur, singkat kata, semua cabang produksi akan secara bertahap terorganisasi dalam bentuk yang paling efektif. Sentralisasi atas alat-alat produksi secara nasional akan menjadi basis alamiah sesuatu masyarakat yang tersusun dari asosiasi-asosiasi para produser yang bebas dan sederajat, yang secara sadar beraksi berdasarkan sebuah rencana umum dan rasional.
+
+Demikian itulah tujuan yang menjadi arah/kecenderungan gerakan besar ekonomi abad ke XIX.
+
+* * *
+
+[Karya-karya Marx + Engels](../index.html) | [S�ksi Bahasa Indonesia M.I.A.](https://www.marxists.org/indonesia/index.htm) | [Cross-language Index](https://www.marxists.org/xlang/index.htm)

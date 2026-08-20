@@ -1,0 +1,47 @@
+Duncan Hallas 1984
+
+# Agitasi dan propaganda
+
+## (September 1984)
+
+* * *
+
+* * *
+
+Menurut kamus Oxford, mengagitasi adalah “membangkitkan perhatian (_to excite_) atau mendorong (_stir it up_)”, sedangkan propaganda adalah sebuah “rencana sistematis atau gerakan bersama untuk penyebarluasan suatu keyakinan atau doktrin.
+
+Definisi ini bukan merupakan titik pijak yang buruk. Agitasi memfokuskan diri pada sebuah isu aktual, berupaya ‘mendorong’ suatu _tindakan_ terhadap isu tersebut. Propaganda berurusan dengan penjelasan gagasan-gagasan secara terinci dan lebih sistematis.
+
+Seorang marxis perintis di Rusia, Plekhanov, menunjukkan sebuah konsekuensi yang penting dari pembedaan ini. “Seorang propagandis menyajikan banyak gagasan ke satu atau sedikit orang; seorang agitator menyajikan hanya satu atau sedikit gagasan, tetapi menyajikannya ke sejumlah besar orang (_a mass of people_)”. Seperti semua generalisasi yang seperti itu, pernyataan di atas jangan dipahami secara sangat harfiah. Propaganda, dalam keadaan yang menguntungkan, bisa meraih ribuan atau puluhan ribu orang. Dan ‘sejumlah besar orang’ yang dicapai oleh agitasi jumlahnya sangat tidak tetap. Sekalipun demikian, inti dari pernyataan Plekhanov itu memiliki landasan yang kuat (_sound_).
+
+##### Banyak gagasan ke sedikit orang
+
+Lenin, dalam **What is to be done**, mengembangkan gagasan ini:
+
+"Seorang propagandis yang, katakanlah, berurusan dengan persoalan pengangguran, mesti menjelaskan watak kapitalistis dari krisis, sebab dari tak terhindarkannya krisis dalam masyarakat modern, kebutuhan untuk mentransformasikan masyarakat ini menjadi sebuah masyarakat sosialis, dsb. Secara singkat, ia mesti menyajikan “banyak gagasan”, betul-betul sangat banyak, sehingga gagasan itu akan dipahami sebagai suatu keseluruhan yang integral oleh (secara komparatif) sedikit orang. Meskipun demikian, seorang agitator, yang berbicara mengenai persoalan yang sama, akan mengambil sebagai sebuah ilustrasi, kematian anggota keluarga seorang buruh karena kelaparan, peningkatan pemelaratan (_impoverishment_) dsb., dan penggunaan fakta ini, yang diketahui oleh semua orang, akan mengarahkan upayanya menjadi penyajian s_ebuah gagasan tunggal_ ke “massa”. Sebagai akibatnya, seorang propagandis bekerja terutama dengan mamakai bahasa _cetak_; seorang agitator dengan memakai bahasa _lisan_."
+
+Mengenai pokok pikiran yang terakhir, Lenin keliru, karena ia terlalu berat-sebelah. Seperti yang ia sendiri nyatakan, sebelum dan sesudah ia menulis pernyataan di atas, sebuah surat kabar revolusioner bisa dan mesti menjadi agitator yang paling efektif. Tetapi ini merupakan masalah sekunder. Hal yang penting adalah bahwa agitasi, apakah secara lisan atau tertulis, _tidak_ berupaya menjelaskan segala sesuatu. Jadi kita menyatakan, dan mesti menyatakan, bahwa para individu buruh tambang yang menggunakan pengadilan kapitalis untuk melawan NUM adalah buruh pengkhianat, bajingan (_villains_), dipandang dari segi perjuangan sekarang ini; betul-betul terpisah dari argumen umum tentang watak negara kapitalis. Tentu kita akan mengajukan argumen, tetapi kita berupaya ‘membangkitkan perhatian’, ‘mendorong’, ‘membangkitkan rasa tidak senang dan kemarahan’ terhadap pengadilan di sebanyak mungkin buruh. Ini mencakup mereka (mayoritas besar) yang _belum_ menerima gagasan bahwa negara, negara apapun dan pengadilannya, _pasti_ merupakan sebuah instrumen dari kekuasaan kelas.
+
+Atau ambil sebuah contoh lain. Lenin berbicara tentang “ketidakadilan yang amat parah” (_crying injustice_). Namun, sebagai seorang pengikut Marx yang mendalam, ia betul-betul mengetahui bahwa tidak ada ‘keadilan’ atau ‘ketidakadilan’ yang terlepas dari kepentingan kelas. Di sini, ia menunjuk dan berseru pada _kontradiksi_ antara konsep ‘keadilan’ (‘_justice_’ or ‘_fairness_’) yang dipromosikan oleh para ideolog masyarakat kapitalis dengan _realitas_ yang terekspos dalam perjalanan perjuangan kelas. Dan hal itu mutlak benar dari sudut pandang _agitasi_.
+
+Seorang propagandis, tentu saja, mesti menyelidiki secara lebih mendalam, mesti meneliti konsep keadilan, perkembangan dan transformasinya melalui berbagai masyarakat berkelas yang berbeda, isi kelasnya yang tak terhindarkan. Tetapi hal itu bukan merupakan tujuan utama dari agitasi. Para ‘marxis’ yang tidak memahami pembedaan ini menjadi korban dari ideologi borjuis, menjadi korban dari generalisasi yang lepas dari konteks waktu (_timeless generalisations_), yang mencerminkan masyarakat berkelas yang diidealisasikan. Yang paling penting, mereka tidak memahami secara konkrit bagaimana sebenarnya sikap kelas buruh berubah. Mereka tidak memahami peran pengalaman, sebagai contoh, pengalaman tentang peran polisi dalam pemogokan para buruh tambang. Mereka tidak memahami perbedaan antara agitasi dan propaganda.
+
+Kedua hal itu penting, sangat diperlukan, tetapi keduanya tidak selalu bisa dikerjakan. Agitasi memerlukan kekuatan yang lebih besar. Tentu saja seorang individu terkadang bisa mengagitasi sebuah keluhan _tertentu_ secara efektif, katakanlah, keluhan mengenai kurangnya sabun atau tissue toilet yang layak di sebuah tempat kerja tertentu, tetapi sebuah _agitasi_ yang luas dengan sebuah fokus yang _umum_ tidaklah mungkin tanpa sejumlah besar orang yang ditugaskan dengan pantas untuk melaksanakannya, tanpa sebuah partai.
+
+Jadi apa pentingnya pembedaan tersebut sekarang ini? Untuk sebagian besar, para sosialis di Inggris tidak berbicara ke ribuan atau puluhan ribu orang. Kita sedang berbicara ke sejumlah kecil orang, biasanya berupaya meyakinkan mereka (_to win them_) melalui politik sosialis yang umum, dan bukan melalui agitasi massa. Jadi apa yang kita usulkan (_arguing_) pada dasarnya adalah _propaganda_. Tetapi di sinilah kebingungan muncul. Karena terdapat lebih dari satu jenis propaganda. Ada sebuah pembedaan antara propaganda _abstrak_ dan jenis propaganda yang diharapkan dapat mengarah ke suatu aktivitas, yaitu propaganda yang konkrit atau realistik.
+
+Propaganda abstrak memunculkan gagasan yang secara formal benar, tetapi tidak terkait dengan perjuangan atau dengan tingkat kesadaran yang ada di antara mereka yang menjadi sasaran dari penyebaran gagasan itu. Sebagai contoh, menyatakan bahwa di bawah sosialisme sistem upah akan dihapuskan adalah mutlak benar, menempatkan usulan yang seperti itu kepada para buruh sekarang ini bukanlah agitasi, melainkan propaganda dalam bentuk yang paling abstrak. Begitu pula, usulan terus-menerus (_constant demand_) untuk sebuah pemogokan umum, terlepas dari apakah prospek untuk melakukannya bersifat riil dalam situasi yang sekarang, mengarah tidak ke agitasi, melainkan ke penarikan diri (_abstaining_) dari perjuangan yang riil di sini dan sekarang.
+
+Di sisi lain, propaganda realistis berpijak dari asumsi bahwa kelompok-kelompok sosialis yang kecil tidak dapat secara meyakinkan mempengaruhi kelompok-kelompok buruh yang besar sekarang ini di hampir setiap keadaan. Tetapi hal itu juga mengasumsikan bahwa terdapat argumen tentang isu-isu spesifik, yang dapat dicoba untuk dibangun oleh para sosialis. Jadi seorang propagandis realistis di sebuah pabrik tidak akan mengusulkan penghapusan sistem upah. Ia (laki-laki atau perempuan) _akan_ mengusulkan serangkaian tuntutan yang diharapkan dapat mengarahkan perjuangan ke kemenangan, dan sudah tentu melebihi kemenangan kecil (_tokens_) yang diberikan oleh bikorasi serikat buruh. Jadi mereka akan mengusulkan, misalnya, peningkatan ongkos rata-rata setiap produk (_a flat rate increase_), pemogokan mati-matian dengan tuntutan penuh (_the full claim, all out_..._strike)_ dan bukan pemogokan yang selektif, dsb.
+
+##### Menyeimbangkan agitasi dengan propaganda secara benar (_Getting the balance right_)
+
+Semua ini bukanlah agitasi dalam arti yang dibicarakan oleh Lenin, hal itu adalah satu atau dua orang sosialis yang memunculkan serangkaian gagasan tentang bagaimana untuk menang. Tetapi hal itu juga bukan propaganda abstrak karena hal itu terkait dengan sebuah perjuangan yang riil dan karenanya bisa terkait dengan minoritas buruh yang cukup besar di suatu wilayah. Ini berarti bahwa propaganda realistis dapat membangun hubungan (_strike a chord_) dengan sekelompok orang yang jauh lebih besar daripada mereka yang sepenuhnya terbuka untuk gagasan-gagasan sosialis. Bahwa sekarang ini hanya sekelompok orang yang sangat kecil yang akan terbuka untuk semua gagasan-gagasan sosialisme. Kelompok yang lebih besar tidak akan seperti itu, tetapi masih bisa menerima banyak propaganda dari kaum sosialis untuk tidak mempercayai para pejabat, untuk mengorganisir di lapisan bawah (_the rank and file_) dan sebagainya.
+
+Pentingnya pembedaan ini ada dua (_twofold_). Para sosialis yang mempercayai bahwa mereka harus melakukan propaganda di kelompok-kelompok diskusi mereka yang kecil, dan mengagitasi di tempat kerja mereka, sangat mungkin menaksir terlalu tinggi (_overestimate_) pengaruh mereka di _sejumlah besar_ buruh dan dengan demikian kehilangan kesempatan untuk membangun basis di sekitar sejumlah kecil pendukung. Mereka yang percaya bahwa mereka hanya harus melakukan propaganda abstrak dalam diskusi-diskusi mereka dengan para sosialis yang lain dan di tempat kerja mereka bisa mengambil sikap menarik diri ketika perjuangan yang riil benar-benar meletus.
+
+Dengan melakukan propaganda realistis pada sebuah periode di mana agitasi massa secara umum tidak mungkin, kaum sosialis akan jauh lebih mungkin untuk dapat menghindari kedua jebakan tersebut.
+
+* * *
+
+[Karya-karya Hallas](index.html)

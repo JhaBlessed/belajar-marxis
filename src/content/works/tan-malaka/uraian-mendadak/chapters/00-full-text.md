@@ -1,0 +1,461 @@
+# Uraian Mendadak
+
+## Tan Malaka (1948)
+
+* * *
+
+#### (Pidato Tan Malaka di depan Kongres Peleburan Tiga Partai, 7 November 1948)
+
+**Pengantar**
+
+Saudara-saudara dan sidang yang terhormat,
+
+Kini sudah tiga hari kita berkongres saya sudah agak merasa lelah dan suara tak begitu kuat lagi. Jadi saya minta saudara-saudara agak dekat sedikit. Kepada saudara stenografis saya minta kadang-kadang memakai perkataan sendiri, sebab mungkin juga saya nanti memakai ilustrasi. Jadi Ilustrasi itu penjelasan / penerangan diisi dengan perkataan sendiri saja.
+
+Karena ini bukan pidato semata-mata, bukan kursus semata-mata melainkan suatu uraian yang saya rasa penting buat wakil yang kelak akan kembali ke daerah masing-masing, buat mencapai usaha-usaha supaya kita tidak saja satu dalam partai, tetapi juga satu dalam agitasi dan propaganda kelak di cabang dan ranting. Dengan bulatkan jiwa kita dan Murba kita dan membulatkan kekuatan melemparkan imperialis mana saja yang menginjak bumi Indonesia ini.
+
+Dengan tiada kebulatan keyakinan tidak bisa kita mendapat kebulatan perbuatan. Dengan tidak kebulatan agitasi dan propaganda kita tidak akan mendapat kebulatan keyakinan. Jadi agitasi dan propaganda ialah senjata yang tajam. Di Tiongkok ada satu pepatah yang mengatakan “Agitasi lebih kuat dari pada pelor”.
+
+Soal yang akan saya uraikan  dan coba menjawabnya saya bagi tiga:
+
+1) Soal (boleh diringkas) Internasional.
+
+2) Soal Nasional.
+
+3) Soal Partai.
+
+Satu-satunya saya akan coba membicarakan dengan ringkas dan jelas. Tetapi karena saya tidak mempunyai bahan cukup, terutama buat soal Internasional, karena susahnya perhubungan dan sedikitnya kesusasteraan atau literatur, buat politik dan ekonomi, tetapi saya harap sesudahnya ini saudara-saudara yang mempunyai bukti yang lebih banyak seperti saudara dari “Antara”, saudara Rustam Effendi dll. akan menambah bukti-bukti itu kalau perlu membikin koreksi.
+
+Sebab tinjauan kita adakan, putusan yang kita ambil atas tinjauan itu, sikap dan perbuatan yang kita lakukan semuanya penting sekali. Salah kita mengadakan pemandangan itu, tentu salah dalam mengambil sikap perbuatan dan tindakan. Karena saya akui tidak mempunyai bukti penuh tentang hal Internasional dan percobaan saya mendapat bukti yang nyata berupa statistik, terutama tentang keadaan ekonomi sampai sekarang belum dapat, maka terpaksa saya cuma bisa memberi pedoman sekedarnya saja, yang bisa dipakai oleh saudara-saudara sendiri, sehingga kalau saudara mendapat suatu keterangan dari luar negeri saudara sendiri bisa menyelidiki dan mengambil putusan sendiri. Seolah-olah saudara sekalian mengetahui tanda-tanda dalam segala hal seperti seorang prajurit mengenal apa tanda kapal terbang yang ada di sini. Apa tanda kapal yang dimiliki oleh Amerika, apa tanda kapal terbang yang dimiliki oleh Inggris, apa tanda kapal terbang yang dimiliki Republik sendiri. Kalau rupanya seperti capung maka Republiklah yang memilikinya, jadi kalau mendapatkan statistik supaya saudara, bisa mengutarakan sikap sendiri terhadap statistik itu.
+
+**SAYA MULAI DENGAN KEADAAN INTERNASIONAL**
+
+Daerahnya terlampau luas dan tempo tidak cukup buat itu. Terpaksa saya mengambil bukti yang mencolok mata saja. Kita ketahui pertentangan yang tajam di dunia sekarang ini. Kita akan menjelaskan dengan beberapa kata saja, apakah sifat, apa kemungkinan buat pertentangan itu. Pertama, apa dan siapa yang bertentangan?
+
+Yang bertentangan ialah sistem dengan sistem, sistem Kapitalisme dengan sistem Sosialisme yang sudah lama bertentangan semenjak Manifesto Komunis diproklamasikan, diumumkan + 100 tahun yang lalu. Pertentangan lebih tegas terbukti sesudah Republik Rusia tahun 1917. Pertentangan yang sekarang lebih hancur, lebih genting lagi di masa ini.
+
+Pertentangan sistem dan bukanlah semata-mata pertentangan terutama bangsa dengan bangsa atau kultur dengan kultur, melainkan pertentangan hidup, yang terutama berdasar atas pertentangan kepentingan ekonomi. Pertentangan sistem sosialisme yang tidak berdasar mencari keuntungan melainkan mengadakan produksi menurut kebutuhan negara itu, sistem kapitalis yang mengadakan produksi buat mencari keuntungan dan mencari pasar di mana-mana, inilah yang menjadi intisari pertentangan itu. Makin luas daerah yang memakai sistem sosialisme itu makin kecil pasar buat negara atau beberapa negara yang mengatur sistem kapitalisme.
+
+Negara sosialisme sekarang – kalau saya tidak salah – menguasai kira-kira 1/5 bumi daratan – bukan lautan – dengan penduduk kira-kira 1/7 dari pada penduduk dunia (l.k 300 juta) langsung menguasai daerah sosialistis di samping sisa penduduk dunia ini juga kira-kira 6/7 ialah 1800 juta itu. Tetapi tidak bisa melihat pada pertentangan kuantitatif, jumlah itu saja, untuk perbandingan yang nyata, tentang luas daerah atau penduduk karena negara yang menganut sistem sosialisme juga mempunyai kawan di dalam daerah yang menganut sistem kapitalisme.
+
+Tetapi nyata bahwa pertentangan dalam sistem ekonomi tadi menarik-narik, menyangkut-nyangkut pertentangan politik, kebudayaan dan lain-lain pula. Jadi yang menandai pokok pertentangan ialah karena kaum Kapitalis tidak leluasa menguasai seluruh dunia karena terhambat oleh sistem produksi di daerah sosialistis, tetapi juga terhambat di daerah-daerah yang bekas jajahan dulu yang kebanyakan sekarang ber-revousi dan terhambat di negara-negara yang imperialistis sendiri oleh pemogokan-pemogokan dan pemberontakan di daerah itu. Terhambat di negara-negara kapitalis tulen, negara kapitalis sendiri ialah Amerika dan lain-lain karena pemogokan-pemogokan.
+
+Pertentangan itu kita globalkan, kita bulatkan dengan pertentangan sistem sosialisme dan kapitalisme karena memang tidak mudah dan tidak gampang. Tidak ada barang yang mudah, gampang, karena semuanya hidup tumbuh dan tumbang.
+
+Memang dalam garis besarnya, kedua sistem yang saya sebut tadi itu bertentangan satu dengan lainnya karena masing-masing mempunyai pertentangan dalam dirinya sendiri pula. Di dalam dunia kapitalis atau barisan kapitalis dan pertentangan dalam diri sendiri. Ada pertentangan imperialis dengan imperialis, walaupun bisa terpendam, tetapi sewaktu-waktu bisa timbul, ada pertentangan antara imperialis dengan jajahan sendiri.
+
+Ada pertentangan di antara kaum buruh sendiri pula, yang dinamakan proletar-rendahan dengan proletar tinggi, ningrat (labour aristocracy). Ada lagi pertentangan yang belum muncul, tetapi akan muncul dalam sistem ini ialah pertentangan antara kapitalis liberal dengan kapitalis fasis.
+
+Susah mengadakan putusan begitu saja, sebab kita belum mempunyai bukti nyata. Dan kita yang percaya pada materialisme-dialektika tidak boleh main nujum-nujuman saja, tidak seperti Joyoboyo yang meramalkan semua itu dengan otak atau hati saja. Dan ramalan itu adalah seperti karet, boleh ditarik ke sana atau ke sini.
+
+Kita bukan nabi, kita bukan ahli nujum. Kita berlaku seperti dokter. Walaupun si-sakit merasa tidak enak, tetapi ditunggu sampai ada _symtomen_ \[gejala – Ed.\], baru mengadakan diagnosa, baru memeriksa apa sakit yang sebenarnya. Kita sebagai dukun atau dokter masyarakat untuk berlaku seperti ahli nujum. Kita menunggu dulu, walaupun kita tahu pertentangan kelak bisa berubah-bertukar menjadi pertempuran atau perjuangan, tetapi kita jangan seperti ahli nujum mengatakan: ini mesti menang dan ini mesti kalah.
+
+Sikap semata itu ialah sikap seperti Joyoboyo, sebab belum semua gejala itu keluar, kita memerlukan beberapa tempo buat mengadakan sikap yang pasti, terhadap kejadian Internasional. Saya harap ini dimengerti benar.
+
+Kita yakin atas kemenangan sendiri, seperti Columbus yakin bahwa jika dia berlayar terus ke timur dia akan sampai ke Amerika. Tetapi kapan dia akan sampai dan di mana persis jalan yang dia lalui tidak bisa dia tentukan dengan pasti lebih dahulu. Itu tergantung kepada beberapa faktor di dalam dan di luar dia sendiri. Kita harus yakin, dan orang yang tidak mempunyai keyakinan tidak mempunyai pendirian. Dan keyakinan mesti berdasarkan filsafat serta perhitungan yang tinggi. Tetapi putusan yang pasti, kesimpulan atau sikap yang pasti harus diambil setelah cukup gejalanya.
+
+Dalam menentukan sikap terhadap Internasional kita berhadapan dengan kemungkinan:
+
+1) Ada perang atau tidak.
+
+2) Siapa yang akan kalah dan siapa akan menang.
+
+Pandanglah semua itu dengan mata terbuka, pikiran yang praktis dengan senjata yang kita akui tajam.
+
+Memang revolusioner itu tidak berarti asal memberontak saja dengan tidak mengukur kekuatan sendiri serta tempat dan tempo seperti baru ini dibuktikan di Madiun. Akibatnya lihat saja! Kita mesti mengukur suasana yang ada di sekitar kita yang jauh, dan yang dekat. Mengukur organisasi kita! Saya sebut organisasi yang kuat itu bisa kita bentuk dalam proses kita berjuang. Seperti seorang Nahkoda, walaupun mempunyai ilmu yang dalam tentang karang yang ada di dalam air, tentang udara yang mungkin mendatangkan angin ribut, badai, taufan, walaupun mempunyai itu, tetapi sewaktu-waktu ia mesti awas, menyesuaikan diri dengan keadaan baru yang timbul. Saudara seharusnya pula bersikap begitu, itulah sikap seorang pemimpin di pusat, di ranting atau di cabang itu.
+
+Buat menentukan, apakah kelak akan ada perang atau tidak, buat menentukan siapa kelak menang atau kalah, (sebab semua itu penting buat nasib kita, tidak saja buat organisasi dan diri kita sendiri, tetapi juga buat rakyat yang 70 juta ini, karena kita hendak membawa mereka kepada keselamatan, kemakmuran dan karena itu kita mempunyai tanggung jawab terhadap Murba dan kita sendiri) buat kita semua sikap dan tindakan mesti dilakukan dengan perhitungan.
+
+Sekarang kembali kita bertanya, apakah kelak akan ada perang atau tidak.
+
+Kita buka Joyoboyo atau Nabi, bukan Jeremiah, melainkan seorang dukun masyarakat yang menentukan sesuatu itu pada suatu tingkat.
+
+Gejala yang menuju kepada perjuangan langsung, atau pertempuran antara Blok Sosialis dan Blok Kapitalis sudah kita kenal sekarang. Dimana ada perjuangan seperti di Yunani, di Persia, Korea, Tiongkok, dimana ada bisul peperangan, sewaktu-waktu bisa di sana bisul itu meletus menjadi perang dunia ketiga.
+
+Walaupun begitu belum bisa, belum boleh berlaku seperti Joyoboyo atau Jeremiah, mengatakan pasti perang. Saya kasih nasehat kalau saudara mengadakan putusan, yakni harus mengambil sikap pasti, haruslah menunggu gejala yang lebih maju lagi. Kita bisa perlihatkan tendensi ialah satu kodrat yang berlaku tetapi bisa dihambat oleh kodrat lain menjadi tendensi – masih bisa terhalang dalam perjuangan dan tendensi itu mesti – mengadakan akibat – kalau tidak ada hambatan, tendensi bisa dihambat kodrat lain. Tendensi masyarakat dunia sekarang menjadi menuju perang dunia ke-3.
+
+**BERAPA GEJALA, APA TANDA-TANDANYA?**
+
+Soal Berlin, saudara-saudara sudah baca tiap hari, saudara mungkin lebih tahu dari pada saya tentangan hal itu, dan saya tahu dan mengikuti kejadian sehari-hari itu. Dari soal Berlin sewaktu-waktu bisa timbul perang dunia. Di Korea, Tiongkok, sewaktu-waktu bisa timbul perang dunia itu. Kita tidak tahu apa benar akan timbul atau tidak. Kita tidak tahu kapan pecahnya perang.
+
+Kita tidak tahu berapa banyak manusia yang akan mengambil bagian dalam perang itu. Semuanya belum dapat kita tentukan, kita pastikan, karena yang merupakan Serikat Rusia besok bisa berbelok, yang sekarang musuh besok bisa menjadi kawan dalam proses sejarah yang tidak bisa kita tentukan lebih dahulu itu. Lihat dalam perang dunia kedua, kedua belah pihak dengan spinagedienstsnya mencari kawan.
+
+Berapa besar kekuatan di masing-masing pihak belum kita tahu sebelum perang pecah dan kalau perang itu pecah belum bisa dipastikan apakah kekuatan masing-masing itu akan berlangsung terus. Itu artinya berpikir dialektis, bukan dogmatis seperti Joyoboyo, tetapi menentukan tempat dan waktunya lebih dahulu sebelum ada gejala yang nyata.
+
+Inilah gejala di Berlin sudah nyata, gejala kedua, ialah tindakan yang diambil oeh negara agresif, karena membutuhkan pasar.
+
+Kapitalisme tidak bisa hidup dengan tidak ada pasar. Dia akan terhambat. Karena produksi naik dengan naiknya penjualan. Dan produksi itu harus senantiasa naik. Kalau berhenti berarti mundur buat kapitalis. Mungkin saya bisa menguraikan lebih lanjut, tetapi berhubung dengan tempo, kalau nanti saya tidak sempat saya silahkan saja saudara membaca Risalah karangan saya Rencana Ekonomi.
+
+Jadi kapitalisme membutuhkan pasar. Kalau pasar dalam negara tertutup maka terhambatlah produksi. Apakah pemogokan tidak menutup pasar? Kalau umpamanya 5 juta buruh tidak sanggup membeli makanan atau pakaian (karena menganggur mogok) apakah itu tidak mengurangi pasar? Kalau tiap-tiap 5 juta buruh tadi mempunyai seorang istri dan anak, jadi 15 juta orang tidak sanggup membeli, apakah tidak mengurangi pasar.
+
+Jadi pemogokan baik di Perancis, Italia dan Amerika itu merugikan pasar. Pemberontakan yang ada di Malaysia, Burma dan Indonesia juga mendorong supaya Amerika memaksa pasar itu dibuka kembali. Dan semua pasar baik di Eropa, di Afrika atau di Asia tidak bisa dibuka dengan mulut manis, demokrasi, dan perikemanusiaan saja. Semua pasar perlu dibuka dengan paksaan. Dan paksaan itupun menjadi dua macam. Paksaan yang berupa kapal penggempur, meriam, tank, dan bomber. Amerika sendiri memaksa kedua-duanya itu.
+
+Meminjamkan uang kepada siapa saja yang mau meminjam seperti Sir. Lock yang kikir, yang menabung dan menghitung-hitung bunga uangnya, terus menerus sampai ia lupa tidur. Amerika memaksakan uangnya ditanam di Turki, Yunani, dan ada 15 Negara di Eropa Barat.
+
+Amerika meng-ekspor dia punya modal, sebab modal itu mesti hidup terus, anak-beranak, bunga-berbunga. Dan tidak anak-beranak, tidak bunga-berbunga itu artinya kalah dengan negara lain yang bunga-berbunga modalnya.
+
+Kaum modal Tiongkok mendapat sumber modalnya di Wall Street, pusat kantor-kantor bank di Amerika, New York, yang dengan pembagian saluran menghamburkan uangnya melalui kedutaan dan konsul-konsul dengan I.S-nya menghambur-hamburkan uang buat dipinjamkan buta ditanam supaya kelak kembali dengan bunga (rente). Bukan saja Amerika mengeluarkan barang buat dijual, tetapi juga meng-ekspor uang buat berkembang. Amerika belum bisa dengan leluasa mengeluarkan uang karena masih kurang jaminan, lintah darat kita sendiri membutuhkan jaminan juga pasti kalau dia meminjamkan uang; kontrak, perjanjian yang pasti yang dijamin oleh tiap negara, oleh notaris, yang kelak kalau tidak dibayar akan dibela oleh ahli hukum atau pokrul bambu.
+
+Juga negara tidak meminjamkan begitu saja, kalau tidak ada jaminan. Jaminan itu bukan main-main. Jaminan yang dibikin oleh negara yang dipinjami itu bukan jaminan di atas pasir, tetapi jaminan yang teguh di atas ubin, di atas beton. Kalau tidak dibayar, negara itu sendiri akan menjadi jaminan. Jaminan itu sudah terdapat di Filipina.
+
+Sandiwara di Filipina itu dikatakan kemerdekaan. Saya pikir uang emas Filipina masih disimpan di Wall Street di Amerika. Emas Filipina sebagai jaminan uang kertas yang diperedarkan di Filipina, dulu waktu saya masih di sana disimpan di Wall Street dan sekarangpun saya kira masih begitu, karena Filipina masih banyak berhutang kepada Amerika.
+
+Bagi Italia, Yunani atau Saudi Arabia dan lain-lain jaminan itupun mestinya kokoh-kuat, pasti. jaminan yang kokoh kuat itu biasanya dipasarkan atas pengeluaran pajak, kereta api, atau atas penjualan garam yang paling dibutuhkan rakyat (Tiongkok).
+
+Sampai kita tadi pada percobaan kapitalis Amerika, usahanya juga merupakan penghidupan modalnya ialah meminjamkan uang kemana-mana juga di Meksiko, yang bukan negara merdeka lagi, seperti di Filipina yang diikat oleh rantai dari Wall Street. Jaminan yang teguh itulah yang dicarinya sekarang di Eropa Barat. Jaminan itu tidak bisa didapatnya selama Malaysia, Burma masih ada pemberontakan. Artinya daerah, dimana dapat ditanamnya kapital dengan aman, dimana didapatkan tanah yang aman, kaum buruh yang manut, yang “bekerja sama” yang bisa menjamin segala-galanya belum didapatnya di Asia Tenggara ini. Belum pula didapatnya lagi di Eropa Barat karena banyak pemogokan. Jika kita lihat dalam pertentangan, yang sudah memuncak baik di Berlin, Yunani, Korea dan Tiongkok, perjuangan semacam itu sekarang berlaku karena keuangan dan ekonomi.
+
+Amerika mencoba menanamkan kapital di Eropa Barat, tetapi Blok Sosialis juga tidak diam dan mencoba menggagalkan semua itu. Dan banyak berhasil dalam usaha penggagalan itu. Karena tiap-tiap pemogokan yang timbul, baik di Eropa Barat atau di Amerika itu berarti penghalangan bagi majunya kapitalisme tadi jadi nyata sifatnya, rencana atau plan yang sudah kita kenal sebagai Marshall Plan: ialah mendapatkan daerah yang aman buat menanam kapital. Sekarang nyata dijalankan di Eropa Barat. Yang sudah diterima oleh 16 Negara – kalau saya tidak salah 16 negara itu mempunyai kern, teras pada Inggris, Perancis dan Benelux. Sekitar 3 Negara itu – kalau Benelux bisa disebutkan Negara karena ada beberapa Negara yang lain juga takluk pada Marshall Plan.
+
+Apakah maksud Marshall Plan? Ialah membangun kembali Eropa Barat yang kasarnya diduduki oleh 165 juta manusia, sedangkan blok Rusia oleh 300 juta lebih – kalau saya tidak salah – ada negara lain yang belum terikat kepada blok-blok. Kalau tidak salah blok Barat dan Rusia mempunyai jumlah penduduk 550 juta.
+
+Masing-masing mencari bloknya sendiri. Amerika menyokong blok yang sesudah perang dunia kedua hidup tidak mati tidak.
+
+Apakah maksudnya menyokong blok barat itu? Tentu saudara sudah maklum. Ialah menghancurkan, menghambat blok sosialis. Bukan saja menghambat tetapi juga mengancam hidupnya sosialisme dengan voorpost berupa blok barat yang diadakan oleh Amerika satu benteng untuk menghancurkan blok sosialisme.
+
+Kalau benteng itu kelak bisa menghancurkan blok sosialisme, kapitalisme (katanya) akan bisa hidup terus. Tetapi buat saya, kapitalisme tidak bisa hidup terus. Belum tentu akan hancur Soviet Rusia dan gerakan sosialisme di dunia. Tetapi mungkin di Amerika sendiri akan timbul Soviet proletar atau Pemerintahan Sosialis. Kapitalis tidak berpikir panjang dan tidak bisa berpikir panjang asal terobat sakitnya, buat sementara waktu. Boleh dia dimisalkan seorang haus di lautan yang terus minum air laut, sampai gembung perut hingga mati.
+
+Kapitalisme belum tentu bisa hidup terus. Baik ekonomi, politik, ataupun sosial kebudayaan sudah tidak bisa maju lagi. Bahwa kapitalisme Amerika itu akan aman kalau blok sosialis hancur itupun adalah salah satu impian. Itu berarti bahwa walaupun blok sosialis atau seandainya blok sosialis hancur, kapitalisme akan aman. Sosialisme tidak akan hancur selama ada kapitalisme. Jadi ini adalah memperkuat keyakinan kita bahwa sosialsime pasti datang, karena tidak ada alternatif, cuma mungkin dalam beberapa tempo kapitalisme bisa hidup, tetapi harus diberi injeksi saban jam sehingga mati karena injeksi sendiri saja. Kapitalis-imperialis tidak berfikir panjang dan tidak mempunyai pikiran panjang dia tiada mengadakan perhitungan. Pandangannya pendek, seperti orang kehausan di perahu tadi. Karena tidak ada air sejuk, dia terpaksa minum air laut asal hidup, walaupun 5 menit saja.
+
+Jadi Marshall Plan mempersiapkan Eropa Barat dalam ekonomi buat menghancurkan blok sosialis. Persiapan itu disertai pula oleh persiapan militer. Persiapan militer itu tidak saja kelak perlu buat mengadakan kerja sama (militer) antara blok Barat buat menentang Rusia, tetapi juga buat jaminan buat kapitalisme Amerika sendiri. Siapa saja dipertanggungjawabkan oleh blok Barat, membayar kelak hutangnya. Jadi blok barat tidak saja tergantung kepada Amerika tetapi juga hilang kemerdekaannya dalam ekonomi dan dalam politik. Orang yang kehilangan kekuasaan ekonomi mesti juga kehilangan kekuasaan politik. Orang yang hidup meminjam mesti menjadi hamba peminjam. Begitu juga negara dengan negara. Tidak bisa meminjam ke Amerka dengan tidak ada jaminan.
+
+Meliterverbond, kerja sama militer hanya kelanjutan dari kerja sama dalam ekonomi. Blok Barat sudah setengah atau ¾ atau 90 % koloni Amerika. Baik politik dalam negeri, baik sistem produksi, baik perhubungan luar negeri sudah terikat oleh Amerika. Cukup di sini ditegaskan, bahwa Eropa Barat sudah menjadi voorpost ekonomi dan militer Amerika.
+
+North Atlantic Defence Pact (Perjanjian Pertahanan Atlantic Utara) yang baru ini dikabarkan oleh “ANTARA” itu ialah satu kepastian, satu pengesahan dari pada kejayaan usaha Amerika buat menguasai blok Eropa Barat, tidak ekonomi saja, tetapi juga militer.
+
+Jadi blok Barat kelak bisa dipakai buat menentang blok sosialis dan apabila seandainya Amerika menang, Eropa Barat sudah lebih terikat oleh Amerika. Sedang sekarang sudah terikat, apabila kalau perang sudah terjadi. Semua kebutuhan baik mesiu, meriam, kapal terbang, senjata lain-lain, makanan dan pakaian harus didatangkan dari Amerika sebagai hutang blok Barat. Makin lanjut proses peperangan makin tergantung blok Barat kepada Amerika.
+
+Jadi nyata sekarang bahwa pertentangan antara dua blok ini, ialah antara blok kapitalis yang dipelopori oleh Amerika itu, sudah memuncak ke tingkat yang setajam-tajamnya.
+
+Saya sudah membicarakan perkara tendensi, kemana perginya arah permusuhan pergulatan politik, ekonomi, dan militer sekarang.
+
+Kapan meletus! Apakah akan meletus itu baik kita serahkan kepada sejarah saja. Tetapi tendensi dan gejala sudah nyata.
+
+Sekarang kemungkinan, siapa kalah, siapa menang seperti pertandingan bola, beberapa ahli melihat saja, tetapi biasanya orang memperhatikan goalnya saja.
+
+Di dalam perang ini kita juga memperhatikan siapa yang akan kalah dan siapa akan menang. Buat kita penting sekali artinya, meskipun kita percaya bahwa kemenangan terakhir berada di pihak sosialisme.
+
+Ada 4 kemungkinan menurut logika.
+
+1) Sosialisme menang dunia menjadi sosialistis.
+
+2) Kapitalisme menang sementara waktu (kemungkinan kapitalisme akan hidup terus).
+
+3) Kedua-duanya podo (sama capai seperti pertandingan boxer).
+
+4) Dan kalau atom-atoman kita sama-sama habis di dunia. Kemungkinan itu ada tetapi mudah-mudahan tidak terjadi. Kata asing Mogelijk, maarniest waarschijnlijk. Possible but not probably, mungkin tetapi tidak boleh terjadi.
+
+Empat kemungkinan itu sudah saya bentangkan lebih lanjut dalam risalah “Thesis”, saya persilahkan membaca lagi.
+
+Bagaimana mengadakan perhitungan buat menentukan siapa kalah dan siapa menang itu secara agak panjang karena saya diminta saudara dari daerah Gerpolek, supaya agak panjang lebar dalam militaire beschouwing, pandangan militer, saya sarankan bacalah Gerpolek, supaya saya bisa pendek saja. Tetapi syarat menentukan kalah menangnya itu banyak.
+
+1) **Persenjataan**. Banyak faktornya bagi kedua belah pihak. Ialah diukur berapa banyak senjata yang dimiliki. Berapa bedil Amerika, berapa kapal perangnya, berapa kapal terbangnya, diukur pula kualitasnya. Dibandingkan jumlah dan kualitast satu sama lainnya.
+
+2) **Kekayaan**. Kalau tidak ada pabrik, bisa membeli, ialah kalau ada jalan. Dulu ketika perang dunia pertama Perancis beli dari musuhnya sendiri ialah dari Jerman. Tetapi kalau ada blokade, terserah kepada tukang selundup. Kita diblokir, Sumatera diblokir dan tidak bisa membeli senapan, tidak ada meterialisering. Tetapi dulu nyata Perancis bisa membeli di Amerika dalam Perang Dunia Pertama dan Kedua.
+
+3) **Industri**. Siapa mempunyai pabrik yang banyak, hebat, berkualitas tinggi dan mempunyai bahan yang cukup (besi, timah, tembaga, alumunium, dan lain-lain) itulah menurut syarat ini yang menang. Ini secara logis, kedua-duanya podo (sama capai seperti dalam pertandingan boxer).
+
+4) **Armament Industri.** Pabrik yang langsung bisa diubah. Karena mesin oto hampir sama dengan pabrik kapal terbang, maka dengan cepat pabrik yang langsung bisa diubah. Pabrik oto bisa diubah menjadi pabrik senjata. Ditambah pula dengan pabrik-pabrik senjata yang sudah ada. Dalam hal tersebut, tiadalah dapat disangkal, bahwa Amerika berada dalam keadaan yang lebih menguntungkan. Tidak saja Amerika memiliki industri perang yang langsung (pabrik senjata) dan yang tak langsung (pabrik oto) yang kualitas dan jumlahnya melebihi blok Rusia, tetapi Amerika tiada pula perlu membangun kembali karena kerusakan hebat disebabkan perang Dunia ke-2, seperti Rusia.
+
+5) **Geography.** Artinya keadaan bumi-iklim. Saya singkat saja.
+
+a) Apakah bumi itu pulau seperti Inggris atau daratan seperti Jerman? Kalau dikelilingi lautan maka negara itu sebagai penyerang harus mengadakan armada yang kuat buat menyeberangkan tentara dan alatnya. Menjadi soal berapa kapal penggempur yang perlu, berapa penjelajah, kapal selam dan lain-lain juga harus dibikin.
+
+b) Tinggi, rendah daratan itu! Kalau daratan itu banyak mempunyai pegunungan dan lembah, maka di sini tiada bisa dipakai meriam yang besar-besar, tiada bisa dipakai tank. Itu mesti dipikirkan. Disinilah berada daerah Gerpolek yang sebenarnya. Jadi tentara Gerpolek tahu setiap waktu, seperti tikungan bengkok, lobang, sedangkan musuh itu tidak tahu apa-apa. Topografis itu penting sekali artinya.
+
+c) Luasnya Negara. Berhubungan dengan strategi milliter, apakah daerah itu sempit atau luas. Kalau lapangan itu sempit dapat tentara disusun dari batas ke batas. Dan kalau luas maka barisan yang tak bisa menduduki front, dari batas ke batas dapat dipukul di kedua sayapnya atau dikepung (ovattings oorlog, bewegingsoorlog). Karena daerah itu luas, misalnya mempunyai panjang frontnya 5.000 km cukup kalau memakai tentara 5 juta atau 10 juta atas siasat perang stelling. Tetapi dengan 50.000 orang saja, front itu tak dapat diduduki tentara yang kecil jumlahnya, tentara sebesar 50.000 itu harus melakukan siasat gerak cepat. Ringkasnya: luas tanah mempengaruhi siasat perang. Rusia karena luasnya bisa menjalankan taktik maju-mundur. Itu yang menjatuhkan Napoleon. Ia dibiarkan masuk sampai Moskow, kemudian kota itu dibakar, ini terjadi pada bulan Januari di musim dingin. Tentara terpaksa mundur pulang dan tidur di atas salju. Makanan tidak ada, jadi kembalilah dengan lapar dan dihantam oleh Rusia dari kiri kanan. Jadi siasat yang dipakai Rusia menghadapi tentara Napoleon yang hebat-dasyat itu dalam daerah luas, ialah “War of attrition” (mundur-maju). Jadi Rusia bisa mudur, tidak perlu terpaksa terjepit dan bertempur mati-matian, karena luas daerahnya tadi. Itu yang memenangkan Rusia di jaman Napoleon dan Jerman. Musuh dipancing masuk, kalau sudah lebih jauh mengulurkan “lehernya” ke dalam daerah yang luas itu, maka barulah “leher itu dipotong”.
+
+d) Accesibility. Pintu ke samudra. Negara yang mempunyai samudra itu bisa kuat dari dulu sampai sekarang. Lihat negara yang mempunyai pelabuhan laut (Yunani, Mesir, Spanyol). Di belakang hari Inggris menguasai semua samudra. Sekarang Amerika berebut samudra. Karena laut memudahkan perhubungan degan negara lain. Laut memudahkan pengangkutan senjata dan makanan. Siapa menguasai samudra dialah yang menguasai dagang dan strategi. Janganlah dikira Indoensia itu tidak berarti apa-apa karena air ada di kiri-kanan. Yunani berada di laut tengah. Tetapi apa artinya dengan laut Hindia dan samudra Pasifik kanan-kiri kita ini? Majapahit dan Sriwijaya mengerti benar akan kedudukan Indonesia ini di zaman lampau. Jadi pintu ke laut itu berarti jalan terbuka ke laut di waktu perang. Siapa menguasai laut akan menang. Belanda memblokir kita karena menguasai lautan kita. Apakah jadinya kalau andainya kita mempunyai armada dan sekarang berjuang menguasai samudra? Laut Atlantik, Laut Utara, Laut Tengah, bagaimana perbandingannya dengan samudra Hindia dan Pasifik? Jalan dari benua Timur ke benua Barat, dari Asia ke benua Australia harus melalui Indonesia. Kalau dipotong perjalanan itu di sini ....? Sriwijaya dan Singapura sudah mengerti pentingnya laut: Stop Straat (Selat Malaka)! Pasti perdagangan habis antara Timur dan Barat. Jadi Accesibility yaitu pintu ke laut ialah pintu pengangkuatan buat senjata dan makanan. Itupun kita perbandingkan, Siapa menguasai laut? Amerika atau Inggris atau Rusia? Wladiwostok banyak beku, buat perkapalan tidak baik. Karena itu Tsar mencoba menerobos Dardanelen, tetapi selalu saja gagal.
+
+e) Tempat (locality). Tempat dekat pasar ramai buat membeli makan dan senjata! Rusia kekuarangan dalam hal ini. tetapi karena dia mempunyai berbagai bahan yang cukup dalam daerahnya sendiri, maka faktor ini tak berapa memberatkan.
+
+f) Batas. Apakah batas itu pegunungan tinggi atau daratan. Amerika juga dalam keberuntungan, karena laut di kiri kanan mudah keluar masuk negara lain. Tetapi Rusia di Asia dibatasi oleh pegunungan tinggi yang tidak bisa dilalui oto, truk atau kereta api. Pamir, Hindu Kush, Altai, pegunungan tinggi, yang tidak bisa dilalui kalau tidak dengan cukup bekal, apalagi tentara. Soal ini masih penting, walaupun pesawat terbang sudah memberikan jawab yang baru. Tetapi Rusia sukar keluar, sukar pula buat dimasuki.
+
+g) Sources. Bahan yang dalam tanah. Apakah ada besi? Kalau tidak ada besi tidak bisa membikin tank. Apakah ada aluminium, timah atau tembaga? Karet buat ban oto, buat mengangkut laskar atau tentara, truk dan kapal terbang membutuhkan ban. Apakah ada arang dan listrik buat perindustrian dan beras buat manusia? Perbandingkan bahan di kedua belah pihak!
+
+h) Hawa. Hawa kita di sini panas dan selalu panas. Kalau di Rusia di musim sejuk baru jam 9 matahari terbit dan jam 3 sudah terbenam. Jadi sedikit sekali matahari bercahaya di musim sejuk itu. Apalagi di Siberia. Sedikit sekali tempat yang dapat didiami orang. Tidak banyak tumbuh-tumbuhan, apalagi buat makanan, yaitu pada tingkat tehnik sekarang. Mungkin di hari depan sungai yang mengalir ke kutub Utara sebagian ditutupi oleh air es.
+
+6) **Persatuan**. Rakyat mesti bersatu menghadapi musuh. Nyata Rusia lebih kuat dalam hal ini. Sebab apa? Sebab Amerika itu ada kelas kapitalis, yang tidak begitu banyak, Kalau perang belum lama maka proletar Amerika sebagai tentara bisa tahan, karena cukup makan. Tetapi kalau lama, lihat dulu sampai berapa tahannya. Tetapi tiada pula boleh dilupakan, bahwa kapitalis di Amerika berperang mati-matian. Karena jika Rusia menang, kapitalis Amerika akan hancur. Dan orang yang tahu ia berada di tepi tebing akan berperang mati-matian. Kita jangan lupa faktor. Dari segala pihak kita kaji.
+
+7) **Moral**. Ketabahan hati: Siapakah yang mempuyai tekad nekad, orang yang ingin menang atau orang yang merasa terancam?
+
+8) **Men**\-**Power**. Banyaknya manusia buat tentara. Rusia penduduknya 200 juta dan katanya kalau tidak salah tahun 1955 bisa mempersenjatai tentara 22 juta. Tetapi jangan pula atau dilupakan Amerika Utara dan Selatan! Bisa diatur sedimikian rupa pula, bahwa di antara 163 juta penduduk blok Barat itu (Inggris dan Amerika) dapat mempergunakan tentara kolonial. Banyak seluk beluknya soal men power itu. Inggris membanggakan 600 juta jumlah penduduk commonwealthnya! Nehru tidak pernah saya puji. Sekarang ia kapitaliskah atau sosialis? Makin lama dia makin terbenam di Wall Street. Gandhi bagaimana kalau masih hidup? Jangan lekas mengatakan ini atau itu besar. Periksa dulu buat kelas mana ia dipandang besar! Kaum atasan India menghadapi kaum Paria dan Sudra yang agaknya berjumlah 80 % dari jumlah penduduk. Katanya \+ 60 juta penduduk selalu dalam kelaparan. Borjuis asli Hindustan berhadapan dengan tentara Murba yang sebenarnya. Kaum Brahman dikatakan kaum suci, yang akan langsung masuk surga. Tidak boleh orang Paria lewat di depan orang Brahman begitu saja. Kaum Paria adalah orang yang tidak mempunyai status. Kaum Paria ada 100 juta. Kasta yang lain yang besar juga ialah kasta Sudra. Kaum paling atas ialah kaum Brahman yang membaca kitab suci Bhagavad Gita dan Mahabarata. Tetapi fulus tetap tinggal fulus. Orang kaya yang mati didoakan di rumah berhala. “Karena Allah” katanya tetapi harus membayar. Orang Sudra atau Paria kalau mati tidak boleh dikajikan dari kitab suci. Begitu materialistis orang yang dikatakan idealis itu. Jadi pertentangan ekonomi dan politik dan kebudayaan antara berbagai kasta di India sangat besar sekali. Kalau ada yang kena penyakit “Third Power Policy” cari sajalah karangan “Dasuki” dalam s.k “Murba” tentang hal itu. Imperialis Inggris mendapatkan teman pada Nehru, Patel, Gopalachari, dan pada kaki tangannya di Indonesia. “Third Power Policy”, pangkalnya di Inggris, tengahnya di India ujungnya di Indonesia. India mempunyai kekuatan men-power yang tersembunyi. Murba Hindustan akan dihasut melawan Rusia. Itu bahayanya! Buat melakukan hasutan, jangan ada orang sosialis, jangan ada komunis yang akan menghalangi hasutan penganut “Third Power Policy” buat memakai men-power. Hindustan untuk dikerahkan melawan blok Sosialis, ratusan Komunis-Sosialis yang masih meringkuk dalam penjara Nehru. Dibelakangnya siapa? Marshall Plan. Amerika yang ingin meminjamkan uang pada Nehru, Patel, Gopalachar buat membangun industri perang. Itu bahaya. Dengan memakai agama, dengan memakai kaum Brahman kaum imperialis bisa mendapatkan serdadu di Hindustan. Kaum Sudra dan Paria bisa naik kelas setelah mati syahit. Tidak guna hidup di dunia, baik membersihkan diri dengan berkorban di medan perang, kalau mati, kelak kembali ke dunia ini pada kasta yang lebih tinggi. Katanya kaum Brahman bisa langsung masuk surga. Tetapi kalau disuruh pilih hidup atau mati ia akan pilih hidup. Semua itu mesti kita kaji.
+
+9) **Akhirnya siasat perang.** Siapa yang akan lebih tahan, Timoshenko atau Dwight Eisenhower. Perang Stellingoorlog-kah \[perang posisi - Ed.\] atau gerak cepat atau perang gerilya atau kombinasi semua itukah?
+
+Akhinya stellingoorlog! Kalau tentara kedua belah pihak menduduki stelling yang terbentang dari batas ke batas. Stelling yang panjang mempunyai pertahanan yang kuat itu harus lebih dahulu dihancurkan dengan segala alat senjata modern dari darat, laut, dan udara. Setelah alat pertahanan musuh dari lapangan yang hancur itu. Apakah kelak strategi tersebut yang akan dijalankan? Ataukah taktik strategi gerak-cepat, siasat perang kilat, siasat bayi membayi atau siasat perang gerilya? Semuanya belumlah dapat kita ketahui pada tingkat pertentangan internasional sekarang ini apakah kelak hasilnya perang sudah keluar dan kekuatan dalam hal politik, ekonomi, diplomasi dan kemiliteran dari kedua belah pihak sudah nyata kelihatan, barulah sekedar perhitungan dapat dilakukan.
+
+**SOAL NASIONAL**
+
+Sekarang baiklah kita kembali kepada urusan dalam negeri, yakni kepada usulan Cochran dan kepada RENCANA ANTI KOMUNIS di Asia Tenggara.
+
+Usulan Cochran yang sudah diamendir oleh Belanda dari 37 pasal menjadi 67 (jadi tambah 30 oleh Belanda). Usul itu isinya ialah mendirikan:
+
+1) Pemerintah Federal Sementara (mulai 1 Januari 1946).
+
+2) Federal Council (Dewan Negara-negara).
+
+3) Dewan Perwakilan Sementara.
+
+Jadi kalau kita isi untuk eksekutif itu dengan Prof. Husein, Syahrir dengan sekertaris Ny. Ulfah Santsoso, itu tentu akan disetujui oleh UNI yang di bawah Mahkota yang akan dibolehkan masuk ke dalam Dewan Negara-negara, tentulah pula mereka yang acceptable bagi kaum kapitalis Belanda.
+
+Yang masuk dalam Dewan Perwakilan Sementara tentulah takkan berapa bedanya dengan yang boleh masuk ke dalam Volksraad. Komunis Revolusioner, seperti Mr. Abd. Madjid Cs, tentulah akan bisa diterima oleh Dewan Perwakilan Sementara itu.
+
+Disamping Pemerintah Federal “atas persamaan status Indonesia Nederland”, bukan lagi Gubenur Jenderal, melainkan Komisaris Tertinggi. Dia tidak takluk kepada Dewan Perwakilan Rakyat Indonesia, tetapi takluk kepada Mahkota. Atau lebih tegas lagi Komisaris Tertinggi itu haruslah takluk kepada Vellenuwe cs, kepada kongsi Minyak, Sindikat Gula, Getah dll, yang terpusat pada Ondernemersbond. Inilah sebenarnya isi usulan Belanda (COCHRAN).
+
+Dalam Council Republik diberi 1/3 dari jumlah wakil council tadi. Inilah usul, atau lebih tepat lagi, inilah “ancaman” dari pihak Belanda. Tetapi ada lagi ancaman dari pihak lain, ialah yang kita sebutkan tadi yang menguasai blok Barat, Marshall Plan.
+
+Karena sekarang terganggu, sebab Indonesia tidak bisa mengirimkan timah, karet, kina dll maka Indonesia mesti diamankan. Yang akan mengamankan ialah Amerika yang “berhak” di dunia ini buat mengamankan yang tak aman, atau lebih tepat men-dollar-kan yang aman. Rupanya men-dollarkan yang aman, Amerika sudah pula mempunyai plan itu entah benar, entah tidak, tetapi dikabarkan oleh “News Agency” dari pihak merah, bahwa di sini ada rencana memecah-belah di daerah Republik. Ini minta diperhatikan benar-benar.
+
+Maksudnya, ialah mengembalikan semua kekuasaan Belanda, segala-segalanya yang ada di Indonesia ini kembali dikuasai oleh Belanda. Dengan demikian, maka Negeri Belanda, sebagai bagian dari blok Barat bisa bangun kembali. Seterusnya blok Barat, sebagai voorpost Amerika buat memukul blok Sosialis akan mendapatkan suntikan yang amat berfaedah bagi dirinya. Inilah hubungannya Plan Marshall dengan tawaran “good officesnya” Graham, Du Bois dan Cochran kepada Republik. Tegasnya kita mau dijadikan pasar di bawah kemandoran Belanda buat menyokong “Marshall Plan”.
+
+Jadi Belanda mengadakan usul untuk mengacau-balaukan, buat memaksa kita masuk dalam Pemerintah Federal Sementara, sedangkan Amerika ternyata mengacau-balaukan kita dari dalam!
+
+Metodenya apa?
+
+1) Membantu pemerintah anti-komunis di Asia Tenggara.
+
+2) Membantu organisasi-organisasi anti-komunis dan membantu sentris (moderate).
+
+3) Memecah-belah Serikat Pekerja, buat mengadakan aksi anti komunis.
+
+4) Mengadu-domba para pemimpin merah satu sama lainnya.
+
+5) Memakai siapa yang tidak setia kepada partainya sendiri (partai kiri).
+
+6) Mempelajari keterangan golongan anti-komunis.
+
+Tentu ada kelak pihak anti, pro, dan pasif di antara kita sendiri karena tidak mengerti. Sedangkan Amerika akan giat menyelenggarakan politik memecah-belah itu dengan perantaraan duta dan konsulnya. Dan saudara akan mengakui sembarang duta dalam Republik? Apakah kita akan sanggup mengawasi IS-nya mereka itu? Itu berbahaya!
+
+Kalau kita mengakui dutanya salah satu negara besar di daerah Republik, maka kita akan terikat mengakui duta semua negara besar yang juga mempunyai jajahan, seperti Inggris, Perancis dan Amerika. Apakah kita sangup mengawasi propaganda mereka? Yang dilakukan dengan dollar dan rantai emas? Itu soal yang mesti dipikirkan. Jangan yang enaknya saja dipikirkan, yang pahitnya juga.
+
+Dalam hubungan antara begara itu, dipikirkan pula semua buruk-baiknya. Apakah kita sekarang sudah mempunyai persiapan cukup buat menghadapi propaganda “anti kemerdekaan” yang akan dijalankan oleh Duta atau Konsul sesuatu negara yang berkepentingan? Inilah yang nyata di depan kita. Berbagai macam wakil asing di Indonesia (di daerah Pendudukan atau Republik) akan mengadakan propaganda agitasi buat kepentingan mereka.
+
+Inggris akan menjalankan propaganda. Amerika menjalankanya di Tiongkok dan sudah terbukti berhasil. Tidak ada yang tahan dollar dan rantai emas. Timbullah di sana perang saudara yang tidak habis-habisnya di dalam 20 tahun. Kalau salah satu pihak sudah lelah, maka dia dapat suntikan dollar. Jika tak ada bantuan dari luar, maka boleh jadi perang saudara di Tiongkok itu sudah lama beres; salah satu mesti keok. Tetapi yang satu selalu disuntik dengan dollar, itulah bahaya dari luar yang kita hadapi sekarang.
+
+Apabila usul Belanda kita tinjau kembali maka nyatalah bahwa tidak ada beda tujuannya dengan Renville dan Linggarjati. Dalam Usul Cochran juga masih ditetapkan, apa yang sudah diakui dalam Linggarjati dan Renville.
+
+Ringkasnya, Linggarjati, seperti yang sudah kita kenal:
+
+1) Mengakui Kedaulatan Belanda di Indonesia.
+
+2) Urusan Luar Negeri di bawah pengawasan Belanda.
+
+3) Export-import diatur “bersama”.
+
+4) Harta-benda asing dikembalikan.
+
+5) “Gendarmarie bersama” (Di sini Linggarjati kandas).
+
+Syahrir sebenarnya menerima semua itu asal saja dengan cara “diplomasi”. Tetapi Belanda tergopoh-gopoh. Coba kalau Belanda cerdik dan mengambil oper impor-ekspor dulu. Jika kelak “para pemimpin” Republik sudah terikat dalam ekonomi, maka kelak sendirinya mereka akan dapat diikat dalam hal politik pembelaan.
+
+Bagaimanapun juga, perjanjian Renville jauh lebih rendah isinya. Dengan mengosongkan “semua kantong” maka + 35.000 tentara dipindahkan. Ini berarti, bahwa semua tempat strategis, yang dengan senjata lengkap berbulan-bulan tak dapat ditembusnya, diperolehnya dari pemerintah Republik sebagai hadiah! Katanya untuk menghentikan blokade. Tetapi, kantong sudah kosong, blokade jalan terus. Sekarang Belanda berteriak: Plebisciet tidak bisa dijalankan karena demarkasi selalu tidak aman.
+
+“Buat plebisciet perlu keamanan”, kata Belanda. Tentangan usul yang kelima tentang “gendarmerie bersama” berubah menjadi usul “12 ribu tentara Belanda langsung di bawah perintah Komisaris Tertinggi dan 50 ribu tentara federal dibagi di seluruh Indonesia”, juga di bawah perintah Komisaris Tertinggi. Itu bagi saudara dari ketentaraan penting sekali.
+
+Jika, kalau ditentukan 50 ribu buat seluruh Indonesia, berapa buat Republik? Sebab negara lain NIT, Borneo Barat, Borneo Timur, Sumatera Timur, Sumatera Selatan, Jawa Tengah, Jawa Timur, Madura, Pasundan (ini saja sudah sembilan “Negara”), haruslah masing-masing mendapatkan bagiannya. Berapa Republik akan memiiki belum tentu. Apakah bisa lebih dari pada 20.000? Kalau saya tak salah, maka seluruhnya Sumatera dan Jawa memelihara +350.000 prajurit.
+
+Apakah kelak nasibnya 350.000 prajurit kita itu?
+
+Tentu nanti akan “dirasionalisasikan” terus sampai tinggal 20.000 (?). Apakah kelak nasib puluhan ribu lainnya, soal ini haruslah mendapatkan perhatian kita dari sekarang ini juga, apalagi kalau usul itu diterima.
+
+Jadi usul yang mengenai mahkota itu sudah diakui, Usul yang mengenai luar negeri buat negara dapat diakui Belanda. Yang mengenai kedutaan dan konsul di beberapa negara besar, seperti Amerika, Inggris dll, tentu takkan disetujui Belanda. Dimana Belanda mempunyai kepentingan besar dalam hal ini keuangan dan perdagangan di sana Belanda takkan menyetujui Duta Republik ditempatkan. Impor dan ekspor diakui dan tentu diakui terus. Ada yang akan menjadi pegawai Van Mook kembali.
+
+Pasal 14: Harta benda asing dikembalikan. Sudah “semestinya” karena sudah ada maklumat 1 Nopember 1945 buat mengakui semuanya itu. Tentangan tentara Federal, apakah dalam hati kecilnya akan diterima atau tidak oleh Pemerintah, entah, tetapi oleh pihak tentara dan rakyat sukar akan dapat dipertimbangkan, jangankan lagi diterima. Tentara Republik adalah kekuatan kita yang riil. Kalau kandas di sini, perundingan sukar diteruskan, yang lain-lain sudah diakui oleh pemerintah kita. Renville dan Linggarjati tidak berapa bedanya dengan usul Cochran yang baru ini.
+
+Kalau perundingan ini akan gagal pula, maka tentulah soal ketentaraan pula yang akan menggagalkannya. Komando dalam pemerintah Federal sementara ini akan berada di tangannya Komisaris Tertinggi. Kekuasan Komisaris Tertinggi: “Komisaris Tertinggi berhak mengumumkan staad Van Beleg di seluruh Indonesia” (kalau Republik masuk ke dalam Pemerintah Federal Sementara). Jadi keadaan negara dalam bahaya boleh diumumkan sewaktu-waktu oleh Komisaris Tertinggi, ialah wakil Mahkota yang memegang kedaulatan atas Republik Indonesia yang telah kita proklamirkan tgl. 17 Agustus 1945.
+
+Arti selanjutnya (kalau ini diterima) sewaktu-waktu bisa diumumkan oleh Belanda “Keadaan dalam bahaya”. Di Wonosobo umpamanya bisa diumumkan “keadaan dalam bahaya”. Semua “pengacau“ boleh ditangkap dan ditembak menurut “Inlandsche Reglementen”, Undang-undang Bumiputera.
+
+Sebab kalau kedaulatan itu kita akui, semua undang-undang sebelum Maret 1942 akan bersambung kembali. Semua pemberontak yang pernah membunuh seorang Belanda dalam pertempuran boleh dihukum atau dibunuh menurut undang-undang “Inlandsche Reglementen”. Itulah yang “acte van legimitatie” yang dikehendaki oleh Prof. Logeman, karena yang putus dahulu sudah disambung kembali. “Kedaulatan Belanda yang putus pada bulan Maret 1942 akan kembali ke tangan Belanda, jadi juga undang-undang bumi putera: Yang salah dihukum. "Berjasa" dinaikkan pangkatnya. Akan di-profesor-Huseinkan yang ahli, yang berjasa dalam “diplomasi di-Syahrirkan”. Memang Belanda pintar “berdebat”. Ia mengemukakan “Historich Recht” selama 350 tahun itu sudah dimatikan oleh “Historich Recht” Jepang dengan jalan “veroveringsrecht”. Kemudian “veroveringsrecht” dan “Hiscorich Recht”  Jepang dibatalkan menurut Natuurrecht, Brithgriht, Hukum Mutlak oleh Proklamasi Kemerdekaan 17 Agustus 1945.
+
+Jadi perkara ini sesungguhnya sudah beres semenjak Proklamasi. Sebenarnya kita sudah merdeka 100 % menurut hukum, menurut adat. Sekarang Belanda ingin, hendak mengembalikan “legimiteitsgezagnya”.
+
+Kata Belanda “Legimiteitsgezag dan souvereiniteit kami masih punya”. Ada ahli yang mengatakan: Belanda tidak mempunyai hak sama sekali di sini. Sebab apa?
+
+1) Wilhelmina lari ke London, melepaskan tanggung jawab, itu tidak boleh menurut grondwet Belanda kemudian.
+
+2) Di sini diumumkan perang oleh Tjarda.
+
+Dia tak berhak bertindak begitu, Wilhelmina tidak berhak, sebab sudah meninggalkan negeri. Tjarda tidak berhak, karena yang berhak mengumumkan perang cuma Raja Belanda. Apakah lagi setelah Tjarda diangkut ke Taiwan sebagai tawanan perangnya Jepang. Sesungguhnya semenjak Maret 1942 tidak ada kisah lagi bagi Belanda di sini. Itulah pula sebabnya, maka Belanda mencari “legimiteitsgezagnya” atas bumi Indonesia dengan Linggarjati, sehingga ia sangka mendapat kembali “legimiteitsgezag”nya itu, dengan pengakuan kedaulatan Belanda Indonesia. Dan itu juga terus pada Renville dan itu terus juga diusulkan oleh Cochran.
+
+Sekarang mari kita periksa bagaimana seluk beluknya perkara ini. Apa sebab perkara kedaulatan ini yang menjadi tulang punggung?
+
+Apa pentingnya kedaulatan ini, dimana sarinya?
+
+Dengan cara berpikir dialektika materialist, kita cari hal ini dalam ekonomi. Dari sini kita melangkah.
+
+Kita mulai dengan artikel 14, Linggarjati No. 14 inilah buat kita sebagai meterial yang no. 1. Kedaulatan itu apa. Buat mereka yang berpikir idealis terbalik. Buat kita lantai dulu. Jadi lantai yang sebenarnya ialah artikel 14 ini, dengan tertulis maka pada 1 Nopember 1945 sudah diumumkan, bahwa harta milik asing akan dikembalikan.
+
+Mengembalikan semua harta benda asing intinya, semua pabrik di Indonesia kepunyaan Belanda, Inggris, Amerika, semua kebon Belanda, Inggris, Amerika, semua pengangkutan kepunyaan Belanda, Inggris, Amerika, semua Bank menguasai dagang, export-import dikembalikan kepada Belanda, Inggris, dan Amerika itu pokoknya!
+
+Atas dasar mengembalikan ini dan oleh karena pengembalian ini, maka harus dikembalikan atapnya, “kedaulatan Belanda” atas Indonesia. Karena kedaulatan ekonomi, maka mau tidak mau kedaulatan politik mesti kembali. Rundang runding, rundang runding oleh Syahrir atau Amir tidak bisa membatalkan hal ini. Maka politik yang menguasai jalannya ekonomi harus dikembalikan pula. Jadi 100 kali runding-runding, tidak akan menguntungkan revolusi.
+
+Kalau 99 % dari perindustrian, dari pengangkutan keuangan dikembalikan kepada Belanda, sedangkan pengawasan politik berupa tentara, polisi, justitie, dan algojo akan dikuasai Indonesia, ini tidak mungkin. Tidak bisa tercapai. Kita tidak percaya cara itu. Kita percaya bahwa kalau semua sumber penghidupan berada di tangan asing, maka semua politik yang berarti hak kontrol atas semua itu harus pindah ke tangan asing pula. Itu keyakinan kita.
+
+Apakah akibat dari pengembalian harta benda asing dalam urusan luar negeri, militer, ekonomi, dan kebudayaan? Banyak seluk-beluk, kena mengenanya satu dengan lainnya.
+
+Kita mulai dengan perekonomian. Kita ambil contoh, pabrik gula. Belanda datang mengatakan: ini saya punya. Mesinnya rusak. Republik mengatakan: Saya tidak merusakkan, Jepang yang merusakkan. Baik kita ganti. Belanda tidak mempunyai uang. Kemana ia pergi? Ia pergi ke Wall Street, dan Wall Strett bertanya: Apakah di sana ada _bedrijfzekerheid_ (kepastian bekerja)?
+
+Apakah kepastian _bedrijfzekerheid_ itu? Tanah mesti ada buat kebon gula. Kalau tidak ada, pabrik tidak jalan. Pengairan mesti ada. “Kuli” mesti ada dan tetap dan manut dan mempunyai “kebudayaan tinggi”. Yang ditanya: mau bekerja 8 jam, menjawab Ya, ndoro. Mesti 10 jam! ya, ndoro. Tidak, 12 jam! Yah, sesukanya ndoro saja. Itu yang mempunyai kebudayaan yang paling bagus buat dunia kapitalis.
+
+Jadi, semua syarat itu mesti ada. Kebun, tanah, ini adalah soal penting. Kita mesti bekerja dengan otak, jangan dengan nafsu diri sendiri saja. Soal tanah, agrarian-problem. Saya mengambil pokoknya saja. Belanda perlu bahan buat membikin gula, yang kwalitetnya mesti tinggi. Jadi memakai ilmu sains buat tanam menanam, pelihara memelihara, supaya gehalte-gunanya tinggi. Kalau dijual di luar negeri, di Tiongkok, Amerika bisa konkurensi.
+
+Jadi kebun mesti dikuasai Belanda. Sawah lantas diambil, sebab mesti ada _bedrijfzekerheid_. Tanah harus pasti berada di tangan kapitalis, karena dia takkan mengijinkan pak tani kerja dengan merdeka. Si kapitalis takut kalau-kalau pak tani kerja menurut temponya sendiri dan sistemnya sendiri. Buat ini kapitalis merasa perlu menyewa tanah dalam waktu yang lama sekali. Inilah pula sifatnya “landbouw-industrie” di zaman “Hindia Belanda”. Tentangan sewa menyewa tanah kita sudah tahu prakteknya. Dengan dollar Belanda akan pergi ke lurah, ke kampung dimana dia perlu meminjam tanah.
+
+Pendek kata tanah ia akan dapat kembali dari bangsa kita yang miskin ini. pak tani selalu perlu uang dll. Pinjam meminjam itu membutuhkan jaminan. Tanah itulah juga akhirnya yang ditaruhkan sebagai jaminan. Proses ini akan kembali, tidak boleh tidak. Pengairan mesti dibagi. Akan kembalilah Mas Mandor dan tuan “Sinder”, siang hari air mengalir ke pabrik gula, malam hari “buat bumi putera”. Tetapi Mas Mandor, atas perintah halus atau kasar, atau pengaruh orang atau uang akan menginjak-injak tanah, di tepi selokan, sehingga pak tani akan kekeringan sawahnya, air terus mengalir ke pabrik. Tentang perkara tenaga! Sekarang adalah musim “extrimist” kaum pekerja boleh membentuk vakbond! Tetapi diadu-dombakan nanti dengan Yellow Union (Serikat Pekerja Kuning) diperseni atau digaji lebih tinggi. Siap 1001 akal, dan oleh karena itu desa kita kelebihan orang, maka gaji 40 sen sehari akan diterima juga seperti dahulu. Kembali ke Deli, kembali terikat oleh “contract”. Semuanya kelak akan berlaku sebagai satu “natuurlijk proces” (proses alami).
+
+Jadi tanah dapat, pengairan dapat, kaum buruh yang murah, dapat! Tidak boleh seorangpun juga “extrimist” atau selembarpun bendera merah putih atau sebijipun lencana merah putih atau sepatah katapun boleh diucapkan perkataan “merdeka”. Kembali Yellow Union buat menetapkan keadaan seperti dulu itu. Inilah yang “bedrijfzekerheid” dalam suasana “kerja-sama” antara Belanda Indonesia. Belanda tidak bisa memberi gaji lebih, karena nanti tidak bisa konkurensi dengan gula dari Kuba dan Hawai dan kita lebih miskin daripada tahun 1942. Penghidupan sebenggol sehari buat Rakyat Murba akan kembali. Kita miskin kembali, supaya Belanda mendapat hasil yang banyak dan murah buat dijual keluar.
+
+Buat itu perlu perhitungan yang lancar. Kalau Sdr. Abu Bakar yang menguasai kereta api mau menghalang-halangi/mogok mengirimkan gula, maka pasti Sdr. Abu Bakar akan dikembalikan ke Digul lagi. Kalau kawan Abu Bakar mengadakan “vakbond” haruslah semuanya dicocokkan dengan undang-undang “Bumi Putera Hindia-Belanda”, supaya gula itu cepat keluar, sampai ke pelabuhan dan diangkat oleh kuli kapal ke perkapalan dan terus ke Amerika, atau pasar dunia yang lain-lain.
+
+Tidak usah kita mengambil contoh ke perusahaan lain
+
+ Ini yang mengenai perekonomian! Semuanya pemerintah desa, kepolisian kembali buat menjamin “bedrijfzekerheid” itu dengan kembalinya kebun dan pabrik. Siapa memegang bambu runcing akan ditangkap dan sikep oleh polisi. Republik tidak boleh mengatur lagi cukup polisi saja.
+
+Kalau ada cekcok, siapalah yang akan memutuskan: polisi republik atau Komisaris Tertinggikah? Kalau ada percekcokkan tentang urusan luar negeri maka yang akan memutuskan tentulah wakil Mahkota. Lain tidak ada! Itu kedaulatan!
+
+Kata seorang pintar: “Republik kita bisa mengadakan Undang-undang sosial. Kalau Linggar Jati kita pakai kelak kita bisa membuat undang-undang sosial. Kaum buruh sudah insyaf, sudah sadar”.
+
+Jawab kita: “Undang-undang sosial dan undang-undang perburuhan bagus”. Tetapi kalau Belanda mengatakan: “Saya tak mau pakai aturan itu dalam kebun saya dan pabrik saya!” Kita mau bikin apa? Saudara Abu Bakar akan mengadakan mogok? Baru bicara-bicara dalam rapat, PID sudah siap di samping saudara Abu Bakar.
+
+Sekarang tentang gula, teh, kina, minyak yang ke Amerika. Barang export dibawa ke pasar, ialah ke Amerika. Kalau export kita 100 juta dollar, maka menurut adat export-import: jual 100 juta barang di Amerika, harus mengimpor juga 100 juta dollar. “Export pays for Import”, impor dibayar oleh export. Kita jual gula, teh, kina dan minyak, kita beli oto, obat, mesin listrik, merah pipi, lipstik dan pupur.
+
+Ini konsekwensinya dalam ekonomi kita. Kalau kita export 200 juta harus tukar dengan 200 juta barang-barang yang disebut tadi. Kalau kita mengadakan pabrik oto sendiri, Amerika dengan undang-undang “export pays for import” mengatakan: "Kamu mengadakan pabrik oto sendiri akan mendapat konkurensi oto saya".
+
+Amerika akan menghalangi kita membikin industri yang ada di Amerika sendiri, walau kita mempunyai besi atau alumunium, tembaga atau bauxit. Kita tidak sanggup, kita lemah terikat kepada export-import dalam negara Linggarjati. Kita tetap akan menjadi negara dengan industri agraria. Itupun sudah ditetapkan oleh seorang “ekonom” kita yang berkata: Biarlah industri agraria saja.
+
+Tetapi ia lupa, bahwa kaum buruh kita cuma menjadi kuli kebun saja, tidak bisa mendapat buruh cerdas untuk pabrik oto, pabrik ini itu, dan kita tidak bisa maju mengadakan industri berat buat kemakmuran kita. Sedangkan kalau kita kerjakan perbaikan di negara kita sendiri dapat kita mengadakan pabrik oto, terutama barang-barang kimia yang 10 atau 100 kali lebih murah dari pada barang Amerika.
+
+Tetapi kalau kita sudah terang meng-export-import seperti tadi, kita tidak lebih leluasa bergerak, tidak bisa lebih lepas dari status negara pertanian. Kita terhambat maju. Tetapi ada lain lagi. Apabila Belanda mempunyai export-import di Amerika 400 juta dollar umpamanya dan masuk juga barang 400 juta, maka walaupun A.K Gani mempunyai Fox-concern, apabila Belanda mempunyai dagangan 400 juta, masakan kita yang menempatkan duta dan konsul di sana. Masakan penjual tahu dan tempe, pedagang kecil mau lebih berkuasa dari pada saudagar besar. Belanda dengan perdagangan besarnyalah yang akan menetapkan duta, dimana perdagangannya yang terbesar.
+
+Jadi jangan saudara heran, tidak mengerti, mengapa Mr. Roem dll tidak bisa menempatkan duta di Amerika.
+
+Kita sebagai orang yang melihat persoalan secara materialist dialektika, jangan mengharap-harapkan yang tidak-tidak. Bahwa otak lebih tinggi dari kepentingan ekonomi, bahwa rundang-runding bisa menaklukkan kepentingan ekonomi, semuanya itu adalah khayal semata-mata.
+
+Sekarang perkara keuangan, Getah dari Jambi, walaupun dulu dijual seharga 100 sen satu pound, masih bisa memberi keuntungan, karena kebunnya di hutan. Tetapi onderneming besar, dengan gaji besar buat employee, boekhouder, administrateur, dengan ongkos besar buat pulang pergi ke negeri Belanda, buat pensiun dan buat sokongan ini-itu, tantiemes dll, tidak bisa mendapat untung, kalau tidak bisa mendapat untung, kalau tidak menjual umpamanya 30 sen satu pound. Jadi kalau benar-benar ada “vrije-hander” yang katanya berarti “kemerdekaan dagang”, berkokurensi merdeka, boleh membawa ke pasar, kepada siapa saja yang suka, kalau memangnya ada status dagang semacam itu buat orang Jambi, maka pastilah orang Jambi yang berada di pihak yang menang. Tapi orang Jambi tak dibolehkan memotong getah seberapa sukanya. Ada restrictie \[regulasi – Ed.\]! Kalau tidak diadakan restrictie setajam itu sebagian besar onderneming bangsa Eropa itu terpaksa menggulung tikar. Sesudah direstrictie, maka getah orang Jambi dikenai pula pajak berkali-kali sampai getah itu terpaksa dijual dengan harga mahal di pasar dunia. Hasil pajak tentulah jatuh ke tangan “Kanjeng Gubernemen”!
+
+Jadi pendek kata, kalau ada konkurensi lepas ”vrije handel” pasti onderneming jatuh. Walaupun restrictie dan pajak, tetapi bisa sekali orang Jambi mendapat hasil lebih dari cukup sampai bisa 10 kali naik haji di Mekah.
+
+Begitulah kerjanya duoanne, “gemennschappelijke douane”. Supaya inlander jangan bikin konkurensi dalam jual beli. Supaya dia dikenal dengan barang hasil bumi kita.
+
+Itu “kerja-sama”. Selanjutnya dengan “kerja-sama” bisa membangun katanya. Membangun apa? Membangun perusahaan korek api, pabrik tahu dan tempe, itu bisa. Tetapi kalau memang membikin pabrik mesin yang bisa memperbaiki ekonomi kita, bisa mengadakan mesin buat kemakmuran kita, kita pasti tidak boleh. Belum temponya, itu akan merosotkan pasar katanya.
+
+Mengertilah saudara-saudara bahwa “kerjasama” dalam export-import itu maksudnya ialah untuk mencekik export-import kita. Itu artinya “kerjasama”.
+
+Seperti terbukti di Siam dan Tiongkok, dimana ada kontrol export-import bangsa asing, di sana Asing menang, Asli melarat.
+
+Dulu Tiongkok juga mempunyai “kerjasama” dalam douane itu. Mau pajaki barang Amerika, mesti minta permisi Amerika dan 13 Negara lain. Kalau sedikit naik pajak, dikatakan: ”Itu tidak menurut perjanjian, nanti kita gempur. Jadi uang masuk buat Negara tidak bisa tinggi”. Keuangan kucar-kacir terus.
+
+Kalau onderneming Belanda dipajaki, maka Belanda akan berteriak-teriak setinggi langit mengatakan: “Daar is geen bedrijfszkerheid”, Indonesia tidak bisa menjaga dan menjamin ketentaraman buat perusahaan. Ini bukan stable goverment. Ini pengaruh komunis dan extremist. Ini pengaruh “PARTAI MURBA!”.
+
+Kalau pajak kita ambil juga, maka Belanda akan menggerakkan “Dewan Perwakilan Sementara” buat memprotes, akan menggerakkan “Dewan Federal” untuk menghalangi dan menggerakkan “Pemerintah Federal” buat bertindak terhadap “extremist”. Jadi pendeknya, kapitalis di Indonesia jangan dipajaki, baiklah kalau dipajaki sedikit-sedikit saja.
+
+Kembali kita kepada Murba. Upahnya sudah sedikit dan dia diperas dengan pajak. Jadi uang yang masuk di daerah Republik tentu sedikit. Kalau sedikit tentu administrasi akan kacau balau. Laskar tidak dapat jaminan bisa diadu-dombakan dan Belanda akan mengatakan “Republik tidak stabil”.
+
+Sebagai akibat artikel 14 tadi dan berhubung dengan itu pula ialah supaya ada “bedrijfzekerheid”, menurut kemauan Belanda export-import “diatur bersama” maka perlu “gendarmerie bersama” dan “tentara Federal” yang takluk kepada Komisaris Tertinggi dan Mahkota. Kalau ada mogok, pakai artikel 153 bis dan ter, menangkap sebelum ada bukti sesuatu perbuatan.
+
+Jadi uang sekarang masuk ke Republik adalah sedikit sekali.
+
+Sekarang soal cetak-mencetak uang. Dari semulanya saja sendiri memandang terlampau banyak kesulitan di depan cetak-mencetak uang sendiri, selama kita belum aman merdeka 100%. Tetapi “brain trust” (bukan trusted brain!) berpendapat lain.
+
+Dulu ORI dengan rupiah = 1:3 Sekarang 100:2,50 jadi 40 x 3 atau 120 kali = 12000 % merosot. Bahaya merosot ini sudah saya lihat lebih dahulu. Berhubung dengan itu, maka saya kira lebih baik memakai terus uang yang ada (uang Jepang). Disamping itu pusatkan perdagangan kepada “barter”, ialah tukar-menukar barang sambil bersandar kepada ekonomi perang. Kini setelah uang ORI terus menerus merosot, maka lebih mudahlah kaum imperialis membujuk-bujuk pemerintah Republik menyangkutkan ORI kepada dollar, poundsterling dan gulden, “link up ORI to the dollar, pound, or gulden”. Kalau ini berlaku maka tindakan serupa itu akan banyak sekali menguntungkan kaum imperialis. Dengan demikian, maka barang import dan eksport asing akan banyak sekali terhindar daripada cukai. Ringkasnya Linggarjati membawa kita kepada status dagang, dimana Belanda dapat menguasai perdagangan dalam dan luar negeri dengan sendirinya akan kembali ke tangan Belanda. Seterusnya pula Republik akan terseret-seret ke dalam sesuatu “militair-verbond” (Perjanjian militer Belanda). Jika kelak Front A,B,C,D bangun kembali tentulah kita akan terbawa-bawa juga, hanya kelak perjanjian militer itu akan ditujukan kepada blok sosialis oleh blok kapitalis. Inilah keberatan besar yang harus mendapat perhatian kita sepenuhnya semenjak sekarang juga.
+
+Jadi kita mengerti apa yang dipasang dalam 5 artikel itu. Dengan mengembalikan harta benda asing, dan oleh karena mengakui di bawah kedaulatan Belanda, maka urusan keuangan akan sendirinya jatuh ke bawah Mahkota, dan kebudayaan akhirnya akan jatuh pula ke bawah Mahkota. Kalau seorang Indonesia kelak menjadi anggota Federal tetapi kalau tidak bisa bahasa Belanda: Hoe deze nir? Itu seluk beluk Linggarjati dengan kebudayaan.
+
+Berhubung dengan semua kemungkinan itulah, maka kita batasi pekarangan kita dengan formula: Berunding atas pengakuan kemerdekaan 100 %, bukan untuk 100 %, berarti tawar-menawar. Inilah program kita, berunding atas kemerdekaan 100 %, bukan untuk 100 %.
+
+Kita sekarang sudah dapat menyaksikan dengan mata kepala sendiri, apakah akibatnya berunding untuk kemerdekaan 100%. Akibatnya ialah merosot ke derajat + 10 % dalam segala-galanya. Jadi apa yang pokok buat kita? Apa tindakan buat menghindarkan supaya kita jangan dituduh melanggar ini-itu oleh Internasional?
+
+Kita melangkah dengan tegak, walaupun hujan pelor, tidak boleh kita menyingkir. Proklamasi itu bukan hasrat atau cita-cita saja, seperti “surga” itu adalah “Hasratnya” seorang Brahmin. Tetapi proklamasi itu adalah satu feit, satu fact, satu kejadian yang syah, karena tiap-tiap bangsa berhak memproklamirkan kemerdekaannya dan bila sudah memproklamirkan kemerdekaannya, kemudian membelanya.
+
+Kalau tidak, apa gunanya memproklamirkan? Membela kemerdekaan adalah Hak Mutlak. Bergaul dengan negara lain adalah Hak Mutlak. Bukan berunding rundang-runding sampai negara habis, bukan itu; melainkan berpegang teguh kepada Proklamasi yang sudah diterima dan dipertahankan rakyat. Keyakinan ini bersandar kepada kemerdekaan. Yang membela kemerdekaan ialah tentara kita. Itu sikap kita! Dan seperti juga diketahui tadi, kita tidak bisa membangun kalau aset nasional dimiliki asing, semuanya berada di tangan asing. Baru apabila semua perusahaan besar vital atau sebagian besar vital berada tetap tegap di tangan kita, barulah kita bisa membangun. Dan kita sesungguhnya sudah mendapatkan jalan utnuk memperoleh sebagian besar perusahaan vital, sebagai stood kapital (modal pendorong). Inilah pentingnya MINIMUM PROGRAM.  Kita sita harta benda musuh, apabila dia memasuki jarak 3 ½ mil dari pantai memasuki dengan senjata. Menurut hukum internasional dalam keadaan seperti itu, maka kita tak perlu lagi menghormati adat atau hukum lain, selainnya menghantam siapa yang masuk dengan senjata itu, inilah yang Hukum-Internasional! Tidak saja tentara musuh bisa dan harus dilucuti, tetapi harta bendanya pun boleh dan harus disita.
+
+Kalau kita konsekwen pada Proklamasi yang tertulis, dan tidak tertulis kita pegang terus, maka kita berada dalam kebenaran. Semua itu telah kita kaji lebih dulu, buat menentukan sikap kita.
+
+Usul COCHRAN, seperti juga perjanjian Linggarjati tiada bisa kita terima, karena pertentangan dengan Minimum Program, yang masih kita perjuangkan untuk beberapa lama, mungkin menjadi 6 atau 9 tahun, atau lebih. Tetapi jika kita tidak konskwen, kita akan berjalan di luar rel, yang telah ditetapkan itu. Kita tidak bisa membangun kalau tidak dengan kemerdekaan 100 %, kalau tidak dengan tentara rakyat. Jadi kita tidak bisa menerima. Kalau terima ini, kita langgar Proklamasi, ucapan sudah dibela oleh Rakyat. Kita seterusnya berarti berkhianat kepada Proklamasi dan akan ditertawakan oleh dunia internasional. Kita akan menjadi “laughing stock of the world”.
+
+Kita tetap pegang Proklamasi, menolak perundingan tidak atas kemerdekaan 100 %, itu sikap kita! Dan harus berlaku awas terhadap Rencana Amerika yang dengan dalih Anti-Komunisnya atau sedang memecah belah golongan pemuda kemerdekaan 100 %. Kita akan membentuk kekuatan sendiri. Kita perjuangkan kemerdekaan kita melawan imperialisme yang masuk ke sini. Dengan demikian, maka dalam hakekatnya kita memberi sokongan konkrit kepada revolusi seluruh dunia. Kalau usul COCHRAN kita terima, maka kita akan dipakai oleh blok kapitalis buat dikerahkan menghadapi blok Sosialis. Bahan makanan dan bahan perang akan dipakai oleh blok Kapitalis buat menghancurkan blok Sosialis. Kalau kita kelak sudah berarti menang kalau kita sanggup menolak sebagian tentara Imperialisme dunia yang menjajah kita, atau sanggup membekukan sebagian saja dari Tentara Imperialisme itu, yang berkehendak membatalkan Proklamasi 17 Agustus. Inilah yang akan menjadi sumbangan kita yang nyata praktis kepada gerakan revolusi bagi kemerdekaan negeri-negeri jajahan.
+
+**SOAL PARTAI**
+
+Sifat “PARTAI MURBA” ialah menggalang Rakyat Murba. Dan saudara sekalian, yang akan menjadi kader, yang bekerja buat dan untuk Murba, dari Murba. Saudara yang akan memimpin gerakan seluruh Murba di Indonesia buat melanjutkan perjuangan kita. Jadi bukan kader terpisah dari Murba, yang terpisah dari Rakyat, tetapi yang di tengah-tengah Murba. Maka harus ada kontak rapat dengan Murba, ialah buruh dan tani.
+
+Apabila kita mendapatkan penuh, baru kita bisa menamakan diri “PARTAI MURBA”. Apa syarat buat mendapat kepercayaan, autoriteit Murba buruh dan tani? Dengan membawa isme-isme saja dan berdebat habis-habisan saja, kita belum lagi menjadi pemimpin Murba. Kita terjun ke bawah. Dari bawah kembali ke atas buat merundingkan apa pengalaman kita di bawah. Kalau tidak, mana mungkin mendapat kepercayaan; kita tidak akan bisa menjalankan disiplin; tidak bisa menasehati Murba; Murba tidak mau dipanggil kalau diserang musuh, karena kita tiada mendapat kepercayaan penuh dari Murba.
+
+Buat mendapatkan kepercayaan penuh itu, haruslah kita senantiasa berhubungan dengan Murba, supaya mengerti benar-benar kepentingan Murba sehari-hari, walaupun rupanya perkara kecil saja.
+
+Soal tempat: Kita namakan partai kita Partai Murba. Tetapi kalau pusat atau markasnya aksi kita berada di tengah-tengah rombongan rumah yang indah permai di dalam kota, atau kita cuma berdebat tentang isme itu saja antara penduduk kota terpelajar dan hidup makmur saja, kita tidak akan mendapat kontak dengan kaum Murba.
+
+Jadi supaya kita sehari-hari bisa mendapat kontak dengan Murba, kita perlu campur dan berkumpul dengan mereka. Kalau kita membimbing kaum Murba mesin, maka carilah pabrik dimana Murba mengerahkan mesin buat hidupnya sehari-hari. Pergilah ke kebun atau bekerjalah di kebun. Tempat itu yang kita cari. Jangan tempat terasing menghindarkan pergaulan dengan mereka itu. Tidak bisa kita selami jiwa mereka, tidak bisa kita ketahui soal hidup mereka,  kalau tidak bisa mendapat kepercayaan, dan perkataan kita akan melayang di atas kepala mereka. Mungkin kita bisa membikin mereka tertawa atau menangis, tetapi tidak bisa menggerakkan mereka, mundur kalau terpaksa, maju kalau perlu.
+
+Tempat Murba ialah di bengkel, di pabrik, di pelabuhan, dimana-mana kaum gembel berkumpul dan juga kaum intelek, juga di antara mereka yang sekarang menjadi gembel, buat mengadakan propaganda dan agitasi.
+
+Soal illegal dan legal! Kalau negara menjamin demokrasi dan menjamin hak berkumpul, mengadakan pers, tidak melarang atau menyerobot pabrik kertas atau menangkapi orangnya, karena kalimat yang tidak enak didengar oleh yang beruasa, selama demokrasi itu berjalan di atas rel, kitapun akan menghormatinya. Tetapi kalau cuma tinggal di atas kertas saja, maka kitapun akan mengambil sikap menurut keadaan. Ilegal dan legal, ialah soal bagaimana keadaan, bagaimana suasana dalam negara, bagaimana sifat undang-undang yang ada. Maka kalau semua belum terang walaupun terang tertulis, tetapi belum terang dijalankan, karena berbagai alasan, maka kita berjalan seperti amphibi, berjumpa air seperti kapal, berjumpa darat seperti tank. Dalam keadaan demokrasi borjuis pun kita harus siap dengan kesanggupan kerja ilegal. Jadi soal legal dan ilegal bukanlah soal kita sendiri semata-mata, melainkan juga soal dari pihak lain, soal tatanegara dan pelaksanaan undang-udnang yang ada dalam negara. Dan kalau kita dalam keadaan semacamnya itu mesti mengadakan persiapan kalau perlu berjalan di bawah tanah, maka itu bukan salah kita, tetapi karena keadaan berjuang, dipaksakan oleh siasat perjuangan. Jangan dianggap ilegal itu berbisik-bisik dalam gelap, bagaimana mengamuk dan mengadakan putch, berbisik-bisik bagaimana mengumpulkan tenaga dan membikin putch, tetapi walaupun berjalan di bawah tanah tetap berhubungan dengan Murba.
+
+Tidak boleh kita lepas dari Murba, setiap waktu mengetahui kemauan Mubra, jadi tidak berarti merangkak-rangkak di bawah tanah dan berbisik-bisik. Buat itu perlu kita mengadakan cara bekerja dengan baik dan diserahkan caranya kepada saudara sendiri saja. Cara bekerja yang tidak menghilangkan kontak dengan massa itu, cara bekerja yang bisa siangnya kita bernama Abu Bakar, malamnya bekerja dengan Gerpolek.
+
+Pendeknya kita serahkan saja kepada saudara! Cuma saya peringatkan bahwa kerja ilegal mesti mempunyai persiapan menyeludup, seperti kapal selam, yang bekerja tidak kurang cepat dengan di atas muka air. Jadi ini seluk-beluk antara legal dan ilegal. Dengan begitu kita ukur berapa kekuatan Murba yang tersedia. Memang gampang mengatakan: saya bekerja ilegal, dan mendapat kehormatan di kalangan revolusioner karena bekerja ilegal. Itu tidak perlu jangankan satu nama, seperti Abu Bakar saja, 15 nama pun boleh dipakai asal awas dan pintah memakainya. Jangan sampai berabe karena nama banyak. Sewaktu-waktu sanggup mengatasi kesulitan yang timbul karena nama banyak itu.
+
+Pada suatu ketika nama saya di Singapura ialah Estaban de la Rosa. Tetapi ini di antara kenalan orang Filipina saja. Di antara kenalan orang Tionghoa nama saya Tan Min Siong. Pada suatu hari saya mengunjungi sebuah restoran bersama-sama dengan kenalan Tionghoa. Di pintu resotran saya disambut oleh seorang kenalan Filipina dengan perkataan: “He Etaben de la Rosa”. Jadi tidak mudah memakai nama banyak. Yang pentingnya ialah mempelajari arti peribahasa: Di kandang kambing mengembek, di kandang kerbau menguak, Terutama pelajari bahasa asing sebanyak-banyaknya. Ingatlah pada pepatah: Bahasa menunjukkan bangsa.
+
+Agitasi dan Propaganda: Artinya bukan pula menghasut terus menerus! Memang orang bisa dihasut sampai marah dan sampai memukul, ada yang dipukul lagi mungkin kita sendiri kelak yang menjadi sasaran. Terutama kalau tak ada disiplin. Jadi agitasi saja tidak cukup. Mesti ada pengertian yang lebih tinggi, wujud yang lebih mulia. Kita bisa perdalam keyakinan itu atas dasar-dasar kehidupan sehari-hari, kalau pergi ke tempat buruh bekerja di kereta api umpamanya, kita dasarkan propaganda kita atas penghidupan Murba kereta itu pula dll.
+
+Tak perlu kita mulai dengan mendewa-dewakan pemimpin ini atau itu. Cukuplah, kalau prinsip, cara-cara bekerja ataupun semangat serta sifat jujur konskwen salah seorang pemimpin yang dihormat. “Berapa gaji, berapa keluarga, berapa kebutuhan sehari-hari dan apa kekurangannya”. Inilah yang kita utamakan. “Murba sudah membanting tulang tetapi jaminan tak cukup. Ada yang tidak kerja, tetapi bisa hidup dengan mewah”. Inilah yang kita kemukakan. Dengan uraian atau pernyataan yang sederhana berdasarkan pengalaman sehari-hari kita meningkat ke atas melalui jenjang logika dan dialektika. Dengan demikian kita bisa merasakan akibatnya perjanjian Linggarjati dan Renville. Akhirnya kita sampai kepada politik partai ini atau itu, isme ini atau itu. Sendirinya kita akan sampai usulan COCHRAN.
+
+Kita membikin agitasi buat membangunkan pengertian, membangun keyakinan, memberi jalan melalui organisasi dan mementingkan organisasi: Bersatu kita teguh, berpecah kita jatuh. Dengan organisasi kita bisa menggerakkan Murba.
+
+Kunjungilah kaum Murba. Janganlah bosan memberi pertolongan atau penerangan, juga kepada Murba buta huruf. Kita memerlukan perhubungan (kontak). Dan kontak berarti bersama menyelesaikan soal penghidupan sehari-hari. Perlihatkan perhatian penuh kaum Murba. Berikanlah bantuan lahir batin kepada mereka dimana perlunya. Saudara sendiri mengerti apa artinya ramah tamah bagi kaum Murba Indonesia. Pakailah semua kesempatan buat mengadakan kontak dengan sikap ramah-tamah dan semangat tolong-menolong.
+
+Andaikan saudara berada pada suatu desa atau kampung yang terdiri dari 30 rumah. Bentuklah satu komite kecil untuk membagikan pekerjaan. A 10 rumah, B 10 rumah, dan C 10 rumah. Sekali seminggu atau lebih datangilah rumah-rumah itu dan tanyakan keperluan penduduknya. Persoalkanlah keperluan hidup mereka sehari-hari. Mungkin akhirnya saudara sampai kepada Minimum dan Maximum Program, kepada Linggarjati dan Renville.
+
+Rundingkanlah dan putuskanlah dalam Komite tadi segala sesuatu sebelumnya saudara menjumpai mereka yang membutuhkan petunjuk. Pelajarilah apa yang dibutuhkan oleh Rakyat Murba. Periksalah dimana terdapat barang-barang yang berlebihan dan yang kekurangan di antara barang keperluan hidup seperti beras, sayur, garam, minyak, pacul, parang dll.
+
+Usulkan pendapat saudara dengan pengikut saudara. Laporkanlah sambutan Murba itu kepada komite tadi. Perbaikilah yang salah dan pakailah yang baik sebagai contoh. Adakalanya saudara perlu mengunjungi salah satu instansi buat mengetahui keadaan yang sebenarnya. Janganlah kita menunggu di kantor saja. Apabila saudara mendapatkan sesuatu jalan buat melenyapkan sesuatu keburukan bagi Murba, hendaklah saudara mengambil tindakan secepat-cepatnya. Kalau bisa degan jalan legal, menurut undang-undang. Kalau terpaksa dengan memakai desakan Murba secara teratur. Perubahan nasib yang kita peroleh itu adalah satu modal pendorong untuk mendapatkan kepercayaan terus-menerus. Cobalah saudara perhatikan bagaimana seorang zending bekerja. Sedikit demi sedikit dia menyabut kepercayaan pengikutnya dengan perkataan dan perbuatan. Kita adalah zending, yakni zendingnya Revolusi.
+
+Dengan perantara Komite, seperti yang tersebut di atas, dengan cara lapor-melaporkan pekerjaan masing-masing kepada Komite tadi dan dengan bersama-sama merundingkan sikap atau tindakan kita, kita melaksanakan kerja sama di antara Partai Rakyat Jelata, Partai Buruh Merdeka, dan Partai Rakyat. Bersama-sama kita mempersoalkan yang mudah nampaknya. Meninjau perbuatan teman dan diri sendiri kita akan lupa, bahwa belum lama berselang ada tiga arti dan tiga aliran. Kita akan lupa bahwa si Polan dari Partai Anu sekarang adalah pemimpin kita dan peleburan jiwa itu perlu dan bisa didapat dengan peleburan kerja. Apabila buat teman yang memanggul senapan, yang ada di daerah pendudukan. Begitu juga dalam urusan ekonomi.
+
+Mereka yang memanggul senapan, sudah menjadi penjaga desa terhadap musuh yang menyerbu, dan menjadi pelopor di garis pertempuran. Dia menjadi tukang masak di dapur umum, menjadi juru rawat kalau ada orang sakit, menjadi guru buta-huruf, karena tidak banyak yang bisa menulis. Pahlawan semacam itu akan dianggap dokter ekonomi atau jenderal, karena bagi orang desa tak ada orang yang lebih luruh. Disinilah baru timbul apa yang dinamakan kepercayaan, kontak, autoriteit.
+
+Dia adalah orang kuat, orang yang disegani di desa, di masa pertempuran mereka akan ikut, karena mereka sudah insyaf tidak mau berhutang budi kepada pemimpinnya. Sdr. dianggap sebagai bapak dalam kesulitan. Seperti bagi seorang anak tidak ada yang lebih baik dari ibunya karena perbuatan, maka dengan perbuatan itulah pula kita mengikat hati orang desa.
+
+Kalau ada penyerbuan, itu akan ditolak oleh desa itu sendiri bersama dengan saudara. Begitulah psikologis orang desa. Tidak ada bangsa yang lebih sehat jiwanya dari pada penduduk desa Indonesia ini. Pergunakanlah kekuatan jiwa itu. Kalau sebuah desa tak bisa lagi dipertahankan, hendaknya lari ke daerah Gerpolek dan taruhlah gantinya pemimpin yang belum dikenal. Dengan demikian maka urusan desa akan berlangsung seperti biasa, simpati terus terpendam, dan anggota yang tinggal akan tetap terlindung. Dengan begitu tidak ada keamanan bagi musuh. Mereka akan menjumpai sabotase dari penduduk desa.
+
+Pendek kata, musuh tidak akan bisa memegang desa semacam itu. Itulah daerah Gerpolek yang tidak mau berada di bawah pemerintahan asing dan tiada lagi berada di bawah pemerintah Linggarjati-Renville tidak ada lagi buat ditaati dan di sinilah akan berdiri desa pertama yang menjalankan proklamasi kemerdekaan. Belanda tidak akan sanggup menaklukan seluruh Indonesia selama jiwa proklamasi terus menyala. Ongkos perang Belanda kian hari kian besar. Kepercayaan asing kian jatuh, sedangkan asing kian hari kian membutuhkan hasil bumi kita. Asing akan memperoleh barang tersebut dari tangan kita sendiri. Sekali asing menerima hasil bumi itu dari tangan kita, dengan sendirinya pada saat itulah kita dalam hakekatnya menerima pengakuan de facto, pengakuan de jure terserah kepada asing!
+
+Amerika juga sesudah merdeka 7 tahun, menerima pengakuan baru 13 tahun dan memilih presiden. Proklamasinya Soviet tahun 1917, baru tahun 1933 mendapat pengakuan  de jure dari salah satu negeri besar. Jadi negara kita tidak mati atau hidup dengan pengakuan. Sekali lagi, kita tidak perlu menang langsung buat menang. Belanda berharap hancurkan benar-benar tentara kita. Kalau tidak ada lagi gerpolek, baru dia menang. Kita tidak perlu menguasai seluruhnya daerah Indonesia. Tetapi Belanda akan terpaksa menarik kembali tentaranya kalau tak sanggup menghancurkan seluruhnya tentara dan lasykar. Kalau kita sudah merdeka maka kita akan menguasai kekayaan yang luar biasa besar, berupa getah, teh, kina, gula, minyak tanah dll. Di hutan Sumatera saja terdapat hasil seperti rotan, kayu besi, kabur barus, gading gajah, dan hewan yang dagingnya bisa dijual ke luar negeri.
+
+Jadi pendeknya, kekayaan kita walaupun kita misalnya membumi hanguskan perkebunan, belum habis. Kita mempunyai reserve harta benda yang luar biasa dalam hutan dan bumi kita.
+
+De facto sudah ada pada waktu Belanda menarik diri dari daerah gerpolek. Jika kita ingin diakui oleh asing, maka lebih dahulu haruslah kita mengakui kekuatan kita sendiri. Terhadap dunia internasional kita menunjukkan kepercayaan atas kekuatan diri kita sendiri dan memakai semua kesempatan yang akan memberi perbaikan buat revolusi ini dalam suasana internasional dan nasional seperti sekarang.
+
+Terhadap serangan imperialis Belanda dan daya upaya dari pihak lain. Kita menyambutnya semua dengan tenang, azas tujuan yang pasti, organisasi yang benar-benar hidup, yang berdisiplin buat dirinya sendiri, yang berhubungan rapat dengan tentara, yang kalau sudah sampai waktunya akan kita kerahkan menghancurkan imperialisme manapun yang menyerbu bumi kita.
+
+Usaha kita di hari depan ini ialah mengadakan satu partai dalam arti, partai massa, dimana yang bekerja di antara massa tadi itulah yang dinamakan kader, yang memakai disiplin dan bersikap konsekwen dalam segala-galanya, yang memegang teguh tujuan dan anggaran dasar, serta semua putusan yang diambil bersama.
+
+Kalau saudara kembali ke kampung, saya harap melaksanakan peleburan itu, seperti sudah terlaksana antara pucuk pimpinan yang sudah banyak memperlihatkan goodwill. Walaupun sekarang bisa dilihat begitu, tetapi juga saudara kalau sudah sampai di cabang, di desa dilupakan, bahkan saudara Maruto Nitimiharjo adalah bekas ketua Partai Rakyat, saudara Syamsu Hariyaudaya Ketua Partai Buruh Merdeka, saudara St Dawanis ketua Partai Rakyat Jelata, tetapi mereka adalah pemimpin saudara-saudara lainnya semua.
+
+Supaya saudara di desa menerangkan bahwa mereka bukan pemimpin dari Partai Rakyat, atau Partai Buruh Merdeka atau Partai Rakyat Jelata, melainkan pemimpin “PARTAI MURBA”.
+
+Maka kemarin ada kritik dari Malang, yang biasa berbicara dengan tajam dan saya senang, mengulangi perkataan saudara dari Malang di kongres ini, bahwa mungkin Sdr. Sukarni kelak akan berjibakutai.
+
+Tetapi jelas, bahwa Sdr. Sukarni selama 3 tahun dijibaku-tai-in oleh dinding batu dan teruji besi, di Ponorogo, Madiun, dan Magelang. Selanjutnya dijibakutai oleh penyakit dan oleh perasaan tidak boleh bergerak bersama dengan saudara sekalian.
+
+Sudah banyak saudara Sukarni menghadapi soal yang sulit yang tidak bisa diselesaikan begitu saja, karena memerlukan kesabaran.
+
+Selain dari pada itu disamping hal-hal itu ada temannya yang juga menandingi. Lihat saja saudara Syamsu yang berdiri seperti batu karang, yang tidak bisa diombang-ambingkan ombak perasaan; sdr. Dawanis yang juga di Jakarta dan Jatinegara terpaksa menyeludup ke sana-sini, yang terpaksa melalui penjara Belanda, baru sampai ke sini; didampingi oleh sekertaris jenderalnya yang dia kenal dari dulu, yang tidak banyak bicara, tetapi meminta bukti, ialah Pandu Karta Wiguna. Begitu pula saudara Maruto yang selalu memperhitungkan lebih dahulu, dan perlu memperhitungkan, dan sekali lagi memperhitungkan masak-masak; jangan meloncat seperti kodok dengan tidak berpikir lebih dahulu.
+
+Kalau mengingat suasana, apalagi desakan dua golongan dari saudara sekalian sendiri, tidak akan terjadi jibakutai itu.
+
+Jadi pendeknya, yang penting di sini, ialah keinsyafan dan kesanggupan menghadapi ancaman yang datang dari luar dan dalam terhadap Republik dan diri sendiri.
+
+**Penutup**
+
+Keperluan buat menyusun tenaga yang tahan hujan dan panas, ialah tenaga Murba, atas dasar bukan buat mempermain-mainkan, atau memperolok-olok Murba, tetapi untuk maksud, cita-cita dan siasat Murba, bukan buat runding-rundingan, membelok-belokkan Murba untuk maksud sendiri, melainkan untuk maksud Murba.
+
+Dengan keinsyafan begitu dan dengan usaha, kemauan, kecakapan dan keyakinan saudara atas kekuatan Murba ini, kalau kelak sudah tersusun golongannya, kita akan sanggup menghadapi serangan dari luar dan dalam.
+
+Atas keyakinan itu hendaknya saudara pulang, supaya kalau saudara kembali kerja buat merundingkan persoalan yang timbul dalam pekerjaan saudara, supaya Murba Indonesia kelak sampai ke tingkat yang lebih tinggi dan bisa terus ke tingkat setinggi-tingginya, yaitu kemerdekaan Indonesia 100%
+
+* * *
+
+[Arsip Tan Malaka](index.html) | [Sejarah Marxisme di Indonesia](https://www.marxists.org/indonesia/indones/index.htm) | [S�ksi Bahasa Indonesia M.I.A.](https://www.marxists.org/indonesia/index.htm)

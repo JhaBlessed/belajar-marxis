@@ -1,0 +1,2190 @@
+{
+  "collections": [
+    "Alexandra Kollontai",
+    "Che Guevara 1928 - 1967",
+    "Chen Duxiu",
+    "DOKUMEN-DOKUMEN KOMUNIS INTERNASIONAL (1919-1943)",
+    "Duncan Hallas",
+    "Eleanor Marx",
+    "Ernest Mandel",
+    "George Novack",
+    "Georgi Plekhanov",
+    "Karya Lenin",
+    "Karya-Karya Karl Marx dan Friedrich Engels",
+    "Leon Trotsky (1879 - 1940)",
+    "Rosa Luxemburg",
+    "Tan Malaka"
+  ],
+  "htmlFiles": 429,
+  "pdfFiles": 17,
+  "images": 125,
+  "ignoredFiles": 73,
+  "possibleWorks": [
+    {
+      "title": "Komunisme dan Keluarga",
+      "type": "single-html",
+      "authorIds": [
+        "alexandra-kollontai"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Alexandra Kollontai\\www.marxists.org\\indonesia\\archive\\kollontai\\19200101-kollontai-komunismedankeluarga.html",
+      "originalHref": "19200101-kollontai-komunismedankeluarga.html",
+      "collection": "Alexandra Kollontai"
+    },
+    {
+      "title": "Pejuang wanita pada Hari-Hari Revolusi Oktober Besar",
+      "type": "single-html",
+      "authorIds": [
+        "alexandra-kollontai"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Alexandra Kollontai\\www.marxists.org\\indonesia\\archive\\kollontai\\oktober.html",
+      "originalHref": "oktober.html",
+      "collection": "Alexandra Kollontai"
+    },
+    {
+      "title": "Apa Yang Harus Kita Pelajari dan Apa Yang Harus Kita Kerjakan",
+      "type": "single-html",
+      "authorIds": [
+        "che-guevara"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Che Guevara 1928 - 1967\\www.marxists.org\\indonesia\\archive\\guevara\\1958-Apa.html",
+      "originalHref": "1958-Apa.html",
+      "collection": "Che Guevara 1928 - 1967"
+    },
+    {
+      "title": "Esensi Perang Gerilya",
+      "type": "single-html",
+      "authorIds": [
+        "che-guevara"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Che Guevara 1928 - 1967\\www.marxists.org\\indonesia\\archive\\guevara\\1960-Esensi.html",
+      "originalHref": "1960-Esensi.html",
+      "collection": "Che Guevara 1928 - 1967"
+    },
+    {
+      "title": "Tanggung Jawab Kelas Buruh Dalam Revolusi Kita",
+      "type": "single-html",
+      "authorIds": [
+        "che-guevara"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Che Guevara 1928 - 1967\\www.marxists.org\\indonesia\\archive\\guevara\\1960-TanggungJawab.html",
+      "originalHref": "1960-TanggungJawab.html",
+      "collection": "Che Guevara 1928 - 1967"
+    },
+    {
+      "title": "Kader: Tulang Punggung Revolusi",
+      "type": "single-html",
+      "authorIds": [
+        "che-guevara"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Che Guevara 1928 - 1967\\www.marxists.org\\indonesia\\archive\\guevara\\1962-Kader.html",
+      "originalHref": "1962-Kader.html",
+      "collection": "Che Guevara 1928 - 1967"
+    },
+    {
+      "title": "Sosialisme dan Manusia di Kuba",
+      "type": "single-html",
+      "authorIds": [
+        "che-guevara"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Che Guevara 1928 - 1967\\www.marxists.org\\indonesia\\archive\\guevara\\1965-Sosialisme.html",
+      "originalHref": "1965-Sosialisme.html",
+      "collection": "Che Guevara 1928 - 1967"
+    },
+    {
+      "title": "Surat Che Kepada Anak-Anaknya",
+      "type": "single-html",
+      "authorIds": [
+        "che-guevara"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Che Guevara 1928 - 1967\\www.marxists.org\\indonesia\\archive\\guevara\\1965-SuratAnak.html",
+      "originalHref": "1965-SuratAnak.html",
+      "collection": "Che Guevara 1928 - 1967"
+    },
+    {
+      "title": "Surat Che Kepada Orang Tuanya",
+      "type": "single-html",
+      "authorIds": [
+        "che-guevara"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Che Guevara 1928 - 1967\\www.marxists.org\\indonesia\\archive\\guevara\\1965-SuratOrangTua.html",
+      "originalHref": "1965-SuratOrangTua.html",
+      "collection": "Che Guevara 1928 - 1967"
+    },
+    {
+      "title": "Surat Selamat Tinggal Che Kepada Fidel Castro",
+      "type": "single-html",
+      "authorIds": [
+        "che-guevara"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Che Guevara 1928 - 1967\\www.marxists.org\\indonesia\\archive\\guevara\\1965-SuratFidelCastro.html",
+      "originalHref": "1965-SuratFidelCastro.html",
+      "collection": "Che Guevara 1928 - 1967"
+    },
+    {
+      "title": "Surat Che Kepada Hildita",
+      "type": "single-html",
+      "authorIds": [
+        "che-guevara"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Che Guevara 1928 - 1967\\www.marxists.org\\indonesia\\archive\\guevara\\1966-SuratHildita.html",
+      "originalHref": "1966-SuratHildita.html",
+      "collection": "Che Guevara 1928 - 1967"
+    },
+    {
+      "title": "Seruan untuk Semua Kamerad Partai Komunis Tiongkok",
+      "type": "single-html",
+      "authorIds": [
+        "chen-duxiu"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Chen Duxiu\\www.marxists.org\\indonesia\\archive\\chenduxiu\\1929-seruan.html",
+      "originalHref": "1929-seruan.html",
+      "collection": "Chen Duxiu"
+    },
+    {
+      "title": "Tesis Mengenai Persoalan Kebangsaan dan Kolonial",
+      "type": "single-html",
+      "authorIds": [
+        "komintern"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\DOKUMEN-DOKUMEN KOMUNIS INTERNASIONAL (1919-1943)\\www.marxists.org\\indonesia\\archive\\komintern\\1920-tesiskebangsaan.html",
+      "originalHref": "1920-tesiskebangsaan.html",
+      "collection": "DOKUMEN-DOKUMEN KOMUNIS INTERNASIONAL (1919-1943)"
+    },
+    {
+      "title": "Agitasi dan propaganda",
+      "type": "single-html",
+      "authorIds": [
+        "duncan-hallas"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Duncan Hallas\\www.marxists.org\\indonesia\\archive\\hallas\\agitasi.html",
+      "originalHref": "agitasi.html",
+      "collection": "Duncan Hallas"
+    },
+    {
+      "title": "Karl Marx (Beberapa Catatan Ringan)",
+      "type": "single-html",
+      "authorIds": [
+        "eleanor-marx"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Eleanor Marx\\www.marxists.org\\indonesia\\archive\\marx-eleanor\\001.html",
+      "originalHref": "001.html",
+      "collection": "Eleanor Marx"
+    },
+    {
+      "title": "Pengenalan Kepada Teori Ekonomi Marxis",
+      "type": "single-html",
+      "authorIds": [
+        "ernest-mandel"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Ernest Mandel\\www.marxists.org\\indonesia\\archive\\mandel\\002.html",
+      "originalHref": "002.html",
+      "collection": "Ernest Mandel"
+    },
+    {
+      "title": "Gerakan Mahasiswa Revolusioner: Teori dan Praktek",
+      "type": "single-html",
+      "authorIds": [
+        "ernest-mandel"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Ernest Mandel\\www.marxists.org\\indonesia\\archive\\mandel\\001.html",
+      "originalHref": "001.html",
+      "collection": "Ernest Mandel"
+    },
+    {
+      "title": "Sejarah Internasional I dan Internasional II",
+      "type": "single-html",
+      "authorIds": [
+        "george-novack"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\George Novack\\www.marxists.org\\indonesia\\archive\\novack\\001.html",
+      "originalHref": "001.html",
+      "collection": "George Novack"
+    },
+    {
+      "title": "Pengantar Logika Marxisme",
+      "type": "single-html",
+      "authorIds": [
+        "george-novack"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\George Novack\\www.marxists.org\\indonesia\\archive\\novack\\002.html",
+      "originalHref": "002.html",
+      "collection": "George Novack"
+    },
+    {
+      "title": "Peran Individu Dalam Sejarah",
+      "type": "single-html",
+      "authorIds": [
+        "georgi-plekhanov"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Georgi Plekhanov\\www.marxists.org\\indonesia\\archive\\plekhanov\\18980101-plekhanov-peranindividudalamsejarah.html",
+      "originalHref": "18980101-plekhanov-peranindividudalamsejarah.html",
+      "collection": "Georgi Plekhanov"
+    },
+    {
+      "title": "Masalah-Masalah Dasar Marxisme",
+      "type": "pdf",
+      "authorIds": [
+        "georgi-plekhanov"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Georgi Plekhanov\\www.marxists.org\\indonesia\\archive\\plekhanov\\problems.pdf",
+      "originalHref": "problems.pdf",
+      "collection": "Georgi Plekhanov"
+    },
+    {
+      "title": "Seni dan Kehidupan Sosial",
+      "type": "pdf",
+      "authorIds": [
+        "georgi-plekhanov"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Georgi Plekhanov\\www.marxists.org\\indonesia\\archive\\plekhanov\\seni.pdf",
+      "originalHref": "seni.pdf",
+      "collection": "Georgi Plekhanov"
+    },
+    {
+      "title": "Sosialisme Utopian Abad XIX",
+      "type": "pdf",
+      "authorIds": [
+        "georgi-plekhanov"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Georgi Plekhanov\\www.marxists.org\\indonesia\\archive\\plekhanov\\utopian.pdf",
+      "originalHref": "utopian.pdf",
+      "collection": "Georgi Plekhanov"
+    },
+    {
+      "title": "Siapa \"Sahabat Rakyat\" dan bagaimana mereka memusuhi kaum sosial demokrat",
+      "type": "multi-html",
+      "authorIds": [
+        "v-i-lenin"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Karya Lenin\\www.marxists.org\\indonesia\\archive\\lenin\\1894\\SahabatRakyat\\index.html",
+      "originalHref": "1894/SahabatRakyat/index.html",
+      "collection": "Karya Lenin"
+    },
+    {
+      "title": "Selebaran May Day Lenin: Hari Libur Buruh - Satu Mei",
+      "type": "single-html",
+      "authorIds": [
+        "v-i-lenin"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Karya Lenin\\www.marxists.org\\indonesia\\archive\\lenin\\1896\\MayDay.html",
+      "originalHref": "1896/MayDay.html",
+      "collection": "Karya Lenin"
+    },
+    {
+      "title": "Program Kita",
+      "type": "single-html",
+      "authorIds": [
+        "v-i-lenin"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Karya Lenin\\www.marxists.org\\indonesia\\archive\\lenin\\1899\\ProgramKita.html",
+      "originalHref": "1899/ProgramKita.html",
+      "collection": "Karya Lenin"
+    },
+    {
+      "title": "Deklarasi Dewan Editorial Iskra",
+      "type": "single-html",
+      "authorIds": [
+        "v-i-lenin"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Karya Lenin\\www.marxists.org\\indonesia\\archive\\lenin\\1900\\Deklarasi.html",
+      "originalHref": "1900/Deklarasi.html",
+      "collection": "Karya Lenin"
+    },
+    {
+      "title": "Tugas-Tugas Mendesak Gerakan Kita",
+      "type": "single-html",
+      "authorIds": [
+        "v-i-lenin"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Karya Lenin\\www.marxists.org\\indonesia\\archive\\lenin\\1900\\Tugas.html",
+      "originalHref": "1900/Tugas.html",
+      "collection": "Karya Lenin"
+    },
+    {
+      "title": "Dari Mana Kita Mulai",
+      "type": "single-html",
+      "authorIds": [
+        "v-i-lenin"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Karya Lenin\\www.marxists.org\\indonesia\\archive\\lenin\\1901\\Dimana.html",
+      "originalHref": "1901/Dimana.html",
+      "collection": "Karya Lenin"
+    },
+    {
+      "title": "Apa Yang Harus Dikerjakan?",
+      "type": "multi-html",
+      "authorIds": [
+        "v-i-lenin"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Karya Lenin\\www.marxists.org\\indonesia\\archive\\lenin\\1902\\ApaYang\\index.html",
+      "originalHref": "1902/ApaYang/index.html",
+      "collection": "Karya Lenin"
+    },
+    {
+      "title": "Agitasi Politik dan \"Sudut Pandang Kelas\"",
+      "type": "single-html",
+      "authorIds": [
+        "v-i-lenin"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Karya Lenin\\www.marxists.org\\indonesia\\archive\\lenin\\1902\\AgitasiPolitik.html",
+      "originalHref": "1902/AgitasiPolitik.html",
+      "collection": "Karya Lenin"
+    },
+    {
+      "title": "Sebuah Surat Untuk Seorang Kamerad Mengenai Tugas-Tugas Organisasional Kita",
+      "type": "single-html",
+      "authorIds": [
+        "v-i-lenin"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Karya Lenin\\www.marxists.org\\indonesia\\archive\\lenin\\1902\\1902-TugasOrganisasional.html",
+      "originalHref": "1902/1902-TugasOrganisasional.html",
+      "collection": "Karya Lenin"
+    },
+    {
+      "title": "Kepada Kaum Miskin Desa",
+      "type": "multi-html",
+      "authorIds": [
+        "v-i-lenin"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Karya Lenin\\www.marxists.org\\indonesia\\archive\\lenin\\1903\\KepadaKaumMiskin\\index.html",
+      "originalHref": "1903/KepadaKaumMiskin/index.html",
+      "collection": "Karya Lenin"
+    },
+    {
+      "title": "Tugas-Tugas Demokratik Kaum Proletariat Revolusioner",
+      "type": "single-html",
+      "authorIds": [
+        "v-i-lenin"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Karya Lenin\\www.marxists.org\\indonesia\\archive\\lenin\\1905\\TugasDemokratik.html",
+      "originalHref": "1905/TugasDemokratik.html",
+      "collection": "Karya Lenin"
+    },
+    {
+      "title": "Sosialisme Borjuis Kecil dan Sosialisme Proletar",
+      "type": "single-html",
+      "authorIds": [
+        "v-i-lenin"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Karya Lenin\\www.marxists.org\\indonesia\\archive\\lenin\\1905\\Sosialisme.html",
+      "originalHref": "1905/Sosialisme.html",
+      "collection": "Karya Lenin"
+    },
+    {
+      "title": "Sosialisme dan Kaum Tani",
+      "type": "single-html",
+      "authorIds": [
+        "v-i-lenin"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Karya Lenin\\www.marxists.org\\indonesia\\archive\\lenin\\1905\\SosialismeDanKaumTani.html",
+      "originalHref": "1905/SosialismeDanKaumTani.html",
+      "collection": "Karya Lenin"
+    },
+    {
+      "title": "Sosialisme dan Agama",
+      "type": "single-html",
+      "authorIds": [
+        "v-i-lenin"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Karya Lenin\\www.marxists.org\\indonesia\\archive\\lenin\\1905\\SosialismeDanAgama.html",
+      "originalHref": "1905/SosialismeDanAgama.html",
+      "collection": "Karya Lenin"
+    },
+    {
+      "title": "Kebebasan Mengkritik dan Kesatuan Tindakan",
+      "type": "single-html",
+      "authorIds": [
+        "v-i-lenin"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Karya Lenin\\www.marxists.org\\indonesia\\archive\\lenin\\1906\\Kebebasan.html",
+      "originalHref": "1906/Kebebasan.html",
+      "collection": "Karya Lenin"
+    },
+    {
+      "title": "Pelajaran Dari Pemberontakan Moskow",
+      "type": "single-html",
+      "authorIds": [
+        "v-i-lenin"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Karya Lenin\\www.marxists.org\\indonesia\\archive\\lenin\\1906\\Pelajaran.html",
+      "originalHref": "1906/Pelajaran.html",
+      "collection": "Karya Lenin"
+    },
+    {
+      "title": "Perang Gerilya",
+      "type": "single-html",
+      "authorIds": [
+        "v-i-lenin"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Karya Lenin\\www.marxists.org\\indonesia\\archive\\lenin\\1906\\Perang.html",
+      "originalHref": "1906/Perang.html",
+      "collection": "Karya Lenin"
+    },
+    {
+      "title": "VIII. Kongres Telah Menyimpulkan",
+      "type": "single-html",
+      "authorIds": [
+        "v-i-lenin"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Karya Lenin\\www.marxists.org\\indonesia\\archive\\lenin\\1906\\Kongres.html",
+      "originalHref": "1906/Kongres.html",
+      "collection": "Karya Lenin"
+    },
+    {
+      "title": "Kekuatan dan Kelemahan Revolusi Rusia",
+      "type": "single-html",
+      "authorIds": [
+        "v-i-lenin"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Karya Lenin\\www.marxists.org\\indonesia\\archive\\lenin\\1907\\Kekuatan.html",
+      "originalHref": "1907/Kekuatan.html",
+      "collection": "Karya Lenin"
+    },
+    {
+      "title": "Marxisme dan Revisionisme",
+      "type": "single-html",
+      "authorIds": [
+        "v-i-lenin"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Karya Lenin\\www.marxists.org\\indonesia\\archive\\lenin\\1908\\marx-rev.html",
+      "originalHref": "1908/marx-rev.html",
+      "collection": "Karya Lenin"
+    },
+    {
+      "title": "Tentang Penilaian Revolusi Rusia",
+      "type": "single-html",
+      "authorIds": [
+        "v-i-lenin"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Karya Lenin\\www.marxists.org\\indonesia\\archive\\lenin\\1908\\Penilaian.html",
+      "originalHref": "1908/Penilaian.html",
+      "collection": "Karya Lenin"
+    },
+    {
+      "title": "Sikap Partai Buruh terhadap Agama",
+      "type": "single-html",
+      "authorIds": [
+        "v-i-lenin"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Karya Lenin\\www.marxists.org\\indonesia\\archive\\lenin\\19090513-lenin-sikappartaiburuhterhadapagama.html",
+      "originalHref": "19090513-lenin-sikappartaiburuhterhadapagama.html",
+      "collection": "Karya Lenin"
+    },
+    {
+      "title": "Pelajaran Dari Revolusi",
+      "type": "single-html",
+      "authorIds": [
+        "v-i-lenin"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Karya Lenin\\www.marxists.org\\indonesia\\archive\\lenin\\1910\\Pelajaran.html",
+      "originalHref": "1910/Pelajaran.html",
+      "collection": "Karya Lenin"
+    },
+    {
+      "title": "Kampanye Pemilihan Untuk Duma Keempat dan Tugas-Tugas Kaum Sosial-Demokrat Revolusioner",
+      "type": "single-html",
+      "authorIds": [
+        "v-i-lenin"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Karya Lenin\\www.marxists.org\\indonesia\\archive\\lenin\\1912\\Kampanye.html",
+      "originalHref": "1912/Kampanye.html",
+      "collection": "Karya Lenin"
+    },
+    {
+      "title": "Kenaikan Revolusioner",
+      "type": "single-html",
+      "authorIds": [
+        "v-i-lenin"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Karya Lenin\\www.marxists.org\\indonesia\\archive\\lenin\\1912\\Kenaikan.html",
+      "originalHref": "1912/Kenaikan.html",
+      "collection": "Karya Lenin"
+    },
+    {
+      "title": "Situasi Di Dalam PBSDR dan Tugas-Tugas Segera Partai",
+      "type": "single-html",
+      "authorIds": [
+        "v-i-lenin"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Karya Lenin\\www.marxists.org\\indonesia\\archive\\lenin\\1912\\Situasi.html",
+      "originalHref": "1912/Situasi.html",
+      "collection": "Karya Lenin"
+    },
+    {
+      "title": "Tiga Sumber Dan Tiga Komponen Marxisme",
+      "type": "single-html",
+      "authorIds": [
+        "v-i-lenin"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Karya Lenin\\www.marxists.org\\indonesia\\archive\\lenin\\1913\\tigasumb.html",
+      "originalHref": "1913/tigasumb.html",
+      "collection": "Karya Lenin"
+    },
+    {
+      "title": "Takdir Historis bagi Doktrin Karl Marx",
+      "type": "single-html",
+      "authorIds": [
+        "v-i-lenin"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Karya Lenin\\www.marxists.org\\indonesia\\archive\\lenin\\1913\\Takdir.html",
+      "originalHref": "1913/Takdir.html",
+      "collection": "Karya Lenin"
+    },
+    {
+      "title": "Hari Jadi Pravda",
+      "type": "single-html",
+      "authorIds": [
+        "v-i-lenin"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Karya Lenin\\www.marxists.org\\indonesia\\archive\\lenin\\1913\\1913-HariJadiPravda.html",
+      "originalHref": "1913/1913-HariJadiPravda.html",
+      "collection": "Karya Lenin"
+    },
+    {
+      "title": "Di Ambang Batas",
+      "type": "single-html",
+      "authorIds": [
+        "v-i-lenin"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Karya Lenin\\www.marxists.org\\indonesia\\archive\\lenin\\19151120-lenin-diambangbatas.html",
+      "originalHref": "19151120-lenin-diambangbatas.html",
+      "collection": "Karya Lenin"
+    },
+    {
+      "title": "Revolusi Sosialis dan Hak Sebuah Bangsa untuk Menentukan Nasib Sendiri",
+      "type": "single-html",
+      "authorIds": [
+        "v-i-lenin"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Karya Lenin\\www.marxists.org\\indonesia\\archive\\lenin\\1916\\1916-hakpenentuannasibsendiri.html",
+      "originalHref": "1916/1916-hakpenentuannasibsendiri.html",
+      "collection": "Karya Lenin"
+    },
+    {
+      "title": "Imperialisme sebagai Tahapan Khusus Kapitalisme",
+      "type": "single-html",
+      "authorIds": [
+        "v-i-lenin"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Karya Lenin\\www.marxists.org\\indonesia\\archive\\lenin\\1916\\1916-tahapankhusus.html",
+      "originalHref": "1916/1916-tahapankhusus.html",
+      "collection": "Karya Lenin"
+    },
+    {
+      "title": "Tugas Kaum Proletar Dalam Revolusi Sekarang Ini (Tesis April)",
+      "type": "single-html",
+      "authorIds": [
+        "v-i-lenin"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Karya Lenin\\www.marxists.org\\indonesia\\archive\\lenin\\19170407-lenin-tesisapril.html",
+      "originalHref": "19170407-lenin-tesisapril.html",
+      "collection": "Karya Lenin"
+    },
+    {
+      "title": "Kekuasaan Rangkap",
+      "type": "single-html",
+      "authorIds": [
+        "v-i-lenin"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Karya Lenin\\www.marxists.org\\indonesia\\archive\\lenin\\1917\\KekuasaanRangkap.html",
+      "originalHref": "1917/KekuasaanRangkap.html",
+      "collection": "Karya Lenin"
+    },
+    {
+      "title": "Suatu Pemerintah Revolusioner yang Kuat",
+      "type": "single-html",
+      "authorIds": [
+        "v-i-lenin"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Karya Lenin\\www.marxists.org\\indonesia\\archive\\lenin\\1917\\SuatuPemerintah.html",
+      "originalHref": "1917/SuatuPemerintah.html",
+      "collection": "Karya Lenin"
+    },
+    {
+      "title": "Apakah Kekuasaan Rangkap Telah Lenyap?",
+      "type": "single-html",
+      "authorIds": [
+        "v-i-lenin"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Karya Lenin\\www.marxists.org\\indonesia\\archive\\lenin\\1917\\ApakahKekuasaan.html",
+      "originalHref": "1917/ApakahKekuasaan.html",
+      "collection": "Karya Lenin"
+    },
+    {
+      "title": "Sifat Merugikan Omong Kosong",
+      "type": "single-html",
+      "authorIds": [
+        "v-i-lenin"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Karya Lenin\\www.marxists.org\\indonesia\\archive\\lenin\\1917\\Sifat.html",
+      "originalHref": "1917/Sifat.html",
+      "collection": "Karya Lenin"
+    },
+    {
+      "title": "Bolshevisme dan \"Demoralisasi\" Tentara",
+      "type": "single-html",
+      "authorIds": [
+        "v-i-lenin"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Karya Lenin\\www.marxists.org\\indonesia\\archive\\lenin\\1917\\Demoralisasi.html",
+      "originalHref": "1917/Demoralisasi.html",
+      "collection": "Karya Lenin"
+    },
+    {
+      "title": "Keruntuhan Ekonomi dan Perjuangan Proletariat Melawannya",
+      "type": "single-html",
+      "authorIds": [
+        "v-i-lenin"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Karya Lenin\\www.marxists.org\\indonesia\\archive\\lenin\\1917\\Keruntuhan.html",
+      "originalHref": "1917/Keruntuhan.html",
+      "collection": "Karya Lenin"
+    },
+    {
+      "title": "Titik Balik",
+      "type": "single-html",
+      "authorIds": [
+        "v-i-lenin"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Karya Lenin\\www.marxists.org\\indonesia\\archive\\lenin\\1917\\TitikBalik.html",
+      "originalHref": "1917/TitikBalik.html",
+      "collection": "Karya Lenin"
+    },
+    {
+      "title": "Sumber Kelas Para Cavaignac Masa Ini dan \"Masa Yang Akan Datang\"",
+      "type": "single-html",
+      "authorIds": [
+        "v-i-lenin"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Karya Lenin\\www.marxists.org\\indonesia\\archive\\lenin\\1917\\SumberKelas.html",
+      "originalHref": "1917/SumberKelas.html",
+      "collection": "Karya Lenin"
+    },
+    {
+      "title": "Awal Bonapartisme",
+      "type": "single-html",
+      "authorIds": [
+        "v-i-lenin"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Karya Lenin\\www.marxists.org\\indonesia\\archive\\lenin\\19170729-lenin-awalbonapartisme.html",
+      "originalHref": "19170729-lenin-awalbonapartisme.html",
+      "collection": "Karya Lenin"
+    },
+    {
+      "title": "Negara dan Revolusi",
+      "type": "multi-html",
+      "authorIds": [
+        "v-i-lenin"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Karya Lenin\\www.marxists.org\\indonesia\\archive\\lenin\\19170901-lenin-negaradanrevolusi\\index.html",
+      "originalHref": "19170901-lenin-negaradanrevolusi/index.html",
+      "collection": "Karya Lenin"
+    },
+    {
+      "title": "Surat Lenin Untuk Komite Pusat PBSDR",
+      "type": "single-html",
+      "authorIds": [
+        "v-i-lenin"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Karya Lenin\\www.marxists.org\\indonesia\\archive\\lenin\\19170830-lenin-kepadakppbsdr.html",
+      "originalHref": "19170830-lenin-kepadakppbsdr.html",
+      "collection": "Karya Lenin"
+    },
+    {
+      "title": "Tentang Kompromi",
+      "type": "single-html",
+      "authorIds": [
+        "v-i-lenin"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Karya Lenin\\www.marxists.org\\indonesia\\archive\\lenin\\1917\\Kompromi.html",
+      "originalHref": "1917/Kompromi.html",
+      "collection": "Karya Lenin"
+    },
+    {
+      "title": "Marxisme dan Pemberontakan",
+      "type": "single-html",
+      "authorIds": [
+        "v-i-lenin"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Karya Lenin\\www.marxists.org\\indonesia\\archive\\lenin\\1917\\Marxisme.html",
+      "originalHref": "1917/Marxisme.html",
+      "collection": "Karya Lenin"
+    },
+    {
+      "title": "Draft Regulasi Atas Kontrol Buruh",
+      "type": "single-html",
+      "authorIds": [
+        "v-i-lenin"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Karya Lenin\\www.marxists.org\\indonesia\\archive\\lenin\\1917\\DraftKontrol.html",
+      "originalHref": "1917/DraftKontrol.html",
+      "collection": "Karya Lenin"
+    },
+    {
+      "title": "Aliansi Antara Kelas Buruh dan Petani Terhisap",
+      "type": "single-html",
+      "authorIds": [
+        "v-i-lenin"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Karya Lenin\\www.marxists.org\\indonesia\\archive\\lenin\\1917\\Aliansi.html",
+      "originalHref": "1917/Aliansi.html",
+      "collection": "Karya Lenin"
+    },
+    {
+      "title": "Tesis Mengenai Majelis Konstituante",
+      "type": "single-html",
+      "authorIds": [
+        "v-i-lenin"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Karya Lenin\\www.marxists.org\\indonesia\\archive\\lenin\\19171211-lenin-tesismk.html",
+      "originalHref": "19171211-lenin-tesismk.html",
+      "collection": "Karya Lenin"
+    },
+    {
+      "title": "Revolusi Proletariat dan Kautsky si Pengkhianat",
+      "type": "multi-html",
+      "authorIds": [
+        "v-i-lenin"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Karya Lenin\\www.marxists.org\\indonesia\\archive\\lenin\\19181101-lenin-kautskypengkhianat\\index.html",
+      "originalHref": "19181101-lenin-kautskypengkhianat/index.html",
+      "collection": "Karya Lenin"
+    },
+    {
+      "title": "Pemilihan Majelis Konstituante dan Kediktatoran Proletariat",
+      "type": "single-html",
+      "authorIds": [
+        "v-i-lenin"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Karya Lenin\\www.marxists.org\\indonesia\\archive\\lenin\\19191216-lenin-pemilihanmk.html",
+      "originalHref": "19191216-lenin-pemilihanmk.html",
+      "collection": "Karya Lenin"
+    },
+    {
+      "title": "Kepada para Pekerja Perempuan",
+      "type": "single-html",
+      "authorIds": [
+        "v-i-lenin"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Karya Lenin\\www.marxists.org\\indonesia\\archive\\lenin\\1920\\20-kpp.html",
+      "originalHref": "1920/20-kpp.html",
+      "collection": "Karya Lenin"
+    },
+    {
+      "title": "Komunisme \"Sayap Kiri\" – Penyakit Kekanak-kanakan",
+      "type": "multi-html",
+      "authorIds": [
+        "v-i-lenin"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Karya Lenin\\www.marxists.org\\indonesia\\archive\\lenin\\19200401-lenin-komunismesayapkiri\\index.html",
+      "originalHref": "19200401-lenin-komunismesayapkiri/index.html",
+      "collection": "Karya Lenin"
+    },
+    {
+      "title": "Laporan Komisi Tentang Permasalahan Nasional dan Kolonial",
+      "type": "single-html",
+      "authorIds": [
+        "v-i-lenin"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Karya Lenin\\www.marxists.org\\indonesia\\archive\\lenin\\1920\\Laporan.html",
+      "originalHref": "1920/Laporan.html",
+      "collection": "Karya Lenin"
+    },
+    {
+      "title": "Tugas-Tugas Liga Pemuda",
+      "type": "single-html",
+      "authorIds": [
+        "v-i-lenin"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Karya Lenin\\www.marxists.org\\indonesia\\archive\\lenin\\1920\\TugasLigaPemuda.html",
+      "originalHref": "1920/TugasLigaPemuda.html",
+      "collection": "Karya Lenin"
+    },
+    {
+      "title": "Pendahuluan Sumbangan untuk Kritik terhadap Filsafat Hak Hegel",
+      "type": "single-html",
+      "authorIds": [
+        "karl-marx",
+        "friedrich-engels"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Karya-Karya Karl Marx dan Friedrich Engels\\www.marxists.org\\indonesia\\archive\\marx-engels\\1844\\PendahuluanSumbangan.html",
+      "originalHref": "1844/PendahuluanSumbangan.html",
+      "collection": "Karya-Karya Karl Marx dan Friedrich Engels"
+    },
+    {
+      "title": "Keluarga Suci",
+      "type": "multi-html",
+      "authorIds": [
+        "karl-marx",
+        "friedrich-engels"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Karya-Karya Karl Marx dan Friedrich Engels\\www.marxists.org\\indonesia\\archive\\marx-engels\\1845\\keluarga\\index.html",
+      "originalHref": "1845/keluarga/index.html",
+      "collection": "Karya-Karya Karl Marx dan Friedrich Engels"
+    },
+    {
+      "title": "Tesis tentang Feuerbach (Versi Asli)",
+      "type": "single-html",
+      "authorIds": [
+        "karl-marx",
+        "friedrich-engels"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Karya-Karya Karl Marx dan Friedrich Engels\\www.marxists.org\\indonesia\\archive\\marx-engels\\18450401-tesisfeuerbachversiasli.html",
+      "originalHref": "18450401-tesisfeuerbachversiasli.html",
+      "collection": "Karya-Karya Karl Marx dan Friedrich Engels"
+    },
+    {
+      "title": "Tesis tentang Feuerbach (Versi Suntingan Engels)",
+      "type": "single-html",
+      "authorIds": [
+        "karl-marx",
+        "friedrich-engels"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Karya-Karya Karl Marx dan Friedrich Engels\\www.marxists.org\\indonesia\\archive\\marx-engels\\18450401-tesisfeuerbachversisuntinganengels.html",
+      "originalHref": "18450401-tesisfeuerbachversisuntinganengels.html",
+      "collection": "Karya-Karya Karl Marx dan Friedrich Engels"
+    },
+    {
+      "title": "Surat Marx pada P.V. Annenkov",
+      "type": "single-html",
+      "authorIds": [
+        "karl-marx",
+        "friedrich-engels"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Karya-Karya Karl Marx dan Friedrich Engels\\www.marxists.org\\indonesia\\archive\\marx-engels\\1847\\kemiskinan\\Lampiran1.html",
+      "originalHref": "1847/kemiskinan/Lampiran1.html",
+      "collection": "Karya-Karya Karl Marx dan Friedrich Engels"
+    },
+    {
+      "title": "Kemiskinan Filsafat",
+      "type": "multi-html",
+      "authorIds": [
+        "karl-marx",
+        "friedrich-engels"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Karya-Karya Karl Marx dan Friedrich Engels\\www.marxists.org\\indonesia\\archive\\marx-engels\\1847\\kemiskinan\\index.html",
+      "originalHref": "1847/kemiskinan/index.html",
+      "collection": "Karya-Karya Karl Marx dan Friedrich Engels"
+    },
+    {
+      "title": "Anggaran Dasar Liga Komunis",
+      "type": "single-html",
+      "authorIds": [
+        "karl-marx",
+        "friedrich-engels"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Karya-Karya Karl Marx dan Friedrich Engels\\www.marxists.org\\indonesia\\archive\\marx-engels\\1847\\anggaran-dasar-liga-komunis.html",
+      "originalHref": "1847/anggaran-dasar-liga-komunis.html",
+      "collection": "Karya-Karya Karl Marx dan Friedrich Engels"
+    },
+    {
+      "title": "Kerja-upahan dan Kapital",
+      "type": "multi-html",
+      "authorIds": [
+        "karl-marx",
+        "friedrich-engels"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Karya-Karya Karl Marx dan Friedrich Engels\\www.marxists.org\\indonesia\\archive\\marx-engels\\1847\\kerja\\index.html",
+      "originalHref": "1847/kerja/index.html",
+      "collection": "Karya-Karya Karl Marx dan Friedrich Engels"
+    },
+    {
+      "title": "Prinsip-Prinsip Komunisme",
+      "type": "single-html",
+      "authorIds": [
+        "karl-marx",
+        "friedrich-engels"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Karya-Karya Karl Marx dan Friedrich Engels\\www.marxists.org\\indonesia\\archive\\marx-engels\\1847\\1847-PrinsipKomunisme.html",
+      "originalHref": "1847/1847-PrinsipKomunisme.html",
+      "collection": "Karya-Karya Karl Marx dan Friedrich Engels"
+    },
+    {
+      "title": "Mengenai Masalah Perdagangan Bebas",
+      "type": "single-html",
+      "authorIds": [
+        "karl-marx",
+        "friedrich-engels"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Karya-Karya Karl Marx dan Friedrich Engels\\www.marxists.org\\indonesia\\archive\\marx-engels\\1848\\free-trade.html",
+      "originalHref": "1848/free-trade.html",
+      "collection": "Karya-Karya Karl Marx dan Friedrich Engels"
+    },
+    {
+      "title": "Manifesto Partai Komunis",
+      "type": "multi-html",
+      "authorIds": [
+        "karl-marx",
+        "friedrich-engels"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Karya-Karya Karl Marx dan Friedrich Engels\\www.marxists.org\\indonesia\\archive\\marx-engels\\18480221-manifestokomunis\\index.html",
+      "originalHref": "18480221-manifestokomunis/index.html",
+      "collection": "Karya-Karya Karl Marx dan Friedrich Engels"
+    },
+    {
+      "title": "Perang Tani di Jerman",
+      "type": "multi-html",
+      "authorIds": [
+        "karl-marx",
+        "friedrich-engels"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Karya-Karya Karl Marx dan Friedrich Engels\\www.marxists.org\\indonesia\\archive\\marx-engels\\1850\\PerangTani\\index.html",
+      "originalHref": "1850/PerangTani/index.html",
+      "collection": "Karya-Karya Karl Marx dan Friedrich Engels"
+    },
+    {
+      "title": "Brumaire XVIII Louis Bonaparte",
+      "type": "multi-html",
+      "authorIds": [
+        "karl-marx",
+        "friedrich-engels"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Karya-Karya Karl Marx dan Friedrich Engels\\www.marxists.org\\indonesia\\archive\\marx-engels\\1852\\brumaire\\index.html",
+      "originalHref": "1852/brumaire/index.html",
+      "collection": "Karya-Karya Karl Marx dan Friedrich Engels"
+    },
+    {
+      "title": "Kata Pengantar Pada Sebuah Sumbangan Untuk Kritik Terhadap Ekonomi Politik",
+      "type": "single-html",
+      "authorIds": [
+        "karl-marx",
+        "friedrich-engels"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Karya-Karya Karl Marx dan Friedrich Engels\\www.marxists.org\\indonesia\\archive\\marx-engels\\1859\\pengantar-kritik.html",
+      "originalHref": "1859/pengantar-kritik.html",
+      "collection": "Karya-Karya Karl Marx dan Friedrich Engels"
+    },
+    {
+      "title": "Sebuah Sumbangan pada Kritik atas Ekonomi Politik, hal.61-64",
+      "type": "single-html",
+      "authorIds": [
+        "karl-marx",
+        "friedrich-engels"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Karya-Karya Karl Marx dan Friedrich Engels\\www.marxists.org\\indonesia\\archive\\marx-engels\\1847\\kemiskinan\\Lampiran3.html",
+      "originalHref": "1847/kemiskinan/Lampiran3.html",
+      "collection": "Karya-Karya Karl Marx dan Friedrich Engels"
+    },
+    {
+      "title": "Tentang Proudhon",
+      "type": "single-html",
+      "authorIds": [
+        "karl-marx",
+        "friedrich-engels"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Karya-Karya Karl Marx dan Friedrich Engels\\www.marxists.org\\indonesia\\archive\\marx-engels\\1865\\tentang-proudhon.html",
+      "originalHref": "1865/tentang-proudhon.html",
+      "collection": "Karya-Karya Karl Marx dan Friedrich Engels"
+    },
+    {
+      "title": "Upah Harga dan Laba",
+      "type": "single-html",
+      "authorIds": [
+        "karl-marx",
+        "friedrich-engels"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Karya-Karya Karl Marx dan Friedrich Engels\\www.marxists.org\\indonesia\\archive\\marx-engels\\1865\\upah-harga-laba.html",
+      "originalHref": "1865/upah-harga-laba.html",
+      "collection": "Karya-Karya Karl Marx dan Friedrich Engels"
+    },
+    {
+      "title": "[PDF Format*]",
+      "type": "pdf",
+      "authorIds": [
+        "karl-marx",
+        "friedrich-engels"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Karya-Karya Karl Marx dan Friedrich Engels\\www.marxists.org\\indonesia\\archive\\marx-engels\\1865\\UpahHargaLaba.pdf",
+      "originalHref": "1865/UpahHargaLaba.pdf",
+      "collection": "Karya-Karya Karl Marx dan Friedrich Engels"
+    },
+    {
+      "title": "Surat Marx pada J.B. Schweitzer",
+      "type": "single-html",
+      "authorIds": [
+        "karl-marx",
+        "friedrich-engels"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Karya-Karya Karl Marx dan Friedrich Engels\\www.marxists.org\\indonesia\\archive\\marx-engels\\1847\\kemiskinan\\Lampiran2.html",
+      "originalHref": "1847/kemiskinan/Lampiran2.html",
+      "collection": "Karya-Karya Karl Marx dan Friedrich Engels"
+    },
+    {
+      "title": "Kapital I",
+      "type": "single-html",
+      "authorIds": [
+        "karl-marx",
+        "friedrich-engels"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Karya-Karya Karl Marx dan Friedrich Engels\\www.marxists.org\\indonesia\\archive\\marx-engels\\1867\\capital01.html",
+      "originalHref": "1867/capital01.html",
+      "collection": "Karya-Karya Karl Marx dan Friedrich Engels"
+    },
+    {
+      "title": "Tentang Das Kapital Marx",
+      "type": "pdf",
+      "authorIds": [
+        "karl-marx",
+        "friedrich-engels"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Karya-Karya Karl Marx dan Friedrich Engels\\www.marxists.org\\indonesia\\archive\\marx-engels\\1868\\On-DKapital.pdf",
+      "originalHref": "1868/On-DKapital.pdf",
+      "collection": "Karya-Karya Karl Marx dan Friedrich Engels"
+    },
+    {
+      "title": "Penghapusan Hak Milik Tanah",
+      "type": "single-html",
+      "authorIds": [
+        "karl-marx",
+        "friedrich-engels"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Karya-Karya Karl Marx dan Friedrich Engels\\www.marxists.org\\indonesia\\archive\\marx-engels\\1869\\PenghapusanHak.html",
+      "originalHref": "1869/PenghapusanHak.html",
+      "collection": "Karya-Karya Karl Marx dan Friedrich Engels"
+    },
+    {
+      "title": "Masalah Perumahan",
+      "type": "pdf",
+      "authorIds": [
+        "karl-marx",
+        "friedrich-engels"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Karya-Karya Karl Marx dan Friedrich Engels\\www.marxists.org\\indonesia\\archive\\marx-engels\\1872\\MasalahPerumahan.pdf",
+      "originalHref": "1872/MasalahPerumahan.pdf",
+      "collection": "Karya-Karya Karl Marx dan Friedrich Engels"
+    },
+    {
+      "title": "Surat kepada Cuno Theodor, 24 Januari 1872",
+      "type": "single-html",
+      "authorIds": [
+        "karl-marx",
+        "friedrich-engels"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Karya-Karya Karl Marx dan Friedrich Engels\\www.marxists.org\\indonesia\\archive\\marx-engels\\1872\\surat24jan1872.html",
+      "originalHref": "1872/surat24jan1872.html",
+      "collection": "Karya-Karya Karl Marx dan Friedrich Engels"
+    },
+    {
+      "title": "Tentang Kongres Den Haag",
+      "type": "single-html",
+      "authorIds": [
+        "karl-marx",
+        "friedrich-engels"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Karya-Karya Karl Marx dan Friedrich Engels\\www.marxists.org\\indonesia\\archive\\marx-engels\\1872\\KongresDenHaag.html",
+      "originalHref": "1872/KongresDenHaag.html",
+      "collection": "Karya-Karya Karl Marx dan Friedrich Engels"
+    },
+    {
+      "title": "Mengenai Otoritas",
+      "type": "single-html",
+      "authorIds": [
+        "karl-marx",
+        "friedrich-engels"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Karya-Karya Karl Marx dan Friedrich Engels\\www.marxists.org\\indonesia\\archive\\marx-engels\\1873\\1873-MengenaiOtoritas.html",
+      "originalHref": "1873/1873-MengenaiOtoritas.html",
+      "collection": "Karya-Karya Karl Marx dan Friedrich Engels"
+    },
+    {
+      "title": "Ketidakacuhan Politik",
+      "type": "single-html",
+      "authorIds": [
+        "karl-marx",
+        "friedrich-engels"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Karya-Karya Karl Marx dan Friedrich Engels\\www.marxists.org\\indonesia\\archive\\marx-engels\\18730101-marx-ketidakacuhanpolitik.html",
+      "originalHref": "18730101-marx-ketidakacuhanpolitik.html",
+      "collection": "Karya-Karya Karl Marx dan Friedrich Engels"
+    },
+    {
+      "title": "Peranan Yang Dimainkan Kerja Dalam Peralihan Dari Kera Ke Manusia",
+      "type": "single-html",
+      "authorIds": [
+        "karl-marx",
+        "friedrich-engels"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Karya-Karya Karl Marx dan Friedrich Engels\\www.marxists.org\\indonesia\\archive\\marx-engels\\1876\\apetoman.html",
+      "originalHref": "1876/apetoman.html",
+      "collection": "Karya-Karya Karl Marx dan Friedrich Engels"
+    },
+    {
+      "title": "Anti Duhring",
+      "type": "pdf",
+      "authorIds": [
+        "karl-marx",
+        "friedrich-engels"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Karya-Karya Karl Marx dan Friedrich Engels\\www.marxists.org\\indonesia\\archive\\marx-engels\\1877\\anti-duhring.pdf",
+      "originalHref": "1877/anti-duhring.pdf",
+      "collection": "Karya-Karya Karl Marx dan Friedrich Engels"
+    },
+    {
+      "title": "Kata-Pengantar Lama Pada Anti-Dühring. Tentang Dialektika",
+      "type": "single-html",
+      "authorIds": [
+        "karl-marx",
+        "friedrich-engels"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Karya-Karya Karl Marx dan Friedrich Engels\\www.marxists.org\\indonesia\\archive\\marx-engels\\1878\\tentang-dialektika.html",
+      "originalHref": "1878/tentang-dialektika.html",
+      "collection": "Karya-Karya Karl Marx dan Friedrich Engels"
+    },
+    {
+      "title": "Surat Marx dan Engels kepada Bebel, Liebknecht, Bracke dan Lainnya (“Surat Edaran”)",
+      "type": "single-html",
+      "authorIds": [
+        "karl-marx",
+        "friedrich-engels"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Karya-Karya Karl Marx dan Friedrich Engels\\www.marxists.org\\indonesia\\archive\\marx-engels\\1879\\79_09_18.html",
+      "originalHref": "1879/79_09_18.html",
+      "collection": "Karya-Karya Karl Marx dan Friedrich Engels"
+    },
+    {
+      "title": "Sosialisme Utopis dan Sosialisme Ilmiah",
+      "type": "multi-html",
+      "authorIds": [
+        "karl-marx",
+        "friedrich-engels"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Karya-Karya Karl Marx dan Friedrich Engels\\www.marxists.org\\indonesia\\archive\\marx-engels\\18800420-sosialismeutopis\\index.html",
+      "originalHref": "18800420-sosialismeutopis/index.html",
+      "collection": "Karya-Karya Karl Marx dan Friedrich Engels"
+    },
+    {
+      "title": "Upah Sehari Yang Layak Bagi Kerja Sehari Yang Layak!",
+      "type": "single-html",
+      "authorIds": [
+        "karl-marx",
+        "friedrich-engels"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Karya-Karya Karl Marx dan Friedrich Engels\\www.marxists.org\\indonesia\\archive\\marx-engels\\1881\\kerja.html",
+      "originalHref": "1881/kerja.html",
+      "collection": "Karya-Karya Karl Marx dan Friedrich Engels"
+    },
+    {
+      "title": "Klas-Klas Masyarakat Diperlukan Dan Berlebihan",
+      "type": "single-html",
+      "authorIds": [
+        "karl-marx",
+        "friedrich-engels"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Karya-Karya Karl Marx dan Friedrich Engels\\www.marxists.org\\indonesia\\archive\\marx-engels\\1881\\klas.html",
+      "originalHref": "1881/klas.html",
+      "collection": "Karya-Karya Karl Marx dan Friedrich Engels"
+    },
+    {
+      "title": "Dialektika",
+      "type": "single-html",
+      "authorIds": [
+        "karl-marx",
+        "friedrich-engels"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Karya-Karya Karl Marx dan Friedrich Engels\\www.marxists.org\\indonesia\\archive\\marx-engels\\1883\\dialektika.html",
+      "originalHref": "1883/dialektika.html",
+      "collection": "Karya-Karya Karl Marx dan Friedrich Engels"
+    },
+    {
+      "title": "Marx dan Neue Rheinische Zeitung (1848-49)",
+      "type": "single-html",
+      "authorIds": [
+        "karl-marx",
+        "friedrich-engels"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Karya-Karya Karl Marx dan Friedrich Engels\\www.marxists.org\\indonesia\\archive\\marx-engels\\1884\\1884-MarxDanNeue.html",
+      "originalHref": "1884/1884-MarxDanNeue.html",
+      "collection": "Karya-Karya Karl Marx dan Friedrich Engels"
+    },
+    {
+      "title": "Bag 1",
+      "type": "pdf",
+      "authorIds": [
+        "karl-marx",
+        "friedrich-engels"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Karya-Karya Karl Marx dan Friedrich Engels\\www.marxists.org\\indonesia\\archive\\marx-engels\\1885\\kapital2-bag1.pdf",
+      "originalHref": "1885/kapital2-bag1.pdf",
+      "collection": "Karya-Karya Karl Marx dan Friedrich Engels"
+    },
+    {
+      "title": "Bag 2",
+      "type": "pdf",
+      "authorIds": [
+        "karl-marx",
+        "friedrich-engels"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Karya-Karya Karl Marx dan Friedrich Engels\\www.marxists.org\\indonesia\\archive\\marx-engels\\1885\\kapital2-bag2.pdf",
+      "originalHref": "1885/kapital2-bag2.pdf",
+      "collection": "Karya-Karya Karl Marx dan Friedrich Engels"
+    },
+    {
+      "title": "Bag 3",
+      "type": "pdf",
+      "authorIds": [
+        "karl-marx",
+        "friedrich-engels"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Karya-Karya Karl Marx dan Friedrich Engels\\www.marxists.org\\indonesia\\archive\\marx-engels\\1885\\kapital2-bag3.pdf",
+      "originalHref": "1885/kapital2-bag3.pdf",
+      "collection": "Karya-Karya Karl Marx dan Friedrich Engels"
+    },
+    {
+      "title": "Feuerbach dan Akhir Filsafat Klasik Jerman",
+      "type": "single-html",
+      "authorIds": [
+        "karl-marx",
+        "friedrich-engels"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Karya-Karya Karl Marx dan Friedrich Engels\\www.marxists.org\\indonesia\\archive\\marx-engels\\1886\\ludwig-feuerbach\\pengantar.html",
+      "originalHref": "1886/ludwig-feuerbach/pengantar.html",
+      "collection": "Karya-Karya Karl Marx dan Friedrich Engels"
+    },
+    {
+      "title": "Surat Engels Untuk Gerson Trier di Copenhagen,18 Desember 1889",
+      "type": "single-html",
+      "authorIds": [
+        "karl-marx",
+        "friedrich-engels"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Karya-Karya Karl Marx dan Friedrich Engels\\www.marxists.org\\indonesia\\archive\\marx-engels\\1889\\18-trier.html",
+      "originalHref": "1889/18-trier.html",
+      "collection": "Karya-Karya Karl Marx dan Friedrich Engels"
+    },
+    {
+      "title": "Bab 1-20",
+      "type": "pdf",
+      "authorIds": [
+        "karl-marx",
+        "friedrich-engels"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Karya-Karya Karl Marx dan Friedrich Engels\\www.marxists.org\\indonesia\\archive\\marx-engels\\1894\\kapital3-bab1-20.pdf",
+      "originalHref": "1894/kapital3-bab1-20.pdf",
+      "collection": "Karya-Karya Karl Marx dan Friedrich Engels"
+    },
+    {
+      "title": "Bab 21-36",
+      "type": "pdf",
+      "authorIds": [
+        "karl-marx",
+        "friedrich-engels"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Karya-Karya Karl Marx dan Friedrich Engels\\www.marxists.org\\indonesia\\archive\\marx-engels\\1894\\kapital3-bab21-36.pdf",
+      "originalHref": "1894/kapital3-bab21-36.pdf",
+      "collection": "Karya-Karya Karl Marx dan Friedrich Engels"
+    },
+    {
+      "title": "Bab 37-43",
+      "type": "pdf",
+      "authorIds": [
+        "karl-marx",
+        "friedrich-engels"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Karya-Karya Karl Marx dan Friedrich Engels\\www.marxists.org\\indonesia\\archive\\marx-engels\\1894\\kapital3-bab37-43.pdf",
+      "originalHref": "1894/kapital3-bab37-43.pdf",
+      "collection": "Karya-Karya Karl Marx dan Friedrich Engels"
+    },
+    {
+      "title": "Bab 44-52",
+      "type": "pdf",
+      "authorIds": [
+        "karl-marx",
+        "friedrich-engels"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Karya-Karya Karl Marx dan Friedrich Engels\\www.marxists.org\\indonesia\\archive\\marx-engels\\1894\\kapital3-bab44-52.pdf",
+      "originalHref": "1894/kapital3-bab44-52.pdf",
+      "collection": "Karya-Karya Karl Marx dan Friedrich Engels"
+    },
+    {
+      "title": "Dengan Trotsky Hingga Akhir",
+      "type": "single-html",
+      "authorIds": [
+        "leon-trotsky"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Leon Trotsky (1879 - 1940)\\www.marxists.org\\indonesia\\archive\\trotsky\\1940-DenganTrotsky.html",
+      "originalHref": "1940-DenganTrotsky.html",
+      "collection": "Leon Trotsky (1879 - 1940)"
+    },
+    {
+      "title": "Bagaimana Itu Terjadi",
+      "type": "single-html",
+      "authorIds": [
+        "leon-trotsky"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Leon Trotsky (1879 - 1940)\\www.marxists.org\\indonesia\\archive\\trotsky\\1940-BagaimanaItuTerjadi.html",
+      "originalHref": "1940-BagaimanaItuTerjadi.html",
+      "collection": "Leon Trotsky (1879 - 1940)"
+    },
+    {
+      "title": "Tentang Optimisme dan Pesimisme",
+      "type": "single-html",
+      "authorIds": [
+        "leon-trotsky"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Leon Trotsky (1879 - 1940)\\www.marxists.org\\indonesia\\archive\\trotsky\\19010101-trotsky-optimismedanpesimisme.html",
+      "originalHref": "19010101-trotsky-optimismedanpesimisme.html",
+      "collection": "Leon Trotsky (1879 - 1940)"
+    },
+    {
+      "title": "Kaum Proletar dan Revolusi",
+      "type": "single-html",
+      "authorIds": [
+        "leon-trotsky"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Leon Trotsky (1879 - 1940)\\www.marxists.org\\indonesia\\archive\\trotsky\\1904-KaumProletar.html",
+      "originalHref": "1904-KaumProletar.html",
+      "collection": "Leon Trotsky (1879 - 1940)"
+    },
+    {
+      "title": "HASIL DAN PROSPEK",
+      "type": "multi-html",
+      "authorIds": [
+        "leon-trotsky"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Leon Trotsky (1879 - 1940)\\www.marxists.org\\indonesia\\archive\\trotsky\\Hasil\\index.html",
+      "originalHref": "Hasil/index.html",
+      "collection": "Leon Trotsky (1879 - 1940)"
+    },
+    {
+      "title": "Kebangkrutan Terorisme Individual",
+      "type": "single-html",
+      "authorIds": [
+        "leon-trotsky"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Leon Trotsky (1879 - 1940)\\www.marxists.org\\indonesia\\archive\\trotsky\\19090501-trotsky-kebangkrutanterorisme.html",
+      "originalHref": "19090501-trotsky-kebangkrutanterorisme.html",
+      "collection": "Leon Trotsky (1879 - 1940)"
+    },
+    {
+      "title": "Kaum Intelektual dan Sosialisme",
+      "type": "single-html",
+      "authorIds": [
+        "leon-trotsky"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Leon Trotsky (1879 - 1940)\\www.marxists.org\\indonesia\\archive\\trotsky\\1910-Intelektual.html",
+      "originalHref": "1910-Intelektual.html",
+      "collection": "Leon Trotsky (1879 - 1940)"
+    },
+    {
+      "title": "Mengapa Kaum Marxis Menentang Terorisme Individual",
+      "type": "single-html",
+      "authorIds": [
+        "leon-trotsky"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Leon Trotsky (1879 - 1940)\\www.marxists.org\\indonesia\\archive\\trotsky\\19111101-trotsky-mengapamarxismenentangterorisme.html",
+      "originalHref": "19111101-trotsky-mengapamarxismenentangterorisme.html",
+      "collection": "Leon Trotsky (1879 - 1940)"
+    },
+    {
+      "title": "Pasifisme sebagai Pelayan Imperialisme",
+      "type": "single-html",
+      "authorIds": [
+        "leon-trotsky"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Leon Trotsky (1879 - 1940)\\www.marxists.org\\indonesia\\archive\\trotsky\\1917-Pasifisme.html",
+      "originalHref": "1917-Pasifisme.html",
+      "collection": "Leon Trotsky (1879 - 1940)"
+    },
+    {
+      "title": "Sandiwara Kekuasaan Ganda",
+      "type": "single-html",
+      "authorIds": [
+        "leon-trotsky"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Leon Trotsky (1879 - 1940)\\www.marxists.org\\indonesia\\archive\\trotsky\\1917-SandiwaraKekuasaanGanda.html",
+      "originalHref": "1917-SandiwaraKekuasaanGanda.html",
+      "collection": "Leon Trotsky (1879 - 1940)"
+    },
+    {
+      "title": "Dengan Darah dan Besi",
+      "type": "single-html",
+      "authorIds": [
+        "leon-trotsky"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Leon Trotsky (1879 - 1940)\\www.marxists.org\\indonesia\\archive\\trotsky\\1917-DenganDarahdanBesi.html",
+      "originalHref": "1917-DenganDarahdanBesi.html",
+      "collection": "Leon Trotsky (1879 - 1940)"
+    },
+    {
+      "title": "Pernyataan Trotsky mengenai Publikasi Perjanjian-Perjanjian Rahasia",
+      "type": "single-html",
+      "authorIds": [
+        "leon-trotsky"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Leon Trotsky (1879 - 1940)\\www.marxists.org\\indonesia\\archive\\trotsky\\1917-PerjanjianRahasia.html",
+      "originalHref": "1917-PerjanjianRahasia.html",
+      "collection": "Leon Trotsky (1879 - 1940)"
+    },
+    {
+      "title": "Nasionalisme dalam Lenin",
+      "type": "single-html",
+      "authorIds": [
+        "leon-trotsky"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Leon Trotsky (1879 - 1940)\\www.marxists.org\\indonesia\\archive\\trotsky\\1920-NasionalismeDalamLenin.html",
+      "originalHref": "1920-NasionalismeDalamLenin.html",
+      "collection": "Leon Trotsky (1879 - 1940)"
+    },
+    {
+      "title": "Pelajaran Komune Paris",
+      "type": "single-html",
+      "authorIds": [
+        "leon-trotsky"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Leon Trotsky (1879 - 1940)\\www.marxists.org\\indonesia\\archive\\trotsky\\19210204-trotsky-pelajarankomuneparis.html",
+      "originalHref": "19210204-trotsky-pelajarankomuneparis.html",
+      "collection": "Leon Trotsky (1879 - 1940)"
+    },
+    {
+      "title": "Tugas-Tugas Pendidikan Komunis",
+      "type": "single-html",
+      "authorIds": [
+        "leon-trotsky"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Leon Trotsky (1879 - 1940)\\www.marxists.org\\indonesia\\archive\\trotsky\\1922-TugasPendidikanKomunis1.html",
+      "originalHref": "1922-TugasPendidikanKomunis1.html",
+      "collection": "Leon Trotsky (1879 - 1940)"
+    },
+    {
+      "title": "Apakah Budaya Proletar itu, dan Mungkinkah Ada?",
+      "type": "single-html",
+      "authorIds": [
+        "leon-trotsky"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Leon Trotsky (1879 - 1940)\\www.marxists.org\\indonesia\\archive\\trotsky\\1923-Apakah.html",
+      "originalHref": "1923-Apakah.html",
+      "collection": "Leon Trotsky (1879 - 1940)"
+    },
+    {
+      "title": "Akar dan Fungsi Sosial Dunia Sastra",
+      "type": "single-html",
+      "authorIds": [
+        "leon-trotsky"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Leon Trotsky (1879 - 1940)\\www.marxists.org\\indonesia\\archive\\trotsky\\1923-Akar.html",
+      "originalHref": "1923-Akar.html",
+      "collection": "Leon Trotsky (1879 - 1940)"
+    },
+    {
+      "title": "Tugas-Tugas Pendidikan Komunis",
+      "type": "single-html",
+      "authorIds": [
+        "leon-trotsky"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Leon Trotsky (1879 - 1940)\\www.marxists.org\\indonesia\\archive\\trotsky\\1923-TugasPendidikanKomunis2.html",
+      "originalHref": "1923-TugasPendidikanKomunis2.html",
+      "collection": "Leon Trotsky (1879 - 1940)"
+    },
+    {
+      "title": "Manusia Tidak Hidup Dari Politik Saja",
+      "type": "single-html",
+      "authorIds": [
+        "leon-trotsky"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Leon Trotsky (1879 - 1940)\\www.marxists.org\\indonesia\\archive\\trotsky\\1923-TidakHidupDariPolitik.html",
+      "originalHref": "1923-TidakHidupDariPolitik.html",
+      "collection": "Leon Trotsky (1879 - 1940)"
+    },
+    {
+      "title": "Birokratisme dan Kelompok Faksi",
+      "type": "single-html",
+      "authorIds": [
+        "leon-trotsky"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Leon Trotsky (1879 - 1940)\\www.marxists.org\\indonesia\\archive\\trotsky\\1923-Birokratismedanfaksi.html",
+      "originalHref": "1923-Birokratismedanfaksi.html",
+      "collection": "Leon Trotsky (1879 - 1940)"
+    },
+    {
+      "title": "Kebijakan Kaum Komunis Terhadap Seni",
+      "type": "single-html",
+      "authorIds": [
+        "leon-trotsky"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Leon Trotsky (1879 - 1940)\\www.marxists.org\\indonesia\\archive\\trotsky\\1924-Kebijakan.html",
+      "originalHref": "1924-Kebijakan.html",
+      "collection": "Leon Trotsky (1879 - 1940)"
+    },
+    {
+      "title": "PELAJARAN REVOLUSI OKTOBER",
+      "type": "single-html",
+      "authorIds": [
+        "leon-trotsky"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Leon Trotsky (1879 - 1940)\\www.marxists.org\\indonesia\\archive\\trotsky\\19241001-trotsky-pelajaranoktober.html",
+      "originalHref": "19241001-trotsky-pelajaranoktober.html",
+      "collection": "Leon Trotsky (1879 - 1940)"
+    },
+    {
+      "title": "Kebudayaan dan Sosialisme",
+      "type": "single-html",
+      "authorIds": [
+        "leon-trotsky"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Leon Trotsky (1879 - 1940)\\www.marxists.org\\indonesia\\archive\\trotsky\\19260203-trotsky-kebudayaandansosialisme.html",
+      "originalHref": "19260203-trotsky-kebudayaandansosialisme.html",
+      "collection": "Leon Trotsky (1879 - 1940)"
+    },
+    {
+      "title": "REVOLUSI PERMANEN",
+      "type": "multi-html",
+      "authorIds": [
+        "leon-trotsky"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Leon Trotsky (1879 - 1940)\\www.marxists.org\\indonesia\\archive\\trotsky\\Permanen\\index.html",
+      "originalHref": "Permanen/index.html",
+      "collection": "Leon Trotsky (1879 - 1940)"
+    },
+    {
+      "title": "Sepucuk Surat Untuk Kaum Trotskis Amerika",
+      "type": "single-html",
+      "authorIds": [
+        "leon-trotsky"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Leon Trotsky (1879 - 1940)\\www.marxists.org\\indonesia\\archive\\trotsky\\19290301-trotsky-sepucuksurattrotkisamerika.html",
+      "originalHref": "19290301-trotsky-sepucuksurattrotkisamerika.html",
+      "collection": "Leon Trotsky (1879 - 1940)"
+    },
+    {
+      "title": "KEHIDUPANKU",
+      "type": "multi-html",
+      "authorIds": [
+        "leon-trotsky"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Leon Trotsky (1879 - 1940)\\www.marxists.org\\indonesia\\archive\\trotsky\\19300101-trotsky-kehidupanku\\index.html",
+      "originalHref": "19300101-trotsky-kehidupanku/index.html",
+      "collection": "Leon Trotsky (1879 - 1940)"
+    },
+    {
+      "title": "Problem-problem Revolusi Italia",
+      "type": "single-html",
+      "authorIds": [
+        "leon-trotsky"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Leon Trotsky (1879 - 1940)\\www.marxists.org\\indonesia\\archive\\trotsky\\1930-Surat300514.html",
+      "originalHref": "1930-Surat300514.html",
+      "collection": "Leon Trotsky (1879 - 1940)"
+    },
+    {
+      "title": "Masalah Persatuan Serikat Buruh",
+      "type": "single-html",
+      "authorIds": [
+        "leon-trotsky"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Leon Trotsky (1879 - 1940)\\www.marxists.org\\indonesia\\archive\\trotsky\\1931-MasalahPersatuan.html",
+      "originalHref": "1931-MasalahPersatuan.html",
+      "collection": "Leon Trotsky (1879 - 1940)"
+    },
+    {
+      "title": "Kontrol Buruh dalam Produksi",
+      "type": "single-html",
+      "authorIds": [
+        "leon-trotsky"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Leon Trotsky (1879 - 1940)\\www.marxists.org\\indonesia\\archive\\trotsky\\1931-KontrolBuruh.html",
+      "originalHref": "1931-KontrolBuruh.html",
+      "collection": "Leon Trotsky (1879 - 1940)"
+    },
+    {
+      "title": "MEMBELA REVOLUSI OKTOBER",
+      "type": "single-html",
+      "authorIds": [
+        "leon-trotsky"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Leon Trotsky (1879 - 1940)\\www.marxists.org\\indonesia\\archive\\trotsky\\19321127-trotsky-membelaoktober.html",
+      "originalHref": "19321127-trotsky-membelaoktober.html",
+      "collection": "Leon Trotsky (1879 - 1940)"
+    },
+    {
+      "title": "Oposisi Kiri Internasional, Tugas-tugas dan Metode-metodenya",
+      "type": "single-html",
+      "authorIds": [
+        "leon-trotsky"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Leon Trotsky (1879 - 1940)\\www.marxists.org\\indonesia\\archive\\trotsky\\1932-TugasOposisi.html",
+      "originalHref": "1932-TugasOposisi.html",
+      "collection": "Leon Trotsky (1879 - 1940)"
+    },
+    {
+      "title": "KPD atau Partai Baru? (I)",
+      "type": "single-html",
+      "authorIds": [
+        "leon-trotsky"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Leon Trotsky (1879 - 1940)\\www.marxists.org\\indonesia\\archive\\trotsky\\1933-KPDPartaiBaruI.html",
+      "originalHref": "1933-KPDPartaiBaruI.html",
+      "collection": "Leon Trotsky (1879 - 1940)"
+    },
+    {
+      "title": "KPD atau Partai Baru? (II)",
+      "type": "single-html",
+      "authorIds": [
+        "leon-trotsky"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Leon Trotsky (1879 - 1940)\\www.marxists.org\\indonesia\\archive\\trotsky\\1933-KPDPartaiBaruII.html",
+      "originalHref": "1933-KPDPartaiBaruII.html",
+      "collection": "Leon Trotsky (1879 - 1940)"
+    },
+    {
+      "title": "KPD atau Partai Baru? (III)",
+      "type": "single-html",
+      "authorIds": [
+        "leon-trotsky"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Leon Trotsky (1879 - 1940)\\www.marxists.org\\indonesia\\archive\\trotsky\\1933-KPDPartaiBaruIII.html",
+      "originalHref": "1933-KPDPartaiBaruIII.html",
+      "collection": "Leon Trotsky (1879 - 1940)"
+    },
+    {
+      "title": "Kita Perlu Membangun Partai-partai Komunis dan Internasional Baru",
+      "type": "single-html",
+      "authorIds": [
+        "leon-trotsky"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Leon Trotsky (1879 - 1940)\\www.marxists.org\\indonesia\\archive\\trotsky\\1933-PartaiKomunisBaru.html",
+      "originalHref": "1933-PartaiKomunisBaru.html",
+      "collection": "Leon Trotsky (1879 - 1940)"
+    },
+    {
+      "title": "Bonapartisme dan Fasisme",
+      "type": "single-html",
+      "authorIds": [
+        "leon-trotsky"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Leon Trotsky (1879 - 1940)\\www.marxists.org\\indonesia\\archive\\trotsky\\19340715-trotsky-bonapartismefasisme.html",
+      "originalHref": "19340715-trotsky-bonapartismefasisme.html",
+      "collection": "Leon Trotsky (1879 - 1940)"
+    },
+    {
+      "title": "Beberapa Catatan Tentang Koran “Revolution”",
+      "type": "single-html",
+      "authorIds": [
+        "leon-trotsky"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Leon Trotsky (1879 - 1940)\\www.marxists.org\\indonesia\\archive\\trotsky\\1934-BeberapaCatatanRevolusi.html",
+      "originalHref": "1934-BeberapaCatatanRevolusi.html",
+      "collection": "Leon Trotsky (1879 - 1940)"
+    },
+    {
+      "title": "Jika Amerika Menjalankan Komunisme",
+      "type": "single-html",
+      "authorIds": [
+        "leon-trotsky"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Leon Trotsky (1879 - 1940)\\www.marxists.org\\indonesia\\archive\\trotsky\\1935-Jika.html",
+      "originalHref": "1935-Jika.html",
+      "collection": "Leon Trotsky (1879 - 1940)"
+    },
+    {
+      "title": "Pelajaran Revolusi Oktober",
+      "type": "single-html",
+      "authorIds": [
+        "leon-trotsky"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Leon Trotsky (1879 - 1940)\\www.marxists.org\\indonesia\\archive\\trotsky\\19351104-trotsky-pelajaranoktober.html",
+      "originalHref": "19351104-trotsky-pelajaranoktober.html",
+      "collection": "Leon Trotsky (1879 - 1940)"
+    },
+    {
+      "title": "Tentang Problem-Problem Organisasional",
+      "type": "single-html",
+      "authorIds": [
+        "leon-trotsky"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Leon Trotsky (1879 - 1940)\\www.marxists.org\\indonesia\\archive\\trotsky\\1935-TentangProblemOrganisasional.html",
+      "originalHref": "1935-TentangProblemOrganisasional.html",
+      "collection": "Leon Trotsky (1879 - 1940)"
+    },
+    {
+      "title": "Apakah \"Koran Massa\" Itu?",
+      "type": "single-html",
+      "authorIds": [
+        "leon-trotsky"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Leon Trotsky (1879 - 1940)\\www.marxists.org\\indonesia\\archive\\trotsky\\1935-ApakahKoranMassa.html",
+      "originalHref": "1935-ApakahKoranMassa.html",
+      "collection": "Leon Trotsky (1879 - 1940)"
+    },
+    {
+      "title": "REVOLUSI YANG DIKHIANATI",
+      "type": "multi-html",
+      "authorIds": [
+        "leon-trotsky"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Leon Trotsky (1879 - 1940)\\www.marxists.org\\indonesia\\archive\\trotsky\\khianat\\index.html",
+      "originalHref": "khianat/index.html",
+      "collection": "Leon Trotsky (1879 - 1940)"
+    },
+    {
+      "title": "Stalinisme dan Bolshevisme",
+      "type": "single-html",
+      "authorIds": [
+        "leon-trotsky"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Leon Trotsky (1879 - 1940)\\www.marxists.org\\indonesia\\archive\\trotsky\\19370828-trotsky-stalinismedanbolshevisme.html",
+      "originalHref": "19370828-trotsky-stalinismedanbolshevisme.html",
+      "collection": "Leon Trotsky (1879 - 1940)"
+    },
+    {
+      "title": "90 Tahun Manifesto Komunis",
+      "type": "single-html",
+      "authorIds": [
+        "leon-trotsky"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Leon Trotsky (1879 - 1940)\\www.marxists.org\\indonesia\\archive\\trotsky\\19371030-trotsky-90tahunmanifestokomunis.html",
+      "originalHref": "19371030-trotsky-90tahunmanifestokomunis.html",
+      "collection": "Leon Trotsky (1879 - 1940)"
+    },
+    {
+      "title": "Beberapa Patah Kata Tentang Lutte Ouvriere",
+      "type": "single-html",
+      "authorIds": [
+        "leon-trotsky"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Leon Trotsky (1879 - 1940)\\www.marxists.org\\indonesia\\archive\\trotsky\\1937-LutteOuvriere.html",
+      "originalHref": "1937-LutteOuvriere.html",
+      "collection": "Leon Trotsky (1879 - 1940)"
+    },
+    {
+      "title": "Mengenai Sentralisme Demokratis",
+      "type": "single-html",
+      "authorIds": [
+        "leon-trotsky"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Leon Trotsky (1879 - 1940)\\www.marxists.org\\indonesia\\archive\\trotsky\\19371208-trotsky-sentralismedemokratis.html",
+      "originalHref": "19371208-trotsky-sentralismedemokratis.html",
+      "collection": "Leon Trotsky (1879 - 1940)"
+    },
+    {
+      "title": "Koran Pabrik dan Jurnal Teoretis",
+      "type": "single-html",
+      "authorIds": [
+        "leon-trotsky"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Leon Trotsky (1879 - 1940)\\www.marxists.org\\indonesia\\archive\\trotsky\\1938-KoranPabrik.html",
+      "originalHref": "1938-KoranPabrik.html",
+      "collection": "Leon Trotsky (1879 - 1940)"
+    },
+    {
+      "title": "Hingar Bingar Kronstadt",
+      "type": "single-html",
+      "authorIds": [
+        "leon-trotsky"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Leon Trotsky (1879 - 1940)\\www.marxists.org\\indonesia\\archive\\trotsky\\1938-Kronstadt.html",
+      "originalHref": "1938-Kronstadt.html",
+      "collection": "Leon Trotsky (1879 - 1940)"
+    },
+    {
+      "title": "Nasionalisasi Industri dan Kontrol Buruh",
+      "type": "single-html",
+      "authorIds": [
+        "leon-trotsky"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Leon Trotsky (1879 - 1940)\\www.marxists.org\\indonesia\\archive\\trotsky\\1938-Nasionalisasi.html",
+      "originalHref": "1938-Nasionalisasi.html",
+      "collection": "Leon Trotsky (1879 - 1940)"
+    },
+    {
+      "title": "PROGRAM TRANSISIONAL",
+      "type": "single-html",
+      "authorIds": [
+        "leon-trotsky"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Leon Trotsky (1879 - 1940)\\www.marxists.org\\indonesia\\archive\\trotsky\\19380501-trotsky-programtransisional.html",
+      "originalHref": "19380501-trotsky-programtransisional.html",
+      "collection": "Leon Trotsky (1879 - 1940)"
+    },
+    {
+      "title": "Diskusi Dengan Trotsky Mengenai Program Transisional",
+      "type": "single-html",
+      "authorIds": [
+        "leon-trotsky"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Leon Trotsky (1879 - 1940)\\www.marxists.org\\indonesia\\archive\\trotsky\\1938-Diskusi.html",
+      "originalHref": "1938-Diskusi.html",
+      "collection": "Leon Trotsky (1879 - 1940)"
+    },
+    {
+      "title": "Sekali Lagi Mengenai Pemberontakan Kronstadt",
+      "type": "single-html",
+      "authorIds": [
+        "leon-trotsky"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Leon Trotsky (1879 - 1940)\\www.marxists.org\\indonesia\\archive\\trotsky\\1938-Kronstadt2.html",
+      "originalHref": "1938-Kronstadt2.html",
+      "collection": "Leon Trotsky (1879 - 1940)"
+    },
+    {
+      "title": "Semangat Pengorbanan: Mengenai Keuangan",
+      "type": "single-html",
+      "authorIds": [
+        "leon-trotsky"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Leon Trotsky (1879 - 1940)\\www.marxists.org\\indonesia\\archive\\trotsky\\1938-Surat380723.html",
+      "originalHref": "1938-Surat380723.html",
+      "collection": "Leon Trotsky (1879 - 1940)"
+    },
+    {
+      "title": "Problem-problem Socialist Appeal",
+      "type": "single-html",
+      "authorIds": [
+        "leon-trotsky"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Leon Trotsky (1879 - 1940)\\www.marxists.org\\indonesia\\archive\\trotsky\\1939-ProblemSocialistAppeal.html",
+      "originalHref": "1939-ProblemSocialistAppeal.html",
+      "collection": "Leon Trotsky (1879 - 1940)"
+    },
+    {
+      "title": "ABC DIALEKTIKA MATERIALIS",
+      "type": "single-html",
+      "authorIds": [
+        "leon-trotsky"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Leon Trotsky (1879 - 1940)\\www.marxists.org\\indonesia\\archive\\trotsky\\19391215-trotsky-ABCDialektikaMaterialis.html",
+      "originalHref": "19391215-trotsky-ABCDialektikaMaterialis.html",
+      "collection": "Leon Trotsky (1879 - 1940)"
+    },
+    {
+      "title": "Mengenai Masalah Yahudi (Saduran dari 1937-1940)",
+      "type": "single-html",
+      "authorIds": [
+        "leon-trotsky"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Leon Trotsky (1879 - 1940)\\www.marxists.org\\indonesia\\archive\\trotsky\\1940-Yahudi.html",
+      "originalHref": "1940-Yahudi.html",
+      "collection": "Leon Trotsky (1879 - 1940)"
+    },
+    {
+      "title": "PARTAI, KELAS DAN KEPEMIMPINAN",
+      "type": "single-html",
+      "authorIds": [
+        "leon-trotsky"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Leon Trotsky (1879 - 1940)\\www.marxists.org\\indonesia\\archive\\trotsky\\19400101-trotsky-partaikelaskepemimpinan.html",
+      "originalHref": "19400101-trotsky-partaikelaskepemimpinan.html",
+      "collection": "Leon Trotsky (1879 - 1940)"
+    },
+    {
+      "title": "FASISME, APA ITU DAN BAGAIMANA MELAWANNYA",
+      "type": "single-html",
+      "authorIds": [
+        "leon-trotsky"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Leon Trotsky (1879 - 1940)\\www.marxists.org\\indonesia\\archive\\trotsky\\1944-Fasisme.html",
+      "originalHref": "1944-Fasisme.html",
+      "collection": "Leon Trotsky (1879 - 1940)"
+    },
+    {
+      "title": "Reformasi atau Revolusi",
+      "type": "single-html",
+      "authorIds": [
+        "rosa-luxemburg"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Rosa Luxemburg\\www.marxists.org\\indonesia\\archive\\luxemburg\\reformasi-atau-revolusi.html",
+      "originalHref": "reformasi-atau-revolusi.html",
+      "collection": "Rosa Luxemburg"
+    },
+    {
+      "title": "Stagnasi dan Kemajuan Marxisme",
+      "type": "single-html",
+      "authorIds": [
+        "rosa-luxemburg"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Rosa Luxemburg\\www.marxists.org\\indonesia\\archive\\luxemburg\\1903-Stagnasi.html",
+      "originalHref": "1903-Stagnasi.html",
+      "collection": "Rosa Luxemburg"
+    },
+    {
+      "title": "Pemogokan Massa",
+      "type": "single-html",
+      "authorIds": [
+        "rosa-luxemburg"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Rosa Luxemburg\\www.marxists.org\\indonesia\\archive\\luxemburg\\pemogokan-massa.html",
+      "originalHref": "pemogokan-massa.html",
+      "collection": "Rosa Luxemburg"
+    },
+    {
+      "title": "Gagasan May Day Bergerak Maju",
+      "type": "single-html",
+      "authorIds": [
+        "rosa-luxemburg"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Rosa Luxemburg\\www.marxists.org\\indonesia\\archive\\luxemburg\\1913-MayDay.html",
+      "originalHref": "1913-MayDay.html",
+      "collection": "Rosa Luxemburg"
+    },
+    {
+      "title": "Parlemen atau Soviet?",
+      "type": "multi-html",
+      "authorIds": [
+        "tan-malaka"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Tan Malaka\\www.marxists.org\\indonesia\\archive\\malaka\\Soviet\\index.html",
+      "originalHref": "Soviet/index.html",
+      "collection": "Tan Malaka"
+    },
+    {
+      "title": "SI Semarang dan Onderwijs",
+      "type": "single-html",
+      "authorIds": [
+        "tan-malaka"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Tan Malaka\\www.marxists.org\\indonesia\\archive\\malaka\\1921-SISemarang.html",
+      "originalHref": "1921-SISemarang.html",
+      "collection": "Tan Malaka"
+    },
+    {
+      "title": "Komunisme dan Pan-Islamisme",
+      "type": "single-html",
+      "authorIds": [
+        "tan-malaka"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Tan Malaka\\www.marxists.org\\indonesia\\archive\\malaka\\1922-PanIslamisme.html",
+      "originalHref": "1922-PanIslamisme.html",
+      "collection": "Tan Malaka"
+    },
+    {
+      "title": "Menuju Republik Indonesia (Naar de 'Republiek Indonesia')",
+      "type": "single-html",
+      "authorIds": [
+        "tan-malaka"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Tan Malaka\\www.marxists.org\\indonesia\\archive\\malaka\\1925-Menuju.html",
+      "originalHref": "1925-Menuju.html",
+      "collection": "Tan Malaka"
+    },
+    {
+      "title": "Semangat Muda",
+      "type": "single-html",
+      "authorIds": [
+        "tan-malaka"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Tan Malaka\\www.marxists.org\\indonesia\\archive\\malaka\\1926-SemangatMuda.html",
+      "originalHref": "1926-SemangatMuda.html",
+      "collection": "Tan Malaka"
+    },
+    {
+      "title": "Aksi Massa",
+      "type": "multi-html",
+      "authorIds": [
+        "tan-malaka"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Tan Malaka\\www.marxists.org\\indonesia\\archive\\malaka\\AksiMassa\\index.html",
+      "originalHref": "AksiMassa/index.html",
+      "collection": "Tan Malaka"
+    },
+    {
+      "title": "Madilog",
+      "type": "multi-html",
+      "authorIds": [
+        "tan-malaka"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Tan Malaka\\www.marxists.org\\indonesia\\archive\\malaka\\Madilog\\index.html",
+      "originalHref": "Madilog/index.html",
+      "collection": "Tan Malaka"
+    },
+    {
+      "title": "Politik",
+      "type": "single-html",
+      "authorIds": [
+        "tan-malaka"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Tan Malaka\\www.marxists.org\\indonesia\\archive\\malaka\\1945-Politik.html",
+      "originalHref": "1945-Politik.html",
+      "collection": "Tan Malaka"
+    },
+    {
+      "title": "Rencana Ekonomi Berjuang",
+      "type": "single-html",
+      "authorIds": [
+        "tan-malaka"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Tan Malaka\\www.marxists.org\\indonesia\\archive\\malaka\\1945-Rencana.html",
+      "originalHref": "1945-Rencana.html",
+      "collection": "Tan Malaka"
+    },
+    {
+      "title": "Muslihat",
+      "type": "single-html",
+      "authorIds": [
+        "tan-malaka"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Tan Malaka\\www.marxists.org\\indonesia\\archive\\malaka\\1945-Muslihat.html",
+      "originalHref": "1945-Muslihat.html",
+      "collection": "Tan Malaka"
+    },
+    {
+      "title": "Manifesto Jakarta",
+      "type": "single-html",
+      "authorIds": [
+        "tan-malaka"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Tan Malaka\\www.marxists.org\\indonesia\\archive\\malaka\\1945-ManifestoJakarta.html",
+      "originalHref": "1945-ManifestoJakarta.html",
+      "collection": "Tan Malaka"
+    },
+    {
+      "title": "Situasi Politik Luar dan Dalam Negeri",
+      "type": "single-html",
+      "authorIds": [
+        "tan-malaka"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Tan Malaka\\www.marxists.org\\indonesia\\archive\\malaka\\1946-Situasi.html",
+      "originalHref": "1946-Situasi.html",
+      "collection": "Tan Malaka"
+    },
+    {
+      "title": "Thesis",
+      "type": "single-html",
+      "authorIds": [
+        "tan-malaka"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Tan Malaka\\www.marxists.org\\indonesia\\archive\\malaka\\1946-Thesis.html",
+      "originalHref": "1946-Thesis.html",
+      "collection": "Tan Malaka"
+    },
+    {
+      "title": "Kuhandel di Kaliurang",
+      "type": "single-html",
+      "authorIds": [
+        "tan-malaka"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Tan Malaka\\www.marxists.org\\indonesia\\archive\\malaka\\1948-Kuhandel.html",
+      "originalHref": "1948-Kuhandel.html",
+      "collection": "Tan Malaka"
+    },
+    {
+      "title": "Getrennt Marschieren Vereint Schlagen (Berpisah Kita Berjuang, Bersama Kita Memukul)",
+      "type": "single-html",
+      "authorIds": [
+        "tan-malaka"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Tan Malaka\\www.marxists.org\\indonesia\\archive\\malaka\\1948-Berjuang.html",
+      "originalHref": "1948-Berjuang.html",
+      "collection": "Tan Malaka"
+    },
+    {
+      "title": "GERPOLEK (GERilya - POlitik - EKonomi)",
+      "type": "single-html",
+      "authorIds": [
+        "tan-malaka"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Tan Malaka\\www.marxists.org\\indonesia\\archive\\malaka\\1948-Gerpolek.html",
+      "originalHref": "1948-Gerpolek.html",
+      "collection": "Tan Malaka"
+    },
+    {
+      "title": "Pandangan dan Langkah Partai Rakyat",
+      "type": "single-html",
+      "authorIds": [
+        "tan-malaka"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Tan Malaka\\www.marxists.org\\indonesia\\archive\\malaka\\1948-PandanganPartaiRakyat.html",
+      "originalHref": "1948-PandanganPartaiRakyat.html",
+      "collection": "Tan Malaka"
+    },
+    {
+      "title": "Uraian Mendadak",
+      "type": "single-html",
+      "authorIds": [
+        "tan-malaka"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Tan Malaka\\www.marxists.org\\indonesia\\archive\\malaka\\1948-Uraian.html",
+      "originalHref": "1948-Uraian.html",
+      "collection": "Tan Malaka"
+    },
+    {
+      "title": "Proklamasi 17-8-1945, Isi dan Pelaksanaannya",
+      "type": "single-html",
+      "authorIds": [
+        "tan-malaka"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Tan Malaka\\www.marxists.org\\indonesia\\archive\\malaka\\1948-Proklamasi.html",
+      "originalHref": "1948-Proklamasi.html",
+      "collection": "Tan Malaka"
+    },
+    {
+      "title": "Pandangan Hidup",
+      "type": "single-html",
+      "authorIds": [
+        "tan-malaka"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Tan Malaka\\www.marxists.org\\indonesia\\archive\\malaka\\1948-Pandangan.html",
+      "originalHref": "1948-Pandangan.html",
+      "collection": "Tan Malaka"
+    },
+    {
+      "title": "Islam dalam Tinjauan Madilog",
+      "type": "single-html",
+      "authorIds": [
+        "tan-malaka"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Tan Malaka\\www.marxists.org\\indonesia\\archive\\malaka\\1948-Islam.html",
+      "originalHref": "1948-Islam.html",
+      "collection": "Tan Malaka"
+    },
+    {
+      "title": "Sambutan Murba",
+      "type": "single-html",
+      "authorIds": [
+        "tan-malaka"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Tan Malaka\\www.marxists.org\\indonesia\\archive\\malaka\\1948-SambutanMurba.html",
+      "originalHref": "1948-SambutanMurba.html",
+      "collection": "Tan Malaka"
+    },
+    {
+      "title": "Hukum Revolusi",
+      "type": "single-html",
+      "authorIds": [
+        "tan-malaka"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Tan Malaka\\www.marxists.org\\indonesia\\archive\\malaka\\1948-HukumRevolusi.html",
+      "originalHref": "1948-HukumRevolusi.html",
+      "collection": "Tan Malaka"
+    },
+    {
+      "title": "Dari Ir. Soekarno sampai ke Presiden Soekarno",
+      "type": "single-html",
+      "authorIds": [
+        "tan-malaka"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Tan Malaka\\www.marxists.org\\indonesia\\archive\\malaka\\1948-DariIrSoekarno.html",
+      "originalHref": "1948-DariIrSoekarno.html",
+      "collection": "Tan Malaka"
+    },
+    {
+      "title": "Keterangan Ringkas tentang Program Maksimum",
+      "type": "single-html",
+      "authorIds": [
+        "tan-malaka"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Tan Malaka\\www.marxists.org\\indonesia\\archive\\malaka\\1948-Keterangan.html",
+      "originalHref": "1948-Keterangan.html",
+      "collection": "Tan Malaka"
+    },
+    {
+      "title": "Nasrani-Yahudi dalam Tinjauan Madilog",
+      "type": "single-html",
+      "authorIds": [
+        "tan-malaka"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Tan Malaka\\www.marxists.org\\indonesia\\archive\\malaka\\1948-Nasrani.html",
+      "originalHref": "1948-Nasrani.html",
+      "collection": "Tan Malaka"
+    },
+    {
+      "title": "Arsip Tan Malaka Bahasa Inggris",
+      "type": "multi-html",
+      "authorIds": [
+        "tan-malaka"
+      ],
+      "indexPath": "D:\\project\\belajar-marxist\\ensiklopedia-mia\\.import-cache\\mia\\sumber\\Tan Malaka\\www.marxists.org\\indonesia\\archive\\malaka\\index.html",
+      "originalHref": "index.html",
+      "collection": "Tan Malaka"
+    }
+  ],
+  "possibleChapters": []
+}

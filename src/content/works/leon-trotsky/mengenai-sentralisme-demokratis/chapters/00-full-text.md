@@ -1,0 +1,33 @@
+# Mengenai Sentralisme Demokratis
+
+#### **Sepatah Dua Kata mengenai Rejim Partai**
+
+## Leon Trotsky (8 Desember, 1937)
+
+* * *
+
+**Sumber:** _On Democratic Centralism, A Few Words about the Party Regime._ Writings of Leon Trotsky 1937-38. Pathfinder Press, New York, 1976. Hal. 89-91.
+
+“On Democratic Centralism.” Internal Bulletin (OCSPC), no. 5, December 1937. Ini adalah salah satu kontribusi Trotsky untuk diskusi pra-kongres.
+
+**Penerjemah:** Ted Sprague (Januari 2007; Revisi 10 November 2022)
+
+* * *
+
+Kepada Dewan Editor _Socialist Appeal_:
+
+Beberapa bulan terakhir saya menerima sejumlah surat dari beberapa kamerad muda yang tidak saya kenal mengenai rejim internal partai revolusioner. Beberapa surat tersebut mengeluh mengenai “kurangnya demokrasi” dalam organisasi kalian, mengenai “para pemimpin” yang memerintah seperti diktator, dan keluhan-keluhan serupa lainnya. Kamerad-kamerad tersebut meminta saya untuk menyediakan sebuah “formula sentralisme demokratis yang jelas dan terperinci” yang dapat mencegah penafsiran yang keliru.
+
+Tidaklah mudah menjawab surat-surat ini. Tidak ada satu pun koresponden saya yang mencoba menunjukkan dengan jelas dan konkret, dengan contoh-contoh yang nyata, bagaimana terjadinya pelanggaran demokrasi ini. Di sisi lain, saya, sebagai pengamat dari luar, dapat menilai bahwa, berdasarkan koran-koran dan buletin-buletin organisasi kalian, diskusi di dalam organisasi kalian telah dilaksanakan dengan kebebasan penuh. Buletin-buletin ini kebanyakan diisi oleh perwakilan dari kelompok minoritas kecil. Saya diberitahu bahwa demikian juga di dalam pertemuan-pertemuan diskusi kalian. Keputusan-keputusan belumlah dilaksanakan. Sepertinya mereka akan dilaksanakan melalui konferensi dengan pemilihan yang bebas. Maka dari itu, di mana pelanggaran demokrasi tersebut memanifestasikan dirinya? Ini sangat sulit dimengerti. Terkadang, menilai dari nada surat-surat tersebut, terutama dari ketidakjelasan keluhan-keluhan tersebut, tampaknya sang pengeluh semata-mata tidak puas bahwa mereka adalah minoritas kecil sekalipun sudah ada demokrasi. Dari pengalaman saya sendiri, saya tahu ini tidaklah menyenangkan. Tetapi, di mana pelanggaran demokrasinya?
+
+Saya juga tidak percaya saya dapat menyediakan sebuah formula sentralisme demokratis yang akan secara “mutlak” menghilangkan kesalahpahaman dan penafsiran yang keliru. Partai adalah sebuah organisme yang aktif. Dia berkembang dalam pergelutannya dengan rintangan-rintangan dari luar dan kontradiksi-kontradiksi internal. Membusuknya Internasional Kedua dan Internasional Ketiga, di bawah epos imperialisme yang menghadirkan kondisi yang teramat sukar, menciptakan kesulitan-kesulitan tanpa preseden bagi Internasional Keempat. Kita tidak akan bisa mengatasinya dengan semacam formula ajaib. Rejim partai bukanlah sesuatu yang jatuh dari langit, tetapi terbentuk setahap demi setahap dalam perjuangan. Garis politik mendominasi rejim partai. Pertama-tama, kita perlu mendefinisikan masalah-masalah strategi dan metode-metode taktik secara tepat supaya bisa dipecahkan. Bentuk organisasi haruslah sesuai dengan strategi dan taktik. Hanya kebijakan yang tepat dapat memastikan rejim partai yang sehat. Ini bukan berarti bahwa perkembangan partai tidak akan menghadirkan problem-problem organisasi. Tetapi ini berarti formula sentralisme demokratis niscaya mengekspresikan dirinya secara berbeda tergantung di negeri mana kita berada dan di tahapan perkembangan partai mana kita berada.
+
+Demokrasi dan sentralisme sama sekali tidak menemukan diri mereka sendiri dalam sebuah rasio yang konstan. Semua tergantung pada situasi yang konkret, pada situasi politik negeri tertentu, pada kekuatan partai dan pengalamannya, pada kualitas anggota-anggotanya, pada otoritas yang sudah berhasil dimenangkan oleh kepemimpinan. Sebelum konferensi, bilamana masalahnya adalah perumusan garis politik untuk periode ke depan, demokrasi berjaya di atas sentralisme. Bilamana masalahnya adalah aksi politik, sentralisme menundukkan demokrasi. Demokrasi kembali menegaskan haknya bilamana partai merasa perlu memeriksa secara kritis tindakan-tindakannya sendiri. Perimbangan antara demokrasi dan sentralisme ditentukan oleh perjuangan yang aktual; ada saatnya dia dilanggar dan kemudian kembali ditegakkan. Kedewasaan setiap anggota partai mengekspresikan dirinya terutama melalui fakta bahwa dia tidak menuntut dari rezim partai lebih dari apa yang bisa diberikan partai. Seseorang yang menentukan sikapnya terhadap partai berdasarkan perasaan pribadinya yang tersinggung adalah seorang revolusioner yang payah. Tentu saja kita harus memerangi setiap kesalahan yang dilakukan oleh kepemimpinan, setiap ketidakadilan, dan hal-hal yang serupa. Tetapi kita harus menilai “ketidakadilan” dan “kesalahan” tersebut bukan secara terpisah tetapi sehubungan dengan perkembangan partai secara keseluruhan dalam skala nasional dan internasional. Sebuah pertimbangan yang tepat dan kemampuan menilai segala sesuatu secara proporsional dalam politik adalah hal yang sangatlah penting. Seseorang yang mempunyai kecenderungan membesar-besarkan perkara kecil dapat sangat merusak dirinya sendiri dan partai. Nasib malang orang-orang seperti Oehler, Field, Weisbord, dan yang lainnya disebabkan oleh ketidakmampuan mereka untuk bersikap proporsional.
+
+Pada saat ini, ada banyak kaum revolusioner setengah-hati, yang sudah letih karena menderita kekalahan, takut akan kesulitan, orang-orang muda yang sudah menua yang mempunyai lebih banyak keraguan dan kepongahan daripada tekad berjuang. Alih-alih secara serius menganalisis isu-isu pokok politik, individu-individu ini mencari obat mujarab, di setiap kesempatan mengeluh tentang “rejim” partai, menuntut mukjizat dari kepemimpinan, atau mencoba menutupi sikap skeptis mereka dengan celoteh ultra-kiri yang kekanak-kanakan. Kaum revolusioner tidak akan dapat dibentuk dari elemen-elemen seperti ini, kecuali kalau mereka sendiri mengambil tanggung jawab untuk berubah. Di sisi lain, saya yakin generasi buruh muda akan mampu mengevaluasi baik buruknya strategi dan program Internasional Keempat dan akan berhimpun di bawah panjinya dalam jumlah yang semakin besar. Setiap kaum revolusioner sejati, yang melihat rejim partainya melakukan sejumlah kesalahan, harus pertama-tama mengatakan pada dirinya sendiri: “Kita harus membawa masuk ke dalam partai selusin buruh yang baru”. Buruh-buruh muda tersebut akan menertibkan orang-orang yang skeptis, yang suka mengeluh, dan pesimis. Hanya melalui jalan tersebutlah maka sebuah rezim partai yang sehat bisa dibangun di seksi-seksi Internasional Keempat.
+
+L. Trotsky
+
+* * *
+
+##### [MIA Bahasa Indonesia](https://www.marxists.org/indonesia/index.htm)   |   [Arsip Leon Trotsky](index.html)

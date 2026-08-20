@@ -1,0 +1,137 @@
+# Dari Ir.Soekarno sampai ke Presiden Soekarno
+
+## Tan Malaka (1948)
+
+* * *
+
+**Sumber:** Yayasan Cahaya Kita, Jakarta 1966
+
+Tulisan ini adalah bagian dari otobiografi Tan Malaka "Dari Penjara ke Penjara" yang diterbitkan terpisah sebagai buku saku.
+
+* * *
+
+**Kata Pengantar**
+
+Ada penulis bangsa Inggris yang mengatakan bahwa sejarah dunia adalah riwayat hidupnya orang besar. Ucapan itu sudah jelas tidak benar. Tidak benar, karena mengabaikan peran rakyat banyak di dalam mempengaruhi jalannya perkembangan sejarah. Penulis itu melebih-lebihkan pengaruh seseorang yang mempunyai “sifat-sifat luar biasa” sehingga dalam mencari orang-orang yang bersifat luar biasa itu melupakan peranan rakyat yang sesungguhnya adalah sumber dari segala-galanya. Namun demikian tidak bisa dipungkiri pengaruh orang orang besar pada jalannya sejarah, baik dalam artian maupun yang buruk.
+
+Pengaruh Soekarno pada sejarah Indonesia besar sekali, tidak mungkin orang memungkiri. Ir.Soekarno memang orang yang luar biasa. Tetapi kenyataan itu tidak memudahkan orang yang ingin mengenal Soekarno sebenarnya. Mana mitos, mana fakta dan kesan orang terhadap orang lain berbeda-beda tergantung dari si peninjau. Kita kenal Soekarno di mata Soekarno sendiri, seperti diceritakannya kepada Cindy Adams dalam auto biografinya. Ada lagi Sokarno di mata Louis Fisher, wartawan Amerika. Sekarang kami sajikan kepada pembaca Soekarno dalam pandangan Tan Malaka, dalam auto biografinya dari _Penjara ke Penjara_ yang ditulis pada tahun 1948 telah menyoroti Ir.Soekarno sebagai pemimpin Indonesia. Isi brosur ini diambil dari autobiografi-nya itulah.
+
+Tan Malaka tidak asing lagi bagi pembaca. Seluruh hidupnya sesudah masa kanak-kanak dicurahkan bagi perjuangan kemerdekaan bangsa dan rakyat Indonesia. Empat puluh tahun yang lalu dia telah menelorkan konsepsi yang konkrit tentang Republik Indonesia dalam bukunya yang menyebabkan Prof.Moh.Yamin,SH mengikatkan gelar “Bapak Republik Indonesia” kepadanya. Karena jasa-jasanya pula Tan Malaka secara anumerta telah diangkat menjadi pahlawan nasional oleh pemerintah Indonesia.
+
+Jakarta, Agustus 1966
+
+Penerbit
+
+### **Dari Ir.Soekarno sampai ke Presiden Soekarno**
+
+Karena amat banyak menyinggung Pimpinan Negara Republik Indonesia dalam masa revolusi ini. Maka saya perlu sekali mengemukakan sedikit pandangan mengenai dirinya Presiden Soekarno. Barangkali ada baiknya juga saya ceritakan tentang perhubungan saya dengan Presiden Soekarno.
+
+Sah dan perubahan jiwa manusia itu umumnya, sebagai cerminan perubahan masyarakat manusia umumnya pula, juga mengalami undang dialektika, yakni perubahan sedikit demi sedikit, dari abad ke abad pada suatu ketika menjadi pertukaran sifat. Dengan maju berubahnya masyarakat sedunia, dari zaman komunisme-asli ke zaman sosialisme modern melalui zaman perbudakan, zaman ningrat dan zaman kapitalisme, maka maju dan berubahnya kebudayaan kejiwaan (psychology) manusia itu dalam ratusan tahun.
+
+Tetapi dalam dirinya seseorang (manusia) pada suatu masyarakat dalam hidupnya seseorang itu bisa berlaku gerakan kemajuan atau gerakan kemunduran. Seseorang dalam seumur hidupnya bisa bertukar dari revolusioner menjadi konservatif atau anti-revolusioner atau sebaliknya dari konservatif bertukar menjadi revolusioner. Yang menjadi pendorong dalam pertukaran paham itu biasanya perjuangan kelas dalam masyarakat itu. Filsafat atau pandangan hidup dan juga kemauan atau wataknya orang itu sendiri. Seseorang juga berwatak waja dan konsekwen dan mempunyai pandangan yang tepat tentang gerakan kelas dalam masyarakat itu, biasanya patah atau tegak dengan pahamnya semula. Tetapi orang yang tiada mempunyai filsafat atau pandangan hidup yang tepat dan masak tetapi mempunyai watak dan kemauan yang mudah diombang-ambing oleh sentimen (perasaan) serta hawa nafsu diri sendiri atau pengaruh dari luar, biasanya kalau bertemu dengan rintangan mudah sekali bertukar warna dan memilih keuntungan sementara untuk menyelamatkan dirinya sendiri.
+
+Satu dua di antara pelbagai ukuran yang biasanya kita pakai terhadap seseorang yang terjun terhadap seseorang, sebagai pemimpin, apakah _pertama_ sekali ia dapat melihat ke depan dan yang kedua pakah dia cukup mempunyai watak yang konsekwen untuk memegang pandangan ke depan itu. Dalam prakteknya kita bertanya, apakah yang dijanjikan pemimpin itu kepada pengikut dan rakyatnya. _Kedua_, apakah dia jujur dan konsekwen melaksanakan apa yang sudah dijanjikannya itu sambil juga memperhatikan cara dan moral yang dijungjungnya untuk menepati janjinya itu.
+
+Kita _pertama_ bertanya; apa yang dijanjikan oleh  Ir.Soekarno kepada rakyat Indonesia ketika dia memimpin PNI di masa “Hindia Belanda”? _kedua_, apakah Ir.Soekarno jujur memegang janjinya itu?
+
+Kita semua mengetahui bahwa Ir.Soekarno menuju kepada Indonesia merdeka atas dasar “Sosio-Nasionalisme” dan “Sosio-Demokrasi” dengan cara MASSA AKSI serta dengan semangat yang “tak kenal damai” (bukan serupa almarhum Dr Sutomo).
+
+Ir Soekrano sudah menderita banyak kesengsaraan lantaran pahamnya itu dari pihak imperialisme Belanda, dan sebaliknya pula mendapat kehormatan, simpat dan pujian yang luar biasa dari seluruh golongan rakyat di Indonesia.
+
+Tetapi bagaimanakah Ir Soekarno menepati janjinya?
+
+Dengan Jepang yang imperialistis, militeristis dan teocratis Ir.Soekarno dari mulanya Jepang masuk sampai jatuhnya dari tahun 1942 sampai tahun 1945 dia bisa kerjasama bahkan bisa “sehidup semati” untuk mendirikan Indonesia merdeka di kelak kemudian hari dalam lingkungan “Asia Timur Raya” yang pastilah cocok dengan filsafat hidup Tenno Heika dan Kenpei Jepang. Oleh karena kepercayaan dan penghargaanTenno Heika oleh Jendral Terauchi, Panglima Tertinggi seluruh Angkatan Perang Jepang di Asia Selatan, antara tanggal 5 dan 11 Agustus 1945 di Saigon.
+
+Presiden Soekrano (yang walaupun atas desakan para pemuda Jakarta) pada 17 Agustus 1945 telah memmproklamasikam kemerdekaan Indonesia dan di masa Jepang menciptakan “Amerika kita setrika, Inggris kita linggis” serta dengan secara sandiwara membakar potret van der Plas (Roosevelt dan Churchill)—dengan “Naskah Linggarjati” dan “Renville principles” menerima kembali Mahkota Raja Belanda di samping mengakui modal asing baik yang langsung memusuhi, maupun yang tidak langsung memusuhi Republik.
+
+Di masa Jepang sebetulnya banyak jalan lain bagi Gico Soekarno untuk menyingkiri ikatan halus maupun kasar yang dicoba dikenakan oleh kaki tangan Tenno Heika kepadanya. Tak perlu dia sendiri yang menganjurkan atau menyetujui pengerahan romusha, pengumpulan intan berlian rakyat Indonesia serta para gadis (untuk dilatih) untuk dikirim ke Tokyo. Tiadalah pula perlu Presiden Soekarno di masa republik ini terus menerus menerima usul Inggris, yang sangat merugikan rakyat ialah menghentikan pertempuran di Surabaya dan Magelang serta usul dari pihak Belanda mengakui beberapa Negara Boneka dalam beberapa wilayah Republik Indonesia (NIT, Borneo,dll) dan sekarang menerima dan menjalankan usul Belanda “mengosongkan kantong” dan menarik 35.000 prajurit dari Jawa Barat dan Jawa Timur dan seterusnya menerima kembali mahkota Belanda, N.I.S dan UNI Nederland-Indonesia, jadinya membatalkan proklamasi 17 Agustus.
+
+Seandainya Ir Sokerano tetap memegang pendiriannya semula dan bersandar atas kepercayaan kepada kekuatan 70 juta rakyat dan dinamikanya revolusi, artinya tetap memagang dasar Indonesia Merdeka dengan “Sosio-Nasionalisme” dan “Sosio-Demokratnya” tetap pula memegang cara Massa Aksi dengan semangat yang tiada kenal damai (juga terhadap sembarangan imperialisme) maka dengan kerja “Illegal” di masa jepang kemerdekaan 100 % boleh jadi sekali lebih lekas tercapainya daripada yang disangka-sangka.
+
+Tetapi kalau kita pelajari perbuatannya Ir Sokerno, maka kita terpaksa mengambil kesimpulan bahwa dia tiada memusingkan analisanya masyarakat Indonesia. tiada tampak bagi saya dalam semua pidatonya perhatian yang dalam antara kebutuhan Belanda terhadap Indonesia. Tiada tampak bagi saya dalam semua pidatonya perhatian terhadap pertentangan yang antara kebutuhan Belanda terhadap Indonesia dalam arti keperluan hidup dan tiada kelihatan pula dalam semua pidatonya itu perhatian terhadap pokok- pendorongnya gerakan rakyat di Indonesia, ialah gerakan murba yang tak kenal damai. Semua dipusatkan kepada _grande-eloquence_, kemahiran kata, untuk mengikat perhatian dan perasaan para pendengar semata-mata. Kurang untuk menimbulkan keyakinan juga berdasarkan pengertian atas bukti dan perhitungan yang nyata, dan seterusnya untuk menerbitkan kemauan seperti baja untuk melaksanakan keyakinan itu, karena kepintaran menggunakan Bahasa Indonesia, maka dengan suara yang bergemuruh bersipongang dan mempengaruhi para pendengar, dapatlah Bung Karno memukau, menghipnotis sesuatu rapat rakyat murba.
+
+_Grande-eloquence_ beserta _grande-elegance_ a’la Soekarno yang banyak kecocokan pada irama jiwa Murba Indonesia, yang tertindas, terperas, bisa digunakan oleh suatu imperialisme sebagai Dewi Nasionalisme untuk mengebiri gerakan murba yang dipengaruhi oleh paham komunisme, tetapi belum diobori, diorganisir dan di-disiplin oleh ilmu komunisme. Tetapi _grande-eloquence_ dan _grand- elegance_ itu saja tak dapat mendidik kader murba yang bisa mempelopori gerakan dan revolusi di Indonesia.
+
+Partai Nasional Indonesia (PNI) terdiri sebagian besarnya daripada kaum intelektual borjuis. Mereka ini dalam hati kecilnya takut kepada akibatnya gerakan murba, tetapi dengan pidato yang abstrak, kabur tetapi _grande_, mereka bisa memberi pengharapan dan impian kepada murba. Apabila murba yang sesungguhnya bergerak untuk mencapau maksudnya murba yang sebenarnya, dan imperialisme Belanda, Jepang atau Inggris mengambil tindakan keras, maka _grande eloquence_ dapat dipergunakan untuk menutupi, menyelimuti dan membungkus segala-gala yang tidak konsekwen serta memalsukan semua yang konsekwen. Demikianlah _grande eloquence_ beserta _grande elegance_ dapat menyembunyikan apa yang kompromistis, menyelimuti apa yang anti Massa Aksi, serta membungkus segala sesuatu yang hakekatnya anti kemerdekaan.
+
+_Grande elegance_ a’la Soekarno tak pernah konkrit,nyata ialah tepat dan berterang-terangan melawan musuh yang nyata dan dekat. Dijamin Belanda Nasionalisme yang mestinya anti pemerintah Hindia Belanda itu dapat dibungkus dengan perkataan “kapitalisme-imperialisme”. Istilah ini dapat dipergunakan sebagai tabir asap untuk melindungi diri para pemimpin PNI terhadap undang-undang Hindia Belanda. Bukannya partai Nasional Indonesia langsung menentang pemerintah Hindia Belanda, melainkan imperialisme-kapitalisme yang jauh,abstrak, yang tergantung di awang-awang. Begitu oleh _grande eloquence_, istilah Massa Aksi yang berarti “Murba Bersenjata yang Bertindak Sendiri” boleh disulap menjadi massa aksi yang membangun kerjasama di “Hindia Belanda” dan  ber-“Kinro Hoozi di zaman Jepang dan bersama-sama “memotong keju” dan “menyapu jalan” di revolusi ini. Di zaman Jepang Sosio-Nasionalisme yang radikal dan agresif menjadi “Hakko Itjiu” atau “Hakko Seisin” teristimewa juga sekarang Sosio-demokrasi dan Sosio-Nasionalisme dan Sosio Demokrasi itu boleh dipakai sebagai perisai terhadap tuduhan “war criminal” dan sebagai selimut untuk kerjasama dengan kapitalisme-imperialisme Belanda, ialah tengkulaknya kapitalisme-imperialisme Amerika-Inggris.
+
+Berhubung dengan amat longgarnya cara Ir.Soekarno menafsirkan suatu paham itu, maka tak pastilah saya ini dalam menentukan apakah sikap  Ir Soekarno yang sebenarnya terhadao paham dan diri saya sendiri, walaupun di masa lampau kelihatan masih serba baik.
+
+Buat sekadarnya membuktikan kerja itu di zaman lampau, ialah sebelumnya tangkapan saya pada tanggal 17 Maret 1946 di Madiun, maka tak ada salahnya kalau di sini saya mengemukakan beberapa peristiwa yang barangkali tidak begitu atau samasekali tidak diketahui oleh umum.
+
+Sebermula, maka kebetulan saja, saya dalam tahanan di Mojokerto (13 Juli 1946 sampai 29 Januari 1947) saya terpandang satu buku yang berjudul “Indisch Schrift v/h Recht”. Dalam buku itu tercantum Ir Soekarno pada Landraad Bandung, 22 Desember 1931.
+
+Hampir setengahnya laporan proses itu yang menutupi lebih kurang 60 muka, mengambil bagian yang memperhubungkan aksi Ir Soekarno di masa PNI dengan saya sendiri, ialah dengan perantara buku _Masa Aksi_ yang saya tulis tergesa-gesa di Singapura pada pertengahan 1926.  Buku _Masa Aksi_ itu sekarang sudah diterjemahkan dari bahasa Belanda ke dalam Bahasa Indonesia dan sudah disiarkan pada tahun lampau. Karena buku itu di masa Hindia Belanda cuma jatuh kepada beberapa pemimpin yang berpengaruh besar saja, dijatuhkan secara rahasia sekali dan karena isi buku itu pula yang pertama kali diperingatkan Presiden Soekarno kepada saya pada pertemuan bermula, maka baiklah saya turunkan di sini catatan dari beberapa pemeriksaan itu.
+
+Beberapa kalimat disalin ke Bahasa Indonesia. Bunyinya sebagai berikut:
+
+‘Landraad di Bandung ketua Mr.Siegenbeek v. Heukelen vonis 22 Desember 1931. Raad van justitie di Jakarta Mr.E.H de.Graag,dll. Vonis 17 April 1931
+
+Perkara terhadap para pemimpin PNI menurut artikel 153 bis dan 169 dari Weboek v.strafrecht. pada halaman 609 tertulis: Dalam Indische Tijdschrift v/h Recht Ir Soekarno, R.Gatot Mangkuprajo, Mas Kun, Supriadinata
+
+Semenjak berdirinya PNI sampai tanggal 29 Desember 1929, yakni selama tahun tersebut teristimewa pada petengahan kedua tahun itu, di Bandung dan tempat lain-lain, ialah di Jawa dengan memimpin atau berbicara pada rapat umum kursus dan propaganda tertutup. Demikian pula dengan jalan memberikan pimpinan kepada dan memajukan massa aksinya partai mereka mengambil bagian dalam PNI dengan pengetahuan tentang tujuan partai. Maksud terakhir dari PNI dengan tegas dituliskan dalam statute..keterangan azas sebagai syarat yang pertama disebutkan’ kemerdekaan poitik, yakni berhentinya pemerintahanan Belanda di atas Indonesia itu.
+
+“Sebagai alat yang paling baik Massa Aksi yang teraturlah yang dikemukakan.”
+
+“Landraad menganggap penting sekali brosur Massa Aksi in Indonesie, terdapat pada produk FN ditulis oleh Tan Malaka, pemimpin komunis yang pada waktu itu berada di Singapura.” Pada halaman 639 Tidjs. v/h Rehct tertulis a.l:
+
+“Menimbang bahwa produk AX juga menunjukan, memperbaiki, masyarakat oleh Murba (massa) dari Murba, untuk Murba perkataan mana satu persatu terdapat brosur Tan Malaka halaman 73..”
+
+Menimbang bahwa thesis tentang pembagian imperialism atas corak dalam produk O (yang menurut saksi Kamaruddin dalam pemeriksaan adalah diktat pada kursus kepada calon anggota partai) yang juga terdapat dalam produk Bu; satu tulisan dari Inu Perbatasari, pemimpin kursus, disalin Woordelijk (kata demi kata) dari brosur Tan Malaka tersebut halaman 32 pada halaman 656 TIJDS. v/h RECHT:
+
+“…………..Bahwa (menurut terdakwa Pen!) nasionale daad (perbuatan nasional) disebutkan akan berakhir tahun 1930.”
+
+“………….sedangkan dengan sedikit perubahan istilah (sedikit perubahan itu adalah atas tanggungannya jaksa Belanda semata-mata,Pen!) Tan Malaka dalam produk FN mengemukakan bahwa salah satu syarat untuk menimbulkan pemberontakan bersenjata terhadap pemerintahan Hindia Belanda ialah bahwa pimpinan dari Massa Aksi harus senantiasa sanggup membentuk tuntutan dan semboyan yang baru dan bersemangat sehingga  kemauan Murba suatu saat bertukar menjadi perbuatan Murba.
+
+Pada halaman 659 TIJDS v/h RECHT:
+
+“………….Menimbang penolakan yang menyatakan bahwa yang menyebabkan timbulnya pemberontakan yang kecil-kecil dan tidak teratur tiadalah member jaminan bagi jayanya revolusi, sudah terdapat pada surat kode Tan Malaka dan Subakat dalam produk V, kepada para pemimpin komunis di negeri ini dari sudut mana berhubungan dengan produk LL, sama sekali tidak terbukti, seperti yang hendak dikemukakan oleh Pembelaan, bahwa PNI yakni para pemimpinnya tidak menghendaki  pemberontakan bersenjata terhadap pemerintah, tetapi lebih tepat bahwa (PNI) menolak Putsch, revolusi yang tiada teratur sebagai siasat untuk mencapai maksudnya pengesahan yang pasti tantangan kesimpulan itu terdapat dalam uraian Tan Malaka sendiri dalam Brosur Produk FN, dimana penolakan yang pasti terhadap Putsch, sebagai siasat untuk mencapai tujuan nasional, ialah kemerdekaan juga diberi alas an penuh oleh PNI menurut produk FO dan OO dengan mempertentangkan Putsch yang tiada sempurna itu dengan Massa Aksi yang teratur sebagai alat efissient (sempurna) untuk mencapai maksud terakhir ialah kemerdekaan Indonesia sepanjang revolusi bersenjata.”
+
+Pada halaman 660 tertulis:
+
+“Putsch ialah hasil pekerjaan dua orang berputus asa, sedangkan revolusi adalah hasilnya suatu gerakan masyarakat. Satu revolusi seperti di Prancis dan Rusia timbul, setelah rakyat Murba disebabkan oleh suatu kejadian menunjukkan kemarahan serta kemurkaannya dengan protes pada rapat umum dan demostrasi yang disetujui oleh seluruh rakyat yang tak lain  melainkan Murba yang diorganisir.”
+
+Catatan di atas bukan dimaksud untuk membenarkan tuduhan jaksa Hindia Belanda terhadap Ir Soekarno. Juga bukan membenarkan tafsiran jaksa dan PID Hindia Belanda tentang massa aksi tetapi atas catatan di atas oleh pihak ke tiga dapat diambil sekedarnya kesimpulan bahwa PNI dan Soekarno setuju dengan Massa Aksi sebagai alat yang paling baik untuk mencapai kemerdekaan politik. Dikatakan pula baik dalam rapat umum maupun dalam rapat terbuka dan dalam kursus partai, maka buku massa aksi banyak dipergunakan.
+
+Rupanya tuduhan pengadilan di masa Hindia Belanda yang berkenaan dengan Massa Aksi itu tak seberapa jauhnya daripada kebenaran. Sesudahnya saya membaca laporan tentang proses Ir Soekarno cs dalam TIJDS v/h RECHT tersebut di Mojokerto, maka hal ini saja contohnya pula dengan keterangan beberapa pemimpin yang rapat perhubungannya dengan Ir Soekarno di masa lampau. Keterangan Hindia Belanda itu tentang perhubungan Ir Soekarno dengan buku Massa Aksi itu sama sekali dibenarkan. Malah ditambahi pula dengan keterangan bahwa bukan PNI dan Ir.Soekarno saja, tetapi ada lagi partai-partai lain dan para pemimpin lain yang mempergunakan brosur massa aksi dalam gerakan kemerdekaan sebagai petunjuk.
+
+Perkataan yang pertama kali diucapkan oleh Presiden Soekarno pada permulaan 1945 di rumah DR.Soeharto di mana saya pertama kali berkenalan dengan Presiden Soekarno dengan perantara Saudara Sajuti Melik atas nama yang sebenarnya setelah 3 ½ saya bersembunyi di Indonesia. Kempei perkataan itu ialah “…dalam buku Massa Aksi rupanya Saudara (Tan Malaka) anggap sifatnya imperialism Inggris berada di antara imperialisme Belanda dan Amerika!”
+
+Inilah perkataan yang pertama yang diucapkan oleh Presiden Soekarno dalam pertemuan yang sangat kami rahasiakan itu, karena Jepang masih bersenjata lengkap di Indonesia, yang sudah 20 minggu lebih memproklamirkan kemerdekaannya.
+
+Baik juga saya ulangi di sini, bahwa pada permulaan September 1945 itulah Ir.Soekarno dan saya berkenalan nama dengan nama. Muka dengan muka seperti yang sudah saya ceritakan di lain tempat, sudah bertemu di Bayah satu tahun sebelumnya ketika saya menghidangkan minum kepada Gitjo Soekarno. Meskipun saya di Bajah itu belum puas dengan jawaban Soekarno atas pertanyaan saya (Husein) tentang kemerdekaan Indonesia dan amat kecewa denga PUTERA dan HOKOKAI yang berturut-turut dibangunkan dan dibubarkan, kecewa dengan panitia Penyeliidik dan Persiapan Kemerdekaan Indonesia. Pada Soekarno saya masih memusatkan perhatian. Di masa Jepang berapa kali saya berniat melangkahkan kaki ke rumah Soekarno di Pegangsaan Timur No.56, tetapi terhambat karena adanya Jepang itu! Saya yakin akan diterima oleh Ir.Soekarno, tetapi sebaliknya yakin pula tidak akan lepas dari cengkraman kenpei Jepang. Pada akhir percakapan yang tiada disaksikan oleh DR.Soeharto, tuan rumah sendiri, tetapi disaksikan oleh saudara Sajuti Melik, Presiden Soekarno sambil menunjuk berkata kepada saya lebih kurang sebagai berikut:
+
+“Kalau saya tiada berdaya lagi, maka kelak pimpinan revolusioner, akan saya serahkan kepada saudara.”
+
+Kami berpisah dengan sedikit sokongan uang  dari Presiden Soekarno kepada saya.
+
+Yang kedua kalinya tiada lama sesudah itu dengan perantara Sdr. Sajuti Melik juga. Saya berjumpa dengan Presiden Soekarno di rumah Dr.Muwardi (Banteng) juga dalam keadaan rahasia.
+
+Sekali Presiden Soekarno menganjurkan bahwa nanti pimpinan revolusi akan diserahkan kepada saya, sambil memberi sokongan uang pula.
+
+Bagi saya di masa itu, perkara saya menerima hak pimpinan revolusi, atau haknya Presiden Soekarno menyerahkan pimpinan revolusi itu kepada saya, sebenarnya sekejap pun tidak mempengaruhi perasaan, paham dan sikap memberikan sambutan terhadap usul Presiden Soekarno. Saya sudah amat gembira bertemu muka dengan Presiden Republik Indonesia: Republik yang sudah lama saya idamkan yang presidennya adalah putra Indonesia sejati pula. Usul pemimpin revolusi tadi saya anggap sebagai satu kehormatan saja dan sebagai tanda suatu kepercayaan dan penghargaan Bung Karno kepada saya belaka. Teristimewa pula sebagai suatu tanda yang nyata, bahwa di masa lampau benar ada satu ikatan jiwa dan paham antara Bung Karno dan saya, walaupun kami hidup berjauhan.
+
+Di belakang harinya sesudah demonstrasi 19 September 1945 di Jakarta yang saya dengar pula kabar dari pihak para menteri, bahwa dalam satu sidang presidentil cabinet , Presiden Soekarno berkata bahwa “…kelak dia akan menyerahkan pimpinan revolusi kepada salah seorang yang mahir dalam gerakan revolusioner.” Namanya itu belum disebutkan tetapi akan diumumkan dalam satu rapat tertutup.
+
+Peristiwa penyerahan pimpinan revolusi itu saya bicarakan dengan Mr.Soebarjo yang pada saat itu menjabat Menteri Luar Negeri. Mr.Soebarjo saya kenal baik ketika di Nederland pada tahun 1922 dan saya jumpai di Jakarta pada 25 Agustus 1945 ialah seminggu lamanya setelah proklamasi kemerdekaa dan setelah seminggu lamanya saya sia-sia menjumpai kembali Soekarni cs dan Chaerul Shaleh cs. Mr.Soebarjo menganggap usul penyerahan pimpinan revolusi kepada saya sebagai usul yang penting juga. Desas-desus sudah terdengar di kiri-kanan bahwa Presiden Soekarno akan ditangkap oleh Inggris dan akan dituduh sebagai “war criminal” (penjahat perang) karena dianggap oleh sekutu sebagai membantu Jepang ialah musuhnya sekutu dalam perang dunia ke dua. Berhubung dengan kemungkinan penangkapan itu diperkuat pula oleh aksinya murba Jakarta pada tanggal 19 September yang tiada disetujui oleh Presiden Soekarno rupanya bertambah merasa perlu mengadakan payung sebelum hujan ialah mempersiapkan surat warisan mengenai pimpinan revolusi.
+
+Kelihatan benar pada saya bahwa Mr.Soebarjo, Menteri Urusan Luar Negeri amat setuju dengan usul tadi.
+
+Setelah keadaan di Jakarta mendesak karena Inggris hendak mendarat dan saya terpaksa meninggalkan Jakarta (keterangan lebih lanjut akan menyusul di belakang) maka Mr.Soebarjo berusaha dan berhasil mendapatkan surat warisan.
+
+Yang terpenting dari surat warisan itu ialah bahwa kalau tiada berdaya lagi, maka mereka, Soekarno-Hatta akan menyerahkan pimpinan revolusi itu kepada Tan Malaka, Sjahrir, Iwa Kusumasumantri dan Wongsonegoro. Surat warisan itu ditandatangani oleh Presiden Soekarno dan Wakil Presiden Moh.Hatta pada tanggal 1 Oktober 1945.
+
+Mulanya yang mau menandatangani cuma Presiden Soekarno dan surat warisan itu akan diberikan kepada saya sendiri saja. Tetapi karena desakan Moh.Hatta (menurut Soebarjo), maka Wakil Presiden Moh.Hatta ikut menandatangani  dan menambah tiga orang lainnya untuk mewarisi.
+
+Karena saya anggap perlu mengorganisir murba di luar kota Jakarta, sebab saya pandang Jakarta sudah terancam dan saya belum dapat berhubungan dengan para pemuda Jakarta dan sama sekali belum tahu adanya Markas Benteng 31, maka dengan surat warisan yang ditandatangani oleh Presiden Soekarno dan Wakil Presiden Moh.Hatta di dalam tas pada tanggal 1 Oktober 1945 saya meninggalkan Jakarta sampai sekarang (17 Februari 1946).
+
+Demikian perhubungan paham diri dengan Ir.Soekarno dengan saya semenjak berdirinya PNI pada tanggal 4 Juli 1927 sampai satu setengah bulan berdirinya Republik Indonesia ialah 1 Oktober 1945.
+
+Baik juga saya sebutkan di sini bahwa pada saat meninggalkan Jakarta dan membawa surat warisan yang ditandatangi oleh Presiden Soekarno dan Wakil Presiden Moh.Hatta itu, tercamtuhlah di hati saya: kalau kelak Massa Aksi terhadap Inggris dan Belanda berhasil, maka gugurlah tuduhan “war criminals” tuduhan penjahat perang itu kepada Soekarno Hatta. Dan kalau Massa Aksi gagal, maka seluruh rakyatlah yang akan menanggung jawaban tuduhan “war criminals” ditambah “revolutionary –criminals”, tuduhan penjahat perang ditambah tuduhan penjahat revolusi. Tegasnya saya mengharapkan Soekarno-Hatta sehidup semati dengan rakyat/pemuda Indonesia.
+
+Ringkasnya, pada nasib seluruhnya murba beraksi dan aksi murba lah saya anggap tergantungnya nasib para pemimpin Soekarno-Hatta.
+
+* * *
+
+[Arsip Tan Malaka](index.html) | [Sejarah Marxisme di Indonesia](https://www.marxists.org/indonesia/indones/index.htm) | [S�ksi Bahasa Indonesia M.I.A.](https://www.marxists.org/indonesia/index.htm)

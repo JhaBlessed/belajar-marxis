@@ -1,0 +1,109 @@
+# Kemiskinan Filsafat
+
+## Karl Marx (1847)
+
+* * *
+
+# BAB II
+
+# METAFISIKA EKONOMI-POLITIK
+
+### 5\. Pemogokan-pemogokan dan Kombinasi- kombinasi Pekerja
+
+Setiap gerak naik upah-upah tidak bisa berakibat lain kecuali suatu kenbaikan dalam harga gandum, anggur dsb., yaitu, akibat dari suatu kekurangan/kelangkaan. Apakah upah-upah itu? Itu adalah harga ongkosnya gandum dsb.; mereka adalah harga integran dari segala sesuatu. Kita bahkan bidsa lebih jauh lagi: upah-upah adalah poroporsi dari unsur-unsur yang menggubah kekayaan dan dikonsumsi secara reproduktif setiap hari oleh massa kaunm pekerja. Nah, melipatgandakan upah-upah ... adalah menjulukkan pada setiap produser suatu bagian lebih besar daripada produknya, dan yang adalah kontradiktif, dan jika kenaikan itu hanya meluas daripada sejumlah kecil industri, ia menimbulkan suatu gangguan umum dalam pertukaran; singkat-kata, suatu kelangkaan ... Aku menyatakan bahwa tidaklah mungkin bagi pemogokan-pemogokan yang disusul oleh suatu kenaikan dalam upah-upah untuk tidak berkulminasi pada suatu kenaikan umum dalam harga-harga; ini jelas sejelas-jelas sebagaimana dua tambah dua adalah empat. (Proudhon, Vol.I, hal.110 dan 111.)
+
+Kita menyangkal semua pernyataan ini, kecuali bahwa dua tambah dua adalah empat.
+
+Pertama-tama, tidak ada kenaikan umum dalam harga-harga. Jika harga segala sesuatu berlipat-ganda bersamaan waktu dengan harga-harga, maka tidak ada perubahan dalam harga, satru-satunya perubahan adalah dalam istilah-istilah.
+
+Lagi pula, suatu kenaikan umum dalam upah-upah tidak akan pernah menghasilkan suatu kenaikan umum yang kurang atau lebih dalam harga barang-barang. Sesungguhnya, jika setiap industri mengerjakan jumlah pekerja yang sama dalam hubungannya dengan modal tetap atau dengan perkakas-perkakas yang digunakan, suatu kenaikan umum dalam upah-upah akan menghasilkan suatu kejatuhan umum dalam laba dan harga barang-barang yang berlaku sekarang tidak akan mengalami perubahan.
+
+Tetapi, karena hubungan kerja manual pada modal tetap tidaklah sama dalam berbagai industri, semua industri yang mempekerjakan suatu massa modal yang relatif lebih besar dan massa pekerja yang lebih sedikit jumlahnya, akan –cepat atau lambat—terpaksa menurunkan harga barang-barang mereka. Dalam kasus yang sebaliknya, di mana harga barang-barang mereka tidak diturunkan, laba mereka akan baik di atas tingkat umum laba-laba. Mesin bukanlah penghasil upah. Karenanya kenaikan umum dalam upah-upah akan kurang mempengaruhi industri-industri yang, dibandingkan yang lain-lainnya, mempekerjakan lebih banyak mesin daripada pekerja. Tetapi karena persaingan selalu cenderung meratakan tingkat laba, maka laba-laba yang naik di atas tingkat rata-rata tidak bisa tidak bersifat sementara. Jadi, kecuali beberapa fluktuasi, suatu kebaikan umum dalam upah-upah akan mengakibatkan, —tidak sebagaimana dikatakan M. Proudhon, pada suatu kenaikan umum dalam harga-harga, tetapi pada suatu kejatuhan pasial, yuaitu suatu kejatuhan dalam harga barang-barang yang berlaku sekarang, dan yang –barang-barang itu– terutama dibuat dengan bantuan mesin-mesin.
+
+Kenaikan dan kejatuhan laba-laba dan upah-upah hanyalah mengungkapkan proporsi dalam berbaginya kaum kapitalis dan kaum buruh dalam produk satu hari kerja, tanpa mempengaruhi –dalam kebanyakan peristiwa – harga produk itu. Tetapi, bahwa “pemogokan-pemogokan yang disusul oleh suatu kenaikan dalam upah-upah berkulminasi dalam suatu kenaikan umum dalam harga-harga, bahkan dalam suatu kelangkaan” – ini adalah pengertian-pengertian yang hanya dapat merekah di dalam otak seorang penyair yang telah tidak dipahami orang.
+
+Di Inggris, pemogokan-pemogokan telah secara teratur melahirkan penemuan baru dan penerapan mesin-mesin bvaru. Mesin-mesin adalah, boleh dikatakan, senjata yang dipakai oleh kaum kapitalis untuk menindas pemberontakan kerja yang dispesialisasikan. “Keledai yang berswalaku,” penemuan terbesar dari industri modern, telah melumpuhkan kaum pemintal yang sedang memberontak. Jika kombinasi-kombinasi dan pemogokan-pemogokan tidak berakibat lain daripada membuat usaha-usaha sang jenius mekanis bertindak terhadap mereka, maka mereka akan tetap mempunyai pengaruh luar biasa atas perkembangan industri.
+
+“Aku mendapatkan,” demikian M. Proudhon melanjutkan, “dalam sebuah karangan yang dipublikasikan oleh M. Leon Faucher ... September 18455, bahwa beberapa waktu lamanya kaum pekerja Inggris telah keluar dari kebiasaan kombuinasi. Yang jelas suatu kemajuan yang sudah seharusnya orang layak memberi selamat pada mereka: tetapi perbaikan dalam moral kaum buruh ini terutama datang dari pendidikan ekonomi mereka. Tidaklah pada para manufaktur, berteriak seorang pekerja pabrik pemintalan pada suatu rapat di Boston, bergantungnya upah-upah. Pada masa-masa depresi yang menjadi dipertuan adalah, boleh dikatakan, hanyalah cambuk yang dengannya keharusan mempersenjatai diri sendiri, dan apakah mereka mau atau tidak mau, mereka harus mengayunkan hajaran-hajaran itu. Azas pengaturnya adalah hubungan antara persediaan dan permintaan; dan para majikan/dipertuan itu tidak memiliki kekuasaan ini ... Bagus sekali!” M. Proudhon berseru, “mereka ini adalah para pekerja yang terlatih baik, kaum pekerja teladan, _etc._ Kemiskinan seperti itu tidak ada di Inggris; ia tidak akan menyeberangi Selat” (Proudhon, Vol.I, hal.261 dan 262.)
+
+Dari semua kota di Inggris, Bolton merupakan kota tempat anarkisme paling berkembang. Pada waktu agitasi besar di Inggris untuk penghapusan Undang-undang Gandum, kaum manufaktor Inggris mengira dapat menyelesaikan kaum pemilik tanah dengan mendorong saja kaum pekerja menghadapi mereka. Tetapi, karena kepentingan-kepentingan kaum buruh itu tidak kurang bertentangan dengan kepentingan-kepentingan kaum manufaktor daripada kepentingan-kepentingan kaum pemilik tanah, maka wajarlah bahwa kaum manufaktor akan mengalami nasib buruk pada rapat-rapat kaum buruh. Apakah yang dilakukan kaum manufaktor itu? Untuk menyelamatkan muka, mereka mengorganisasi rapat-rapat yang untuk sebagian besar terdiri atas kaum mandor, terdiri atas sejumlah kecil kaum buruh yang paling patuh pada mereka, dan para “kerabat usaha” sejati. Ketika, kemudian, para buruh sejati berusaha – seperti di Bolton dan Manchester, untuk mengambil bagian dalam demonstrasi-demonstrasi gadungan itu, yaitu agar dapat memrotes / menentang demonstrasi-demonstrasi bahwa yang berlangsung itu adalah sebuah “rapat berkarcis” – sebuah rapat yang hanya mengizinkan kehadiran orang-orang yang membawa karcis masuk. Padahal plakat-plakat yang ditempelkan di dinding-dinding mengumumkannya sebagai rapat-rapat umum.Setiap kali rapat seperiti itu dilangsungkan, surat-surat kabar kaum manufaktor memuat berita besar-besar dan terperinci mengenai pidato-pidato yang diucapkan dalam rapat itu. Sudah barang tentu adalah bahwa para mandor itu yang berpidato. Surat-surat kabar London mereproduksi pidato-pidato itu kata demi kata. Sungguh malang bagi M. Proudhon telah menganggap para mandor itu sebagai kaum buruh biasa, dan melarang mereka menyeberangi Selat.
+
+Apabila pada tahun-tahun 1844 dan 1845 pemogokan-pemogokan kurang mendapatkan perhatian daripada di masa sebelumnya, itu adalah karena tahun-tahun 1844 dan 1845 adalah tahun-tahun pertama dari tahun-tahun kemakmuran yang dialami industri Inggris sejak tahun 1837. Namun begitu tidak ada “serikat buruh” yang dibubarkan.
+
+Sekarang mari kita mendengarkan para mandor Bolton. Menurut mereka kaum manufaktor tidak menguasai upah-upah karena mereka tidak menguasai harga produk-produk, dan mereka tidak menguasai harga produk-produk karena mereka tidak menguasai pasar dunia. Dengan alasan ini mereka menginginkan adanya pengertian bahwa perserikatan-perserikatan dibentuk untuk memeras suatu kenaikan upah dari para majikan. M. Proudhon, sebaliknya, melarang perserikatan-perserikatan karena takut mereka akan disusul suatu kenaikan upah-upah yang akan membawa serta timbulnya suatu kelangkaan umum. Tidak perlu kita sebutkan lagi bahwa pada satu hal terdapat suatu _entente cordiale_ (saling pengertian perkerabatan) antara para mandor dan M. Proudhon: bahwa suatu kenaikan dalam pengupahan adalah setara
+
+dengan suatu kenaikan dalam harga produk-produk.
+
+Tetapi, adakah ketakutan akan suatu kelangkaan sebab sebenarnya dari kecemasan M. Proudhon? Tidak. Sederhananya saja, ia terganggu dengan para mandor Bolton itu karena mereka menentukan nilai dengan “persediaan dan permintaan” dan nyaris tidak memperhitungkan “nilai bentukan,” nilai yang telah beralih menjadi bentukan, dari pembentukan nilai, termasuk di dalamnya “keadaan- dapat-dipertukarkan secara permanen” dan semua “proporsionalitas hubungan-hubungan” dan “hubungan-hubungan proporsionalitas” lainnya, dengan Takdir di pihak mereka.
+
+“Suatu pemogokan kaum buruh adalah ilegal, dan tidak hanya Hukum Pidana yang menyatakan begitu, melainkan (juga) sistem ekonomi, keharusan dari tatanan yang bercokol ... Bahwa setiap pekerja secara individual mesti berlaku bebas atas dirinya dan kedua tangannya, hal ini dapat ditenggang, tetapi bahwa kaum buruh dengan berserikat bertindak melakukan kekerasan terhadap monopoli, ini adalah sesuatu yang tidak dapat diperkenankan oleh masyarakat.” (Vol.I, hal,. 334 dan 335.)
+
+M. Proudhopn bermaksud menegakkan sebuah pasal dari Hukum Pidana sebagai sebuah hasil yang diperlukan dan bersifat umum dari hubungan-hubungan produksi borjuis.
+
+Di Inggris berserikat (kombinasi) diabsahkan dengan sebuah Undang-undang Parlemen, dan adalah sistem ekonomi yang telah memaksa Parlemen memberikan otorisasi legal ini. Pada tahun 1825, ketika, di bawah Menteri Huskisson, Parlemen mesti memodifikasi undang-undang ini agar semakin menyelaraskannya dengan kondisi-kondisi yang dihasilkan persaingan bebas, ia terpaksa mesti menghapuskan semua undang-undang yang melarang berserikatnya/perserikatan-perserikatan kaum buruh. Semakin modern industri dan persaingan berkembang, semakin banyak unsur yang mengharuskan dan memperkuat perserikatan, dan sesegera perserikatan menjadi sebuah kenyataan ekonomi, yang dari hari-ke-hari bertambah kokoh, maka mau tidak mau dalam waktu tidak terlalu lama ia akan menjadi suatu kenyataan legal.
+
+Dengan demikian pasal Hukum Pidana itu paling banter membuktikan bahwa industri dan persaingan modern masih belum berkembang baik dibawah Majelis Konsituante dan di bawah Kerajaan. **\[48\]**
+
+Kaum Ekonomis dan Sosialis**\*\*\*\*\*\*** sepakat dalam satu hal: pengutukan “perserikatan-perserikatan.” Cuma, mereka mempunyai motif-motif yang berlainan bagi tindak pengutukan itu.
+
+Kaum Ekonomis berkata pada kaum buruh: Jangan berserikat. Dengan berserikat kalian menghalangi kemajuan teratur dari industri, kalian menghalangi para manufaktor melaksanakan order-order (pesanan-pesanan) mereka, kalian mengganggu perdagangan dan kalian mempercepat invasi mesin-mesin yang, dengan menjadikan kerja kalian sebagian menjadi tidak berguna, memaksa kalian untuk menerima suatu upah yang lebih rendah lagi. Kecuali itu, apapun yang kalian lakukan, upah-upah kalian akanb selalu ditentukan oleh hubungan tangan-tangan (tenaga kerja) yang diminta dengan tangan-tangan yang tersedia, dan merupakan suatu usaha yang tolol dan sekaligus berbahaya bagi kalian untuk memberontak terhadap hukum-hukum ekonomi politik yang bersifat abadi itu.
+
+Kaum Sosialis berkata pada kaum buruh: Jangan berserikat, karena apakah gerangan yang kalian beroleh dengan itu? Suatu kenaikan upah? Kaum ekonomis akan membuktikan pada kalian dengan sangat jelas sekali bahwa beberapa setengah-_pence_ yang mungkin kalian peroleh dengan berserikat itu untuk beberapa waktu lamanya jika kalian berhasil, akan disusul oleh suatu kejatuhan permanen. Kalkulator-kalkulator terlatih akan membuktikan pada kalian bahwa kalian akan memerlukan bertahun-tahun lamanya untuk sekedar pulih kembali, melalui peningkatan upah-upah kalian, dari biaya-biaya yang ditimbulkan bagi organisasi dan pemeliharaan perserikatan-perserikatan itu.
+
+Dan kami, sebagai Sosialis, mengatakan pada kalian bahwa, di samping masalah uang, kalian bagaimanapun juga akan tetap saja kaum pekerja, dan para majikan akan tetap dan terus menjadi majikan, seperti kenyataan sebelumnya. Maka itu jangan ada perserikatan! Jangan berpolitik! Sebab, tidakkah masuk dalam perserikatan berarti terlibat dalam politik?
+
+Kaum Ekonomis menghendaki agar kaum buruh tetap di dalam masyarakat sebagaimana masyarakat itu dibentuk dan sebagaimana itu ditandai dan diterakan oleh mereka dalam buku-buku teori mereka.
+
+Kaum Sosialis menghendaki agar kaum buruh membiarkan masyarakat lama itu sebagaimana adanya, agar lkebih mungkin memasuki kemasyarakat baru yang telah mereka (kaum Sosialis) persiapkan untuk kaum buruh itu dengan begitu besar wawasan.
+
+Tetapi, walau semua mereka itu, walau segala buku-teori dan utopia itu, perserikatan tidak sesaatpun terhenti dalam gerak majunya dan tumbuhnya dalam perkembangan dan pertumbuhan industri modern. Ia kini telah mencapai suatu tahap sedemikian rupa, sehingga derajat perkembangan perserikatan itu di negeri manapun dengan jelas menandakan peringkat yang ditempatinya di dalam hierarki pasar dunia. Inggris yang industrinya telah mencapai tingkat perkembangan tertinggi, mempunyai perserikatan-perserikatan yang terbesar dan terorganisasi paling baik.
+
+Di Inggris mereka tidak berhenti pada perserikatan-perserikatan parsial yang tidak mempunyai sasaran lain kecuali suatu pemogokan sepintas dan yang menghilang bersama berlalunya pemogokan itu. Perserikatan-perserikatan permanen telah dibentuk, “serikat-serikat buruh,” yang berfungsi sebagai kubu-kubu pertahanan bagi kaum buruh dalam perjuangan mereka terhadap kaum pemberi kerja/majikan. Pada waktu sekarang semua “serikat buruh” lokal menemukan titik berkerumunnya pada Asosiasi Nasional Serikat-serikat Buruh**\[49\]** yang sentral komitenya berada di London, dan yang sudah beranggotakan 80.000 buruh. Pengoganisasian pemogokan-pemogokan , perserikatan-perserikatan dan “serikat-serikat buruh” ini berlangsung serentak dengan perjuangan-perjuangan politik kaum buruh, yang kini membentuk sebuah partai politik besar, dengan memakai nama Kaum Chartis.
+
+Usaha-usaha pertama kaum buruh untuk “berasosiasi” (bergabung) diantara mereka sendiri selalu terjadi dalam bentuk perserikatanperserikatan.
+
+Industri besar-besaran mengonsentrasikan sekerumunan orang yang tidak saling mengenal di satu tempat. Persaingan memisahkan kepentingan-kepentingan mereka. Tetapi pemeliharaan upah-upah, kepentingan bersama yang ada pada mereka terhadap majikan mereka ini, mempersatukan mereka dalam satu pikiran bersama untuk berlawan – “berserikat” (_combination_).
+
+Dengan demikian perserikatan selalu mempunyai tujuan rangkap, yaitu menghentikan persaingan di antara kaum buruh, kagar mereka dapat melakukan persaingan umum dengan kaum kapitalis. Jika tujuan pertama dari perlawanan itu Cuma sekedar pemeliharaan/mem-pertahankan upah-upah, perserikatan-perserikatan,pada mulanya terisolasi, membentuk diri mereka menjadi kelompok-kelompok sementara kaum kapitalis pada giliran mereka bersatu dengan tujuan untuk menindas, dan dihadapan modal yang selalu bersatu, maka pemeliharaan asosiasi menjadi lebih penting bagi mereka daripada upah mereka. Hal ini sedemikian sungguhnya hingga para ahli ekonomi Inggris terheran-heran melihat kaum buruh mengorbanmkan sebagian besar upah mereka demi untuk asosiasi-asosiasi, yang, dimata para ahli ekonomi itu, dibentuk semata-mata demi untuk kepentingan upah. Dalam perjuangan ini – dalam arti sesungguhnya adalah suatu perang saudara– semua unsur yang diperlukan bagi pertempuran mendatang bersatu dan berkembang. Sekali ia mencapai titik ini, asosiasi menjadilah berwatak politik.
+
+Kondisi-kondisi ekonomi mula-mula telah mentransformasi massa rakyat negeri itu menjadi kaum pekerja. Perpaduan/kombinasi modal telah menciptakan bagi massa ini suatu situasi bersama, kepentingan-kepentingan bersama. Massa ini dengan demikian sudah sebuah kelas yang berhadap-hadapan dengan modal, namun belum bagi dirinya sendiri. Di dalam perjuangan, yang mengenainya kita mencatat hanya beberapa tahapan, massa ini menjadi bersatu, dan membentuk dirinya sebagai sebuah kelas bagi dirinya sendiri. Kepentingan-kepentingan yang dibelanya menjadi kepentingan-kepentingan kelas. Tetapi perjuangan kelas melawan kelas adalah suatu perjuangan politik.
+
+Pada borjuasi kita mendapati dua tahan yang mesti dibedakan: yang di dalamnya membentuk diri sendiri sebagai sebuah kelas di bawah rezim feodalisme dan monarki absolut, dan yang di dalamnya –setelah terbentuk sebagai sebuah kelas–, ia menumbangkan feodalisme dan monarki untuk menjadikan masyarakat suatu masyarakat borjuis. Yang pertama dari tahapan-tahapan ini adalah yang lebih lama dan memerlukan usaha-usaha yang lebih besar. Ini juga bermula dengan perpaduan-perpaduan (kombinasi-kombinasi) parsial terhadap tuan-tuan feodal.
+
+Banyak penelitian telah dilakukan untuk menjejaki berbagai tahapan historis yang telah dilalui oleh borjuasi, dari komune hingga terbentuknya sebagai suatu kelas.
+
+Tetapi manakala soalnya yalah membuat suatu studi yang cermat tentang pemogokan-pemogokan, perserikatan-perserikatan dan bentuk-bentuk lain yang dilakukan kaum proletariat sebagai suatu kelas dengan organisasi mereka di depan mata kita, ada saja pihak-pihak yang dicekam ketakutan luar-biasa dan yang lain-lain lagi memperagakan suatu cemooh _transendental_.
+
+Suatu kelas tertindas merupakan kondisi vital bagi setiap masyarakat yang didasarkan pada antagonisme kelas-kelas. Emansipasi kelas tertindas dengan demikian berarti keharusan diciptakannya suatu masyarakat baru. Agar kelas tertindas mampu mengemansipasikan dirinya adalah perlu bahwa tenaga-tenaga produktif yang sudah dicapai dan hubungan-hubungan sosial yang ada tidak bisa berdampingan secara damai. Dari semua alat produksi, tenaga produktif yang terbesar adalah kelas revolusioner itu sendiri. Organisasi unsur-unsur revolusioner sebagai suatu kelas mengandaikan keberadaan semua kekuatan produktif yang dapat dilahirkan dalam lubuk masyarakat lama.
+
+Apakah ini berarti bahwa sesudah jatuhnya masyuarakat lama akan ada suatu dominasi kelas yang berkulminasi dalam senbuah kekuasaan politikasl baru? Tidak.
+
+Kondisi bagi emansipasi kelas pekerja adalah penghapusan semua kelas, tepat sebagaimana kondisi bagi pembebasan golongan ketiga (third estate), dari tatanan borjuis, adalah penghapusan semua estat (golongan)**\*\*\*\*\*\*\*** dan semua tatanan.
+
+Kelas pekerja, dalam proses perkembangannya, akan menggantikan masyarakat madani lama dengan suatu asosiasi yang tidak menyertakan kelas-kelas dan antagonisme mereka, dan tidak akan ada lagi kekuasaan politik dalam arti sebenarnya, karena kekuasaan politis adalah justru ungkapan/ekspresi resmi dari antagonisme dalam masyarakat madani.
+
+Sementara itu antagonisme antara proletariat dan burjuasi adalah suatu perjuangan kelas lawan kelas, suatu perjuangan yang dilakukan hingga ungkapan tertingginya adalah sebuah revolusi total. Sesungguhnyalah, adalah mengherankan bahwa sebuah masyarakat yang didasarkan pada pertentangan kelas-kelas mesti berkulminasi dalam “kontradiksi” brutal, gempuran tubuh dengan tubuh, sebagai _denouement_ (penyelesaian) akhirnya?
+
+Jangan mengatakan bahwa gerakan sosial tidak meliputi gerakan politis. Tidak pernah ada gerakan politik yang tidak sekaligus bersifat sosial.
+
+Hanyalah dalam suatu tatanan ketika tidak ada lagi kelas-kelas dan antagonisme-antagonisme kelas, bahwa “evolusi-evolusi sosial” akan berhenti sebagai “revolusi-revolusi politis.” Hingga saat itu, di ambang setiap pengadukan kembali ( reshuffling) masyarakat , kata akhir ilmu pengetahuan sosial akan selalu berbunyi:
+
+“_Le combat ou la mort; la lutte sanguinaire ou le neant. C’est ainsi que la question est invinciblenment posee_.” (Perjuangan atau kematian; pertempuran berdarah atau kemusnahan. Demikian itulah masalahnya yang secara tanpa ampun dihadapi) _George Sand_.**\[50\]**
+
+* * *
+
+\[47\] W. Petty, _Political Arithmatic_, dalam buku W. Petty , _Several Essays in Political Arithmatic_, London, 1699.
+
+\[48\] Undang-undang yang berlaku pada zaman itu di Perancis – yang disebut undang-undang Le Chapelier yang disahkan pada tahun 1791 selama revolusi burjuis oleh Majelis Konstituante dan hukum pidana yang disempurnakan di bawah Kerajaan Napoleonik – melarang kaum buruh membentuk serikat-serikat buruh atau mjelakukan pemogokan dengan ancaman hukuman berat. Pelarangan serikat-serikat buruh telah dihapuskan di Perancis selambat tahun 1884.
+
+\[49\] National Association of United Trades: Sebuah organisasi serikat buruh yang didirikan di Inggris pada tahun 1845. Kegiatannya tidak melampaui rentang perjuangan ekonomi untuk kondisi-kondisi lebih baik bagi penjualan tenaga kerja, untuk undang-undang kerja yang lebih baik. Asosiasi itu berada hingga awal tahun-tahun 60-an, tetapi setelah 1851 ia tidak memainkan peranan penting dalam gerakan serikat buruh.
+
+\[50\] “Bertempur atau mati: perjuangan berdarah atau pembasmian. Adalah seperti itu kerasnya persoalan itu.” George Sand, Jean Ziska. Sebuah novel sejarah. “Introduksi.”
+
+\*\*\*\*\*\* Yaitu, kaum Sosialis masa itu: Kaum (pengikut) Fourier di Perancis, kaum (pengikut) Robert Owen di Inggris. \[Catatan Engels pada edisi Jerman tahun 1885\]
+
+\*\*\*\*\*\*\* “Estat-estat” disini dalam arti historis estat-estat feodalisme, estat-estat dengan hak-hak istimewa tertentu dan terbatas. Revolusi borjuis telah menghapuskan estat-estat dan hak-hak istimewa itu. Masyarakat borjuis hanya mengenal “kelas-kelas.” Karenanya, adalah secara mutlak bertentangan dengan sejarah untuk melukiskan proletariat sebagai _fourth estate_ (golongan ke-empat). \[Catatan F. Engels pada Edisi Jerman, 1885.\]
+
+* * *
+
+[Bab II-4 Pemilikan atau Sewa Tanah](Bab2Sub4.html) | [DAFTAR ISI](index.html)

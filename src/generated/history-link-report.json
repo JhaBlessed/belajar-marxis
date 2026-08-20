@@ -1,0 +1,14 @@
+{
+  "events": 119,
+  "eventsWithAuthors": 27,
+  "eventsWithHistoricalPersons": 60,
+  "eventsWithWorks": 27,
+  "eventsWithOrganizations": 36,
+  "uniqueAuthorsLinked": 1,
+  "uniqueHistoricalPersonsLinked": 10,
+  "uniqueWorksLinked": 24,
+  "uniqueOrganizationsLinked": 2,
+  "highConfidenceLinks": 55,
+  "mediumConfidenceLinks": 99,
+  "lowConfidenceCandidates": 0
+}

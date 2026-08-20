@@ -1,0 +1,165 @@
+# Aksi Massa
+
+## Tan Malaka (1926)
+
+* * *
+
+### **IX**
+
+### **PERKAKAS REVOLUSI KITA**
+
+Dengan pelbagai ragam suara, dalam keadaan yang berbeda-beda dan oleh berbagai golongan rakyat, tujuan politik kita sudah dinyatakan yaitu kemerdekaan nasional. Tentang tujuan akhir ini, orang di seluruh Indonesia telah bulat sepakat. Hanya tentang jalan yang akan ditempuh serta alat-alat yang akan dipakai, berlain-lainan pendapat orang.
+
+Pertukaran susunan negara feodalistis ke kapitalistis yang cepat dan tidak sesuai dengan kemauan alam menyebabkan bangsa Indonesia berubah cepat cara berpikirnya. Tetapi, perubahan cara berpikir ini biasanya tertinggal dari perubahan ekonomi. Umumnya bangsa kita secara lahiriah tampak modern sesuai dengan zaman kapitalis tetapi cara berpikirnya masih kuno, masih tinggal di zaman dahulu, seperti masih menganut Mahabarata, Islam, dan berbagai macam takhayul dan kepercayaan kepada hantu, jin, kesaktian gaib, batu keramat dan lain-lain. Mereka masih terus seperti anak-anak dan berpikiran fantastis.
+
+Kekalahan dalam persaingan ekonomi dengan kapital Barat yang lebih kuat itu menyebabkan terbitnya pikiran tidak betul dan anarkistis (melanggar peraturan) tidak melihat sesuatu dalam sifatnya yang sebenarnya. Ini terjadi terutama di kalangan penduduk dusun-dusun kecil yang baru dikalahkan dan digencet dan sebagian dari kaum buruh industri dan pertanian yang masih muda yakni mereka yang baru dirampas miliknya.
+
+Sebagaimana perbedaan tingkat dalam industrialisasi demikian pulalah perbedaan pikiran penduduk di berbagai daerah di Indonesia. Kita tunjukkan saja perbedaan kemajuan pikiran antara penduduk Jawa dan saudara-saudara kita di Halmahera, atau antara saudara-saudara yang ada di Surabaya dan Semarang yang telah sadar itu dengan penduduk desa yang tidak berindustri. Di mana kapitalisme tumbuh, serta berurat-berakar, di sana mulai hiduplah rasionalisme dan pikiran yang sehat serta lenyaplah dengan perlahan-lahan kepercayaan kepada segala takhayul. Jadi, psikologi dan ideologi jiwa dan akal rakyat bangsa Indonesia sejalan dengan kecerdasan kapitalisme yang senantiasa berubah-ubah. Yang lama lenyap dan yang baru menjadi cerdas.
+
+Sukar sekali membawa sekalian perbedaan pikiran yang sedang dalam transformasi itu kepada satu cita-cita yang sama membangun dan tak berubah. Karena itu pekerjaan yang berat sekali bagi kaum revolusioner akan membawa seluruh rakyat Indonesia kepada garis-garis yang sesuai dan selaras dengan aksi-aksi marxistis. Ia mudah tergelincir menjadi tindakan cari untung, anarki, dan mempercayai jimat-jimat.
+
+Sampai waktu ini belum ada satu partai yang pandai menarik satu garis yang cocok dengan keadaan-keadaan yang ada di Indonesia dan memimpin rakyat kita di sepanjang garis itu. Beberapa partai berturut-turut tersesat di jalan yang tidak membawa ke tujuan.
+
+Mempercayai jalan parlementer yang tenteram, yakni meretas jalan kemerdekaan Indonesia dengan cara berebut kursi dalam Dewan Rakyat dan meminta-minta supaya diberikan kekuasaan politik, kita namai "percobaan untung-untungan" yang menyesatkan. Percobaan ini hanya dapat dipikirkan secara teoretis dan praktis di dalam negeri jajahan yang mempunyai borjuasi bumiputra. Kerja bersama yang jujur dengan golongan penjajah Belanda di luar atau di dalam Dewan Rakyat adalah pengkhianatan terhadap rakyat Indonesia.
+
+Tidak dimaksudkan bahwa kita selamanya membelakangi Dewan Rakyat. Sebaliknya, bila besok atau lusa kita mendapat kesempatan melalui jalan pemilihan yang langsung untuk menduduki Dewan Rakyat, kewajiban kitalah memasukinya. Sungguh kita berbuat keliru dan penakut bila tidak bertindak begitu. Tetapi, belum semenit juga kita bermaksud bekerja bersama di dalam Dewan Rakyat dengan perampok gula, pencuri minyak dan penyamun getah, kita terpaksa memasukinya, menentang, melakukan aksi oposisi dengan penuh keberanian, dan memecahkan topeng mereka. Kita pergunakan Dewan Rakyat sebagai "Pengadilan Rakyat" dan kita rintangi tindakan pemerintah dari dalam. Dengan berbuat demikian, dapatlah kita sekadarnya mendidik rakyat yang tak boleh menulis dan bicara politik di luar Dewan Rakyat itu.
+
+Mempergunakan cara yang sangat bertentangan dengan yang tersebut di atas, kita anggap suatu kebodohan pula karena lebih banyak merugikan usaha kemerdekaan seperti yang dipikir-pikirkan oleh kebanyakan bangsa kita. Selama seorang percaya bahwa kemerdekaan akan tercapai dengan jalan "_putch_" atau anarkisme, hal itu hanyalah impian seorang yang lagi demam. Dan pengembangan keyakinan itu di antara rakyat merupakan satu perbuatan yang menyesatkan, sengaja atau tidak.
+
+"_Putch_" itu adalah satu aksi segerombolan kecil yang bergerak diam-diam dan tak berhubungan dengan rakyat banyak. Gerombolan itu bisanya hanya membuat rancangan menurut kemauan dan kecakapan sendiri tanpa memedulikan perasaan dan kesanggupan massa. Ia sekonyong-konyong keluar dari guanya tanpa memperhitungkan lebih dulu apakah saat untuk aksi massa sudah matang atau belum. Dia menyangka bahwa semua lamunannya tentang massa adalah benar sepenuhnya. Dia lupa atau tak mau tahu bahwa massa hanya dengar berturut-turut dapat ditarik ke aksi politik yang keras (secara modern!) dan pada waktu sengsara serta penuh reaksi yang membabi buta. "Tukang-tukang putch" lupa bahwa pada saat revolusi ini kapan aksi massa berubah menjadi pemberontakan bersenjata tak dapat ditentukan berbulan-bulan lebih dulu, sebagaimana yang dapat dilakukan oleh seorang "tukang-tenung". “Revolusi timbul dengan sendirinya sebagai hasil dari berbagai macam keadaan". Bila tukang-tukang "putch" pada waktu yang telah ditentukan oleh mereka sendiri, keluar tiba-tiba (seperti Herr Kapp tukang "putch" yang termasyhur itu), massa tidak akan memberikan pertolongan kepada mereka. Bukan karena massa bodoh atau tidak memperhatikan, melainkan karena "massa hanya berjuang" untuk kebutuhan yang terdekat dan sesuai dengan kepentingan ekonomi.
+
+Tiada satu kemenangan politik pun, hingga sekarang, yang diperoleh massa (bukan oleh segerombolan militer!) jika tidak dengan aksi ekonomi atau politik! Kerapkali pada awalnya orang melalui jalan yang sah. Akan tetapi, karena tukang-tukang _putch_ keluar dari jalan yang sah, yaitu tiba-tiba memakai kekerasan senjata penggempur pemerintah maka 99 dari 100 kejadian, mereka ditinggalkan oleh massa sebab mereka dari mula sudah memencilkan diri dari massa. Demikian juga, 99 dari 100 kejadian, "komplot" _putch_ dapat diketahui musuh. Rancangan _putch_ selamanya bocor karena setengah anggotanya tidak sabar dan mereka ceramah atau karena pengkhianatan anggota yang ketakutan. Atau gerakan mereka dapat dicium mata-mata yang mondar-mandir di mana-mana.
+
+Membuat _putch_ di negeri, seperti Indonesia (terutama di Jawa), di tempat kapital dipusatkan dengan rapinya dan dilindungi oleh militer dan mata-mata ala Barat yang modern – sebaliknya, rakyat masih mempercayai yang gaib-gaib, takhayul dan dongeng – samalah artinya dengan "bermain api": tangan sendiri yang akan hangus. Kaum anarkis yang biasanya berkata bahwa kekuasaan Barat yang kokoh ini dapat dirobohkan dengan beberapa butir telur "yang meletup" tidak lebih cerdik daripada seorang yang menembak batu dengan kepalanya.
+
+Hanya "satu aksi massa", yakni satu aksi massa yang terencana yang akan memperoleh kemenangan, di satu negeri yang berindustri seperti Indonesia!
+
+Aksi-Massa tidak mengenal fantasi kosong seorang tukang _putch_ atau seorang anarkis atau tindakan berani dari seorang pahlawan. Aksi-massa berasal dari orang banyak untuk memenuhi kehendak ekonomi dan politik mereka. Ia disebabkan oleh kemelaratan yang besar (krisis ekonomi dan politik) dan siap, bilamana mungkin, berubah menjadi kekerasan. Sebuah partai yang berdasarkan aksi massa yang tersusun pasti mampu membawa aksi massa yang memecah pelabuhan yang tenang dan aman.
+
+Sebagian dari aksi massa menunjukkan dirinya dengan "pemogokan atau pemboikotan". Bila buruh yang berjuta-juta meletakkan pekerjaannya dengan maksud tertentu (menuntut keuntungan ekonomi dan politik) niscaya kerugian dan kekalutan ekonomi akibat aksi mereka dapat melemahkan kaum penjajah yang keras itu.
+
+Menurut kekuatan dan kemenangan kita pada waktu itu, dapatlah kita memperoleh hak-hak politik dan ekonomi. Di India pemboikotan itu ternyata adalah pisau bermata dua. Di satu pihak ia sangat merugikan importir Inggris, di lain pihak ia memajukan perdagangan bumiputra. Di Indonesia ketiadaan kapital besar bumiputra yang penting itu memberatkan pemboikotan terhadap perdagangan asing.
+
+Bukan saja kekuasaan besar itu disebabkan oleh ikhtiar mengumpulkan kapital yang diperlukan, tapi juga meneruskan pemboikotan itu. Kita mudah memperkirakan bahwa pemboikotan nasional Indonesia yang hebat dan keras sangat dibenci dan dimusuhi oleh imperialis Belanda yang buas, seperti dia membenci pemogokan umum.
+
+Akan tetapi, pemboikotan di Indonesia bukanlah pekerjaan mustahil. Di Pulau Jawa dan di luarnya bukankah banyak kapital bumiputra kecil-kecil yang kalau dikumpulkan ke dalam koperasi nasional dapat melahirkan kapital yang sangat besar. Tapi ikhtiar yang serupa itu terlalu banyak meminta kesadaran, keaktifan dari seluruh lapisan penduduk Indonesia.
+
+Pemboikotan pajak yang dianggap menjadi aksi itu di India tidak pernah dilakukan karena kekuatiran borjuasi terhadap akibat revolusioner. Di Indonesia pemboikotan pajak adalah sebuah senjata ekonomi politik yang sangat sakti.
+
+Tetapi, perbuatan seperti itu berarti "melanggar undang-undang" dan hanya terjadi dalam keadaan-keadaan revolusioner di bawah pimpinan satu partai revolusioner yang kuat betul.
+
+Bagian politik dari aksi massa menunjukkan diri dengan demonstrasi dan di India dengan keengganan kerja bersama mengandung maksud politik dan ekonomi, menagih pemerintahan sendiri (_home rule_) dari imperialisme Inggris. Bagian politiknya berupa tindakan meninggalkan hal-hal sebagai berikut:
+
+1\. badan-badan pemerintahan;
+
+2\. pengadilan pemerintahan;
+
+3\. sekolah-sekolah pemerintahan; dan
+
+4\. polisi dan tentara.
+
+Tindakan yang keempat, karena takut kepada pemberontakan, tidak pernah dijalankan. Yang pertama sampai yang ketiga tidak cukup lama dilakukan dan tak cukup memberi hasil. Apakah di Indonesia dapat lebih lama dijalankan dan lebih berhasil daripada di India? Pertanyaan ini akan kita jawab kelak dalam satu pembicaraan yang khusus.
+
+Demonstrasi politik ditunjukkan dengan massa yang berbaris di sepanjang jalan raya dan di gedung rapat, dengan maksud mengajukan protes dan memperkuat tuntutan politik dan ekonomi dan menunjukkan kepada musuh berapa besarnya kekuatan kita. "Bila semboyan dan tuntutan" sungguh diteriakkan oleh massa, demonstrasi politik dapat jadi gelombang hebat, yang makin lama semakin deras, kuat sehingga meruntuhkan benteng-benteng ekonomi dan politik dari kelas yang berkuasa.
+
+Di negeri yang berindustri seperti Indonesia, "aksi-massa", yakni boikot, mogok dan demonstrasi, boleh dipergunakan lebih sempurna sebagai senjata yang lebih tajam (di India tidak terjadi sebab bumiputra yang berkapital takut pada pemogokan umum dan kekuasaan politik dari kaum buruh, ketakutan yang tak berbeda dengan borjuasi Inggris!).
+
+Bila sebuah partai revolusioner berhasil mengerahkan kaum buruh yang berjuta-juta agar meninggalkan pekerjaannya dan yang bukan buruh agar tak mau bekerja sama serta seluruh rakyat berdemonstrasi untuk menuntut hak ekonomi dan politik tanpa melempar sebutir kerikil pun kepada pegawai pemerintah, niscaya akibat politik moral dari aksi itu sangat besar artinya. Ia akan mendatangkan keuntungan dalam perjuangan politik dan ekonomi lebih besar daripada seratus Pemberontakan Jambi atau huru-hara, pembunuhan yang aneh-aneh dan dikerjakan oleh anggota-anggota "bagian B" dan tukang-tukang _putch_ yang gagah. Kita tidak boleh melupakan bahwa aksi yang akan kita lakukan itu sekarang dilarang oleh undang-undang tetapi, tidak ada alasan bagi kita untuk meninggalkan jalan satu-satunya itu.
+
+Tambahan pula, menjadi pertanyaan besar, apakah pemerintah dapat mempertahankan larangan itu, sekurang-kurangnya jika tidak lekas patah arang oleh kekalahan kecil seperti yang sudah-sudah. Hak-hak manusia yang asli seperti mogok (menolak penjualan tenaga sendiri), boikot (menolak kerja bersama, membeli atau menjual barang-barang) dan hak berdemonstrasi (mengumumkan cita-cita) akan lenyap selama-lamanya dari bangsa Indonesia kalau di belakang tiap-tiap orang Indonesia berdiri seorang serdadu imperialis yang bersenjata.
+
+Kelebihan aksi massa daripada putch, ialah bahwa dengan aksi massa perjuangan kita dapat dijaga, sedangkan dengan _putch_, kita memperlihatkan iri kepada musuh. Di dalam aksi massa, pemimpin boleh berjalan sekian jauh menurut kepatutan yang perlu di waktu ini. Ia selamanya dapat menentukan berapa jauh ia boleh mengadakan tuntutan politik dan ekonomi tanpa tidak menanggung kerugian besar (pengorbanan mesti ada dalam tiap-tiap aksi massa). Dan ia tidak kehilangan hubungan dengan massa. Demikian pun, hubungan antara massa itu sendiri tidak putus. Dengan serangan sekonyong-konyong, yaitu tindakan keras tukang-tukang _putch_ yang disengaja terhadap musuh, mereka dari awalnya gampang diserang musuh. Pemimpin aksi massa dengan memegang "peta perjuangan" di tangannya dapat mempermainkan musuh dengan jalan maju selangkah-selangkah dan kemudian sekali menggempur habis-habisan.
+
+Aksi massa membutuhkan pemimpin yang revolusioner, cerdas, tangkas, sabar dan cepat menghitung kejadian yang akan datang, waspada politik. Ia harus juga bekerja dengan kekuatan nasional yang sudah ada dan tidak mengharapkan kekuatan yang sekadar lamunan. Selanjutnya, ia harus mengetahui tabiat massa yang dipimpinnya (mengetahui waktu dan cara bagaimana reaksi rakyat terhadap kejadian-kejadian politik dan ekonomi).
+
+Ia harus pandai pula bersemboyan yang menyemangatkan rakyat sehingga mengubah "kemauan massa" menjadi "tindakan massa". Selain itu, kedudukan politik dan ekonomi mesti diketahuinya betul-betul dan ia harus pula pandai mempergunakannya tanpa ragu-ragu. Disebabkan kelas yang berkuasa (pemerintah) mempunyai laskar yang lengkap dan senantiasa siap siaga maka kecakapan dan ketangkasan pemimpin gerakan modern aksi massa mesti mempunyai pengetahuan yang praktis tentang politik dan ekonomi dari negeri serta psikologi rakyat dan kemudian pandai memperhitungkan kejadian kejadian politik yang akan terjadi. Terlebih lagi, pemimpin itu harus dapat mempergunakan "waktu" dengan cepat dan benar, juga mempergunakan sekalian pertentangan di dalam masyarakat kapitalistis (juga di dalam laskar) yang dapat mendatangkan keuntungan.
+
+Jadi, kalau "tenaga bodoh" (seperti di zaman feodal) dapat mengadakan _putch_, seorang pemimpin pergerakan massa yang modern haruslah seorang manusia cerdas dan bijaksana.
+
+**1\. Partai dan Sifat-Sifatnya**
+
+Apakah yang dinamakan partai? Jika kita mau mengumpulkan dan memusatkan kekuatan-kekuatan revolusioner di Indonesia dengan jalan aksi massa yang terencana buat meretas jalan kemerdekaan nasional, tentulah kita mesti mempunyai satu partai yang revolusioner. Adapun, hingga kini Indonesia belum mempunyai partai revolusioner, yang ada hanya perhimpunan-perhimpunan dari orang-orang yang "berlain-lainan" pandangan dan tindakan politiknya. Satu partai revolusioner ialah gabungan orang-orang yang sama pandangan dan tindakannya dalam revolusi. Dan sebaik-baiknya perbuatan revolusioner adalah tiap-tiap anggota bersama, satu dengan lainnya, dipusatkan.
+
+Untuk menghilangkan suatu perasaan yang kurang baik dari tiap-tiap anggota partai, mestilah tiap-tiap orang diberi hak bersuara, mengemukakan dan mempertahankan keyakinannya dengan seluas-luasnya. Dan sesuatu keputusan partai mestilah dianggap sebagai hasil permusyawarahan dan pertimbangan bersama-sama yang matang dari seluruh anggota. Tiap-tiap permusyawarahan hendaknya dijalankan dengan secara demokratis yang sesungguhnya. Tiap-tiap tanda yang berbau birokrasi dan aristokrasi mesti dicabut hingga ke akar-akarnya. Tetapi, birokrasi dan otokratisme dalam partai tak dapat dihapuskan dengan "maki-makian" atau dengan menggebrak meja tetapi dengan membiasakan bertukar pikiran secara merdeka dan kerja sama dari semua anggota. Tiap-tiap keputusan partai mesti diambil menurut suara yang terbanyak. Jika satu keputusan sudah diterima oleh suara yang terbanyak, mestilah suara yang terkecil, meskipun bertentangan dengan keyakinannya, " tunduk" kepada putusan dan dengan jujur menjalankan keputusan itu. Jika tidak begitu, niscaya tak akan pernah sebuah partai mencapai tenaga yang revolusioner. Keputusan yang "setengah betul" tetapi dengan gembira dikerjakan oleh seluruh barisan lebih baik daripada keputusan yang " bagus sekali" tetapi dikhianati oleh setengah anggota.
+
+Partai mesti mempunyai "peraturan besi". Selanjutnya, barulah ia mampu memusatkan tindakan partai. Partai mesti mempunyai alat-alat revolusioner untuk memeriksa dan memperbaiki segenap perbuatan anggota. Belumlah mencukupi bila seorang "mengakui setuju" dengan suatu keputusan atau peraturan partai. Ia mesti membuktikan dengan perbuatan bahwa ia menjalankan keputusan itu dengan betul dan setia terhadap partai. Perbuatan itu biasanya adalah, misalnya, mencari kawan dalam surat-surat kabar partai, kursus, serikat sekerja dan mengerjakan administrasi dan organisasi partai. Jika ia tak memenuhi hal-hal tersebut atau "terbukti", bahwa ia tidak setia kepada partai, mestilah dijalankan pendisiplinan. Lebih baik ia keluar dari partai daripada ia merusak partai atau memberikan teladan busuk sebagai seorang revolusioner pemalas kepada anggota-anggota yang lain.
+
+**2\. Program Nasional Kita**
+
+Tujuan politik, ekonomi dan sosial yang revolusioner dari satu partai untuk negeri tertentu dan jalan yang akan dituntut bersama, diterangkan dengan "program nasional" yang revolusioner. Program itu ialah penunjuk jalan bagi partai dan harus diakui, dipahamkan, dipertahankan dan dikembangkan oleh tiap-tiap anggota. Perihal program nasional kita dan sifat-sifatnya yang umum sudah cukup jelas saya uraikan di dalam brosur _Naar de republik Indonesia_ dan _Semangat Muda_ (yang masing-masing dikeluarkan bulan April 1925 dan Januari 1926). Di sini masalah itu tidak akan diuraikan lagi dan silakan pembaca membaca buku-buku kecil tersebut. Tetapi, demi memudahkan pembaca, saya lampirkan juga program nasional itu (tidak dengan keterangan) di belakang buku ini.
+
+**3\. Tugas dan Organisasi Partai**
+
+Partai itu menjalankan tujuan dan pelopor (_avantgarde_) pergerakan di segala tingkatan revolusi. Pandangannya lebih jauh dan senantiasa berjuang di barisan depan sekali dan, karena itu, ia menjadi "kepala dan jantung" massa yang revolusioner.
+
+Di dalam "revolusi borjuasi" Prancis (1789), _avantgarde_ terdiri dari borjuasi yang revolusioner dan kaum buruh terpelajar yang borjuis.
+
+Merekalah yang mengepalai dan memikirkan revolusi itu, sedangkan kaum buruh industri yang masih lemah dipergunakan sebagai "tenaga budak", sebagai kuda-kuda. Kejadian seperti ini mungkin juga terjadi di negeri jajahan yang borjuasi bumiputranya kuat tapi tidak diberi kekuasaan politik oleh si penjajah sehingga mereka terpaksa menjadi revolusioner. Di Mesir dan India, pengemudi gerakan kemerdekaan sampai sekarang boleh dikatakan di tangan kaum intelektual yang borjuis.
+
+Adapun yang berjuang di negeri-negeri kolonial itu terutama sekali kaum buruh dan tani revolusioner. Di Indonesia borjuasi bumiputra tak dapat memimpin, moril dan materiel.
+
+Karena kondisi sosial dan ekonomi terlalu lemah, kaum buruh mesti mendirikan cita-cita dan menyusun laskarnya sendiri. Jika kaum borjuis, besar atau kecil, di Indonesia mau memasuki massa, mereka jangan berjuang dengan kapital nasional dan parlementarisme tapi mereka mesti berdiri di atas asas-asas buruh, nasionalisasi dan pemerintahan buruh dan tani. Mereka mesti\_ menjadi kaum buruh terpelajar dan berjuang dengan kaum buruh untuk cita-cita buruh dan dengan logika.
+
+Jika kaum terpelajar borjuis mau diakui oleh massa sebagai teman, mereka mestilah berbuat lebih dari kawan-kawannya segolongan yang ada di Mesir, India dan Tiongkok. Sebagai kelas, tentulah mereka tak dapat berbuat begitu sebab dirintangi oleh keturunan, pendidikan dan lingkungan mereka sendiri.
+
+Kelas buruh di Indonesia tak bisa mengharapkan sekalian buruh terpelajar pada borjuis kita, besok atau lusa, akan menerjunkan diri ke dalam massa yang sedang berjuang itu. Tetapi beberapa orang dari mereka (tidak sebagai kelas) "boleh jadi" masuk ke dalam barisan baru sebagai laskar sukarela. Kaum terpelajar borjuis yang revolusioner jika dengan mentah-mentah dimasukkan dalam partai buruh yang revolusioner, itu berarti memborjuiskan kaum buruh kita. Di Indonesia, terutama, hal itu sama artinya dengan "mengebiri", merampas perasaan revolusioner dan cita-cita yang lanjut dari kaum buruh. Tak kan mungkin keluar tenaga dari kaum buruh yang seperti itu. Partai seperti itu, "bukan ikan dan bukan daging", bukan borjuis revolusioner proletar.
+
+Malahan jika borjuasi Indonesia lebih kuat dan lebih revolusioner dari sekarang ini, ia tak kan mau dan sanggup berjalan lebih jauh dari "kemerdekaan politik", yakni merampas kekuasaan politik dari imperialisme Belanda.
+
+Pemecahan-pemecahan masalah ekonomi dan politik yang radikal (dimisalkan ada borjuasi Indonesia yang revolusioner dan kuat) hanya dapat dijalankan dengan merugikan kapital bumiputra itu sendiri. Terhadap pemecahan itu, borjuasi yang dimisalkan itu niscaya tidak menyetujuinya . Di tiap-tiap negeri yang terjajah, borjuasi bumiputra yang revolusioner (terhadap imperialisme) itu dengan segera berubah menjadi reaksioner buruh pada saat imperialisme dirobohkan. Tujuan akhir dari tiap-tiap borjuasi bumiputra yang revolusioner adalah "politik" semata-mata. Di India, Tiongkok, Mesir dan Filipina hal itu sudah berbukti. Begitu pulalah segerombolan kaum borjuis kecil Indonesia. Di dalam perjuangan politik mereka terhadap imperialisme Belanda, tersembunyi cita-cita kepada harta dan kekuasan yang lebih besar. Mereka ingin menjadi tuan-tuan tanah, saudagar kaya raya, bankir dan juga ingin menjadi gubernur, menteri dan lain-lain. Pendeknya mereka ingin menjadi borjuis besar, seperti di lain-lain negeri. Nisbah antara kapital dan tenaga, antara kapitalis dan buruh serta sistem politik, ketiga-tiganya mereka kehendaki supaya tetap kapitalistis. Dengan menggulingkan imperialisme Belanda, kaum borjuis kecil Indonesia ingin kelak dapat menjalankan sekalian kekuasaan politik dan ekonomi terhadap kaum buruh.
+
+Tujuan buruh melewati batas "anti-imperialisme". Mereka berniat, terang atau kabur, merobohkan kaum kapitalis sama sekali. Kaum buruh Indonesia menghendaki pemecahan yang radikal di dalam perekonomian, sosial, politik dan ideologi, sekarang atau nanti. Bila sekiranya kelak sesudah imperialis Belanda ditentang dan dimusnahkan hingga ke akar-akarnya, meskipun tak mungkin dalam arti kemenangan nasional semata-mata, niscaya kaum buruh akan dan mesti memperkuat barisannya melawan borjuasi.
+
+Jadi, borjuasi Indonesia yang kecil, apalagi yang besar hanya anti-imperialisme saja, sedangkan kaum buruh anti kedua-duanya: imperialisme dan kapitalisme.
+
+Jadi, buruh Indonesia jika dibandingkan dengan borjuasi revolusioner menghadapi perjalanan yang jauh lebih panjang sebelum sampai kemerdekaan sejati. Jadi, semestinyalah mereka lebih giat dan radikal dalam perjuangan dan sekarang pun sudah begitu, seperti di negeri lain-lain.
+
+"Soal organisasi" berhubungan rapat sekali dengan cita-cita sosial, ekonomi dan politik, serta tingkatan revolusioner dari kelas-kelas yang revolusioner. Menurut cita-cita dan "liatnya" sekalian kelas yang revolusioner, bolehlah kita bagi laskar nasional kita dalam: (1) _barisan pelopor_, yaitu terdiri dari kaum buruh industri yang seinsaf-insafnya dan kaum buruh terpelajar; (2) _cadangan_ yaitu terdiri dari kaum buruh yang kurang insaf dan bukan kaum buruh yang revolusioner yang di masa revolusi berjuang di bawah pimpinan dan berdiri di sisi barisan pelopor.
+
+Seringkali hubungan itu ditimbulkan oleh pemusatan kerja. Pekerjaan partai sehari-hari ialah merapatkan anggota dengan anggota, partai dengan organisasi "sepupunya", mengurus pembacaan anggota partai, antara partai dan rakyat seluruhnya. Kadang-kadang hubungan itu didatangkan pula oleh agitasi yang cocok dan benar.
+
+Agitasi itu mesti didasarkan kepada kehidupan massa yang sebenarnya. Tak cukup dengan meneriakkan kemerdekaan saja. Kita harus menunjukkan kemerdekaan dengan alasan yang sebenarnya. Kita harus menerangkan semua penderitaan rakyat sehari-hari seperti gaji, pajak, kerja berat, kediaman bobrok, perlakuan orang atas yang menghina dan kejam. Seorang agitator yang cakap setiap waktu harus siap sedia memecahkan sekalian soal yang bersangkutan dengan kehidupan materiel Pak Kromo dengan benar dan revolusioner. Ia juga harus senantiasa bersedia menarik dan memimpin Pak Kromo-Pak Kromo itu kepada aksi politik dan ekonomi yang memperbaiki kebutuhan materiel mereka. Tak boleh kita harapkan bahwa massa akan masuk ke dalam perjuangan karena didorong cita-cita saja!
+
+Massa (di Timur atau di Barat) hanya berjuang karena kebutuhan materiel yang terpenting. Dengan perjuangan ekonomi, seperti pemogokan atau pemboikotan serta ditunjang oleh demonstrasi politik, kita akan dibawa kepada tujuan yang penghabisan!
+
+Segala agitasi mestilah cocok dengan keadaan tiap-tiap daerah. Penerangan terhadap seorang buruh industri tak boleh disamakan dengan seorang tani sebab keduanya mempunyai kebutuhan materiel yang lain-lain. Seorang tani di Jawa pun tak boleh disamakan dengan seorang tani di Sumatera sebab keduanya mempunyai soal-soal tanah dan ekonomi yang berlainan.
+
+Jika agitasi itu benar nyata dan mengenal segala kebutuhan rakyat yang tergencet pada tiap-tiap daerah di Indonesia, bilamana program tuntutan dan semboyan-semboyan kita "sungguh" dipahamkan dan dirasai oleh seluruh lapisan penduduk, jika pemimpin _partai liat, tangkas dan cerdas_ mempergunakan sekalian pertentangan yang ada di dalam masyarakat Indonesia, niscaya _hubungan_ yang perlu "dengan" — pengaruh yang diinginkan "atas" dan akhirnya kepercayaan yang dibutuhkan " dari" — massa dapat diperoleh partai.
+
+Pasal ini sudah lebih panjang daripada maksud kita yang semula, apalagi bila ditambah pula dengan pembicaraan perihal "teknik" aksi massa. Pun hal ini mestilah kita serahkan kepada pembicaraan yang praktis karena kita tidak "menelanjangi" diri di hadapan musuh dengan membukakan rahasia pun teknik perjuangan kita. Tetapi, di sini mesti kita peringatkan bahwa soal "persenjataan" — meskipun hal itu penting sekali serta sangat kuat menarik perhatian kaum revolusioner! — bagi kita bukanlah soal hidup mati. Ia tunduk kepada soal politik dan organisasi yang revolusioner. Dengan kata lain bahwa massa yang gembira dalam pimpinan partai revolusioner yang berdisiplin baja, berkelahi dengan tangan serta suara nyanyian yang revolusioner, akan merobohkan laskar imperialis sampai ke urat akarnya.
+
+Sebagai penutup pasal ini, boleh kita tambahkan bahwa bagi kemenangan revolusioner, perlu dua faktor berikut ini.
+
+1\. Faktor "objektif", yaitu sebuah tingkatan dari tangan produksi dan kemelaratan massa. Tingkatan itu terutama di Jawa dan di beberapa tempat di Sumatera dalam pandangan kita dianggap cukup.
+
+2\. Faktor "subjektif", yaitu kesediaan bangsa Indonesia yang mesti diwujudkan dalam suatu partai revolusioner yang "sempurna" (teratur dan matang betul) dan keadaan-keadaan revolusioner yang baik.
+
+Untuk mencapainya, partai mesti mempunyai disiplin; massa yang tidak senang itu harus di bawah pemimpinnya. Kemudian dipecah-belah musuh-musuh dalam dan luar negeri. Lihat seterusnya _Menuju Republik Indonesia_ pasal "pukulan strategis".
+
+Andaipun partai yang revolusioner tidak dapat diperoleh dengan pembicaraan-pembicaraan akademis di dalam partai ataupun tak ada kesempatan bagi bangsa kita yang sengsara dan dihina-hinakan, senantiasa kita dapat mendorong partai itu ke dalam perjuangan ekonomi dan politik yang besar ataupun yang menciptakan "disiplin" yang diinginkan yang memberi pengaruh yang tak dapat ditinggalkan atas massa dan kepercayaan yang dibutuhkan dari massa serta, selain itu keliatan, kecerdasan dalam perjuangan. Itulah syarat-syarat yang akan membawa kita pada kemenangan.
+
+Barisan penduduk yang terdiri dari kelas menengah dan borjuasi yang lemah hanya akan turut berjuang bila terpaksa.
+
+Akan terlampau panjang bila diperbincangkan di sini dengan panjang lebar perihal satu-dua partai. Maksud kita dengan itu ialah apakah kaum buruh dan kaum borjuis yang kecil-kecil mesti dihimpunkan dalam "satu" organisasi nasional dengan "satu" pusat pemimpin atau dipecah dalam "dua" organisasi dengan dua pemimpin tetapi bekerja bersama-sama (Pada waktu ini kaum buruh — sebab sistem yang pasti belum dipakai — boleh dikatakan belum tersusun dalam Partai Komunis Indonesia (P.K.I.) dan bukan-buruh dalam serikat rakyat. Keduanya mempunyai satu pengurus besar.).
+
+Bagaimanapun wujud organisasi itu di dalam satu koloni seperti Indonesia, kaum buruhlah yang paling aktif dan radikal. Organisasi tidak boleh menghalang-halangi keaktifan itu. Sebaliknya, ia mesti tahu mempergunakannya dan dapat menghidup-hidupkannya. Organisasi itu semestinya menjadi gabungan dan pemusatan segala keaktifan kaum buruh.
+
+Semestinya diikhtiarkan supaya kaum buruh sebanyak-banyaknya duduk di dalam partai dan memegang pimpinan. Partai revolusioner kita akan berkembang hidup sebesar-besarnya dan sesehat-sehatnya bilamana benih-benih partai ditanam pada tiap-tiap pusat industri.  
+  
+Demikianlah jadinya, kedudukan P.K.I. terbatas di dalam kota-kota, pusat-pusat ekonomi, pengangkutan; dan Serikat Rakyat (S.R.) harus menjadi partai yang bukan buruh. Selain di kota-kota, di desa-desa pun mestinya didirikan. Dengan jalan seperti itu, dimasukkanlah api revolusioner ke dalam P.K.I. dan S.R., kaum buruh yang setengah insaf dan belum insaf sama sekali tak boleh tinggal di luar organisasi. Mereka mesti diajak masuk ke dalam perjuangan ekonomi yang setiap waktu berubah menjadi perjuangan; mereka dihimpun dalam serikat-serikat kerja sebagai barisan cadangan yang berdiri langsung di bawah pimpinan P.K.I.
+
+Kaum bukan-buruh yang setengah insaf dan yang belum insaf sama sekali dalam politik dan ekonomi, juga tergencet mesti dihimpun ke dalam koperasi rakyat yang juga merupakan barisan pembantu yang berdiri langsung di bawah pimpinan P.K.I. dan S.R.
+
+Demikianlah, P.K.I. mesti mempunyai beberapa organisasi serikat kerja, koperasi dan serikat rakyat yang tiap-tiap beraksi-massa langsung berada di bawah pimpinan P.K.I. Organisasi itu — yang semangatnya dipengaruhi surat-surat kabar partai dan serikat kerja — merupakan laskar revolusi nasional dalam perjuangan menentang imperialisme dan kapitalisme Barat.\[1\]
+
+Jika satu partai revolusioner benar-benar ingin menjadi pemimpin massa di Indonesia, terlebih dulu partai itu sendiri harus dipimpin sebaik-baiknya. Organisasi partai ialah kesimpulan dari beberapa susunan partai. Dengan kata lain, menjadi "tali nyawa" dari partai, menjadi yang "terpenting", misalnya seperti penyusunan, pelatihan, pendidikan bagi pemimpin dan anggota-anggotanya. Tambahan pula, partai mesti berhubungan rapat dengan massa, terutama pada saat yang penting, dengan segala golongan rakyat dari seluruh Kepulauan Indonesia. Dengan tidak berhubungan seperti itu, tak kan ada pimpinan yang revolusioner.
+
+\[1\] Seorang anggota P.K.I. sedapat mungkin adalah seorang buruh atau buruh terpelajar (bukan borjuis). Ia harus mengetahui dan pandai menerangkan komunisme dalam teori dan praktik, taktik nasional dan internasional. Di atas segalanya, ia harus lebih banyak dan lebih canggih untuk melakukan pekerjaan revolusioner, yaitu pekerjaan menyusun dan menggalang pertemanan. Seorang anggota S.R. biasanya adalah bukan buruh, tani, saudagar atau pelajar (mahasiswa). Ia tak usah melakukan pekerjaan revolusioner sebanyak yang dikerjakan anggota P.K.I cukuplah jika ideologinya anti-imperialis dan menghendaki kemerdekaan nasional. Bila dipakai sistem satu partai, kaum buruh dan bukan buruh dihimpun dalam sebuah organisasi yang revolusioner. Dalam partai itu, golongan yang lebih "sadar" dan buruh terpelajar merupakan sayap kiri. Sayap kiri inilah motor pergerakan Indonesia.
+
+* * *
+
+[**BAB VIII: REVOLUSI DI INDONESIA**](Bab8.html)
+
+[**DAFTAR ISI**](index.html)
+
+[**BAB X: SEKILAS TENTANG GERAKAN KEMERDEKAAN DI INDONESIA**](Bab10.html)

@@ -1,0 +1,11 @@
+{
+  "HistoricalPersonsFound": 10,
+  "HistoricalPersonsConfirmed": 10,
+  "HistoricalPersonsNeedsReview": 0,
+  "CanonicalAuthorsLinked": 0,
+  "Organizations": 6,
+  "OrganizationsNewlyConfirmed": 0,
+  "EventsWithHistoricalPersonLinks": 60,
+  "EventsWithOrganizationLinks": 36,
+  "BrokenRelations": 0
+}

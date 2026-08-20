@@ -1,0 +1,43 @@
+### Dari Karya Marx:
+
+### Sebuah Sumbangan pada Kritik atas Ekonomi Politik
+
+### Berlin, 1859, hal.61-64
+
+Teori mengenai waktu kerja sebagai suatu satuan uang seketika untuk pertama kali dikembangkan secara sistematikal oleh John Gray.\[1\]
+
+Ia membuat sebuah Bank Sentral nasional –melalui cabang-cabangnya– menetapkan dengan resmi waktu kerja yang dicurahkan dalam produksi berbagai barang-dagangan. Sebagai gantinya (pertukaran) barangdagangan itu, produser menerima suatu sertifikat resmi nilai tsb., yaitu suatu tanda-terima untuk sekian banyak waktu kerja yang dikandung barang-dagangannya,\[2\] dan kertas-kertas uang dari seminggu kerja, sehari kerja, sejam kerja dsb. sekaligus berlaku sebagai suatu klaim atas ekuivalen (kesetaraan) dalam semua barang-dagangan yang tersimpan dalam gudang-gudang bank itu.\[3\] Ini adalah azas dasar yang digarap secara penuh keberhati-hatian secara terinci dan sepenuhnya diadaptasikan pada lembaga-lembaga Inggreis yang ada. Dengan sistem ini, demikian Gray berkata, “menjual untuk uang dapat dianggap –di segala waktu– presis sama mudahnya sekarang ini untuk membeli dengan uang; produksi akan menjadi sumber permintaan yang seragam dan tidak pernah gagal.”\[4\] Logam-logam berharga akan kehilangan “privilese”-nya atas barang-barang dagangan lainnya dan akan “mengambil tempatnya yang selayaknya di pasar di samping mentega dan telur, dan kain dan kaliko, dan kemudian nilai logam-logam berharga akan kurang merepotkan kita seperti nilai batu intan.”\[5\] “Akankah kita mempertahankan standar nilai kita yang fiktif itu, emas, dan dengan begitu menahan sumber-sumber produktif negeri dalam kungkungan? atau akankah kita beralih pada standar nilai yang alamiah, yaitu kerja, dan dengan demikian membebaskan sumber-sumber produktif kita?”\[6\]
+
+Karena waktu kerja merupakan ukuran nilai secara tetap (immanen), mengapa mesti ada ukuran eksternal lain di sampingnya? Mengapa nilai tukar berkembang menjadi harga? Mengapa semua barang-dagangan mendapatkan nilainya diperkirakan dalam satu barang-dagangan eksklusif, yang dengan demikian ditransformasi menjadi keberadaan selayaknya dari nilai tukar, yaitu menjadi uang? Inilah permasalahan yang mesti dipecahkan oleh Gray.
+
+Gantinya memecahkannya, ia membayangkan bahwa barang-barang dagangan dapat mempunyai suatu hubungan langsung/seketika satu sama lain sebagai produk-produk kerja sosial. Namun, mereka dapat hanya mempunyai satu hubungan satu sama lainnya sebagai apa adanya mereka itu. Barang-barang dagangan adalah –secara seketika/langsung– produk-produk satuan-satuan kerja terisolasi, bebas, perseorangan yang mesti dikukuhkan sebagai kerja sosial umum oleh alienasinya dalam proses pertukaran perseorangan, atau kerja atas dasar produksi barang-dagangan khanya menjadi kerja sosial oleh alienasi menyeluruh dari satuan-satuan kerja individual. Tetapi apabila Gray menggantikan waktu kerja yang terkandung dalam barang-barang dagangan sebagai “langsung/seketika sosial,” maka ia menggantikan itu sebagai kerja sosial atau waktu kerja dari individu-individu yang secara langsung/seketika berasosiasi. Dengan demikian, sesungguhnya, suatu barang-dagangan khusus, seperti emas atau perak, tidak akan dapat dikontraskan dengan barang-barang dagangan lainnya sebagai inkarnasi kerja umum, nilai tukar tidak akan menjadi harga, begitu pula nilai pakai tidak menjadi nilai tukar, produk itu tidak akan menjadi suatu barang-dagangan dan dengan begitu landasan produksi burjuis akan lenyap bersamanya. Tetapi ini sama sekali bukan pendapat Gray. “Produk-produk mesti diproduksi sebagai barang-barang dagangan, tetapi tidak dipertukarkan sebagai barang-barang dagangan.”
+
+Gray menyerahkan kepada sebuah Bank nasional pengeksekusian keinginan/harapan saleh ini. Di sdatu pihak, masyarakat dalam bentuk bank itu memnjadikan individu-individu bebas atas kondisi pertukaran perseorangan, dan, di lain pihak, masyarakat membuat mereka terus memproduksi atas dasar pertukaran perseorangan. Sementara itu, logika intern mendorong Gray menolak suatu kondisi produksi burjuis demi kondisi produksi burjuis lainnya, sekalipun ia hanya bermaksud “mereform” uang yang timbul dari pertukaran barang-dagangan.
+
+Demikianlah ia mengubah modal menjadi modal nasional,\[7\] pemilikan tanah menjadi pemilikan nasional,\[8\] dan jika banknya diperiksa dengan cermat, maka akan didapatkan bahwa itu tidak sekedar menerima barang-barang dagangan dengan tangan sebelah dan dengan tangan lainnya mengeluarkan sertifikat-sertifikat kerja yang disuplai, melainkan bahwa itu meregulasi produksi itu sendiri. Dalam karya terakhirnya, Lectures on Money, di dalam mana Gray dengan cemas berusaha merepresentasikan uang kerja-nya sebagai suatu reform burjuis semurninya, ia menjerumuskan dirinya dalam omong kosong yang tidak ketolongan lagi.
+
+Setiap barang-dagangan seketika ada uang. Inilah teori Gray, yang disimpulkkan dari analisis mengenai barang-barang dagangan yang tidak lengkap dan karenanya palsu. Konstruksi “organik” dari “uang kerja” dan “bank nasional” dan “gudang-gudang barang-dagangan” hanya sebuah gambaran impian, di dalam mana dogma disuapkan sebagai suatu hukum universal. Dogma bahwa suatu barang-dagangan seketika adalah uang, atau bahwa kerja tertentu dari individual perseorangan yang dikandung di dalamnya adalah kerja sosial seketika/langsung, dengan tidak dengan sendirinya benar oleh bank yang mempercayai hal itu dan yang beroperasi sesuai dengan kepercayaan itu. Dalam kasus seperti itu, sangat besar kemungkinannya kebangkrutan akan mengganti kritisisme praktis. Yang tersembunyi pada Gray dan memang tetap sebuah rahasia bahkan bagi dirinya sendiri, yaitu, bahwa uang kerja adalah suatu ungkapan/ frase yang kedengaran-ekonomik bagi keinginan saleh untuk melepaskan diri dari uang, dan dengan uang mengenyahkan nilai tukar, dan dengan nilai tukar mengenyahkan barang-barang dagangan, dan dengan barangbarang dagangan mengenyahkan sistem produksi burjuis, ini diucapkan secara blak-blakan oleh sementara Sosialis Inggris yang sebagian telah menulis sebelum dan sebagian lagi setelah Gray.\[9\] Tetapi dicadangkan bagi Proudhon dan ajarannya untuk dengan serius mengkhotbahkan tentang degradasi uang dan naiknya ke surga “barang-barang dagangan” sebagai inti sosialisme dan dengan begitu menguraikan sosialisme menjadi suatu kesalahfahaman mengenai keharusan hubungan antara barang-barang dagangan dan uang.\[10\]
+
+* * *
+
+\[1\] John Gray: The Social System, etc. A Treatise on the Principle of Exchange, Edinburgh 1831. Bandingkan Lectures on the Nature and Use of Money, Edinburgh 1848, oleh penulis yang sama. Setelah Revolusi Februari, Gray mengirimkan sebuah memorandum pada Pemerintah Sementara Perancis, di dalam surat itu ia menyatakan bahwa Perancis tidak memerlukan sebuah organisasi kerja, tetapi memerlukan sebuah organisasi pertukaran, yang rencananya, jika disusun selengkapnya, terkandung di dalam sistem uang yang telah dibuat penemuannya. John yang baik itu tidak menyadari bahwa enam-belas tahun sesudah permunculan The Social System, sebuah paten untuk penemuan yang sama akan diklaim oleh Proudhon yang banyak akal itu.
+
+\[2\] Gray, The Social System, dst. hal.63. “Uang mestinya cuma sekedar tanda-terima, sebuah bukti bahwa pemegangnya telah menyumbang ksuatu nilai tertentu pada persaediaan kekayaan nasional, atau bahwa ia telah memperoleh hak atas nilai tersebut dari seseorang yang mempunyai sumbangan pada nilai tersebut.”
+
+\[3\] “Suatu nilai perkiraan yang sebelumnya telah diberikan pada produk, biarlah itu disimpan di sebuah bank, dan ditarik lagi kapan itu diperlukan; yang sekedar menentukan, berdasarkan kesepakatan umum, bahwa siapapun yang menyimpan suatu jenis kepemilikan pada Bank nasional yang dimaksud itu, dapat mengeluarkan darinya suatu nilai yang sama dari (berapapun) yang dikandungnya, tanpa diharuskan untuk mengeluarkan barang yang telah disimpankan (di Bank) tsb.” Loc.cit. hal. 68.
+
+\[4\] Loc.cit. hal. 16
+
+\[5\] Gray, Lectures on Money, etc. hal.182-183.
+
+\[6\] Loc.cit. hal. 169.
+
+\[7\] “Bisnis setiap bangsa akan dilakukan atas dasar suatu modal nasional.” (John Gray: The Social System, dst. hal.171.) '
+
+\[8\] “Tanah itu mesti dikonversi menjadi milik nasional.” ( Loc.cit., hal. 208.)
+
+\[9\] Lihat misalnya: W. Thompson: An Inquiry into the Distribution of Wealth, etc. London 1824; Bray: Labour’s Wrongs and Labour’s Remedy, Leeds 1839.
+
+\[10\] Dapat dianggap sebagai sebuah kompendum dramatikal dari teori tentang uang adalah: Alfred Darimont: De la reforme des banques, Paris 1856.
+
+* * *

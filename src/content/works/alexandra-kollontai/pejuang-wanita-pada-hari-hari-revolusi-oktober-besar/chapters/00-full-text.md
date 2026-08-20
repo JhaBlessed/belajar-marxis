@@ -1,0 +1,60 @@
+### Pejuang wanita pada Hari-Hari Revolusi Oktober Besar
+
+Oleh Alexandra Kollontai
+
+* * *
+
+Diterbitkan buat kali pertama dalam Zhensky zhurnal (_Jurnal Wanita_), Nombor 11, November 1927. Dari Alexandra Kollontai, _Selected Articles and Speeches_, Penerbit Progress, 1984.  
+Diterjemahkan oleh Muhammad Salleh (Mac 2002)
+
+* * *
+
+Kaum wanita yang mengambil bahagian dalam Revolusi Oktober Besar — siapakah mereka? Individu-individu terpulau? Tidak, terdapat ramai di kalangan mereka; berpuluh-puluh, beratus-ratus ribu wira-wira wanita tidak ternama yang, berarak dengan para pekerja dan petani di sebalik Bendera Merah dan ungkapan Soviet-Soviet, melintasi kebinasaan teokrasi tsaris menuju masa depan baru...
+
+Jika seseorang memandang balik ke masa yang lalu, golongan wira-wira wanita tidak ternama yang dijumpai oleh Oktober dalam keadaan kebuluran di bandar-bandar, di kampung-kampung yang dibinasakang oleh peperangan... Selendang pada kepala mereka (belum lagi, pada masa ini, kain merah), skirt terpakai, jaket musim sejuk yang diperbaiki... Muda dan tua, pekerja wanita dan isteri askar, petani wanita dan suri rumah dari kalangan golongan miskin bandar. Lebih jarang lagi, lebih jarang pada hari-hari itu, pekerja pejabat dan wanita profesional, wanita berpendidikan dan beradat. Tetapi terdapat juga wanita dari kaum intelek yang mendukung Bendera Merah menuju kejayaan Oktober — cikgu, pekerja pejabat, pelajar muda di sekolah-sekolah dan universiti-universiti, doktor wanita. Mereka berarak dengan ria, tanpa memikirkan diri sendiri, berwawasan. Mereka pergi ke mana-mana mereka dihantar. Ke medan pertempuran? Mereka memakai topi askar dan menjadi pejuang dalam Tentera Merah. Jika mereka memakai tali lengan merah, mereka kemudiannya berkejar ke stesen-stesen bantuan untuk menolong medan pertempuran Merah menentang Kerensky di Gatchina. Mereka bekerja dalam komunikasi tentera. Mereka bekerja dengan ria, dipenuhi dengan kepercayaan bahawa sesuatu yang hebat sedang berlaku, dan bahawa kami semua merupakan gigi roda dalam satu kelas revolusi.
+
+Di kampung-kampung, petani wanita (suami-suami mereka telah dihantar ke medan peperangan) merampas tanah dari tuan-tuan tanah dan menghalau golongan bangsawan keluar dari sarang yang mereka telah menjaga selama beberapa abad.
+
+Apabila seseorang mengingati peristiwa-peristiwa Oktober, seseorang itu tidak melihat muka-muka individu tetapi golongan-golongan besar. Golongan-golongan tanpa nombor, seperti ombak-ombak umat manusia. Tetapi apabila seseorang memandang seseorang itu melihat, mesyuarat-mesyuarat, perhimpunan-perhimpunan, demonstrasi-demonstrasi...
+
+Mere belum pasti apa yang mereka inginkan, apa yang mereka perjuangkan, tetapi mereka pasti akan sesuatu: mereka tidak akan bersabar dengan peperangan lagi. Mereka juga tidak inginkan tuan-tuan tanah dan golongan kaya... Pada tahun 1917, laut umat manusia besar berhela dan bergoyang, dan sebahagian besar daripada laut itu terdiri daripada wanita...
+
+Suatu hari ini, ahli sejarah akan menulis mengenai peranan wira-wira wanita revolusi yang tidak ternama, yang meninggal dunia di medan pertempuran, ditembak oleh Tentera Putih dan mengalami pelbagai kemelaratan dalam tahun-tahun pertama revolusi, tetapi yang terus memikul Panji-Panji Merah Soviet demi kuasa dan komunisme.
+
+Ia adalah kepada wira-wira wanita tidak ternama ini, yang meninggal dunia untuk mememangi kehidupan baru bagi para pekerja semasa Revolusi Oktober Besar, kepada siapa republik muda kini menunduk dengan kehormatan sambil pemudanya, ria dan bersemangat, melaksanakan usaha membina dasar sosialisme.
+
+Namun, dari lautan kepala wanita dalam selendang dan topi terpakai ini, terbangkitnya tokoh-tokoh yang akan diberikan perhatian khusus oleh ahli sejarah apabila, tahun-tahun selepas ini, dia menulis mengenai Revolusi Oktober Besar dan pemimpinnya, Lenin.
+
+Tokoh pertama yang akan bangkit adalah teman setia Lenin, Nadezhda Konstantinovna Krupskaya, memakai baju kelabu biasa dan sentiasa berjuang untuk kekal di latarbelakang. Dia akan memasuki mesyuarat tanpa dilihat dan meletakkan dirinya di sebalik tembok, tetapi dia melihat dan mendengar semuanya, memerhatikan semua yang berlaku agar dia kemudiannya dapat memberikan penerangan penuh kepada Vladimir Ilyich, menambah ulasan-ulasan baiknya sendiri dan mengutarakan idea yang waras, sesuai dan berguna.
+
+Pada hari-hari itu, Nadezhda Konstantinovna tidak berucap di pelbagai mesyuarat beribut di mana rakyat memperdebatkan persoalan besar: dapatkah Soviet-Soviet memenangi kuasa atau tidak? Tetapi dia berusaha tanpa penat sebagai tangan kanan Vladimir Ilyich, kadang-kala membuat ulasan yang pendek tetapi penting di mesyuarat-mesyuarat parti. Pada masa-masa kesusahan dan kebahayaan, apabila ramai komrad kehilangan hati dan terjerumus ke dalam keraguan, Nadezhda Konstantinovna sentiasa kekal sama, yakin sepenuhnya bagi kebetulan sebab mereka dan kejayaannya yang sudah pasti. Dia mengeluarkan kepercayaan yang tidak dapat digoyangkan, dan ketabahan semangat ini, disembunyikan di sebalik kerendahan diri, sentiasa mempunyai kesan menggembirakan pada semua orang yang menjumpai teman pemimpin hebat Revolusi Oktober.
+
+Seorang lagi tokoh bangkit — seorang lagi sahabat setia Vladimir Ilyich, seorang komrad setia semasa tahun-tahun usaha sulit yang susah, setiausaha Majlis Pusat Parti, Yelena Dmitriyevna Stassova. Seorang bijaksana yang jelas, ketepatan dan kemampuan luarbiasa untuk tugas, kemampuan jarang untuk ‘mencari’ orang yang sesuai bagi sesuatu tugas. Badannya tinggi seperti patung dapat dilihat buat kali pertama di Soviet di istana Tavrichesky, kemudiannya di rumah Kshesinskaya, dan akhirnya di Smolny. Dalam tangannya, dia memegang buku nota, sambil di sekelilingnya terdapat komrad-komrad dari medan pertempuran, para pekerja, Tentera Merah, pekerja wanita, ahli-ahli parti dan ahli-ahli Soviet, mencari jawapan yang cepat dan jelas atau susunan.
+
+Stassova memikul tanggungjawab bagi pelbagai perihal penting, tetapi jika seorang komrad menghadapi keperluan atau kerisauan pada hari-hari beribut itu, dia sentiasa akan bertindak, memberikan jawapan yang ringkas, sopan, dan dia sendiri melakukan apa-apa yang dapat. Dia dibebankan oleh tugas-tugasnya, dan sentiasa berada di kedudukannya. Sentiasa di kedudukannya, namun tidak pernah menolak ke barisan hadapan, ke ruang terkenal. Dia tidak suka menjadi pusat perhatian. Kepentingannya bukannya diri sendiri, tetapi perjuangan.
+
+Demi wawasan komunisme yang mulia dan disayangi, demi apa Yelena Stassova mengalami pembuangan negeri dan pemenjaraan di penjara-penjara tsaris, meninggalkannya dengan kesihatan yang merana... Demi wawasan tersebut, dia tetap seperti kiasan, sekeras besi. Tetapi kepada kesengsaraan komrad-komrad, dia menunjukkan kesayangan dan tanggungjawab yang hanya dijumpai dalam wanita dengan hati yang baik lagi mulia.
+
+Klavdia Nikolayeva merupakan seorang pekerja wanita dengan permulaan yang rendah diri. Dia menjadi ahli parti Bolshevik seawal tahun 1908, pada tahun-tahun reaksi, dan telah mengalami pembuangan negeri dan pemenjaraan... Pada tahun 1917, dia kembali ke Leningrad dan menjadi hati majalah pertama bagi pekerja wanita, Kommunistka. Dia masih muda, penuh api dan ketidak-sabaran. Tetapi dia memegang panji-panji dengan kukuh, dan dengan berani melaungkan bahawa pekerja wanita, isteri askar dan petani wanita mesti menjadi ahli parti. Untuk bekerja, wanita! Untuk mempertahankan Soviet-Soviet dan komunisme!
+
+Dia berucap di mesyuarat-mesyuarat, masih gementar dan tidak pasti akan diri sendiri, namun menarik orang lain untuk mengikut. Dia merupakan seorang uang memikul pada bahunya segala kesusahan yang terlibat dalam membuka jalan bagi perlibatan luas kaum wanita dalam revolusi, salah seorang yang berjuang pada dua medan — demi Soviet-Soviet dan komunisme, dan pada masa yang sama demi pembebasan kaum wanita. Nama-nama Klavdia Nikolayeva dan Konkordia Samoilova, yang meninggal dunia pada kedudukan revolusioner dia pada tahun 1921 (akibat kolera), diikat dengan rapat kepada langkah-langkah pertama dalam paling susah yang diambil oleh gerakan pekerja wanita, terutamanya di Leningrad. Konkordia Samoilova merupakan seorang ahli parti yang tidak memikirkan diri sendiri, seorang pengucap hebat lagi baik yang sedar akan cara memenangi hati pekerja wanita. Mereka yang bekerja di sisi belaiu akan mengingati Konkordia Samoilova buat masa yang lama. Dia memang ringkas dalam perangai, ringkas dalam pakaian, mendesak dalam perlaksanaan keputusan-keputusan, tegas dengan dirinya sendiri dan dengan orang lain.
+
+Yang menarik adalah tokoh lembut lagi menawan Inessa Armand, yang diberikan tugas parti yabg sangat penting dalam persediaan untuk Revolusi Oktober, dan yang kemudiannya menyumbang pelbagai idea kreatif kepada tugas yang dilaksanakan oleh kaum wanita. Dengan segala kewanitaan dan kelembutan perangai, Inessa Armand tidak dapat digoyangkan dalam kepercayaannya dan dapat mempertahankan kepercayaannya sebagai jalan yang betul, walaupun berhadapan dengan penentang-penentang kuat. Selepas revolusi, Inessa Armand menumpukan dirinya kepada mengaturkan gerakan pekerja wanita, dan perhimpunan wakil adalah rekaannya.
+
+Tugas hebat dilakukan oleh Varvara Nikolayevna Yakovleva semasa hari-hari susah dan penting Revolusi Oktober di Moskow. Di medan tambak-tambak, dia menunjukkan ketekunan yang layak bagi pemimpin ibu pejabat parti... Ramai komrad mengatakan bahawa ketekunan dan keberaniannya memberikan ilham kepada mereka yang ragu-ragu dan memberi perangsang kepada mereka yang telah berputus asa. “Majulah!” — ke kejayaan.
+
+Sambil seseorang mengingati waniat yang mengambil bahagian dalam Revolusi Oktober Besar, semakin benyak nama dan muka bangkit seperti ajaib dari memori. Dapatkah kita gagal menghormati pada hari ini memori Vera Slutskaya, yang berusaha tanpa memikirkan diri sendiri dalam persediaan bagi revolusi dan ditembak oleh pihak Cossack di medan pertempuran Merah pertama di Petrograd?
+
+Dapatkah kita melupai Yevgenia Bosh, dengan karenah gagah, sentiasa bersemangat untuk pertempuran? Dia juga meninggal dunia di kedudukan revolusioner.
+
+Dapatkah kita melupai untuk menyebut dua nama yang begitu rapat dengan kehidupan dan aktiviti V. I. Lenin — dua kakaknya dan komrad setia, Anna Ilyinichna Yelizarova dan Maria Ilyinichna Ulyanova?
+
+... Dan komrad Varya, dari bengkel-bengkel keretapi di Moskow, sentiasa menghiburkan, sentiasa berkejaran? Dan Fyodorova, pekerja kain di Leningrad, dengan mukanya yang manis dan bersenyum, dan keberaniannya semasa berjuang di tambak-tambak?
+
+Ia adalah mustahil untuk menyenaraikan mereka semua, dan berapa ramai akan kekal tidak dinamakan? Wira-wira wanita semasa Revolusi Oktober merupakan sebuah tentera, dan walaupun nama-nama mereka mungkin dilupai, kehidupan mulia mereka masih kekal dalam kejayaan revolusi itu, dalam segala pencapaian dan kebaikan yang kini dinikmati oleh para pekerja Kesatuan Soviet.
+
+Ia adalah fakta jelas dan tidak dapat dinafikan bahawa, tanpa perlibatan kaum wanita, Revolusi Oktober tidak dapat membawa Bendera Merah menuju kejayaan. Kemuliaan kepada pekerja wanita yang berarak di bawah Panji-Panji Merah semasa Revolusi Oktober. Kemuliaan kepada Revolusi Oktober yang membebaskan kaum wanita!
+
+* * *
+
+[Karya-karya Alexandra Kollontai](index.html)

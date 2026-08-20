@@ -1,0 +1,391 @@
+# Situasi Politik Luar dan Dalam Negeri
+
+## Tan Malaka (1946)
+
+* * *
+
+#### (Pidato dalam Kongres Persatuan Perjuangan tanggal 4-5 Januari 1946)
+
+Lebih dahulu saya minta pada saudara sekalian sekejap berdiri, memperingati arwahnya rakyat dan pahlawan Indonesia, yang sudah meninggalkan kita dalam perjuangan yang maha dahsyat ini, dan memberikan warisan kepada kita supaya meneruskan pekerjaanya.
+
+Pokok pembicaraan sekarang ialah: situasi politik luar dan dalam Indonesia. Saudara sekalian!
+
+Jikalau kita mau menanam satu pohon, maka lebih dahulu kita cari bibit yang bagus, tanah yang cocok dan hawa yang sesuai. Bibit yang sebaik-baiknya pun kalau tidak disertai oleh tanah yang cocok dan iklim yang sesuai, tidak akan tumbuh menjadi pohon.
+
+Demikian juga haluan kita!
+
+Kalau haluan itu tidak cocok dengan keadaan di dalam dan di luar maka ia akan patah di tengah jalan atau gagal sama sekali. Haluan kita serta cara kita bekerja, mesti kita ukur dengan kekuatan kita, baik dari dalam ataupun dari luar. Kemudian keadaan luar dan dalam itu kita cocokkan dengan haluan kita; yaitu: kemerdekaan. Demikianlah kita membentuk persatuan yang kita butuhkan dan organisasi yang cocok dengan keadaan di dalam dan di luar negeri. Apabila organisasi kita, persatuan kita dan haluan kita sudah cocok dengan keadaan di dalam dan di luar negeri kita, maka barulah kita berharap, bahwa kelak usaha kita akan berhasil.
+
+Dengan iman yang teguh tegap hati yang tetap tenang kita boleh melaksanakan haluan kita tadi. Tidak ada manusia yang adil akan menyesali paham dan perbuatan kita. Tak ada pula sesuatu kodrat yang akan merintangi kelangsungannya usaha kita. Anak cucu kita kelak akan mewarisi apa yang akan kita tinggalkan itu, sempurna atau sebagian jaya, dengan iman yang lebih walaupun kita sudah insyat akan segala-gala meskipun sudah bersatu padu atas satu organisasi yang berdisiplin laksana baja, tetapi baru sampai di tengah jalan kita sudah patah hati dan pecah belah, maka akan sia-sialah semua pekerjaan kita selama itu tadi. Anak cucu kita akan mengutuki kita sebagai penghianat paham dan negara kita sendiri atau sedikitnya akan menjauhi kita sebagai manusia yang lemah tak berwatak.
+
+Semuanya ini adalah keyakinan saya sendiri. Saya pikir keyakinan ini boleh dibuktikan dengan sejarah negara manapun juga dalam waktu manapun juga.
+
+Kembali saya sekarang kepada pokok perkara ialah menguraikan situasi politik luar dan dalam negara. Saya mulai dengan suasana politik luar negara. Bukankah negara kita ini bagian dari dunia luar? Bukankah pula dunia luar itu lebih besar dari negara kita? Bukankah akhirnya politik dunia itu bisa sama sekali menghambat atau menghalang-halangi politik negara kita sendiri?
+
+Hari depan kita adalah bergantung kepada keadaan sekarang. Seterusnya pula, keadaan sekarang berseluk beluk dengan keadaan lampau.
+
+Marilah kita tinjau! Marilah kita sedikit surut ke belakang sejarah! Ke tahun 1918, ialah perjanjian Versailes.
+
+Pada waktu itu dunia sedang gemuruh. Satu negara besar dan baru dalam di segala-gala timbul, ialah Soviet Rusia. Pada zaman itu saya masih muda, masih berlajar di Eropa barat. Dalam usia “Sturm und Drangperiode” itu, dalam usia sedang bergelora itu saya di londong topan yang bertiup dari Eropa Timur itu. Dunia Barat sendiri pada masa itu seakan-akan mengikuti Soviet Rusia.
+
+Dari dunia Eropa Timur itulah saya mendapatkan semua ilham dan petunjuk yang saya rasa perlu buat perjuangan politik, ekonomi, dan sosial kita.
+
+Walaupun pasang revolusi yang dari Timur mengalir ke Barat Eropa itu lambat laun susut kembali sampai ke Negara Rusia saja, tetapi tiadalah padam-padamnya ilham dan petunjuk yang saya peroleh dari Rusia dimana usia bergelora tadi.
+
+Berdasarkan petunjuk yang saya peroleh dari Soviet Rusia itulah saya sekarang melangkahi sejarah dengan kecepatan raksasa. Dari tahun 1918-1923, lebih kurang dalam 5 tahun itu, keadaan politik-ekonomi dan sosial dunia kapitalisme seakan-akan tak bisa diperbaiki lagi.
+
+Seakan-akan kapitalisme dunia itu mau roboh.
+
+Tetapi dari tahun 1924-1929, kurang lebih dalam 5 tahun pula, dunia kapitalis mulai bangun kembali. Mulanya perlahan-lahan. Kemudian cepat demi cepat sampai produksi itu bisa di puncak. Tiba-tiba timbullah krisis, lebih hebat dari yang sudah-sudah.
+
+Dahulu kita musimnya krisis itu dianggap sekali 10 tahun. Tetapi rupanya karena kodrat mesin menghasilkan sudah berlipat ganda maka musim itu kembali sekali 5 tahun saja.
+
+Sebabnya timbul krisis itu boleh saya ringkaskan:
+
+Dalam dunia kapitalistis cuma beberapa biji manusia yang memiliki harta pencaharian, yang berupa tanah, pabrik dan tambang serta mengurus hasil buat masyarakat seluruhnya. “Makin banyak saya menghasilkan” demikianlah pikirannya si Kapitalis, “makin murah” jualan barang saya. Ini berarti makin lekas dapat saya gulingkan saingan saya, yang tak bisa menjual barangnya semurah barang saya. Tetapi kapitalis lain ialah teman seperjuangannya berpendapat sedemikian pula. Begitulah tiba-tiba saja barang membanjiri pasar, melimpah di pasar dan jatuh harganya sampai jatuh di bawah ongkos. Karena jualan tiada lagi menutupi ongkos, maka tuan pabrik seorang demi seorang terpaksa menutup pabriknya. Dengan begitu kaum pekerja terpaksa disuruh pulang. Pengangguran bersimarajalela dan krisis mengamuk kiri kanan.
+
+Demikianlah ringkasnya gambaran dunia pada tahun 1929. Negara kapitalis mulai goncang lagi sampai ke tiang dan dasarnya.
+
+Negara Amerika pun yang luas serta kaya-raya dalam hal bahan pabrik, tambang, mesin dan tenaga pun tiadalah luput dari genggamannya krisis yang mulai timbul pada tahun 1929 itu. Meskipun Amerika menghasilkan lebih kurang 70 % barang penting dari industri berat, seperti besi, baja, mesin minyak dan lain-lain walaupun pembeli dalam negaranya banyak dan kaya-raya, walaupun lebih dari 90 % jumlah mas di dunia tertumpuk di country of the free “Negara Mereka” itu, namun tahun krisis itu tak terbendung juga.
+
+11 juta pekerja menganggur di Amerika bukan karena malas atau bodohnya sendiri. Melainkan karena salahnya sistem kapitalisme. Seandainya tiap-tiap pekerja cuma menanggung seorang istri dan seorang anak saja, maka di antara 140 juta warga Amerika itu adalah 33 juta yang melarat atau lebih kurang ¼ penduduk yang jatuh ke lembah kesengsaraan. Sewaktu-waktu mereka terancam oleh kelaparan dan senantiasa mereka dihitung sebagai golongan pengemis.
+
+Bagaimana pula kedudukan negara Inggris?
+
+Luasnya negara Inggris ini adalah kurang dari 100.000 mil persegi. Tetapi di Asia dan Afrika Inggris mempunyai jajahan yang luasnya lebih kurang 12.000.000 mil persegi, jadi kira-kira 150 kali seluas negaranya sendiri. Inggris berpenduduk kurang dari 50 juta, tetapi penduduk jajahannya adalah lebih kurang 500.000.000 atau lebih kurang 10 kali sebesar cacah jiwa negaranya sendiri.
+
+Ditilik dari penjuru ini maka tiap-tiap 1 orang Inggris dilayani oleh 10 orang kulit berwarna. Tetapi dalam negara Inggris sendiri mereka yang memiliki perkakas menghasilkan dan mengurus produksi itu, bertitel Lord ataupun tidak, kalau kita katakan ada 1000 jumlahnya, masih melebihi taksiran. Sehingga tak jauh dari kebenaran kalu kita katakan kalau dibelakangnya seorang kapitalis Inggris berada dan bekerja ½ juta kuli hitam dan putih. Begitulah juga di Inggris di antara tahun 1929 dan 1932 krisis mengamuk dengan hebatnya. Tak berapa bedanya angka kurban krisis di Inggris itu dari pada 2 juta orang. Tanah luasnya hampir 1/6 maka bumi buat penduduk belum 1/44 jumlah penduduk dunia, yakni kalau buruh Inggris dihitung sebagai bangsa tuan, tiadalah bisa meluputkan Inggris dari marabahaya krisis.
+
+Tahun 1929-1932! Dimasa tiga tahun itu sekalian ahli politik – ekonomi – sosial di seluruh dunia memutar-mutar otaknya untuk mendapatkan sistem ekonomi yang kiranya bisa menghindarkan krisis. Pada waktu ini di seluruh dunia hanyalah satu negara yang terhindar dari krisis ialah negaranya proletar, Soviet Rusia. Disana kaum pekerja memiliki mata pencaharian hidup dan mengatur hasil buat keperluan bersama, bukanlah buat diperjual-belikan. Banyaknya hasil tiadalah diombang-ambingkan oleh pedoman laba-rugi, melainkan ditetapkan oleh kebutuhan pasti.
+
+Pabrik tidak ditutup karena untung kurang. Sebaliknya pabrik senantiasa kekurangan tangan karena selalu saja meluas dan mendalam disebabkan pula oleh kenaikan takaran-hidup (standard of life) setahun demi setahun.
+
+Dengan mulut dunia kapitalisme mencela politik dan sistemnya Soviet. Tetapi dalam kalbunya mereka cemburu akan keamanan dan kemajuan Rusia.
+
+Mereka sama tertarik oleh rencana ekonomi. Baik negara fasis ataupun demokrasi mencoba mengadakan rencana dan menjalankan rencana ekonomi. Mereka gagal lantaran pertentangan hebat di antara satu negara kapitalis dengan negara kapitalis lainnya.
+
+Marilah sekarang kita tinjau keadaan di negeri Jerman! Kita kenal orang Jerman pukul rata, orang yang pintar, berani, kuat dan rajin. Tetapi dia kalah perang 1914 – 1918! Kalau satu negara kalah perang maka ia mesti tunduk pada undang-undang perang. Jerman diharuskan membayar hutang kepada yang menang ialah Inggris, Perancis dan Amerika. Panjangnya angka hutang itu barangkali dari Purwokerto ini sampai ke Bogor.
+
+Tanya Jerman: “Dengan apa akan saya bayar hutang itu?” Kita tahu bahwa kereta-api dan kapal Jerman di sita oleh musuhnya. Uang kertas Jerman amatlah merosot harganya. Musuhnya tentu tak mau menerima kertas Jerman yang tak berharga di luar negaranya itu.
+
+Apakah boleh Jerman membayar hutangnya dengan barang?
+
+Inipun tiada mungkin dilakukan dengan tidak banyak menderita bermacam halangan. Besi buat bahan tak cukup di Jerman. Minyak tanah cuma bisa disaring dari arang saja. Timah, kapas, getah, dan lain-lain tak ada pula. Semuanya ini di pasarnya “si Haves” ada bertimbun-timbun. Tetapi bahan ini tidak bsia dibeli dengan uang kertas Jerman. Jerman bisa beli dengan jual barang pabriknya tetapi barang pabrik ini membutuhkan bahan pula. Demikianlah persoalan berputar-putar saja dari ujung ke pangkal. Si Haves sebenarnya tak sudi memberi kelonggaran kepada Jerman yang mencari barang bahan di jajahannya itu. Mereka takut akan barang Jerman. Takut akan persaingan barang Jerman yang murah dan baik itu. Bukankah kacau dunia semacam itu? Jerman disuruh membayar hutang. Dengan uang tidak bisa dibayar dan dengan barangpun tidak. Sedangkan yang berpiutang terus menagihnya.
+
+Inilah yang membikin dunia kacau sesudahnya perang dunia ke I. Pokok kekacauan itu terdapat dalam Perjanjian Versailles. Dalam Perjanjian inilah seluruhnya Rakyat Jerman yang dengan Austria 80 juta itu diharuskan membayar hutang perang, pengganggu keamanan dunia dan oleh sebab itu diharuskan membayar hutang, dilucuti senjatanya dan ditindas gerak politiknya. Tiadalah kita mau dan bisa mendalamkan persoalan salah atau benarnya Jerman terhadap perang dunia ke I itu.
+
+Cuma kita mau kemukakan, bahwa keadaan di Jerman itu memberi kesempatan kepada seorang pemimpin ber-kaliber Hitler dan satu partai bercorak Nazi. Nama Hitler mulai didengar semenjak tahun 1922, ketika krisis Jerman sedang memuncak. Bagaimana Hitler mengadakan organisasi dan merebut kekuasaan bulat tiadalah perlu kita uraikan disini. Cuma kita tahu bahwa Hitler dan partainya cukup mendapat kekuatan buat membentuk Jerman-Nazi yang akan melakukan politik kontra-revolusioner terhadap ke dalam Jerman dan politik imperialisme terhadap ke luar. Yang akan kita kemukakan disini ialah kekuasaan penuh dan kepercayaan penuh dari pada rakyat buat suatu pemerintah.
+
+Kalau satu negara belum mempunyai kekuasaan penuh dan kepercayaan penuh dari pihak rakyat, maka pemerintah itu akan mudah saja diobrak-abrik dari luar ataupun dari dalam. Kita tidak memuji aturan fasisme Jerman itu. Kita hanya memajukan satu bukti betapa hebatnya kekuatan rakyat itu di bawah pimpinan yang mendapat kepercayaan penuh serta kekuasaan penuh dari rakyatnya. Marilah sebentar kita arahkan uraian kita terhadap ekonomi Jerman di bawah pimpinan partai Nazi. Yang menjadi alternatif (pilihan) dalam ekonomi Jerman di masa itu, ialah: kalau gaji buruh naik maka harga barang, hasil pabrik tidak bisa bersaingan di pasar luar negeri; kalau gaji buruh diturunkan maka jumlah gaji buruh yang sudah turun itu tak bisa menghabiskan hasil pabrik dalam negara. Padahal Jerman harus menjual barang ke luar negara untuk dapat membeli bahan mentah. Sedangkan dalam perdagangan bahan-bahan mentah ini Inggris yang berkuasa, tapi ia yang enggan menolong Jerman. Itulah artinya berkoloni, itulah pula enaknya orang mempunyai jajahan! Tetapi tidak enak bagi yang lain.
+
+Maka sebab itu dunia terus cekcok saja!
+
+Sekarang kalau gaji yang diturunkan, maka pasar dalam negeri yang menjadi kurus. Sebab, dalam negeri kapitalis tulen seperti Jerman adalah lebih kurang ¾ dari pada jumlah kaum buruh yang hidup dari gajinya.
+
+Maka bagaimana mereka itu bisa membeli, kalau gajinya semakin diturunkan? Jadi: kemari salah, kesana salah!
+
+Orang Jerman mencoba memutar-mutar roda ekonomi dan memutar-mutar otaknya. Tetapi terpaksa juga kembali kepada pokok – pangkalnya soal: haves dan haves-not. Yang dipikirkan Jerman cuma: Kita mesti punya koloni! Mendapatkan koloni dengan politik curang, dengan merebut, dengan mendesak, kita orang Indonesia tidak setuju. Dengan Jerman tak setuju, dengan Inggris dengan seiya apapun tidak! Tetapi menurut hemat kita yang membawa Jerman ke arah politik-perang itu tak lain dan tak bukan karena dunia mesti terbagi atas “haves” dan “haves-nots” itulah! Lantaran masih ada negara yang satu dua biji warganya mesti di layani oleh ½ juta budak putih dan hitam.
+
+Alat peranglah dibikin Jerman. Kita masih ingat kapal Jerman yang hebat. Tank raksasa, kapal selam, meriam! Semua itu Jerman bikin, bikin!
+
+Kaum buruh bekerja lagi. Mereka jalan terus, sampai tahun 1939. dalam 7 tahun Jerman hidup kembali. Kembali seperti sediakala malah lebih hebat. Mau apa sekarang dengan kapal selam dan alat perang lain-lainnya itu? Jawab: perang! Senjata ada, kemauan ada. Jangan sekarang orang menyalahkan bangsa ini, bangsa itu; keadaan ekonomi, itulah yang menjadi pangkal segala-galanya itu.
+
+Semua itu dimulai dari tahun 1932. Dalam tahun itu Jerman mulai menjadi fasis. Ia menghendaki produksi, ia membutuhkan besi, minyak, ia berkehendak menghasilkan kain, oto, mesin; mesin yang dapat menghasilkan mesin ….. Tetapi, jika tidak ada pasarnya, bagi hasil produksi itu, tak ada gunanya. Semua hal inilah yang membawa kita ke pintu gerbangnya perang dunia ke II.
+
+Hitler ada mempunyai sahabat karib di Selatan. Namanya Mussolini dan nama negaranya Italia.
+
+Dalam beberapa hal Mussolini lebih pintar dari pada Hitler. Malah dia gurunya Hitler. Tetapi Italia jauh lebih miskin dari pada Jerman. Italia tak mempunyai bahan seperti arang, besi, minyak tanah, timah, kapas, karet dan lain-lain. Sistem ekonomi hampir seperti Jerman juga.
+
+Hasil pabriknya sudah mempunyai melimpah. Tetapi pasar tak ada buat membeli bahan dan menjual barang pabrik. Dia incerkan matanya dan tujukan meriamnya ke Abessinia. Dia tahu adanya Volken bond. Tetapi dia tahu Volkenbond itu tak berkuasa. Mussolini tidak memperdulikan Volkendbond itu!
+
+Sekarang ada juga badan yang mirib dengan Volkenbond itu, yaitu United Nations. Orang belum tahu lagi bagaimana kelak badan itu.
+
+Uraian di atas ini bukan agitasi, hendaklah orang membaca dengan tenang uraian ini. Uraian mengenai soal: Apa obat krisis itu? Apa obat krisis Jerman? Apakah kelak United Nations, ialah penjelmaan Alamarhum Volkenbond itu kelak bisa menyelesaikan krisis dunia sekarang?
+
+Yang ikut salah dalam semuanya itu ialah: the biggest of all, negara yang terbesar dari dalam segala itu, Amerika. Negara itu juga disebut orang: country of the free, negara merdeka! Kalau 11 juta pekerja dikeluarkan dari pabrik (karena krisis): merdeka! Kalau berkeliaran di jalan raya dan pasar perburuhan itu artinya: merdeka!
+
+Kalau ada warga negara yang di –“Lynch” (disiksa): merdeka! Memang country of freedom, negara merdeka, dengan 11 juta kaum buruh yang menganggur tetap, merdeka mondar-mandir kesna sini menawarkan tenaganya kepada mereka yang merdeka pula menetukan apa akan dibeli apa tidak. Sedang dalam negeri itu gandum yang ditanam, dipotong, diangkut, diirik dengan tractor bertimbun-timbun banyaknya, tetapi bertimbun-timbun pula yang lapar, yang tak berbaju, berkeliaran mencari kerja dan syarat hidup.
+
+Jadi bagaimana sekarang dikumpulkan orang-orang yang cerdik pandai, profesor-profesor. Mereka mengadakan “braintrust”, kumpulan otak dari pada orang yang pandai-pandai. Memang Roosevelt adalah orang besar dalam dunia demokrasi. Ia menyerukan New Deal, perubahan baru. Sebelumnya Roosevelt tampil ke muka maka kalau petani kebanyakan gandum semboyannya: bakar! Atau buang dalam laut! kain telah banyak: bakar saja! Mendapatkan barang baru, pun menjadi barang melimpah, tak berguna. Pendapatan yang baru itu dapat menggunakan kaum buruh yang lebih sedikit jumlahnya. Lantaran itu maka terpaksalah pula kaum buruh disusutkan. Jadi pendapatan baru itu tidak dijalankan, karena keadaan akan bertambah jelek. Akan lebih banyak lagi yang masuk partai seperti komunis, dan sebagainya; akan bertambah yang melawan undang-undang negeri! Itu durhaka! Jadi supaya jiwa orang jangan sesat, supaya lebih banyak yang masuk gereja, supaya banyak yang pergi ke tempat moralis, maka pendapatan tidak dijalankan. Rencana pendapatan baru itu dibeli oleh kapitalis yang tak suka memakainya buat dipendam atau dibakar. Begitulah nasibnya negara kapitalis yang terbesar. Satu peristiwa yang mengandung kemajuan itu dianggap sebagai musuh.
+
+Tetapi adalah orang yang bisa mendapat cara untuk memakai hasil dengan tidak susah membuang, membakar dan sebagainya?
+
+Roosevelt pikir dia bisa. Bank sekarang banyak yang bangkrut tak sanggup membayar hutangnya lantaran krisis. Pinjami atau kasih uang banyak kata Roosevelt. Kasih kredit banyak-banyak kepada kaum tani membayar hutang juga. Akibatnya: gandum ada lagi. Kasih kredit kepada yang punya pabrik yang sudah bankrut dan ditutup. Pabrik jalan lagi, hasil bertambah-tambah. Tetapi: ada yang penting lagi, bagaimana menjualnya? Orang 11 juta yang menganggur tak beruang buat membeli keperluannya. Karena itupun dikasih kredit juga. Bangunan “umum” disuruh bikin banyak-banyak. Ratusan ribu kaum buruh mendapat pekerjaan. Akbatnya: roda ekonomi mulai berputar perlahan-lahan. Pabrik-pabrik yang baru disuruh buka. Jalan-jalan raya baru disuruh bikin, pabrik terbuka, buruh bekerja, mendapat gaji dan bisa membeli barang. Hasil pabrik yang dikirim ke pasar mendapatkan cukup pembeli. Pabrik dan pasar bergandengan kembali.
+
+Tetapi ada pabrik yang dibantu oleh pemerintah Roosevelt menjadi saingannya pabrik kapitalis perseorangan. Kapitalis ini atau itu menuduh Roosevelt menjalankan politik sosialistis. Buat menghindarkan persaingan dengan kapitalis perseorangan, Roosevelt terpaksa lari dari lapangan bangunan umum saja.
+
+Seperti jalan raya, kebun, kanal, tanah lapang dan sebagainya. Tetapi akhirnya sampai juga kepada jalan buntu.
+
+Benar jalan-jalan raya dapat disuruh bikin sampai ke Utara Amerika. Tetapi pabrik dan perekonomian seluruhnya goyang lagi. Hasil mulai baik dan terus melimpah pula. Dimana sekarang Roosevelt mendapat teman! Ini lucu: orang yang selama ini dianggap demokrat sebenarnya mendapat teman seorang fasis ialah Hitler, Begini: si fasis sadar ada alat perang dan mulai menyerang Polandia, Denmark ………. Sampai Inggris. Inggris tentu tidak dapat membikin alat-alat perang sendiri sebanyak-banyaknya karena diserang Jerman. Jadi pabrik senjata Amerika dibuka lagi. Industri perang jalan lagi. Betul dalam hakekatnya fasisme cerobohlah yang meneruskan berputarnya ekonomi Amerika. Pada fasisme Jermanlah sebenarnya kaum kapitalis Amerika berterima kasih karena lantaran perang anti-fasislah roda ekonomi Amerika bisa jalan. Tetapi sesuatu kebenaran itu tak selalu bisa diakui berterang-terangan.
+
+Begitulah keadaan Amerika. Negara yang “the biggest of all” itu sampai pecahan perang dunia ke II.
+
+Bagaimanakah sejarahnya satu Badan Internasional, ialah Volkenbond yang maksudnya bermula ialah menyelesaikan perselisihan antara negara dan negara di dunia dan dengan begitu menghindarkan peperangan? Sekejap akan kita tinjau! Kita ingin tahu bisa atau tidakkah badan ini mengobati krisis dunia. Nama Volkenbond tak bisa dipisahkan dengan nama Wilson, Presiden Amerika di masa Perang dunia ke I.
+
+Nama Wilson itu tak pula boleh dipisahkan dengan semboyan “self-determination”. Semboyan ini mengakui hak sesuatu bangsa memilih pemerintahannya sendiri Wilson juga diakui sebagai bapaknya Volkenbond itu sesuatu perselisihan mesti diserahkan kepada satu majelis buat menentukan siapa yang salah dan siapa yang benar. Yang salah akan dihukum (sanction) dengan pemboikotan. Belum sampai orang ke tingkat mengadakan politik dunia buat menjalankan hukuman terhadap Negara oleh Hakim Volkenbond dianggap salah itu. Tetapi memangnya sudah satu kemajuan Internasional apabila Negara salah ceroboh itu benar-benar diboikot perdagangannya.
+
+Tetapi apa yang sebenarnya terjadi? Presiden Wilson itu, yang di Eropa di puji-puji orang, disambut orang dengan seruan “Hosanna-Hosanna” (Bahagialah!) seperti terhadap Yesus Kristus, sekembalinya di Amerika oleh senate, Amerika tidak dizinkan masuk Volkenbond. Negeri yang kuat, yang rajin, yang 5 juta mil persegi luasnya “The Biggest of All” tidak dibolehkan oleh Parlemen Amerika memasuki Volkenbond. Jadi yang masuk siapa? Inggris, Perancis, Spanyol dan negeri-negeri kecil, plonco-plonco: Rumania, Belanda, Swedia, Norwegia. Inilah yang kita maksudkan di atas tadi, kalau kita katakan, bahwa Amerika ikut salah. Amerika memancarkan diri dari kekalutan dunia disebabkan Perjanjian Versailles. Amerika tak mau tanggung jawab. Dia yang melakukan Volkenbond, tetapi sesudah anaknya itu lahir, anak itu dilemparkannya. Anak itu dirobek-robek oleh macan imperialisme Barat.
+
+Bagaimanakah kedudukan yang sebenarnya Negara kecil-kecil di Eropa itu? Negara-negara kecil itu harus dibantu oleh Negara Besar. Mereka itu tak dapat berekonomi sendiri. Dalam politik katanya Belanda itu “vrij” (merdeka), tetapi dalam ekonomi mesti bergantung kepada Inggris. Begitu juga Portugis, Denmark dan lain-lain. Jadi: ke dalam Eropa, Inggris membuat plonco dari negeri-negeri kecil. Terhadap ke luar Eropa terhadap Asia dan Afrika, Inggris mengadakan jajahan dan daerah-daerah yang di bawah pengaruhnya! Dari jajahan itu dapat diambilnya macam-macam bahan mentah sebanyak-banyaknya seperti: besi, minyak, timah, kapas, getah juga barang-barang makanan. Di koloni itu sendiri diadakan macam-macam kebun, seperti kebun kopi, kebun gula. Barang bahan diangkut ke Eropa. Dengan bahan itu di Eropa dibuat mesin, dan mesin yang menghasilkan berjenis-jenis mesin pula. Sedangkan koloni itu cuma buat menghasilkan barang makanan, barang bahan dan jadi pasaran hasil pabriknya saja.
+
+Demikianlah sekarang terhadap dua macam pool: pada satu pool terdapat kemewahan, bermacam-macam ahli dalam segala lapangan pengetahuan; sedangkan pada pool lainnya terdapat kemiskinan, kebodohan. Maka bangunlah sekarang seorang poet (penyair) yang kesohor, Rudyard Kipling, dengan seruannya: "West is West and East is East, and never the twain shall meet” (Barat itu Barat, dan Timur itu Timur, dan dua-duanya itu tak akan pernah mendapatkan persesuaian). Memang begitu, yang satu main golf, yang lain disuruh jadi budaknya, disuruh membawa tongkat golf.
+
+Permainan apa golf itu? Sebenarnya permainan orang yang malas! Di Singapura kantor Inggris besar. Yang tampak ada di luar ialah opas-opas bangsa Indonesia. Sesudah melewati beberapa kamar maka barulah berjumpakan dewa pegawai Inggris yang berada jauh di dalam. Begitulah keadan di dunia! Tidak mengherankan, karena si Haves di bawah pimpinan Inggris, yang memecah-belah. Negeri yang besar-besar, seperti Perancis, Russia, atau Jerman diadunya satu sama lain. Kalau Perancis kuat di Eropa, maka Inggris dengan tangan sembunyi membantu Jerman. Kalau sebaliknya Jerman menjadi kuat, maka Inggris membantu Perancis. Sedangkan negara kecil-kecil selalu menjadi permainan diplomasi dan dikantonginya!
+
+Asia dan Afrika selalu dikangkanginya!
+
+Bagaimana nasib dunia seluruhnya kalau yang satu punya banyak, yang lain tak punya apa-apa? Tentu yang tak punya tersembunyi atau terbuka menentang yang punya. Untuk mengadakan imbangan dalam kekuatan, yang disebut Balance of Power, di bentuk lasykar jajahan, terdiri dari Gurkha dan sebagainya. Dengan memecah belah dan mengadu dombakan Eropa, mengadu dombakan dan mengangkangi Asia dan Afrika serta membentuk Tentara Gurkha, Inggris mencoba meneruskan “imperialisme”-nya.
+
+Maka masa 1918 – 1939 itu adalah sebenarnya ‘gewapende – vrede” saja, damai bersenjata, selalu siap – sedia. Syahdan pada waktu 1939 itu Jerman telah kembali pula seperti sedia kala (tahun 1914). Senjata sudah ada pula berlebih-lebihan. Orang dan serdadu sudah banyak siap sedia pula.
+
+Sedikit tentang strategi. Buat kita perkara ini penting sekali. Strategi itu ada dua macam.
+
+Yang pertama ialah gerak-cepat. Yang kedua ialah mundur maju. Jerman punya strategi gerak-cepat, menurut sistem Napoleon. Kumpulkan tenaga sebanyak mungkin, dan sekonyong-konyong serbu, pecahkan dia punya garis yang lemah, kepung, hancurkan satu-satu pecahan itu. Inilah sistem yang dicocoki oleh Nazi.
+
+Ahli siasat perang Jerman, seperti Von Berhardi dan Ludendorff juga bersandar atas siasat “gerak cepat” Di tangan para opsir Jerman, terutama bagian pemuda, sudah seia buku “alan sprah Zarathustra” yang memuja “Uebermensch”, filsafatnya Nietsche, filsafat imperialisme, filsafat menyerang, filsafat memuja satria perang cocok dengan semangat Jerman-Nazi. Tetapi bagaimana bisa menyerbu sekonyong-konytong, kalau peperangan modern menghendaki pengumuman (ultimatum) perang lebih dahulu? Pada permainan bola, si Referee (pemisah) mesti tanya dulu kepada kedua belah pihak apakah masing-masing sudah siap. Baru ditiup peluit sebagai tanda pertandangan sudah boleh dimulai. Tiada boleh salah satu kesebelasan menyerbu saja, sebelum peluit berbunyi. Begitu juga adat orang bermain silat di Minangkabau. Rendah sekali dianggap lawan yang mencida (mencedera), yakni menyerang dengan tak memaklumkan lebih dahulu. Begitupun dalam perang modern, lawan itu mesti diperingati lebih dahulu, bahwa kalau ini dan itu tak diperkenankan (ultimatum) maka peperangan akan dimulai pada tanggal ini atau itu!
+
+Sebaliknya Inggris adalah pengikut muslihat mundur-maju. Semboyan Inggris ialah “siapa tahan lama” (Ausduern) itulah yang bakal menang. Pada permulaan perang, Inggris cuma mempertahankan diri saja. Sementara itu ia terus menyusun tentara, ekonomi dan bantuan dari luar negaranya dengan diplomasi yang sudah terkenal itu. Apabila dorongan (shock) itu yang pertama bisa ditahannya, maka pastilah pada akhirnya Inggris akan menang. Hal ini terjadi terhadap Napoleon dan perang dunia I dan ke II. Muslihat mundur-maju itu dengan jaya ratusan tahun lampau dijalankan oleh Roma terhadap serangan Carthago di bawah pimpinan Hannibal yang termasyhur itu. Muslihat itu membutuhkan tempo yang lama.
+
+Ringkasnya Hitler perlu tempo sedikit. Inggris mau main lama. Makin lama ditunggu makin baik buat Inggris karena letaknya di seberang laut.
+
+Industrinya bisa dirubah menjadi industri perang. Para diplomatnya yang ulung bisa dikerahkan buat mencari kawan.
+
+Kawan itu lebih mudah didapat, karena kebanyakan negara sudah tergabung pada Volkenbond. Dalam Volkenbond ini Inggrislah yang memainkan biola dengan suara paling tinggi.
+
+Buat Jerman Nazi, yang ingin mendapatkan putusan cepat di medan peperangan., perlulah ditilik kekuatan Volkenbond itu. Hitler dan Jerman Nazi sudah saksikan bagaimana lemahnya Volkenbond terhadap Jepang ceroboh mencaplok Manchuria. Lemah pula terhadap Mussolini, yang merampas Abessinia.
+
+Jaya atau gagalnya Volkendbond itu tergantung pada bisa atau tidaknya ia menjalankan hukuman (sanction) terhadap negara ceroboh. Tetapi bagaimana si Ceroboh bisa menghukum si Ceroboh? Inggris itu si Ceroboh juga! Semua jajahannya didapatnya dengan jalan ceroboh semenjak 300 tahun yang lampau. Si Ceroboh Inggris menghukum kecerobohan Jepang, Italia atau Jerman dalam hakekatnya akan berarti menghukum kecerobohan diri sendiri. Harakiri itu bukanlah sifat imperialisme Inggris. Pertentangan dalam diri sendiri, di antara para pemimpin Volkendbond itulah yang sebenarnya menghancurkan Volkendbond itu.
+
+Pertentangan itu tergambar pada pembagian dunia kapitalis-kapitalis: the haves and the have-nots. Berdiri atas pertentangan yang tak boleh didamaikan itu, maka Volkenbond itu adalah satu badan yang menunggu ajalnya saja. Pertentangan dalam Volkendbond itu memudahkan Jerman-Nazi menjalankan gerak-cepat. Dengan tidak perlu menghiraukan Volkenbond itu, maka Jerman bertindak sendiri: Polandia diserbu, perlawanannya patah dalam beberapa hari saja. Belanda melagakkan waterlini-nya, tetapi perlawanan Belanda itu tidak sampai 80 tahun. Belanda boleh berlagak bisa menukar perang 80 tahun yang selalu dibanggakannya itu menjadi perang 80 jam …. Perancis diserang …. Kalah dalam tiga minggu saja, inilah hasil muslihat gerak-cepat dan persiapan lama dan “gruadlich” (sempurna). Tetapi Jerman sendiri akan dinamakan oleh kekuatan persiapannya yang mesti grundlich itu. Dia tidak bisa menyesuaikan dirinya dengan cepat pada keadaan baru, yang tiba-tiba datangnya seperti Napoleon.
+
+Kemenangan atas Perancis, yang lasykarnya dianggap terkuat di dunia itu rupanya melewati perhitungan strategi Nazi. Kemenangan secepat itu membingungkan pemimpin militer Nazi. Dengan gerak-cepat menyerang Inggris yang lemah di masa itu, dan meninggalkan Perancis yang sebenarnya sudah menunggu knock-out saja boleh jadi Jerman bisa merobohkan Inggris. Mungkin kemudian dengan Armada Jerman, Perancis, Italia, Inggris, dan Jepang menyerbu ke Amerika yang belum siap itu. Tetapi gerak-cepat zonder “persiapan grundlich” bukanlah sifatnya strategi Jerman.
+
+Tentara Jerman akhirnya tertahan oleh Inggris, karena Inggris mendapat kesempatan 2 bulan buat bersiap. Terhambat di Inggris dan takut pada Beruang Merah, maka tentara Nazi dengan sekonyong-konyong menyerang Soviet Russia. Tentara Nazi hampir sampai ke Moskow. Di saat inilah Jepang dibujuk dengan tawaran membagi dunia “kalau” menang. Jepang juga buntu di masa itu. Mesti pilih mati perlahan-lahan disebabkan oleh gerilya Tiongkok dan pemboikotan ekonomi dari pihak ABCD atau menerkam sebelum mati. Dia pilih yang terakhir. Jepang tidak menunggu referee. Belum lagi ditiup peluit …. Armada Jepang  ………. Goal di Hawai.
+
+Begitulah keadaan internasional sampai perang dunia kedua. Kita tahu siapa kalah dan siapa menang. Sekarang sudah damai, tetapi bagaimana sifat United Nations? Apakah undang-undangnya dapat dijalankan? Apakah kita mesti menggantungkan diri kita saja kepada United Nations itu?
+
+Satu aliran di antara kita adalah bersandarkan pada kekuasaan Armada Inggris-Amerika di masa ini. Kekuasaan itu dianggap seolah-olah kekal, bulat, absolut. Saya akui kekuasaan Inggris-Amerika itu di masa ini. Tetapi sebagai satu moment dan penuh pertentangan pula. Seperti semua barang di dunia ini, kekuasaan inipun adalah relatif, bisa berubah, tidak tetap, absolut. Perhatikan sajalah perhubungan Amerika dan Inggris. Sekarang Inggris berhutang banyak. Apa Inggris mau bayar begitu saja? Sesudah perang dunia ke I Inggris ingkar membayar penuh hutangnya! Awasilah sikap Inggris terhadap hutangnya itu atau janjinya! Nyata sudah Inggris mau menjajah Indonesia langsung atau dengan perantaraan Belanda. Apakah Amerika, Tiongkok dan Rusia, apalagi Hindustan akan membiarkan Indonesia dicaplok buat memperkuat imperialisme Inggris?
+
+Siapakah di antara mereka yang menang ingin damai bisa membiarkan berdiri terus dunia “haves and Have-nots”? Ringkasnya antara Amerika dan Inggris tiadalah “koek en ei” saja, perkoncoan tulen. Begitu juga antara Inggris dan Soviet Russia. Perhatikanlah pertentangan Inggris dan Soviet di Eropa Barat di Asia Barat dan Iran. Bisakah kekal perhubungan Rusia proletaris dengan Amerika kapitalistis?
+
+Ringkasnya Indonesia tak perlu bertekuk lutut begitu saja pada kekuasaan Amerika-Inggris itu, karena semata-mata beralasan anggapan kebulatan dan ketetapan perserikatan Amerika-Inggris itu. Janganlah pula berpangku tangan mengharap-harapkan bantuan United Nations yang sekarang sesudah perang dunia ke II ini kembali menghadapi persoalan seperti sesudah perang dunia ke I: Pembagian dunia atas yang kalah dan yang menang masih ada. Pembagian atas “the haves” and haves nots” terus menerus. Hutang masih perlu dibayar oleh yang kalah. Pertanyaan akan timbul kembali: “Apakah yang kalah mesti bayar hutangnya dengan uang atau dengan barang?” Dimana pasar buat bahan dan barang hasil untuk the have-nots”? Cuma si have-nots bukan lagi 80 juta. Jerman termasuk Austria, tetapi bertambah dengan 40 juta bangsa Italia dan 70 juta bangsa Jepang. Jumlah 190 juta! Yang akan dihadapi oleh United Nations, ialah persoalan lama sebagai pusaka sistem lama, satu vicieuse cirkle, seperti “menghasta kain sarung saja”, tak putus-putusnya.
+
+Sekarang kita memandang ke Indonesia. Kita tahu bagaimana caranya Belanda mengusahakan koloninya:
+
+“God schep den Mens naar zijn evenbeeld” (Tuhan menjadikan manusia menyerupai Dirinya). Jadi sifat dan bentuknya perekonomian Belanda lebih kurang juga mempengaruhi sifat dan bentuk perekonomian Indonesia.
+
+Bermula perlu dikemukakan disini, bahwa Negara Belanda itu berdasarkan pertanian dan perdagangan. Yang dihasilkannya ialah keju, mentega dan bloemollen. Barang ini dan hasil dari Indonesia diperdagangkannya dengan Negara luar. Bukanlah negara Belanda itu satu negara perindustrian, seperti Belgia ataupun Swedia, Swiss atau Ceko Slovakia.
+
+Di stasiun Manggarai saya lihat satu lokomotip. Dari jauh kelihatan tulisan pada lokomotip tadi. Saya hampiri kelihatan tulisan “Amsterdam”. Saya tanya pada diri saya sendiri: masakan bisa pabrik Belanda mengeluarkan lokomotip. Memang disamping huruf Amsterdam tadi tertulis: “Made in Manchester”.
+
+Selanjutnya pula saya baca di-construct di Amsterdam. Cocok dengan mesin kapal atau mesin lain-lainnya "Made in Chemnitz” atau Manchester tetapi di-construct alias di pasang di negeri Belanda. Jadi Belanda cuma tukang pasang bagian mesin yang dibikin di luar negaranya.
+
+Kalau diperiksa lebih dalam maka nyatalah bahwa Belanda itu tak bisa menjadi negara Industri. Besi tak ada, minyak tak ada: Timah, Alumunium, tembaga, karet, kapas, wol, ya segala-gala tidak. Yang banyak ialah rumput dan sapi. Dengan begitu maka semangat Belanda bukanlah semangat industrialis. Semangatnya ialah semangat tani dan dagang, ialah pegadang secara pegadang tulen, pegadang kecil, bukan pula pedagang industrialis.
+
+Sebab itulah maka kalau imperialis Belanda memandang ke Indonesia maka ia mengincarkan matanya sebagai petani dan pedagang, semangat perindustrian dan kemesinan secara modern tentu tak ada dan tak bisa ada padanya. Apalagi kalau dipikir bahwa penjajah Belanda itu merasa terpaut ole penjajah Inggris 100 tahun lampau bukanlah Indonesia yang sudah direbut oleh Inggris dari Belanda itu di masa perang Napoleon dikembalikannya kepada Belanda? Bukankah pula modal Inggris banyak ditanam di Indonesia? Jadi Belanda terpaut oleh kapitalis Inggris.
+
+Berhubung dengan politik “opendeur” Belanda juga terpaut oleh Amerika. Belanda buka pintu Indonesia buat masuknya kapital asing.
+
+Tetapi dengan begitu dia sendiri bersama-sama terturut oleh kapitalisme asing itu. Belanda sudah tentu tak bisa mengadakan industri yang kiranya bertentangan dengan industri Inggris dan Amerika. Belanda sudah tentu akan dapat teguran dari Inggris, Amerika atau Industrinya Belanda yang ada di Holland sendiri.
+
+Inilah sebab kedua maka semangat perindustrian yang sudah tak ada pada Belanda itu tak pula bisa muncul kalau Belanda berada di Indonesia.
+
+Ada pula sebab yang lain yang menekan semangat perindustrian itu. Kepintaran buat membangunkan pabrik ini atau itu tentu bisa diperoleh Belanda dari luar negaranya. Sendiri atau bersama dengan orang Indonesia dia bisa pergi ke Swiss buat “mempelajari” membikin lokomotip atau Swedia mempelajari membikin mesin Diesel, Ke Belgia atau Ceko Slovakia mempelajari membikin senjata. Memang rakyat Swiss atau Swedia jauh lebih pintar dari rakyat Belanda tentangan kemesinan. Kalau Belanda malu akan kebodohannya itu dia bisa pergi lebih dahulu sebagai murid ke Swiss atau Swedia itu. Kemudian kembali diam-diam ke Indonesia berlagak menjadi gurunya si Inlander. Tetapi keberatannya nanti ada pula. Si Inlander ini seperti berbukti pada semua tingkatan sekolah, mungkin lebih pintar dari Belanda itu. Dia mungkin lebih bisa membikin rencana perindustrian atau mesin ini dan itu.
+
+Ketika monok Jepang sudah kelihatan penjajah Belanda terburu-buru mau mengadakan yang dia katakan, “industrialisasi”. Dalam hal begitu Ter Poorten sendiri di Australia mengakui bahwa pekerja Indonesia tak kurang dari pekerja manapun juga, dalam beberapa hal katanya, bahkan melebihi. Sebab pekerja Indonesia mempunyai sejarah ratusan tahun dan hatinya tetap tenang terikat pada kerjanya. Dengan pekerjaan otak dan tangan yang siap sedia semacam itu, dengan bahan yang ada melimpah di Indonesia ini, bukanlah bangsa Indonesia sendiri kelak bisa membangunkan dan ngurus perindustrian modern?
+
+Tetapi bukankah pula dengan begitu penjajah Belanda menaruh sak wasangka kelak akan jatuh sendirinya? Ratusan tahun dahulu seorang ahli politik Italia, Machiavalli yang terkenal sudah mengatakan:
+
+Barang siapa mengangkat orang lain dia sendiri merendahkan dirinya. Pepatah semacam ini memang benar kalau dipandang dengan mata miring dan hati sempit! Bagaimana juga pepatah ini cocok dengan semangat Belanda yang terkenal ialah semangat “kruindenier”, tauke kecil!
+
+Lantaran tiga sebab tersebut di ataslah maka Indonesia sesudah 350 tahun diperintahi Belanda tetap tinggal satu jajahan berdasarkan pertanian belaka. Kita ulang lagi: pertama sebab semangatnya penjajah Belanda sendiri, bukanlah semangat industrialis, kedua takut dimarahi boss-nya ialah Inggris-Amerika dan ketiga karena momok Machiavelli tadi, ialah takut nanti disingkirkan oleh rakyat Indonesia tadi.
+
+Dicocokkan dengan keadaan Belanda sendiri, perekonomian dan semangatnya Belanda sendiri, disesuaikan dengan bumi iklim Indonesia sendiri memangnya pertanianlah yang oleh imperialisme Belanda mesti dijadikan sendi perekonomian Indonesia. Disana sini bisa dibangunkan tambang ini atau itu asal saja kelak jangan bertentangan dengan keperluan boss-nya Belanda di London atau New York.
+
+Tambang minyak tanah itu asal dikuasai atau diawasi oleh Amerika-Inggris tiadalah berkeberatan.
+
+Tambang timah, emas, bauxit dan arang, asal tinggal tambang saja tak mengandung bahaya pada Inggris-Amerika. Asal saja musuhnya Inggris-Amerika itu seperti kapitalisme Jerman, Jepang bisa disingkirkan.
+
+Perhatian Belanda dipusatkan kepada pertanian. Pertanian ini dibikin secara modern dan besar-besaran. Kebun dan pabrik teh, kopi, gula, kina, getah dan sebagainya, sudah amat dikenal di seluruh dunia. Hasilnya membanjiri dunia dan untungnyapun membanjiri kantongnya kapitalis Belanda yang tinggal lebih dari 10.000 km jaraknya itu. Untung, dividen dan bunga buat si Kapitalis, gaji ongkos perlop dan pensiun buat bujangnya kapitalis, alias “bestuur-ambtenaaren” dan pentolnya si Kapitalis berupa polisi dan serdadu masyhur besarnya di pelosok dunia ini.
+
+Dibandingkan dengan gajinya Presiden Amerika yang terkaya itu apalagi dengan gajinya satu menteri Jepang, maka gajinya G.G. Indonesia adalah “omgekeerd evenredig” (perbandingan berbalik) dengan jasanya terhadap rakyat. F 450.000.000 se tahun mengalir kekantongnya Belanda buat diperbungakan di luar negara Belanda, seperti Amerika dan ……. Jerman Nazi.
+
+Landbouw-industrilah puncak kesanggupan imperialisme Belanda di Indonesia ini. Mudah menyelenggarakan penghasilan semacam itu. Besar pula untungnya. Sesudah itu tiga bulan saja tebu itu sudah boleh dipotong dan digiling. Hasilnya dikirim ke semua pelosok dunia dengan perantaraan Bank, perkapalan atau asuransi Belanda. Cocok dengan semangat tani dan saudagar yang ada pada Belanda. Sisanya dimakan sendiri!
+
+Satu perkataan yang menggelikan seorang Amerika, ialah perkataan "rijsttafel". Kata si Amerika tadi, pertanyaan yang penting buat seorang Belanda di Indonesia ialah “heb je al gerijstaafeld”? Si Amerika tadi sudah pernah diundang buat satu “rijttafel” yang mengatasi semua kemewahan.
+
+Daftar makanan yang panjang, meja yang penuh berupa jenis makanan dan minuman, leret jongos yang panjang pula buat melayani, lebih menggelikan si Amerika tadi dari pada menggembirakan. Pada kemewahan dalam makanan inilah si Amerika tadi mendapatkan pecahan soal yang sudah lama tercantum dalam hatinya. Soal itu ialah: Dari mana timbulnya “stille kracht” di antara Belanda sendiri? Si Amerika tadi berpendapat, bahwa kalau orang makan terlampau banyak, maka kupingnya bisa ngelamun mendengarkan yang tidak-tidak. Tidrunya bermimpikan hantu atau setan.
+
+Seperti si Imperialis Inggris “membunuh” temponya dengan main golf, maka si penjajah Belanda menghabiskan waktunya dengan ‘rijsttafel”. Sesudah melayani bermacam-macam hidangan dari sop sampai opor, maka ia berhadapan dengan berjenis-jenis buah-buahan. Apabila sedikit sudah jauh malam, maka sampailah temponya buat si Bediende menghidangkan teh, kopi, bier, sampai schiedammer-nya. Kecuali “Schiedammer” semuanya bisa dibikin di Indonesia. Pabrik schiedammer pun tak usah didirikan!
+
+Meninjau kita ke persiapan bahan di Indonesia. Menurut pemeriksaan Ir. Abendanon, di waktu perang dunia ke I, maka Sulawesi Tengah banyak mengandung besi. Pun pulau Kalimantan sebelah Timur begitu juga. Logam campuran seperti timah, aluminium dan bauxit banyak sekali didapat. Kwaliteitnya tinggi pula. Ir. Abendanon membandingkan besi Sulawesi dan Kalimantan tadi dengan besi di Philipina dan Cuba yang kesohor itu. Kemenangan banyak terletak pada besi Indonesia itu. Buat kodrat pergerakan di Sulawesi bisa dipakai listrik air mancur yang turun dari Danau Towuti. Buat Kalimantan kodrat penggerak itu boleh ditimbulkan dari arang yang luar biasa banyaknya di dekat tanah logam besi itu. Pekerja mudah pula didatangkan dari Jawa.
+
+Jadi menurut persiapan bahan dan tenaga yang ada di Indonesia, maka sepatutnyalah Indonesia mempunyai perindustrian berat dan enteng.
+
+Cuma tempo yang dibutuhkan buat pelajaran dan pengalaman. Kalau Amerika bisa melebur “Majola steel” dari logam-besi yang diperolehnya di Kuba, kenapa Indonesia tak sanggup mengeluarkan “Towuti steel”? Kalau Amerika mengeluarkan “Ford motor” dan lain-lain kenapa Indonesia tak akan bisa mengeluarkan “Soetomo-Motor”, umpamanya? Cuma tempo yang dibutuhkan dan ….. kesempatan! Kesempatan tempo itulah yang tidak bisa diizinkan kepada rakyat Indonesia. Oleh penjajah Belanda tidak, karena semangatnya dan kesanggupannya tak ada. Lagi pula karena takutnya sama momok Machiavelli, dan takutnya pada boss-nya Inggris-Amerika. Inggris akan marah, karena takut besi manchester atau Baja Sheffildnya akan mendapat persaingan besar dari besi-baja Indonesia.
+
+Amerika akan melotot matanya sebab Majola-steelnya akan mendapat persaingan hebat dari Towuti-steel tadi. Ford-motornya lambat laun akan mati kutu oleh “Soetomo-motor” yang mendapatkan bahan melimpah-ruah di Indonesia ini, seperti besi, alumunium, timah dan …. getah. Selainnya dari pada itu tenaga yang murah, cakap dan rajin tak sering mogok, kodrat penggerak yang dekat dan murah ialah bensin. Di lenakkan oleh “rijstafel” dan ditakuti oleh “boss” Inggris-Amerika tak mengherankan, kalau besi Indonesia tinggal terpendam saja. Tak pula mengherankan kita akan kebodohan bangsa asing menghasilkannya, ialah bensin karena katanya “waardeloos”, tak berharga. Bensin yang berharga sekali buat penerbangan yang terutama didapat di Palembang itu, lama sekali terpendam dan perusahaan minyak tanah di sekitar bensin itupun tak bisa diusahakan “van wege de waardeloze benzine” tadi itulah.
+
+Camkanlah “kebodohan” imperialisme Belanda itu! Kita memang tidak ingin menghina. Perkataan itu tidak akan kita keluarkan dari mulut kita, kalau tidak mengenal hidup dan keamanan kita yang 70 juta. Belanda yang katanya merasa mempunyai ikhlas, mesti lebih dahulu mengadakan zelf-corektie.
+
+Selainnya, dari pada keinginan hendak memajukan rakyat Indonesia itu, Belanda pemimpin Indonesia itu, haruslah lebih dahulu memeriksa kesanggupannya buat memimpin itu. Bukankah satu pemimpin itu yang pertama sekali mesti mempunyai sifat “verzienheid” ialah kesanggupan memandang ke depan. Dengan begitu bisa mengadakan payung sebelum hujan. 8 Maret 1942 memberi bukti senyata-nyatanya bahwa sifat itu sama sekali tak ada pada pemimpin Belanda.
+
+Apakah pengalaman 350 tahun belum cukup lagi buat kita rakyat Indonesia yang 70 juta ini akan sekali lagi diserahkan kepada macan kalah, kelak akan kembali dipimpin oleh “kruidenier” dari Belanda?
+
+Bagaimanakah keadaan perekonomian bumi-putera di Indonesia? Buat mendalamkan arti penerangan kita marilah sebentar kita menengok ke luar Indonesia ke Hindustan umpamanya.
+
+Walaupun imperialisme Inggris sudah kita kenal rakus dan galak, tetapi namun perindustrian bumi-putera di Hindustan bisa juga timbul tumbuh. Maskapai bumi-putera yang terkenal ialah Maskapai-Tata di Hindustan, sudah cukup mendalam dan meluas, sudah cukup terpusat.
+
+Maskapai-Tata di Hindustan, mempunyai tambang arang dan tambang besi sendiri. Dia sudah bisa membikin baja dan besi. Malah sudah bisa membikin kereta dan mesin. Maskapai Tata juga meliputi perusahaan listerik di seluruh Hindustan. Semua perusahaan sudah dipusatkan pada Bank-Tata yang kokoh kuat.
+
+Pendeknya perindustrian bumi-putera sudah sampai ke tingkat yang tinggi sekali, sudah nasional cocok dengan aliran zaman.
+
+Tetapi bagaimanakah keadaan perindustrian bumi putera Indonesia?
+
+Kita di Indonesia sudah bangga dengan pabrik rokok kretek. Memang pabrik rokok kretek itu sudah mempunyai modal besar. Pekerjanya sudah sampai ribuan. Pabrik rokok itu baik buat mengepul-ngepulkan asap ke udara. Tetapi letaknya terpencar-pencar belum disatukan oleh Bank Nasional. Pabrik atau perindustrian bumi-putera yang meliputi seluruhnya Indonesia, seperti Maskapai Tata di Hindustan itu belum kelihatan tunasnya.
+
+Semangat kapitalis bumi-putera juga bukan semangat kapitalis modern. Untung yang diperoleh itu tiadalah selalu terus-menerus, melainkan ditukarkan dengan emas atau perak.
+
+Rupanya kapitalis kita belum berapa bedanya dengan kapitalis yang lokek-kedekut. Kita ingat akan ceritanya seorang lokek-kedekut itu, bernama harpagen, karangan kokiere yang terkenal itu. Seperti si Harpagen itu kapitalis kita mengumpul-ngumpulkan emas atau perak. Malam hari dalam waktu sunyi dideringkannya emas itu ke telinganya. Inilah rupanya kesenangannya ialah mendengarkan deringan uang emas di telinganya.
+
+Matanya dilipurnya dengan uang perak atau tembaga yang ditempelkannya ke dinding atau rumahnya. Memajukan perindustrian itu supaya sampai ke industri berat dan nasional, belumlah termasuk ke dalam sikap dan tindakannya kapitalis bumi-putera.
+
+Memang susah buat membangunkan perindustrian bumi-putera di abad ke 20 ini. Kerajinan setingkat manifactur, seperti berada di pintu gerbangnya zaman industri di Eropa, seperti kerajinan pertenunan, pemintalan, pembikin perkakas dan senjata, pembikin alat rumah dan sebagainya terlanjur lenyap disaingi oleh barang hasil pabrik Eropa selama penjajahan Belanda.
+
+Perkapalan bumi-putera Indonesia itu mati terpukul oleh politik monopolinya imperialisme. Sedikit sekali sisa perekonomian yang berarti modal dan majikan yang bsia menahan tamparan. Imperialisme yang berupa monopoli, kulturstelsel dan vrijhandel itu. Sisa itu tak cukup kuat buat bangun kembali di abad ke 20 melawan kapitalisme modern. Maka kapitalisme modern ini sudah terpusat pada Badan seperti syndicaat dan ondernemersbond. Keduanya mendapat tunjangan politik yang sepenuhnya dari semua Departemen pemerintah Belanda di Jakarta dan dari sarang Birokrasi yang terkenal bersama Algemene Secretaris.
+
+Borjuis berupa kapitalis aktif, modern, memang belum ada di Indonesia! Hal ini merugikan tetapi ada pula menguntungkan kita. Karena tak ada kelas-tengah yang kuat maka Murba Indonesia tak banyak mendapat rintangan buat mengadakan “tindakan-sosialis”. Keadaan ini tak berapa bedanya dengan keadaan di Russia sebelumnya Revolusi Bolsyewik. Kaum tengah Russia tak berdaya melawan persatuan buruh dan tani yang sangat revolusioner tersusun dan terdisiplin itu.
+
+Lantaran tak ada perindustrian bumi-putera yang modern serta kokoh kuat itu, maka intelligensia Indonesia selalu saja diombang-ambingkan oleh haluan radikal atau moderate, revolusioner atau evolusioner, keras atau lembek, coorperasi atau non-coorperasi. Lebih dari 20 tahun lampau haluan terpelajar kita yang terombang ambing itu sudah saya peringatkan.
+
+Saya sudah peringatkan pula dalam beberapa brosure bahwa baik politik cooperasi atau non-cooperasi di Indonesia kita ini niscaya akan gagal.
+
+Memang di Hindustan haluan non-cooperasi bisa sedikit membawa hasil. Pemboikotan barang pabrik Inggris yang dimasukkan ke Hindustan itu bisa dilaksanakan. Karena Bombay dan Ahmedabad bisa mengadakan sebagian dari barang yang dibutuhkan oleh Rakyat Hindustan yang hampir 400 juta itu:
+
+Kain umpamanya. Perusahaan memintal benang dan menenun kain yang dilakukan di rumah atas anjuran Kongres itu, bisa memenuhi sebagian dari yang kurang. Jadi pemboikotan barang Inggris itu memang menguntungkan perusahaan bumi-putera yang sudah tinggi derajatnya itu.
+
+Karena itu tiadalah mengherankan kalau Kongres Hindustan mendapat sokongan uang dan politik dari Hartawan Hindustan.
+
+Bukanlah begitu keadaan di Indonesia. Tingkat perindustrian bumi-putera dan persatuan di antara kaum-tengah Indonesia belum cukup kuat buat mengadakan pemboikotan terhadap perindustrian Barat di Indonesia yang sudah sampai ke tingkat monopoli dan trust yang modern yang bersifat Internasional pula. Kapiltaisme asing di Indonesia sudah mempunyai organisasi seperti Suikersyndicaat, BPM, Ondernemersbond dan sebagainya. Semuanya badan yang bersifat monopoli ini mempunyai pengaruh yang besar sekali atas haluan dan jalannya politik jajahan di Indonesia. Tak mungkin perindustrian tengah bumi-putera yang cerai-berai itu yang dipimpin oleh intelligensia yang serba bimbang itu bisa melawan trust dan monopoli asing yang mendapat bantuan penuh dari birokrasi jajahan pula.
+
+Haluan non-cooperasi di Indonesia itu juga tak pernah bisa mengadakan aksi seperti pemboikotan Tiongkok atau non-cooperasi di Hindustan.
+
+Begitu juga hasil pekerjaan cooperasi di Volksraad tak ada sama sekali. Tak ada hasil yang nyata (positif) yang direbut oleh wakil bumi-putera dalam Volksraad itu. Dalam politik, ekonomi dan sosial Indonesia sebagai jajahan belum lagi sampai ke tingkat yang paling bawah. Di antara 61 anggota itu cuma dua tiga anggota bumi-putera yang betul-betul mewakili rakyat.
+
+Seandainya 61 anggota itu semuanya bumi-putera, mereka tak akan bisa membikin undang-undang yang merugikan kapital internasional di Indonesia.
+
+Seandainya mereka bisa membikin undang-undang mereka tak pula akan diizinkan oleh kapital internasional menjalankan undang-undang yang merugikan kapital internasional itu. Di belakang Volksraad berada tentara Belanda. Di belakang tentara Belanda ada pula bantuan kapital internasional tadi. Tetapi Volksradd sama sekali belum sampai ke tingkat mempunyai 100% wakil rakyat Indonesia atau berhak membikin Undang-undang apalagi menjalankan undang-undang yang semata-mata menguntungkan rakyat Indonesia. Volksraad, sampai Belanda bertekuk lutut kepada Jepang cuma mempunyai hak buat memberi nasehat saja.
+
+Nasehat itu biasanya ditaruh di bawah telapak sepatunya kapitalis Belanda. Borjuis Indonesia yang sebagian mengandung kekuatan bukanlah borjuis industri ataupun dagang, melainkan borjuis ambtenaar. Borjuis ambtnaar ini adalah borjuis “oleh” Belanda dan “untuk” Belanda. Mereka dididik dalam sekolah istimewa, yang kita kenal dengan nama MOSVIA. Untuk undang-undang yang mereka mesti pelajari dan hafalkan buat dijalankan dengan tak boleh banyak “rewel” ialah undang-undang yang melindungi kepentingan kapitalis Belanda dan saudara tuanya, Inggris, Amerika. Dididik saja tentu belum cukup buat membikin, menggodok dan memasak B.B Ambtenaar yang kita kenal.
+
+Mereka mesti mempunyai dasar sosial yang kokoh. Dasar itu ialah keningratan. Kaum ningrat, yang di zaman Indonesia Merdeka bekerja pada raja di dalam jajahan Belanda diterima sebagai pegawai penungkat jajahan itu. Mereka yang sudah berpengalaman banyak tentangan pimpin-memimpin, dan gertak-menggertak bangsanya sendiri, ialah “orang kecil” oleh Belanda dipakai buat keperluan Belanda. Mereka dipakai sebagai tengkulak antara imperialis Belanda dengan Rakyat Indonesia.
+
+Karena tak ada perindustrian bumi-putera yang kuat buat tempat bersandarnya kaum intelligensia kita, maka mereka ini bimbang terus-menerus di antara Rakyat Murba yang bersifat radikal itu dan yang berkuasa disini. Umpamanya mereka betul tidak senang di bawah perintahnya bangsa asing. Pergerakan nasionalisme di seluruh Asia membangunkan paham nasionalisme yang teguh di kalangan mereka. Tetapi mereka curiga saja akan kekuatan dan hasrat murba yang sebenarnya. Mereka enggan mencemplungkan diri ke dalam Murba.
+
+Apabila tentara Jepang masuk maka dengan tak sangsi lagi sebagian mereka tampil bernaung ke bawah bendera imperialisme Jepang. Imperialisme Jepang dengan cerdik licik selangkah demi selangkah menarik kaum intelligensia ke bawah telapak pengabdian baru; berkerek ke Tokyo.
+
+Kepulauan Jepang amat miskin dalam hal semua bahan yang penting buat industri modern. Tanah-logamnya besi diambil di Malaka dan diangkut ke Jepang. Di sana tanah logam tadi dilebur menjadi besi dan di tempa menjadi baja. Seterusnya dibikin menjadi mesin minyak tanah dibeli dari luar Negara pula. Arang, timah, getah, makanan dan lain-lain didatangkan dari dan mesti dibeli di luar Negara. Buat pembeli Jepang mesti menjual barang, ialah hasil-pabrik. Tetapi kalau sebentar saja terganggu pesawatnya jual-beli itu maka terganggulah pula seluruhnya perekonomian Jepang.
+
+Maka demikianlah timbulnya hasrat segolongan Rakyat Jepang buat memonopoli pasar di luar Jepang terutama di Asia. Pada keadaan beginilah beruratnya imperialisme Jepang. Dengan menguasai Mancuria lebih dahulu, kelak Jepang berharap bisa menguasai Tiongkok Utara, Tengah, Selatan, Indonesia, Hindustan berturut-turut. Dengan menguasai Asia, Jepang dan Amerika berturut-turut.
+
+Pengikut rencana “si Cebol hendak mencapai bulan ini” tidak saja berada di Jepang tetapi juga di luarnya.
+
+Kepercayaan istimewa pada diri sendiri itu adalah berurat dalam pada masyarakat dan kepercayaan Jepang.
+
+Rakyat Jepang kecuali beberapa orang masih percaya pada dongeng yang tingginya sederajat dengan dongeng Indonesia sebelum Islam. Katanya ada dua Dewa laki istri yang membentuk dan menguasai Jepang ialah Dewa Izatagi-O-Mikoto dan Izanagi-O-Mikoto. Seorang dari turunannya itu ialah Amaterasu-O-Mikami menguasai Matahari. Salah seorang turunannya, bernama Jimmu turun dari matahari ke kepulauan Jepang. Tiadalah dibilangkan dengan apa dia turun. Tetapi Rakyat Jepang, ialah turunan Dewa pula (kecuali beberapa orang) percaya, bahwa Maharaja Jepang yang dianggap Tuhan itu, ialah turunan Dewa Amaterasu tadi. Sebagai Tuhan, maka dia, yang oleh “umatnya” di Indonesia biasa ditulis dengan huruf besar, menguasai bumi dan langit, menguasai politik Rakyat Jepang dan strategi Tentara Jepang.
+
+Tentara ini ialah tentara Maharaja Tuhan Jepang dan tak bisa kalah. Karena memangnya tentara itu kepunyaan Tuhan Yang Maha Kuasa, yang belum pernah kalah, dan belum pernah terputus kekuasannya semenjak 2600 tahun …. Katanya sebelum kalah!
+
+Kepercayaan bulat-buta terhadap seorang manusia yang laku di Jepang, sebagai hasilnya masyarakat dan sejarah Jepang tentulah tak begitu saja bisa disuruh telan bulat-bulat kepada Rakyat Islam di Indonesia, yang sudah nasionalisme pula. Tentara Jepang yang menyerbu ke Indonesia perlu memakai “catch-words” sebagai semboyan pemancing. Berhubung dengan itu kita sering dengar perkataan “bushido” Ksatria, “Hakko Ichiu”, keluarga sedunia dan lain-lain buat kemakmuran bersama di Asia Timur Raya.
+
+Ketika saya di Singapura tanggal 8 bulan 12, tahun 1941, belum lagi wasit membunyikan peluitnya tentara Jepang tiba-tiba menyerang Inggris di Malaya dan …. Goal! Ini artinya bushido ialah “mencido” alias berkhianat. Kalau Jepang berkenalan dengan orang lain maka dia ucapkan, "haijimete o meni nakarimasu". Artinya kira-kira "saya memperamati wajah tan hamba sambil melayang di udara". Biasanya diucapkan dengan muka tersenyum. Tetapi kakinya si Jepang tadi siap buat menyewet kaki kenalannya tadi, apalagi kalau si Kenalan tadi ialah seorang “genjumin bagero”. Benar pula kalau si Kenalan tadi sudah terlentang, karena bushidonya si Jepang, maka si Jepang memang berada tinggi di udara memperamati kekayaan si Indonesia yang sudah jatuh terlentang tadi. Berapa banyaknya pelayan yang jadi mangsanya politik sekeluarga dunia. Tentara Jepang perlu heiho Indonesia, kempei-ho Indonesia dan lain-lain. Mereka perlu buat pembantu tentara Jepang di luar Indonesia, dan kelak sehabis perang alias musuh Jepang di dalam Indonesia. Semua “ho” alias pembantu itu lebih “bagus” kalau dididik dari kecil.
+
+Lebih “bagus” pula kalau anak didikan itu mempunyai darah “Yamato”, ialah keturunan Jepang. Entah berapa ribu banyaknya tentara Jepang memperoleh “turunan” di Indonesia selama dia berada di Indonesia.
+
+Buat melakukan kemakmuran bersama dalam Asia Timur Raya itu dari Putera, ke Hokookai dan akhirnya ke “janji” Merdeka di kelak di kemudian hari.
+
+Kemerdekaan itu ialah buat “kelak kemudian” hari. Kemerdekaan itu berbahaya buat Jepang, kalau Indonesia yang kaya-raya dalam hal bahan dan tenaga itu betul bahan yang ada di tanah dan lautnya, sudahlah tentu barang yang dibikin di Jepang dari bahan yang mesti didatangkan dari jauh itu akan lebih mahal dari barang dibikin di Indonesia. Kalau Pemerintah Indonesia betul pula nasionalistis bisa kehilangan Indonesia. Apa yang ditakutkan Belanda terhadap Indonesia akan ditakuti pula oleh Jepang. Karena itu Indonesia mesti dikebiri lebih dahulu. Ilmu dan teknik Indonesia mesti perpuncak dari Jepang Tenno “kecil” Indonesia mesti menyembah ke Tokio.
+
+Perkara ilmu dan teknik mudah diselenggarakan. “Csamu Seire” sebegini-begitu bisa membentuk didikan yang dicocoki oleh tentara Jepang. Dua tiga orang Kempei-Tai bisa menjaga supaya undang-undang Jepang itu dijalankan. Tenno kecil-pun mudah dibikin. Tetapi yang tiada mudah ialah menimbulkan rasa takut-cinta terhadap Tenno Indonesia dan Tenno Jepang. Apalagi kalau dipikirkan, bahwa Islam adalah bertentangan dengan kepercayaan Jepang itu dan sudah mendalam di Indonesia ini. Semua didikan dan sistem pelajaran mesti lebih lama berlaku, umpamanya satu-turunan 20 atau 25 tahun.
+
+Tetapi apakah bisa tentara Jepang menunggu 20 atau 25 tahun ini?
+
+Di salah satu tempat bersembunyi dekat Jakarta saya coba dengan bisik-bisik dan dengan kiasan pula menerangkan bahwa, kalau Jepang tak bisa hancurkan Amerika sebelum hasil industri Amerika memuncak, ialah di pertengahan tahun 1944, maka Jepang sendiri akan hancur. Pada masa itu Jepang paling banyak bisa menghasilkan 1000 pesawat terbang dalam sebulan, sedangkan Amerika saja sudah 100.000. Walaupun yang berbisik itu bukan memakai nama Tan Malaka, tetapi Sang Polisi datang juga menggeledah rumah dan barang saya. Begitulah lemahnya Jepang dalam perindustrian! Tak mengherankan ketakutan Jepang atas kebenaran tentang kekuatannya yang sebenarnya. Sang Tempo adalah musuh besarnya Jepang. Makin lama berperang makin baik buat musuhnya dan makin celaka buat dirinya sendiri. Dia tergesa-gesa dalam segala-gala. Belum lagi wasit meniupkan puputnya, dia mesti menyerbu. Akhirnya belum lagi tenno-kecilnya, sistem sosial, ekonomi dan kebudayaannya siap di Indonesia, dia sudah disuruh oleh Sekutu bersiap meniggalkan Indonesia.
+
+Tahun yang lalu, 14 Agustus, Jepang menyerah. Indonesia masih dikangkangi Tentara Jepang. Tetapi mulutnya Tentara Jepang sudah disumbat dan tangannya dibelenggu. Sekutu yang mau menduduki Indonesia belum tiba katanya, sebagai penerima warisan perang, pada waktu ini atas dorongan Rakyat dan Pemuda Indonesia, Republik ditabalkan.
+
+Rakyat Indonesia berhak penuh atas kemerdekaannya baik menurut teori atau prakteknya Negara sopan di seluruh dunia ini.
+
+Rakyat Indonesia tak perlu sangai akan hak kemerdekaan itu. Hak itu ialah hak-alam, hak yang diwarisi, oleh Rakyat Indonesia dari Alam Indonesia, ialah geboorte-recht, birthright.
+
+Kemerdekaan itu mestinya 100 %. Baru bisa kelak Indonesia merdeka mengambil semua tindakan yang bisa memperlindungi kemakmuran dirinya dari serangan asing. Baru kelak Indonesia Merdeka bisa mengadakan kemakmuran yang cocok dengan bahan dan tenaganya serta kebudayaan yang cocok dengan jiwanya. Turunan yang sekarang mendapat kesempatan buat mempertahankan kemerdekaan 100 % itu.
+
+Janganlah hendaknya kita gagal mempertahankan kemerdekaan 100 % itu.
+
+Marilah kita bersiap menjaga, supaya kita jangan di dorong kembali kepada status yang bukan merdeka 100 %. Dengan hasrat dan kemauan merdeka 100 % itulah hendaknya kita menghadapi maksud dan tipu muslihatnya musuh kita yang gagas dan licik ular itu. Di kiri kanan kita sekarang mendengar desas-desusnya cadangan automnomie terhadap pemerintah Republik. Usul semacam ini bisa cocok kalau kita dalam hakekatnya masih mengakui, bahwa Belanda berhak atas dunia, seperti seorang Tuan di jaman purbakala berhak atas seorang budak belian. Usul semacam itu sama sekali bertentangan dengan arti tulisan dari lisan lahir dan batin Republik Indonesia yang berdiri semenjak 17 Agustus 1945 itu. Usul semacam itu sama sekali tidak cocok lagi dengan kemauan 70 juta rakyat Indonesia.
+
+Kalau seandainya usul autonomie itu diterima maka kita akan berada kembali dalam sebelum penjajah Belanda lari ketika melihat tentara Jepang. K.P.M Syndicat ini dan itu, serta ondernemersbond akan kembali berurat-berakar disini.
+
+Kapital asing akan lebih merajalela disini. Mungkin semua kapital asing akan bersatu menghadapi rakyat Indonesia dan menekan serta menghisap rakyat Indonesia. Tetapi mungkin pula kapital asing akan berpisah mengadakan “Invloedsfeer”, daerah pengaruh masing-masing. Hal ini akan lebih mencelakakan Indonesia yang rakyatnya lebih miskin dari sudah-sudah itu. Indonesia yang berdiri dari ratusan pulau itu, oleh politik “Invloedsfeer” itu mungkin akan lebih berpecah-belah dari yang sudah-sudah. Keadaan di Tiongkok sebelum perang dunia ini akan seperti surga kalau dibandingkan dengan neraka ciptaan autonomie itu. Autonomie itu boleh jadi berupa Commenwealth atau gemenebest tetapi akibatnya buat rakyat Indonesia tentulah “Gemenepest”.
+
+Janganlah Indonesia autonomie berharap akan bisa menimbulkan perindustrian yang akan sanggup mengadakan kemakmuran yang berbahagia buat rakyat jelata dan kelak bisa mengadakan perlawanan terhadap serangan dari luar, “Indonesia autonomie” itu tetap akan tinggal Indonesia miskin buat “Murba” dan “Indonesia bulan-bulanan buat imperialisme asing”.  
+
+Rakyat Indonesia mesti tolak semua cadangan yang berarti autonomie, commonwealth, Dominion, Free State itu. Rakyat Indonesia tak boleh membiarkan pemerintahannya berunding atas dasar yang kurang dari “Merdeka 100 %” itu. Tetapi ada pula mereka yang bertanya: Apakah kita bisa Merdeka 100 %? Lihatlah pesawat terbang Inggris! Lihatlah kapal perang serta tank raksasanya? Jawab kita: Lihatlah akibatnya “Bambu runcing”, berapa senapan, pelor, tommygun, meriam, tank, bahkan kapal perang dan pesawat terbang yang direbut dengan bambu runcing. Bambu runcing dan alat perang yang semulanya direbut dengan bambu runcing itulah yang menahan Inggris, Nica di kota Surabaya.
+
+Bambu runcing mengusir Inggris, Gurkha, Nica dan Jepang dari Magelang dan mendesak ke Semarang. Bambu runcinglah pada akhirnya yang memberi kesempatan rakyat di garis belakang. Bambu runcing itulah pula yang memberi kesempatan kepada rakyat Indonesia memikirkan membikin senjata baru modern atau membelinya dari pihak manapun juga.
+
+Kata si Lemas tulang punggung yang tak mau kalah berjuang dengan lidah itu pula. “Lihatlah rakyat kita yang terlantar atau mati karena menentang Inggris itu!”
+
+Jawab kita: “Sebab niat “menjajah kembali” dari pihak Nica itulah kita sudah puluhan ribu rakyat dan pahlawan kita mati”.
+
+Sebab penjajah Jepanglah maka antara tiga empat juta rakyat Indonesia melayang jiwanya sebagai romusha dan heiho. Sekarang kita mau tanya pula: Apakah kita sesudah pengorbanan lebih kurang 4 juta dalam belum lagi 4 tahun itu, kita mau kembali dijajah lagi. Kembali lagi miskin melarat, hilang lenyap dan segala kelemahan pula kelak menghadapi kemungkinan pernag dunia ketiga.
+
+Si Lemas tulang punggung memang banyak alasannya. Dia lari lagi kepada United Nations. Katanya Inggris ini disuruh ke Indonesia oleh United Nations itu. Tanya kita pula: Apakah kita masih takluk pada putusan satu badan yang tiada mendengarkan suara kita dan menerima ataupun meminta wakil kita? Apakah kita mesti begitu saja ikut putusan yang diambil buat kita, tetapi tidak degan kita (Overens, maar zonder ons)?
+
+Kalau perlu kita tak akan menghiraukan putusan United Nations itu, kalau ia kembali bersifat Volkenbond, ialah perserikatan kaum penjajah yang mau menetapkan penjajahan!
+
+Si Lemas tulang punggung tak mau tahu akan hasilnya diplomasi bambu runcing yang sudah dijalankan oleh Rakyat Murba lebih kurang tiga bulan ini. Siapakah akan mengira bahwa perkara Kemerdekaan Indonesia Rakyat Amerika memaksa majelis rendah dan tingginya mengambil sikap yang pasti ? Mencela Inggris dan Belanda mengadakan paksaan terhadap Indonesia Merdeka?
+
+Pemerintah, tentara, rakyat dan terutama buruh Australia tetangga kita yang arif-bijaksana serta mulia itu membantu kita baikpun lahir ataupun batin.
+
+Pemerintah Ceylon terus terang mengakui Republik kita dan menunjukkan simpatinya terhadap perjuangan Kemerdekaan kita.
+
+Para pemimpin Hindustan dan Arab, Birma dan Philipina tak pula segan-segan memperlihatkan persetujuan dengan Republik Indonesia.
+
+Buruh Inggris dan Belanda sedang bergerak menentang politik Imperialisme yang dilakukan oleh pemerintahnya. Persoalan Indonesia adalah persoalan yang amat penting dalam politiknya pemerintah Inggris dan Belanda.
+
+Di atas segala-gala, adalah sikap Tiongkok dan Rusia, dua Republik terbesar dan muda remaja membantu dengan terang-terangan kemerdekaan Indonesia yang muda remaja yang sedang berjuang dengan gagah-perkasa menghadapi musuh yang berpengalaman dan bersenjata modern dan lengkap itu.
+
+Tak mengherankan kalau persoalan pengakuan atas Kemerdekaan Indonesia itu pada masa ini adalah satu persoalan yang hangat di kalangan pemerintah negara besar di dunia ini, di kalangan rakyat Murba di Asia dan Afrika serta di kalangan buruh di dunia.
+
+Semua perhatian dunia itu ialah akibatnya diplomasi bambu runcing.
+
+Tetapi lebih dari siapa saja kami juga insyaf akan kelemahan kita sendiri.
+
+Kami tahu akan pertentangan malah percekcokan antara satu kumpulan rakyat dengan satu kumpulan rakyat yang lain, satu isme dan isme yang lain.
+
+Kejadian pada masa ini di daerah pekalongan yang kabarnya sudah menjalar ke Cirebon dan ke periangan Timur amat mengerikan kami. Kami juga ngeri melihat perbedaan kemauan rakyat dan kemauan Pemerintah. Lebih mengerikan pula tindakan yang diambil oleh tentara keamanan rakyat terhadap rakyat yang sebenarnya berkorban terus membela Republik, seperti di Jawa Barat dan lain tempat.
+
+Berhubung dengan semuanya percekcokan dan kekalutan ini pada pihak kita, dan ketetapan hati musuh menjajah kita kembali, maka kami tergopoh-gopoh mengusulkan “PERSATUAN PERJUANGAN” ini. Bukan persatuan buat merebut kursi Parlemen dan mencari pangkat, melainkan persatuan yang berdasarkan perjuangan mempertahankan Kemerdekaan 100 %. Persatuan bersendi atas “MINIMUM PROGRAM” yang kelak akan dibentangkan ………
+
+Kita sedang memperjuangkan Kemerdekaan kita, Suara berjuang inilah yang sekarang mendengung ke luar negara!
+
+Dahulu dunia luar mengenal kita orang Indonesia sebagai seorang bercawat dengan panah duduk di bawah pohon kelapa. Inilah gambarnya bangsa Indonesia di mata orang Eropa dan Amerika. Di mata mereka tercantum bangsa Indonesia sebagai orang biadab dan malas. Kalau yang sudah berpakaian maka orang Indonesia itu digambarkannya sebagai jongos kapal yang rajin, puntang-panting menyediakan makanan atau minuman, kalau dipanggil tuannya.
+
+Jadi kita orang tak ber-inisiatif, lesu-malas, biadab. Tetapi bukan selamanya dan bukan seluruhnya bangsa Indonesia malas dan biadab. Kalau orang mau membaca sejarah bangsa Indonesia yang sebenarnya, kembalilah ke masa 2500 lampau saja. Menurut para ahli Barat di masa itu orang Indonesia mengarungi Samudera Hindia sampai ke Afrika. Ke Timur ia mengarungi Samudera Teduh sampai Amerika Tengah. Benar sejarahnya bangsa Indonesia di masa itu tak berteriak keras, tetapi berlaku: berjuang, berdagang, bersawah-ladang.
+
+Tenang-hening sejarah memperamati perahu ramping menuju ke Barat!
+
+Sayup-sayup tepuk air dipecahkan dayung Cadik namanya sebagai sayap di kiri-kanan perahu ramping menjamin keamanan penumpangnya terhadap ombak-gelombang sering setinggi bukit. cuma bintang di langit dan pengetahuan atas peredarannya musim yang dijadikan pedoman oleh nakhodanya. Tetapi semangat merantau dan hati tetap tabahlah yang menjadi jaminan sesungguhnya.
+
+Walaupun demikian dunia tak mengenal bangsa Indonesia, sebagai bangsa yang bersatu, membikin sejarah. Demikianlah sejarah Indonesia berdiam diri, ratusan malah puluh ratusan tahun sampai alam Indonesia bersuara.
+
+Krakatau meletus menyemburkan batu dan lahar, merusakkan sekitarnya. Tetapi juga membagi bahagia kepada manusia, karena menyemburkan abu yang menambah subur dan makmurnya tanah. Tetapi sekarang bukan alam Indonesia yang meletus melainkan jiwa rakyatnya yang lama terhimpit dan tertindas itu.
+
+Jadi rakyat Indonesia-lah yang meletus melemparkan imperialis!
+
+Moga-moga akan bangunlah dunia yang adil, makmur dan sentosa buat semua negara, semua bangsa dan tiap-tiap manusia.
+
+* * *
+
+[Arsip Tan Malaka](index.html) | [Sejarah Marxisme di Indonesia](https://www.marxists.org/indonesia/indones/index.htm) | [S�ksi Bahasa Indonesia M.I.A.](https://www.marxists.org/indonesia/index.htm)

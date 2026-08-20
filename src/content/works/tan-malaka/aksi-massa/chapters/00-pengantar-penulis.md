@@ -1,0 +1,69 @@
+# Aksi Massa
+
+## Tan Malaka (1926)
+
+* * *
+
+### **PENGANTAR PENULIS**
+
+#### _Alles was besteht ist wert,_  
+_dass es zu Gruende geht._  
+_(Mephistopheles)_
+
+Asia sudah bangun!
+
+Lambat laun bangsa-bangsa Asia yang terkungkung itu tentu akan memperoleh kebebasan dan kemerdekaan. Tetapi tidak ada seorang pun yang dapat mengatakan bi­lamana dan dimana bendera kemerdekaan yang pertama akan berkibar. Siapa yang menyelidiki sedalam-dalam­nya perekonomian Timur, politik dan sosiologi akan da­pat menunjukkan halkah rantai yang selemah-lemahnya dalam rentengan rantai panjang yang mengikat perbuda­kan Timur. Indonesialah halkah rantai yang lemah itu. Di Indonesia benteng imperialisme Barat yang pertama dapat ditempur dengan berhasil.
+
+Imperialisme Belanda lebih tua dan lebih kuno dari pada imperialisme Inggris dan Amerika, dipisahkan oleh satu lembah yang tak dapat diseberangi dari jajahannya. Negeri Belanda, karena tidak mempunyai bahan-bahan untuk industrinya, dari dahulu hanya mengusahakan per­tanian dan perdagangan.
+
+Penjabaran kapitalnya dari permulaan abad ini ke se­luruh Indonesia sangat luasnya.
+
+Pusat industri Belanda sekarang terletak di Indone­sia, sedang pusat perdagangan dan keuangannya ada di negeri Belanda. Bankir, industrialis dan saudagar tinggal di negeri Belanda, sedang buruh dan tani di Indonesia. Jika kita perhatikan kedua lautan yang memisahkan Be­landa dengan Indonesia itu, serta tidak pula kita lupakan perbedaan bangsa, agama, bahasa, adat-istiadat antara penjajah dan si terjajah, antara pemeras dan si terperas, tampaklah kepada kita satu perbandingan dari pergaul­an yang luar biasa di dunia imperialisme waktu seka­rang. Luar biasa, sebab kaum modal bumiputra tak ada. Jadi, titian antara negeri Belanda dengan Indonesia pu­tus sama sekali.
+
+Ketiadaan kaum modal bumiputra yang sifatnya hampir bersamaan dengan imperialisme Belanda (sama­sama mau menggencet buruh dan tani) menyebabkan im­perialisme Belanda sukar sekali membereskan krisis eko­nomi di Indonesia. Dimanakah ada di Indonesia tuan-tu­an tanah bumiputra seperti di Mesir, India dan Filipina yang dapat menunjang kaum imperialisme untuk membela kepentingan-kepentingan ekonomi mereka? Dan dimanakah ada kaum modal bumiputra yang kuat, yang meminta-minta kekuasaan dalam politik perekonomian‑nya seperti di India?
+
+Tuan-tuan tanah Indonesia yang sedikit berarti telah lama menjadi gembala, kuli atau kuli tinta! Bangsa-bang­sa Eropa, Tionghoa dan dan Arab menguasai semua per­dagangan besar, menengah ataupun kecil! Bangsa Indo­nesia yang menengah atau yang kecil telah lenyap dari Pulau Jawa sejak beberapa tahun yang silam oleh pema­sukan barang-barang pabrik dari Eropa.
+
+Soal perguruan dengan sengaja dilengahkan oleh Be­landa, kaum intelektual jadi kurang. Sebab itu, kendati­pun kaum saudagar bumiputra seperti India, mau me­nyokong mereka mendirikan industri, toh tidak akan berhasil.
+
+Sebab ketiadaan kaum modal tuan tanah bumiputra itu, maka setiap aksi parlementer dari partai nasional ma­na pun tidak berguna.
+
+Bagaimanakah "bapak gula" dan "nenek minyak" di negeri Belanda akan dapat memberikan hak pemilihan umum kepada bangsa Indonesia? Atau dengan lain arti: mempercayakan kekuasaan politik kepada wakil-wakil tani dan buruh yang miskin? Jika sekiranya di belakang kaum intelektual, berdiri tuan-tuan tanah dan kaum modal bumiputra yang akan mereka wakili di parlemen, tentulah akan berlainan keadaan itu. Dan cakap angin tentang "perubahan dalam pemerintahan di Indonesia" ada juga artinya sedikit. Imperialis Belanda berangsur-angsur, lambat laun dapat menyerahkan pemerintahan itu kepada bangsa Indonesia yang cakap dan jujur. Bukan­kah melindungi modal bumiputra, sebagian juga berarti melindungi modal bangsa asing? Di dalam nisbah seka­rang ini nyatalah bahwa flap pemerintahan bangsa Indo­nesia haruslah tunduk kepada kemauan modal asing yang besar-besar. Dan pemerintahan seperti itu tak akan diakui sebagai berasal dari rakyat dan oleh rakyat!
+
+Pendeknya, Indonesia tak mempunyai faktor-faktor ekonomi, sosial ataupun intelektual buat melepaskan diri dari perbudakan ekonomi dan politik di dalam lingkung­an imperialisme Belanda. Bersamaan dengan itu, kans untuk mencapai kemerdekaan dalam arti yang seluas­-luasnya dengan jalan menguasai setengah, tiga perempat, hingga tujuh per delapan parlemen lenyap buat selama­nya. Impian seorang makhluk seperti Notosuroto yang mengangan-angankan Nederlandia Raja akan tetap jadi lamunan orang yang fasik.
+
+Indonesia dapat menaikkan ekonominya jika kekua­saan politik ada di tangan rakyat. Dan Indonesia akan mendapat kekuasaan politik tidak dengan jalan apa pun, kecuali dengan aksi politik yang revolusioner lagi teratur, dan yang tidak mau tunduk.
+
+Dewan Rakyat kadang-kadang boleh dimasuki! Teta­pi bukan dipergunakan sebagai senjata yang sah untuk memperoleh pemerintahan nasional yang bertanggung jawab penuh dengan perantaraan Dewan Rakyat bekerja sama dengan imperialis Belanda. Tetapi guna mengem­bangkan usaha revolusioner hingga ke dalam kamar-kamar diperoleh dengan perantaraan aksi-aksi parlementer samalah dengan seseorang di Gurun Sahara yang mem­bum fatamorgana. Tetapi siapa yang mempergunakan sekalian pengetahuannya untuk aksi massa yang teratur, niscaya memperoleh kemenangan itu seumpama "ayam pulang ke kandangnya".
+
+Soal kemerdekaan Indonesia bukanlah satu soal yang terbatas di Indonesia saja, yang dapat dipecahkan dengan perantaraan kongres dan putusan-putusan yang lembek di Dewan Rakyat, jangan dikata lagi dengan perantaraan kelakar-kelakar ekonomi dan kebudayaan di warung ko­pi. Soal itu mempunyai hubungan yang sangat rapat de­ngan kekuasaan Barat terhadap bangsa berwarna di benua Timur.
+
+Salah satu sebab — dan ini bukan sebab yang terkecil — mengapa Amerika tidak juga memberikan kemerde­kaan yang seluas-luasnya kepada orang Indonesia Utara (Filipina) yang menurut perkataan kawan ataupun lawan­nya telah lama matang (seperti kata surat-surat kabar im­perialisme Amerika di Manila) adalah bahwa kemerde­kaan Filipina berarti satu pemberontakan dan penyembelihan di Asia melawan kekuasaan kulit putih (a general re­volt in Asiatic countries against white authority, uprising being attended by slaughter). Kelepasan Indonesia (pu­sat arti ilmu bumi dan peperangan Asia, penduduk lima kali lebih besar dari Filipina dan dengan perdagangan in­ternasional) mustahil tidak berarti sebagai satu pistol yang ditujukan kepada kekuasaan Barat terutama Inggris di Asia.
+
+Belum lama ini bekas putra mahkota Wilhelm mene­rangkan kepada seorang wakil dari United Press di Locarno yang diumumkan oleh radio ke seluruh dunia, bah­wa bila manusia yang berjuta-juta di Asia pada satu hari bergerak memukul Anglosakson (Inggris, Prancis dan Be­landa) niscaya bangsa Melayulah yang pertama kali akan menyebabkan kesusahan. Pengharapan imperialistis dan sindiran macam apakah yang dimaksud putra mahkota yang senewen itu, bagi kita tetap nyata: bahwa Indonesia sekarang bukan Indonesia pada beberapa tahun yang lalu. Indonesia telah mengambil tempat yang penting dalam barisan berjuta-juta manusia di Asia.
+
+Karena itu, kemenangan yang diperoleh dengan jalan damai dan parlementer sama sekali tak boleh dipikirkan. Bukankah hal serupa itu tepat mengganggu ketentraman kapitalis di Timur? Bila suatu hari Indonesia terlepas dan mempertahankan kemerdekaannya dari musuh-musuh dalam dan luar negeri, tentulah hal tersebut ditentukan oleh kodrat revolusioner, yakni yang disebabkan oleh ak­si massa: dari massa dan untuk massa.
+
+Kalau penjajahan Belanda selama 300 tahun itu tidak berupa perampokan (membunuh habis industri bumiput­ra) niscaya derajat kaum intelektual kita jauh berbeda dari keadaan sekarang! Dan kita tentulah mempunyai sema­ngat kecerdasan (inteligensia) yang menurut asal, didikan dan perasaan menjadi pemuka dari tuan-tuan tanah, in­dustri, saudagar dan pegawai bumiputra. Pun juga akan timbul pergerakan demokrasi dan kemerdekaan nasional yang bersifat kerja sama (kompromis) dengan bangsa Be­landa atas pertolongan buruh dan tani seperti di India, Mesir dan Filipina lebih kurang.
+
+Atas ketiadaan kaum modal bumiputra, intelegensia kita tak kuat berdiri. Ia melayang-layang di antara rakyat dengan pemerintah. Ia tidak mempunyai perasaan ingin mengorbankan diri seperti yang ditunjukkan nasionalis di negeri-negeri lain. Ia tidak mempunyai alat-alat pera­saan, pemikiran yang mendekatkan dirinya kepada mas­sa (rakyat murba). Disebabkan imperialis, kaum intelek­tual kita jauh dari massa.
+
+Mereka tidak mempunyai satu kesaktian yang dapat mempengaruhi dan menarik hati rakyat. Kaum intelektual kita tidak beroleh kepercayaan dan simpati massa untuk menggerakkan mereka, membuat aksi-aksi serta memimpin mereka. Tambahan lagi, sebab jumlah kaum terpelajar yang tidak seberapa, mereka masih tinggal di dalam kelas mereka dan belum menjadi buruh terpelajar.  
+  
+Untuk sementara waktu, dapatlah mereka menonton dari jauh. Lain halnya kalau jumlah mereka banyak, tentulah mereka akan luntang-lantung dan merasakan kemelaratan sebagai buruh industri dengan penuh "kegembiraan" dalam medan perjuangan.
+
+Kecepatan timbulnya kelas intelektual, kekecewaan terhadap Budi Utomo (B.U.) dan National Indische Party (N.I.P.) serta kekejaman reaksi, mencakar pemandangan mereka ke jurusan yang lain. Sungguhpun masih sangat lambat dan masih berdiri beberapa pal (1 pal = 1.5 kilometer) jauhnya dari mas­sa serta dalam keaktifan dan politik terjejer sangat jauh di belakang dibandingkan dengan kelas mereka di lain ko­loni, tetapi mereka telah mulai bangun dari tidur. "Jubah malaikat" dari Notosoeroto telah dilemparkan mereka, dan mulai bersetuju kepada aksi-aksi revolusioner. Seka­rang dari beberapa universitas di negeri Belanda yang jauh itu berdengung-dengung suara mereka hingga kedengar­an oleh kaum intelektual yang ada di Indonesia.
+
+Tetapi harapan buruh dan tani di Indonesia tidak cuma persetujuan hati saja dari intelektual itu. Mereka menghendaki perbuatan atau bukti-bukti.
+
+Selama kaum terpelajar kita melihat bahwa perjuang­an kemerdekaan sebagai masalah akademi saja, selama itulah perbuatan-perbuatan yang diharapkan itu kosong belaka. Biarlah mereka melangkah keluar dari kamar be­lajar menyeburkan diri ke dalam politik revolusioner yang aktif.
+
+Gelombang pemogokan, pemboikotan dan demon­strasi yang beralun-alun setiap hari bertambah besar, me­lalui rapat nasional menuju ke Federasi Republik Indone­sia, inilah jalan mereka, tidak lain!
+
+_Tan Malaka_
+
+* * *
+
+[**DAFTAR ISI**](index.html)
+
+[**BAB I: REVOLUSI**](Bab1.html)

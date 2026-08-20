@@ -1,0 +1,233 @@
+# Sosialisme dan Manusia di Kuba
+
+## Che Guevara (1965)
+
+* * *
+
+Artikel ini di tulis dalam bentuk sebuah surat yang ditujukan kepada Carlos Quijano, editor Marcha, majalah mingguan independen yang radikal di Montevideo, Uruguay. Guevara menulisnya saat dalam perjalanan ke luar negeri selama tiga bulan, saat mana ia berpidato di sidang umum perserikatan bangsa-bangsa dan mengunjungi sejumlah negara di Afrika. Artikel ini dipublikasikan, pada tanggal 12 Maret 1965 di majalah Marcha, dan tanggal 11 April 1965 di majalah Verde Olivo.
+
+* * *
+
+Kawan tercinta:  
+   
+M_eskipun terlambat, saya tetap berusaha menyelesaikan catatan ini dalam rangkaian perjalanan saya ke Afrika, dengan harapan bisa memenuhi janji saya. Saya akan menuliskan tema yang dinyatakan oleh judul di atas. Saya kira, itu menarik bagi para pembac a di Uruguay._
+
+Pendapat umum yang dilontarkan dari mulut juru bicara kaum kapitalis, dalam rangka perang ideologi menentang sosialisme, yakni bahwasanya sosialisme, atau periode pembangunan sosialisme seperti yang sedang kami laksanakan di Kuba ini, ditunjukkan oleh, penghapusan individu atas nama negara. Saya tidak akan berusaha menolak pendapat tersebut semata-mata berdasarkan argumen teoritik, melainkan dengan menunjukkan fakta-fakta sebagaimana adanya di kuba dan selanjutnya memberi tambahan komentar umum. Ijinkanlah sekarang saya memaparkan sejarah perjuangan revolusioner kami sebelum dan sesudah berhasil merebut kekuasaan.
+
+Sebagaimana telah diketahui, tanggal tepatnya dimulainya perjuangan revolusioner --yang mencapai puncaknya pada 1 Januari 1959--adalah tanggal 26 Juli 1953. Sebuah kelompok yang dipimpin oleh Fidel Castro menyerang barak Moncada di Propinsi Oriente pada pagi hari tanggal tersebut. Serangan itu gagal, kegagalan itu menjadi sebuah malapetaka; dan mereka yang hidup dijebloskan ke dalam penjara, dan memulai kembali perjuangan revolusioner setelah mereka dibebaskan melalui sebuah amnesti.
+
+Dalam proses ini, dimana yang ada baru berupa benih sosialisme, manusia merupakan faktor fundamental. Kita meletakkan kepercayaan kita padanya--individual, khas, dengan nama pertama dan akhirnya--dan kemenangan atau kegagalan missi yang  dipercayakan padanya bergantung pada kapasitasnya untuk aksi.
+
+Selanjutnya tibalah tahap perjuangan gerilya. Perjuangan ini berkembang dalam dua lingkungan yang berbeda: rakyat, massa yang masih tertidur yang harus dimobilisasi; dan pelopornya, gerilyawan, kekuatan  motor mobilisasi, pembangkit kesadaran revolusioner dan antusiasme  militan. Pelopor ini merupakan agen katalisator yang membangkitkan kondisi subyektif yang diperlukan untuk memperoleh kemenangan.
+
+Di sini sekali lagi, dalam kerangka proletarisasi pemikiran kami, dari revolusi yang berlangsung dalam kebiasaan-kebiasaan dan pikiran-pikiran kami, individu merupakan faktor pokok. Setiap seorang pejuang dari Sierra Maestra yang mencapai jenjang atas dalam barisan kekuatan revolusioner memiliki rekor tindakan yang luar biasa. Mereka memperoleh jenjang tersebut atas dasar tindakannya itu. Inilah periode kepahlawanan pertama, dan di situ mereka harus memikul tanggung jawabnya yang amat berat, untuk tugas-tugas yang amat berbahaya, dengan tiada kepuasan lain daripada berhasil memenuhi kewajiban yang dibebankan padanya itu.
+
+Dalam pekerjaan pendidikan revolusioner, kami seringkali kembali ke tema-tema yang mengandung pelajaran seperti ini. Sikap pejuang kami diarahkan sebagai manusia masa depan.
+
+Pada bagian sejarah kami yang lain tindakan dedikasi total pada perjuangan revolusioner terus-menerus diulang. Selama krisis Oktober dan saat _Hurricane Flora_ kami menyaksikan tindakan keberanian dan pengorbanan luar biasa yang ditunjukkan oleh seluruh rakyat. Penemuan metoda melestarikan sikap kepahlawanan ini dalam kehidupan sehari-hari, dari sudut pandang ideologis, merupakan salah satu tugas fundamental kami.
+
+Pada bulan Januari 1959, pemerintahan revolusioner didirikan dengan keikutsertaan berbagai anggota dari kaum borjuis pengkhianat. Keberadaan Tentara Pemberontak (_selanjutnya diubah menjadi kekuatan bersenjata Revolusioner setelah kemenangan revolusi 1959, pent)_ sebagai faktor mendasar  dari kekuatan yang mengawal revolusi.
+
+Kontradiksi serius mulai berkembang. Kontradiksi utama, pada bulan Februari 1959, diselesaikan ketika Fidel Castro memegang kepemimpinan pemerintahan, mengambil pos perdana menteri. Proses ini mencapai puncaknya pada bulan Juli tahun yang sama dengan mundurnya Presiden Urrutia karena tekanan massa.
+
+Dalam sejarah revolusi Kuba nampak jelas karakternya, watak aslinya, yang secara sistematik berulang-ulang tampil: massa
+
+Proses yang bersegi jamak ini bukan, sebagaimana dianggap, jumlah dari elemen-elemen dari tipe yang sama,layaknya sekumpulan domba,lebih-lebih lagi, disusutkan menjadi jenis tipe sistem yang dipaksakan dari atas. Benar adanya bahwa ia mengikuti para pemimpinannya, terutama Fidel Castro, tanpa keraguan. Namun tingkat dimana para pemimpin itu memperoleh kepercayaan sesungguhnya hasil dari ketepatan mereka menginterpretasikan keinginan dan aspirasi rakyat dalam arti utuh, dan dari perjuangan tulus untuk memenuhi janji yang dibuatnya.
+
+Massa berpartisipasi dalam reformasi agraria dan dalam tugas sulit mengelola perusahaan-perusahaan negara; yang juga ditunjukkan melalui pengalaman Playa Giron yang heroik itu, peperangan melawan kelompok-kelompok bandit yang dipersenjatai oleh CIA; berpartisipasi melalui salah satu keputusan yang amat penting di jaman moderen selama krisis Oktober; dan saat ini berlanjut terus bekerja demi membangun sosialisme.
+
+Dipandang dari luar, nampaknya mereka yang mengatakan tentang adanya subordinasi individu di bawah negara bisa benar. Massa melakukan tugas-tugas itu dengan antusiame yang tak ada bandingannya dan menjalankan tugas yang digariskan oleh pemerintah, apakah itu di bidang ekonomi, kebudayaan, pertahanan, olah raga, dsb.
+
+Inisiatif muncul dari Fidel atau dari komandan tinggi revolusioner dan dijelaskan kepada rakyat, yang menjadikannya sebagai miliknya. Dalam beberapa kasus, partai dan pemerintah mengambil pengalaman lokal dan menggeneralisasikannya, dengan mengikuti prosedur sama.
+
+Meski begitu, negara kadang-kadang membuat kesalahan. Pada saat terjadi kesalahan, yaitu nampak dari menurunnya antusiasme kolektif dikarenakan efek penurunan kuantitatif pada masing-masing elemen yang menyusun massa. Kerja menjadi lumpuh hingga mencapai penyusutan jumlah ke tingkat yang tak memadai. Saatnya harus segera membuat koreksi. Ini terjadi pada bulan Maret 1962, sebagai hasil dari kebijaksanaan sektarian yang dipaksakan pada partai oleh Anibal Escalante.
+
+Nyata bahwa mekanisme ini tidak cukup menjamin bagi suksesi tindakan yang bijaksana. Hubungan yang lebih berstruktur dengan massa amat dibutuhkan, dan kami harus memperbaikinya di tahun-tahun selanjutnya. Selain inisiatif yang muncul dari jajaran atas pemerintahan yang telah lakukan, kami sekarang ini menggunakan metoda intuitif yang muncul dari reaksi umum atas problem-problem besar yang kami hadapi.
+
+Dalam hal inilah Fidel seorang pemimpin. Cara khasnya dalam menyatukan dirinya dengan rakyat dapat ditangkap hanya dengan melihatnya dalam tindakan. Dalam rapat umum raksasa seseorang dapat mengamatinya bagai dialog antara dua garpu penala yang saling bergetar menghasilkan suara baru. Fidel dan massa mulai bergetar bersama dalam sebuah dialog yang intensitasnya makin tumbuh hingga mencapai klimaks dalam sebuah muara jeritan perjuangan dan kemenangan.
+
+Sesuatu yang sulit dipahami bagi seseorang yang tidak hidup melalui pengalaman revolusi adalah keeratan dialektika antara individu dan massa,dimana massa, sebagai kumpulan individu, saling berinterkoneksi dengan para pemimpinnya.
+
+Beberapa fenomena seperti ini memang kisa juga dilihat di bahwa kapitalisme, ketika para politisi nampak mampu memobilisasi opini umum, namun hal itu bukan sebagai gerakan sosial murni (jika benar-benar murni, maka tidak sepenuhnya benar mengatakan  mereka sebagai kapitalis). Gerakan ini hanya mampu bertahan, jika orang yang itu mampu terus menjadi ispirasi bagi mereka, atau akan bertahan selama kekasaran masyarakat kapitalis terus-menerus menciptakan illusi terhadap rakyat.
+
+Dalam masyarakat kapitalis, manusia dikontrol oleh hukum tanpa belas kasihan yang berada di luar jangkauannya. Makhluk manusia teralienasi dan diikat menjadi sebuah masyarakat oleh sebuah jaringan korda: _hukum nilai_. Hukum yang berlaku atas seluruh aspek kehidupannya, yang membentuk perjalanan dan nasibnya.
+
+Hukum kapitalisme, yang mengelabui dan tak nampak bagi orang kebanyakan, berlaku atas individu tanpa ia menyadarinya. Ia hanya melihat keluasan horison tanpa batas di hadapannya. Inilah betapa hal itu dilukiskan oleh kaum propagandis kapitalis yang mengaku menarik pelajaran dari contoh semacam Rockeffeler --apakah benar atau tidak-- tentang kemungkinan meraih keberhasilan. 
+
+Tumpukan kemiskinan dan penderitaan yang dipersyaratkan bagi kemunculan seorang Rockeffeler, dan tumpukan kebejatan yang dikandung dalam kekayaan seperti itu, digelapkan oleh lukisan tersebut, dan tidak selalu mungkin bagi kekuatan rakyat untuk melihat secara jernih konsep-konsep hukum kapitalisme ini.
+
+_(Sebuah diskusi tentang bagaimana buruh di negara imperialis secara gradual kehilangan semangat internasionalisme kelas pekerjanya disebabkan hingga tingkat tertentu oleh eksploitasi terhadap negara dunia ketiga, dan pada saat yang sama bagaimana melemahnya semangat perjuangan massa di negara imperialis, bisa dikaji di sini, namun tema itu di luar sasaran pokok tulisan ini.)_
+
+Dalam kasus apapun jalan menuju kesuksesan di masyarakat kapitalis digambarkan sebagai perjuangan dengan resiko--resiko dimana, diperlihatkan, seorang individu dengan kualitas yang baik sajalah yang dapat menghadapinya. Hadiah nampak ada di kejauhan; dan jalan untuk mencapainya penuh kesepian. Maka selanjutnya, yang berlangsung adalah persaingan diantara serigala-serigala; pemenangnya akan muncul dengan ongkos kegagalan lainnya.  
+
+Sekarang saya akan mencoba mendefinisikan individu, aktor dalam drama yang sedang bergerak dan aneh dari pembangunan sosialisme ini, dalam keberadaan gandanya sebagai manusia unik dan sekaligus anggota dari masyarakat.
+
+Saya pikir tempat memulainya adalah memahami kualitas ketidaklengkapannya, sebagai produk yang belum selesai. Sisa masa lampau dibawanya hingga saat kini dalam kesadaran individu, dan sebuah kerja yang terus menerus diperlukan untuk mengikis sisa-sisa itu. Proses ini berlangsung dalam dua sisi. Di satu sisi masyarakat bertindak melalui pendidikan langsung dan tak langsung; di sisi lain, individu menyarankan diri bagi proses pendidikan sadar diri.
+
+Masyarakat baru yang terbentuk harus bersaing secara gigih dengan masa lalu. Masa lampau tertanam bukan hanya dalam kesadaran individu--dimana sisa sebuah pendidikan yang secara sistematik diorientasikan ke arah pemisahan individu masih sarat dikandung--namun juga melalui watak dasar dari transisi itu dimana hubungan komoditi masih bertahan. Komoditi merupakan sel ekonomi masyaraiat kapitalis. Selama ia masih ada, efeknya akan menyusup dalam organisasi produksi dan, konsekuensinya, ke dalam kesadaran.
+
+Marx memaparkan periode transisi sebagai hasil dari ledakan transformasi dari sistem kapitalis yang dihancurkan oleh kontradiksinya sendiri. Namun, dalam kenyataan sejarah, kita menyaksikan bahwa beberapa negara yang ikatan dahannya dengan pohon imperialisme lemah akan lepas pertama kali --sebuah fenomena yang diramalkan oleh Lenin.
+
+Di negara-negara itu kapitalisme telah berkembang secara cukup untuk menciptakan efek yang dirasakan oleh rakyat dengan satu atau lain cara; namun bukannya kontradiksi internal kapitalismelah yang menyeburkan semua kemungkinan, menyebabkan sistem pecah. Perjuangan untuk membebaskan diri dari penindas asing, kesengsaraan yang disebabkan oleh kejadian eksternal seperti peperangan,yang memberikan konsekuensi kelas-kelas diuntungkan menyokong kelas-kelas terhisap. gerakan pembebasan yang bertujuan menggulingkan rejim neokolonialis--inilah faktor jamak dalam melepaskan jenis eksploitasi seperti ini. Tindakan sadar bekerja sepenuhnya.
+
+Sebuah pendidikan lengkap bagi kerja sosial masih belum berlangsung di negara-negara yang baru membebaskan diri dari neokolonialisme itu, dan kemakmuran masih jauh dari jangkauan massa melalui proses penyerapan yang sederhana. Di satu sisi, keterbelakangan, dan biasanya larinya modal ke luar negeri, di sisi lain, transisi yang cepat tanpa pengorbanan adalah mustahi. Jalan untuk membangun basis ekonomi, dan godaan untuk sekedar tunduk pada kepentingan material sebagai ukuran kemajuan pembangunan masih teramat besar.
+
+Ada bahaya bahwa hutan tak akan nampak karena pohon-pohon. Impian, bahwa sosialisme dapat dicapai dengan bantuan dari peralatan tumpul yang ditinggalkan kepada kita oleh kapitalisme (komoditi sebagai sel ekonomi, laba, kepentingan materi individu sebagai ukuran, dsb.) dapat mengarahkan pada sebuah persekutuan buta. 
+
+Dan kau akan dipusingkan di sana setelah melalui perjalanan panjang dengan banyak persimpangan, dan sulit untuk keluar dari jalan yang salah. Sementara itu, fondasi ekonomi yang telah diletakkan telah bekerja merongrong perkembangan kesadaran. Untuk membangun komunisme adalah perlu, secara simultan dengan landasan material baru, membangun manusia baru.
+
+Itulah sebabnya amat penting memilih instrumen yang tepat untuk memobilisasi massa. Pada dasarnya, instrumen itu harus berkarakter moral, tanpa mengabaikan, bagaimanapun juga, penggunaan secara tepat insentif materi--khususnya yang berkarakter sosial.
+
+Sebagaimana telah saya katakan, di saat-saat ada resiko besar adalah mudah untuk menggalang tanggapan kuat bagi rangsangan moral; Untuk memperkuat efeknya, bagaimanapun juga, mempersyaratkan perkembangan sebuah kesadaran dimana ada skala nilai baru. Masyarakat secara keseluruhan harus dibalikkan menjadi sebuah sekolah raksasa.
+
+Dalam pemaparan ringkas fenomena ini, adalah sama seperti proses dimana kesadaran kapitalis terbentuk dalam periode awalnya. Kapitalisme menggunakan kekuatan tapi justru itu mendidik orang akan sistem tersebut. Propaganda langsung dilakukan dengan menjelaskan keniscayaan masyarakat kelas, apakah melalui teori asal-usul takdir atau teori mekanika hukum alam. 
+
+Pendidikan ini membodohi massa, karena mereka memandang dirinya sebagai makhluk yang ditindas oleh sebuah kekuatan jahat dimana mereka tidak mungkin menentangnya.Datanglah saatnya harapan baru untuk memperbaikinya--dan hal ini, kapitalisme berbeda dari sistem kasta yang paling awal, dimana tak ada jalan keluar yang ditawarkan. 
+
+Bagi beberapa orang, prinsip sistem kasta akan tetap memberi efek: hadiah bagi yang taat akan diterima setelah kematian di dunia lain dimana, menurut keyakinan lama, orang baik akan diberi hadiah. Bagi orang lain ada inovasi ini: pembagian kelas ditentukan oleh takdir, namun individu dapat bangkit keluar dari kelasnya melalui kerja, inisiatif, dsb. 
+
+Kedua ideologi ini dan mitos tentang manusia individu membentuk dirinya sendiri, jelas-jelas merupakan kebohongan: ia sudah menunjukkan dirinya, bahwa sebuah kebohongan akan adanya klas permanen adalah kebenaran.
+
+Dalam kasus kami, pendidikan langsung memperoleh perhatian amat besar. Penjelasannya meyakinkan karena ia benar adanya; tak ada dalih yang dibutuhkan untuknya. Ia dilakukan oleh aparat pendidikan negara sebagai fungsi umum, teknik, pendidikan ideologis melalui  agen-agen seperti Menteri Pendidikan dan aparat informasi partai. 
+
+Pendidikan diselenggarakan diantara massa dan pembentukan sikap baru diarahkan untuk menjadi sebuah kebiasaan. Massa terus-menerus membuat hal itu menjadi miliknya dan mempengaruhi lainnya yang belum mendidik diri. Inilah bentuk pendidikan tak langsung oleh massa, sebuah kekuatan lain.
+
+Tapi proses seperti ini harus dengan kesadaran; individu secara kontinyu merasakan impak dari kekuatan sosial baru dan memandang bahwa ia melakukannya bukan semata-mata dikehendaki oleh patokannya. Di bawah tekanan pendidikan tak langsung ia mencoba menyesuaikan diri dengan situasi yang ia rasa benar dan jika ia kurang berkembang ia akan terhambat dari pencapaian secara murni. Maka Ia mendidik dirinya.
+
+Dalam periode pembangunan sosialisme ini kita dapat melihat lahirnya manusia baru. Citranya belum sepenuhya rampung--dan tidak akan pernah rampung, karena proses ini akan terus berlangsung dari generasi ke generasi sesuai perkembangan bentuk-bentuk ekonomi baru.
+
+Di samping itu, mereka yang kurang terdidik akan memilih jalan sendirian dalam mencapai pemenuhan ambisi-ambisi pribadinya mereka ini ada--bahkan di dalam panorama baru dari kesatuan derap langkah ke depan--mereka yang memiliki kecenderungan berjalan memisahkan diri dari massa yang menyertainya. Namun, yang penting adalah bahwa setiap hari orang memperoleh lebih banyak kesadaran akan kebutuhan untuk senantiasa beriringan di dalam masyarakat dan, pada saat yang sama, pentingnya berperan sebagai motor masyarakat itu.
+
+Mereka tidak lagi sepenuhnya sendirian dan kehilangan petunjuk mencapai aspirasi di kejauhan. Mereka mengikuti pelopornya, yang terdiri dari partai, buruh-buruh yang sudah maju, manusia-manusia maju yang berjalan dalam kesatuan dengan massa dan dalam kerukunan yang erat dengan mereka. Pelopor mengarahkan pandangannya ke masa depan, namun bukan pandangan dari individu. Buahnya adalah sebuah masyarakat baru dimana manusia tidak akan memiliki perbedaan derajat: masyarakat manusia komunis.
+
+Jalan ke arah sana panjang dan penuh kesulitan. Ada kalanya kita kehilangan arah dan harus kembali; Di saat lain kita terlalu cepat dan terpisah dari massa. Kadang-kadang kita terlampau lamban dan merasa hanya berjalan ditempat saja. Dalam semangat kita sebagai revolusioner kita mencoba bergerak maju secepatnya, membersihkan jalan. Namun kita tahu kita harus memelihara diri kita agar dekat terus dengan massa dan hal itu dapat dicapai lebih cepat hanya bilamana kita mengilhaminya dari contoh-contoh yang kita berikan.
+
+Meski betapa penting adanya stimuli moral, kenyataan masih adanya pembagian ke dalam dua kelompok utama (tentu saja, di luar kaum minoritas yang karena satu dan lain alasan tidak berpartisipasi dalam pembangunan sosialisme) menunjukkan jarak relatif dari perkembangan kesadaran sosial.
+
+Kelompok pelopor secara ideologis lebih maju dari massa; massa memahami nilai-nilai baru, tapi tidak secara memadai. Sementara pelopor sudah ada perubahan kualitatif yang memungkinkannya membuat pengorbanan sesuai kapasitasnya sebagai pelopor yang maju, massa hanya melihat sebagai gambar dan masih harus diberi rangsangan dan didorong terus hingga mencapai intensitas tertentu. Di sinilah kediktatoran proletariat bekerja, bukan hanya mendidik kelas yang telah dikalahkan (burjuis) tetapi juga individu-individu dari kelas yang menang (proletariat dan kelas tertindas lainnya).
+
+Semua itu berarti bahwa keberhasilan menyeluruh dari serangkaian mekanisme dari lembaga-lembaga revolusioner, dibutuhkan. Sejalan dengan citra derap langkah maju ke masa depan menghasilkan konsep institusionalisasi sebagai sebuah keselarasan seperangkat saluran, langkah, pengendalian, dan minyak pelumas mekanisme yang memudahkan langkah maju, yang memfasilitasi seleksi alam dari mereka yang melangkah menuju masa depan bersama pelopor, dan pemberian hadiah bagi mereka yang memenuhi kewajiban dan hukuman bagi mereka yang melakukan kejahatan menentang masyarakat yang sedang dibangun.
+
+Institusionalisasi revolusi itu masih belum tercapai. Kita mencari sesuatu yang baru yang memperlancar identifikasi total diantara pemerintah dan komunitas secara keseluruhan, sesuatu yang layak untuk kondisi khusus dalam pembangunan sosialisme; sementara itu menghindarkan dengan sungguh-sungguh untuk mencangkokkan demokrasi burjuis--seperti dewan legislatif, misalnya--ke dalam masyarakat yang sedang dalam pembentukan.
+
+Beberapa eksperimen yang ditujukan untuk pelembagaan secara gradual dari revolusi telah dilakukan, namun tanpa grusa-grusu. Pengereman masih harus sering dilakukan; jika tidak, maka akan nampak formalitas yang bisa memisahkan kita dari massa dan dari individu, yang akan membuat kita kehilangan pandangan pokok dan aspirasi revolusioner yang paling penting: menemukan manusia terbebaskan dari keterasingannya.
+
+Meskipun kekurangan institusi, yang harus diatasi secara gradual, massa sekarang sedang membuat sejarah sebagai kumpulan individu berkesadaran yang berjuang demi tujuan yang sama. Manusia di bawah sosialisme, meskipun penampakannya distandarisasi, jauh lebih lengkap. Meskipun kekurangan mekanisme sempurna untuk itu, peluangnya untuk mengekspresikan dirinya dan membuat dirinya merasa dalam organisme sosial jauh lebih besar.
+
+Ini masih perlu untuk memperdalam kesadaran partisipasinya, individu dan kolektif, di semua mekanisme manajemen dan produksi, dan untuk mengikatkan hal ini dengan ide kebutuhan terhadap teknik dan pendidikan ideologis, sehingga ia melihat bagaimana saling keterkaitan proses-proses itu dan bagaimana kemajuan mereka adalah paralel. Dalam cara ini ia akan mencapai kesadaran total makhluk sosialnya, yang ekivalen untuk realisasi penuhnya sebagai makhluk manusia, dan pada saat itu rantai keterasingan telah diputuskan.
+
+Ini harus diterjemahkan secara kongkret melalui kerja bebas dan ekspresi dari kondisi kemanusiaannya sendiri melalui kebudayaan dan seni.
+
+Untuk itu, kerja harus memperoleh sebuah kedudukan baru. Manusia sebagai sebuah komoditi harus diakhiri, dan sebuah sistem perlu dijalankan yang menetapkan sistem kuota sebagai bentuk pemenuhan kewajiban sosialnya. Alat produksi dimiliki masyarakat, dan mesin hanyalah saluran melalui mana kewajiban dipenuhi. Manusia mulai melepaskan pikiran yang mengganggu: kenyataan bahwa kerja dibutuhkan untuk memuaskan kebutuhan hewaninya. 
+
+Ia mulai memandang dirinya tercermin dalam kerjanya dan memahami kedudukan penuhnya sebagai makhluk manusia melalui obyek yang diciptakan, melalui kerja yang diselesaikan. Kerja bukan lagi menuntut penyerahan sebagian dari kemanusiannya dalam bentuk tenaga kerja yang harus dijual,  yang mana bukan lagi menjadi miliknya, melainkan merepresentasikan pengungkapan dirinya ke luar, sebuah sumbangan bagi kehidupan bersama dimana ia diwakili di situ, sebuah pemenuhan kewajiban sosialnya.
+
+Kita melakukan segala sesuatu yang mungkin untuk memberikan kerja sebuah status baru berupa kewajiban sosial dan mengkaitkannya di satu sisi dengan perkembangan teknologi. yang akan menciptakan kondisi bagi kebebasan yang lebih besar, dan di sisi lain dengan kerja sukarela berdasarkan pengertian Marxist bahwa manusia akan mencapai kondisi kemanusiaannya secara sejati bilamana ia berproduksi tanpa dipaksa oleh desakan kebutuhan fisiknya dimana ia harus menjual dirinya sebagai komoditi.
+
+Tentu saja, masih ada faktor lain bahkan ketika kerja merupakan kerja sukarela. Manusia belum mentransformasikan faktor paksaan yang melingkupi dirinya ke dalam refleks-refleks terkondisi dari sebuah watak sosial, dan dalam beberapa kasus ia masih berproduksi di bawah tekanan lingkungan. (Fidel menyebutnya tekanan moral.) 
+
+Ia masih harus menderita untuk melengkapkan kelahiran kembali semangat terhadap kerjanya,ter bebaskan dari tekanan langsung lingkungan sosialnya, walaupun mengkaitkannya melalui kebiasaan-kebiasaan barunya. Dengan demikianlah akan terbentuk komunisme.
+
+Perubahan kesadaran tidak berlangsung secara otomatis sebagaimana halnya ekonomi tidak berubah secara otomatis. Perubahannya perlahan dan tidak ritmis, ada periode kemajuan (akselerasi) kadang amat lamban, dan bahkan mengalami kemunduran.
+
+Lebih lanjut kita musti ingat, sebagaimana saya nyatakan sebelumnya, bahwa kita tidak membahas periode transisi belaka, sebagaimana telah Marx nyatakan dalam _"Critique of the Gotha Program"_ nya, namun lebih berkenaan dengan sebuah fase baru yang tidak diramalkannya: sebuah periode awal transisi menuju komunisme, atau periode pembangunan sosialisme. Periode yang kita bicarakan ini berlangsung di tengah-tengah perjuangan kelas dengan kekerasan, dan dengan elemen-elemen kapitalisme di dalamnya yang mengaburkan pemahaman esensinya.
+
+Bilamana kita menambahkan di sini skolastikisme yang hendak melacak ke belaiang perkembangan filsafat Marxist dan mendesakkan perlakuan sistematik dari periode transisi, dimana ekonomi politik belum berkembanq, kita musti menerima bahwa kita masih dangkal dan perlu mencurahkan diri untuk menggali semua karakteristik prinsipiil dari periode tersebut sebelum mengelaborasi sebuah teori politik dan ekonomi dalam ruang lingkup yang lebih besar.
+
+Menghasilkan teori akan, tak ragu lagi, menempatkan tekanan besar pada dua pilar konstruksi sosialisme: pendidikan manusia baru dan perkembangan teknologi. Banyak yang masih harus dikerjakan dalam dua hal ini, dan kelambatan dalam konsep teknologi sebagai landasan ekonomi harus segera dikejar meskipun jalan ke arah itu sudah dibuka sebelumnya oleh negara-negara yang lebih maju. Itulah sebabnya mengapa Fidel dengan lantang menyerukan pentingnya pendidikan teknologi dan ilmu pengetahuan bagi rakyat kami dan khususnya para pelopornya.
+
+Dalam bidang ide yang tidak mengarah pada aktivitas yang mencakup pelibatan produksi, lebih mudah melihat pembagian antara kebutuhan spiritual dan material. Sudah sekian lamanya manusia berusaha membebaskan dirinya dari keterasingan melalui kebudayaan dan seni. Sementara itu ia mati setiap hari selama delapan jam atau lebih karena ia berfungsi sebagai komoditi, ia berusaha menghidupkan dirinya kembali melalui kreasi spiritualnya. 
+
+Namun obat ini melahirkan kuman penyakit yang sama pula: ia merupakan individu tersendiri yang mencari keselarasan dengan lingkungannya. Ia mempertahankan individualitasnya yang ditindas dan bereaksi pada ide-ide estetika sebagai makluk unik yang aspirasinya tetap tak ternoda(untarnished.
+
+Itu tidak lebih dari usaha melarikan diri. Hukum nilai bukan lagi sebuah refleksi hubungan produksi yang sederhana: Monopoli kapitalis--bahkan dengan menggunakan metoda empiris murni-- mengepung seni tersebut dengan jaring yang ruwet yang membuatnya menjadi sekedar alat belaka. Superstruktur menuntut sejenis seni dimana artis harus dididik di dalamnya. Pemberontak ditundukkan oleh mesin, dan hanya bakat-bakat pengecualian saja yang bisa menciptakan karyanya sendiri. Sebagian besar lainnya menjadi orang sewaan yang malu-malu atau akan dihancurkan.
+
+Sekolah "kebebasan" artistik diciptakan, namun nilainya terbatas hingga kita berbenturan dengannya--dengan kata lain, hingga problem riil manusia dan keterasingannya muncul. Kegusaran yang tak karuan juntrungannya atau hiburan-hiburan vulgar menjadi katup pengaman bagi kegelisahan manusia. Ide tentang penggunaan seni sebagai senjata protes mulai diperjuangkan.
+
+Mereka yang bermain sesuai dengan aturan yang ada ditaburi dengan penghargaan-penghargaan-- seperti halnya seekor kera yang bisa menari. Kondisi yang diciptakan (impose) adalah bahwa seseorang tidak bisa menghindar dari sangkar yang tidak nyata itu.
+
+Ketika revolusi mengambil kekuasaan, banyak terjadi eksodus dari mereka yang selama ini tidak pernah patuh sepenuhnya pada aturan main yang ada; sebagian besar --apakah mereka kaum revolusioner atau bukan-- melihat ada jalan baru yang terbentang. Penggalian artistik mengalami impuls baru. Jalan, bagaimanapun juga, kurang lebih telah diletakkan, dan konsep eskapis menyembunyikan dirinya dibalik kata 'kebebasan'. Sikap ini seringkali ditemukan bahkan diantara kaum revolusioner sendiri, sebagai sebuah refleksi idealisme burjuis di dalam kesadaran mereka.
+
+Di negara-negara yang melangkah melalui proses yang serupa, ada yang berusaha memerangi kecenderungan ini dengan dogmatisme yang berlebih-lebihan. Kebudayaan umum sebetulnya sebuah tabu, dan puncak aspirasi kebudayaan disebut gambaran alam secara formal. Reprentasi ini ditransformasikan menjadi sebuah representasi mekanis dari kenyataan sosial yang ingin mereka tunjukkan: masyarakat ideal, hampir tanpa konflik atau kontradiksi, dimana mereka berusaha ciptakan.
+
+Sosialisme masih muda dan memiliki banyak kesalahan. Kami kaum revolusioner sering kekurangan pengetahuan dan keberanian intelektual yang dibutuhkan untuk memenuhi tugas membangun manusia baru dengan metoda baru yang berbeda dengan metoda konvensional dan metoda-metoda konvensional korban dari pengaruh masyarakat yang menciptakannya. 
+
+_(Sekali lagi tema hubungan antara bentuk dan isi kemanusiaan.)_
+
+ Disorientasi meluas dan kami disibukkan oleh masalah-masalah konstruksi material. Tak ada seniman (artists) dengan otoritas besar yang pada saat bersamaan memiliki otoritas revolusioner besar. Anggota Partai harus mengambil tugas ini dan berusaha mencapai tujuan utama, mendidik rakyat.
+
+Apa yang diusahakan selanjutnya adalah penyederhanaan. Sesuatu yang dapat dipahami oleh setiap orang, sesuatu yang dapat dipahami para _fungsionaris_. Penggalian artistik murni diakhiri, dan masalah kebudayaan umum disusutkan untuk mengambil beberapa hal dari kehadiran sosialis dan beberapa lainnya dari masa lampau yang telah mati (karena itu, tidak berbahaya). Jadi realisme sosialis muncul atas dasar seni abad lampau.
+
+Namun seni realistik abad ke sembilan belas juga memiliki watak kelas, mungkin kapitalis yang lebih murni daripada seni dekaden abad-ke dua puluh ini yang menampilkan kegusaran manusia terasing. Dalam bidang kebudayaan, kapitalisme telah memberikan semua yang harus ia berikan, dan tak ada yang tersisa kecuali bau busuk bangkainya, dekadensi seni-nya dewasa ini.
+
+Namun mengapa berusaha menemukan hanya resep-resep handal dalam bentuk-bentuk Realisme Sosialis yang telah beku? Kita tidak dapat memamerkan 'kebebasan' realisme sosialis, karena ia belum ada dan tidak akan ada hingga perkembangan penuh dari masyarakat baru. Namun kita tidak dapat, dari penghitungan seluruh beaya realisme, menghujat semua bentuk seni sejak paruh pertama abad ke sembilan belas, karena kita akan jatuh ke dalam kesalahan kembali ke masa lampau ala Proudhon, dengan menutup ekspresi artistik dari manusia yang sedang lahir dalam proses pembentukan diri.
+
+Apa yang dibutuhkan adalah pengembangan sebuah mekanisme kebudayaan-ideologis yang mengijinkan baik penggalian bebas dan pembersihan rumput-rumput liar yang sedimikian mudahnya tumbuh di atas tanah yang telah dipupuk oleh tunjangan negara.
+
+Di negeri kami kekeliruan realisme mekanis tidak nampak, tetapi lebih nampak lawannya. Dan hal tersebut demikian karena kebutuhan untuk menciptakan pembentukan manusia baru belum dipahami, manusia baru yang bukan menggambarkan ide abad ke sembilan belas maupun ide abad kita yang dekaden dan tak sehat ini.
+
+Apa yang harus kita ciptakan adalah manusia abad ke dua puluh satu, walaupun ini masih aspirasi subyektif, belum disistematisasikan. Sesungguhnya inilah salah satu sasaran fundamental studi dan pekerjaan kita. Untuk tingkat keberhasilan konkret yang kita capai pada perencanaan teoritik--atau, sebaliknya, pada tingkat kesimpulan teoritik yang kita tarik dari karakter luas atas dasar riset kongkret kita --kita pasti akan membuat sumbangan bernilai bagi Marxisme-Leninisme, demi kemanusiaan.
+
+Dengan bereaksi menentang manusia abad ke sembilan belas kita masuk ke dalam dekadensi abad ke dua puluh; itu bukanlah kesalahan telak, namun kita harus mengikisnya agar kita tidak terperosok ke dalam revisionisme.
+
+Penumpukan terus berkembang; ide baru memperoleh momentum bagus di dalam masyarakat. Peluang-peluang material bagi perkembangan kesatuan seluruh anggota masyarakat membuat tugas membuahkan lebih banyak buahnya. Masa kini adalah masa perjuangan; masa depan merupakan milik kita.
+
+Ringkasannya, kesalahan kebanyakan artis dan intelektual kita terletak dalam dosa asal mereka: mereka bukan revolusioner sejati. Kita bisa saja menggosok-gosok pohon elm hingga  menghasilkan pohon pears, namun pada saat yang sama kita musti menanam pohon pear. Generasi baru akan lahir terbebas dari dosa asal. Kemungkinan-kemungkinan bahwa seniman-seniman besar akan muncul harus lebih besar lagi hingga ke tingkat dimana bidang kebudayaan dan kemungkinan-kemungkinan untuk ekspresi diperluas.
+
+Tugas kita adalah menjaga generasi sekarang, diguncang oleh konflik-konfliknya, dari kemurtadan dan dari pembelotan generasi baru. kita tidak hendak menciptakan hamba-hamba pikiran resmi yang dungu, atau 'siswa-siswa bea-siswa' yanq hidup atas beaya negara --mempraktekkan " kebebasan" yang mengekor saja. Kaum revolusioner masa depan akan menyanyikan lagu manusia baru dengan suara murni dari rakyat. Ini merupakan proses yang membutuhkan waktu.
+
+Dalam masyarakat kami, kaum-muda dan Partai memainkan peran besar.
+
+Kaum muda penting karena ia merupakan tanah liat yang lentur dan mudah dibentuk-dari mana manusia baru dapat dibangun tanpa ada bekas-bekas lama. Kaum muda dapat dibentuk sesuai dengan aspirasi-aspirasi kami. Pendidikan mereka setiap hari semakin lengkap, dan kami tidak mengabaikan integrasi kami ke dalam kerja sejak awal. Mahasiswa-mahasiswa beasiswa kami melakukan kerja fisik selama musim libur mereka atau selama waktu belajar mereka. Dalam beberapa kasus kerja merupakan hadiah, cara pendidikan lain, namun ia tidak pernah merupakan hukuman. Sebuah generasi baru sedang dilahirkan.
+
+Partai merupakan organisasi pelopor. la terdiri dari buruh buruh yang terbaik, yang pengajuan keanggotaannya dilakukan oleh kawan-kawan sekerjanya. Partai adalah golongan minoritas, namun memiliki otoritas yang besar karena kualitas kadernya. Aspirasi kami adalah bahwa partai menjadi sebuah partai massa, namun hanya ada saat massa telah mencapai tingkat pelopor. Yakni, ketika massa terdidik bagi komunisme.
+
+Kerja kami secara konstan bertujuan pada pendidikan ini. Partai merupakan contoh hidup; kader-kadernya harus diajari kerja keras dan berani berkorban. Melalui tindakan mereka, mereka harus mengarahkan massa untuk melengkapi tugas-tugas revolusioner, dan ini mencakup tahun-tahun perjuangan keras melawan kesulitan-kesulitan pembangunan, musuh-musuh kelas, penyakit-penyakit masa lampau, imperialisme...
+
+Sekarang, saya hendak menjelaskan peranan yang dimainkan oleh individu, oleh manusia sebagai individu di dalam massa yang membuat sejarah. Ini adalah pengalaman kami; ini bukanlah resep.
+
+Fidel memberikan impuls-impuls revolusi di tahun-tahun pertama, dan juga kepemimpinannya. Ia selalu mengatur nadanya. Selain itu terdapat sekelompok kaum revolusioner yang tumbuh di atas jalan yang sama sebagai pimpinan pusat. Dan ada massa besar yang mengikuti pemimpinnya, karena yakin terhadap pemimpinnya.
+
+Massa memiliki kepercayaan kepada pemimpinnya karena pemimpin itu mengetahui bagaimana menginterpretasikan aspirasi massa.
+
+Tak jadi soal, berapa kilogram makanan yang seseorang harus makan, ataupun berapa kali dalam satu tahun seseorang pergi ke pantai, atau berapa banyak barang-barang bagus dari luar negeri yang bisa kau beli dengan uang yang kau peroleh dari gajimu saat ini; Persoalannya adalah membuat individu merasa lebih komplet, dengan kesempurnaan internal dan tanggung jawab yang lebih besar. 
+
+Individu di negeri kami mengetahui bahwa saat-saat mulia yang terjadi dalam hidupnya adalah saat pengorbanan; kami akrab dengan pengorbanan. Mereka yang pertama kali akrab dengan pengorbanan adalah para pejuang di Sierra Maestra dan selanjutnya juga di tempat-tempat lainnya, barulah setelah itu seluruh Kuba mengetahuinya. Kuba merupakan pelopor Amerika Latin dan harus membuat pengorbanan karena ia menduduki posisi garda terdepan, karena ia mengajarkan pada massa Amerika Latin jalan menuju kebebasan penuh.
+
+Di dalam negeri, kepemimpinan menjalankan peran pelopornya. Dan harus dikatakan di sini dengan setulus-tulusnya bahwa dalam sebuah revolusi riil, dimana seseorang memberikan seluruh miliknya dan dari mana seseorang tidak mengharapkan hadiah materi darinya, tugas dari revolusioner pelopor adalah indah dan sekaligus penuh penderitaan.
+
+Dengan resiko nampak sebagai hal yang ganjil, ijinkanlah saya mengatakan bahwa revolusioner sejati senantiasa dibimbing oleh perasaan kecintaan yang dalam. Adalah mustahil membayangkan seorang revolusioner sejati yang tidak memiliki kualitas ini. Agaknya inilah drama terbesar dari seorang pemimpin yang harus menggabungkan semangat yang menyala-nyala dengan intelegensi dingin dan membuat keputusan-keputusan yang berat dan menyakitkan tanpa menghindarinya. K kaum pelopor revolusioner kami harus membuat ideal kecintaan pada rakyat ini, pada sebab-sebab pengorbanan, membuatnya satu dan tak bisa ditawar-tawar lagi. Mereka tidak bisa kurang dari persyaratan itu, yaitu dengan kadar kecintaan yang dangkal, setingkat mana manusia biasa menempatkan cintanya ke dalam prakteknya.
+
+Pemimpin revolusi memiliki anak-anak yang baru mulai bisa bicara, yang tidak belajar memanggil ayahnya dengan nama; mereka memiliki istri atau suami yang merupakan bagian dari pengorbanan hidupnya dalam rangka memilih revolusi sebagai takdirnya; Lingkaran kawan-kawannya secara ketat dibatasi pada lingkaran kawan-kawan revolusi. Tidak ada kehidupan lain di luar itu.
+
+Dalam keadaan seperti ini seseorang harus memiliki kadar kemanusiaan yang tinggi, kadar rasa keadilan dan kebenaran yang tinggi agar tidak jatuh ke dalam dogmatisme ekstrem, ke dalam cara pandang sekolahan yang dingin, keterasingan dari massa. Kita harus berusaha secara gigih sedemikian rupa setiap hari sehingga cinta kemanusiaan kita ditransformasikan ke dalam tingkah laku nyata, ke dalam tindakan yang menunjukkan contoh-contoh, sebagai kekuatan penggerak.
+
+Revolusioner, kekuatan motor ideologis dari revolusi di dalam partai kita, dijejali oleh tugas-tugas yang tanpa henti-hentinya muncul dan hanya berakhir dengan kematian, terkecuali jika pembangunan sosialisme skala dunia telah rampung. Bila semangat revolusioner telah tumpul pada saat tugas-tugas yang amat mendesak harus dirampungkan di skala lokal dan ia mengabaikan tentang internasionalisme proletariat, maka revolusi sebagai kekuatan pendorong akan menjadi mandeg dan terperosok ke dalam keloyoan dimana imperialisme, musuh kita yang tak bisa ditawar-tawar lagi, akan memanfaatkannya guna memperoleh pijakannya. Internasionalisme proletariat merupakan sebuah kewajiban, namun ia juga merupakan kebutuhan revolusioner. Beginilah cara kami mendidik rakyat kami.
+
+Tentu saja ada bahaya di dalam situasi sekarang ini, dimana bukan hanya berupa dogmatisme, bukan hanya mengendurnya ikatan dengan massa, di tengah-tengah tugas berat. Bahaya yang lain adalah kelemahan yang ada pada diri kami sendiri. Seandainya seseorang berpikir hendak mengabdikan keseluruhan hidupnya bagi revolusi maka ini berarti bahwa ia tidak akan terganggu oleh kekhawatiran seperti anak-anaknya akan kekurangan atau kehilangan sesuatu,  bahwa sepatu anaknya telah usang dan robek dan harus segera diganti, bahwa keluarganya kekurangan dan butuh akan barang-barang tertentu, dimana demi memenuhi kekurangan-kekurangan itu ia menyediakan dirinya dimasuki oleh kuman-kuman tindak korupsi.
+
+Dalam hal seperti itu kami, sebagai revolusioner pelopor, harus memandang bahwa anak-anak kami harus dibiasakan dan diajak untuk tidak memiliki sesuatu barang jika anak-anak dari rakyat umumnyapun tidak memiliki barang seperti itu, dan keluarga kita harus memahami hal ini dan hidup dengan cara seperti ini. Revolusi tercipta melalui manusia, namun manusia harus mengasah semangat revolusionernya hari demi hari.
+
+Beginilah cara kami melangkah. Di ujung tiang pokok –kita tak perlu malu atau takut menyatakannya-- adalah Fidel Castro. Di belakangnya adalah kader-kader partai terbaik, dan di belakang mereka, sedemikian dekatnya mereka sehingga kita bisa merasakan kekuatan dahsyatnya, muncullah rakyat dengan keseluruhannya, sebuah struktur yang kukuh dari individu-individu yang bergerak menuju tujuan sama, individu-individu yang memperoleh kesadaran tentang apa yang harus dilakukan, manusia yang berjuang untuk menghindar dari kenyataan keterpaksaan dan memasuki kebebasan.
+
+Kumpulan manusia (great throng) yang begitu besar ini  mengorganisasi dirinya; organisasinya merupakan hasil dari kesadarannya terhadap perlunya organisasi itu. Ia bukan lagi merupakan kekuatan yang terpecah-pecah, terbagi-bagi ke dalam ratusan gumpalan yang terlempar ke udara bak pecahan granat, yang mencoba segala macam cara untuk mencapai perlindungan dari sebuah masa depan tak jelas, dalam sebuah pertarungan sengit dengan kawan-kawannya sendiri.
+
+Kita mengetahui bahwa pengorbanan ada dihadapan kita dan kita harus membayar sebuah harga demi fakta heroik dimana kita? sebagai sebuah bangsa, merupakan pelopor kita, sebagai pemimpin, mengetahui beaya yang harus kita bayar demi hak untuk menyatakan bahwa kita adalah pemimpin rakyat yang pemimpin benua Amerika Latin. Masing-masing dari kita harus membayar secara penuh jatah pengorbanan kita, makhluk yang memiliki kesadaran bahwa hadiah yang kita terima tak lain merupakan kepuasan bila mampu memenuhi kewajiban, kesadaran maju bersama dengan setiap orang menuju manusia baru yang nampak di cakrawala.
+
+Ijinkanlah saya menarik beberapa kesimpulan:  
+    Kami kaum sosialis, lebih bebas karena kami lebih lengkap, kami lebih lengkap karena kami lebih bebas.  
+    Kerangka kebebasan menyeluruh kami telah terbentuk. Daging dan bajunya masih belum ada, kita akan menciptakannya.  
+    Kebebasan kami dan topangannya sehari-hari kami bayar dengan darah dan pengorbanan kami.  
+    Pengorbanan kami disadari: beaya yang harus dibayar bagi kebebasan yang sedang kami bangun.  
+    Jalan ini panjang dan sebagian tidak kita ketahui kami menyadari keterbatasan kami, kami akan menciptakan manusia abad ke dua puluh satu--kami, diri kami.  
+    Kami akan menempa diri kami dalam tindakan sehari-hari; menciptakan manusia baru dengan teknologi baru.  
+    Individu memainkan peranan dalam memobilisasi dan mengarahkan massa sepanjang ia memiliki kebajikan yang amat tinggi dan aspirasi tentang rakyat dan tidak menyeleweng dari jalur.  
+    Untuk membersihkan jalan dilakukan oleh kelompok pelopor, yang terbaik dari segalanya, yaitu Partai.
+
+Basis sasaran (basic clay)dari pekerjaan kami adalah pemuda. Kami menempatkan harapan kami pada mereka dan mempersiapkan mereka mengambil panji-panji dari tangan kami.
+
+_Jika surat_ _yang penuh kekurangan ini (inarticulate letter) menjelaskan sesuatu berarti dia menunjukkan obyektivitas yang mendasarinya. Aku tutup dengan salam kita--sebagaimana kebiasaan jabat tangan atau satu "Ave Maria Purissima"--**Tanah Air atau Mati!**_
+
+* * *
+
+[Karya-karya Che Guevara](index.html) | [S�ksi Bahasa Indonesia M.I.A.](https://www.marxists.org/indonesia/index.htm)

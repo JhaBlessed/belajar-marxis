@@ -1,0 +1,349 @@
+# MADILOG
+
+## Tan Malaka (1943)
+
+* * *
+
+### BAB IV
+
+### S C I E N C E
+
+### ( L A N J U T A N)
+
+Sekarang kita menoleh kembali kepada definisi yang kita berikan pada science. Sampai kini definisi itu kita laksanakan pada cabang science Matematika, tegasnya Geometri. Disana sudah kita saksikan bagaimana science itu sebagai: cara berpikir yang jitu dengan menyusun dan mengumumkan bukti berlaku. Disini kita mau uraikan bagaimana dasar science itu menyesuaikan dirinya pada science, yang mempunyai berlainan bukti dari pada Matematika, terutama pada Ilmu Alam, Physical Science.
+
+Masih kita ingat, bahwa Matematika maksudnya ialah menyusun dan mengumumkan buktinya pada suatu teori, menguji betulnya teori ini dengan cara memasang, mengungkai dan menyesatkan. Dalam pokok besarnya maksud dan cara Ilmu Alam dan kawannya, sama juga dengan matematika. Tetapi buktinya matematika ialah barang yang lebih kurang abstract, seperti titik, baris dan sudut. Sedangkan Ilmu Bukti yang lain melayani benda seperti Bintang, Bumi, Matahari, Udara, Tumbuhan, Hewan, Logam, Garam, Zat, kuman dsb. Ilmu masyarakat seperti Sejarah, Ekonomi, Politik, dll, sama juga maksudnya dengan Matematika. Tetapi pada Ilmu Alam & Co, teori itu ada berupa LAW, ialah undang yang diperoleh dengan cara induction, yang dilaksanakan dengan Deduction dan selanjutnya dipastikan dengan cara verifikation.
+
+Tentulah akan terlampau panjang kalau kita mesti periksa bagaimana science melaksanakan caranya bekerja pada semua cabangnya seperti tersebut diatas. Tetapi dalam pokok besarnya coraknya Ilmu Bintang, Kodrat, Fisika dan Kimia bekerja tiada berapa bedanya. Sedangkan pada Ilmu yang mengandung sejarah seperti Biology dan Ilmu Masyarakat, ya terutama masyarakat terbukti keperluan memakai Dialektika. Kita kembali kepada Ilmu Alam & Co, yakni pusat penyelidikan kita pada bagian ini.
+
+1.  Bukti.
+2.  Law, undang.
+3.  Cara, Induction, Deduction, Verification.
+
+**Pasal 1. BUKTI**
+
+Pacts, bukti, inilah lantainya science, terutama Ilmu Alam (Bintang, Kodrat dan Kimia). Atas lantai bukti inilah satu Scientist, yakni Ahli Bukti mendirikan "degung undang-nya" Law. Undang ini jatuh atau berdiri dan dengan lemah atau tegasnya segala bukti atau beberapa bukti yang dipakai. Sebab itu satu Scientist, awas sekali memeriksa dan memilih buktinya. Bagaimanakah mendapatkan bukti yang pasti? Inilah yang pertama sekali terbit dalam fikiran seseorang scientist sebelum ia menyusun dan mengumumkan buktinya sampai jadi satu undang, walaupun caranya menyusun bukti itu sudah sempurna, tetapi kalau buktinya lemah atau salah, maka gagallah akibat, yakni undang yang dia peroleh.
+
+Dua jalan yang terutama buat memperoleh bukti yang sah, pertama dengan jalan observation, memperamati. Kedua dengan jalan experimentation, peralaman.
+
+Apakah perbedaan yang nyata pada dua cara mendapatkan bukti ini? Entah dongeng entah sejarah, tetapi saya harap satu sejarah, bahwa ada seorang kakek kita dari Jawa pada masa dahulu, yang karena ia begitu ingin hendak mengetahui sifatnya matahari, maka ia tantang Sang Matahari itu dengan mata telanjang saja berjam-jam lamanya.
+
+Saya tiada dapat tahu apakah hasilnya pekerjaannya, terutama terhadap dirinya sendiri. Tetapi inilah contoh yang tepat buat menggambarkan semangat seorang Scientist, ialah "ingin tahu". Inilah pula contoh yang tulen dari satu experiment disertai oleh keberanian disebabkan ingin tahu. Kalau semangat ingin tahu yang disertai oleh keberanian itu, dibantu pula oleh pengetahuan yang dalam dan perkakas yang cukup, maka dari bibit Indonesia tadi bisa tumbuh seorang professor Piccard, si pengerbang ke Strastosphere buat mengetahuinya.
+
+Biasanya si-ingin tahu masa dahulu berlaku sebaliknya dari orang Indonesia tadi. Aristoteles, ahli Yunani, dalam segala-gala Ptolemeus, Ahli Bumi dan Bintang Yunani ternama, Democritus dan Heraclitus, Ahli Bintang, Alam dan Dialektika, tiada sampai mempelajari sesuatu bukti itu dengan membahayakan anggota atau dirinya, melainkan menjauhi saja benda itu, memperamati saja benda itu atau bukti yang mau diperiksa itu. Mereka pilih cara observation, peramatan. Kalau mereka mau mempelajari bintang, maka malam hari mereka keluar, peramati banyak golongan, letaknya dan besarnya bintang. Kalau mereka mau mempelajari hewan atau tumbuhan, maka mereka dekati saja dan peramati saja tumbuhan dan hewan tadi.
+
+Newton tiada lain memperamati saja Bintang atau kodrat yang ia mau ketahui, tetapi, tiada pula meniru perbuatan kakek kita tadi. Cukuplah buat dia, kalau sinar matahari yang putih menyilaukan mata itu dimasukkan pada lobang kecil ke dalam bilik dan dengan prisma dia pisahkan pula sinar matahari yang sudah dikecilkan tadi atas 7 warna yang kita pelajari di sekolah. Buah apel kecil yang jatuh pada hidupnya, sudah cukup menyebabkan sakit dan peringatan, supaya jangan lagi dibiarkan sesuatu barang dari tempat yang tinggi meskipun kecil jatuh pada hidungnya. Dengan inclined plane, satu papan yang dimiringkan pada letaknya, bersiku +30 derajat dengan lantai, digulingkannya bola kecil pada papan miring tadi. Dengan begitu cepatnya benda tadi jatuh, dikurangi dan bisa diperiksa. Sedangkan kalau benda itu jatuh tegak ke bawah, cepat jatuhnya terlalu besar dan tak bisa dipelajari.
+
+Disinilah letaknya watak experiment. Pertama keadaan iklimnya atau kelilingnya barang atau kodrat yang mau dipelajari itu ditukar. Sinar yang mau dipelajari itu tiada lagi diperiksa pada tempat asalnya, yakni di langit dan lekat pada matahari, melainkan dalam bilik kecil dan gelap. Sinar yang kuat yang bisa membutakan mata kita itu, tiada lagi dibiarkan seluruhnya mengenai panca indera, mata kita, melainkan sebagian kecil yang sudah dikendalikan dengan lobang kecil. Selainnya dari pada itu, sifat yang lain dari sinar tadi umpamanya cepat berjalan, zatnya, dll. Tiada kita perdulikan pada masa itu. Kalau hendak memeriksa cepatnya sesuatu benda jatuh, yakni memeriksa kuatnya bumi menarik benda, maka tiada kita suruh, seekor beruk memetik kelapa dan kita taruh kepala kita persis di bawah kelapa jatuh itu, melainkan kita pakai papan miringnya Newton dalam bilik dan kita gulingkan bola kecil di atasnya, dan kita kurangi lagi cepatnya. Apa warnanya, gunanya, zatnya, dll. Dari bola itu pada waktu ini tiada masuk pemeriksaan kita.
+
+Jadi kalau kita melakukan experiment, kita biasanya lebih dahulu membikin model. Iklim benda yang mau kita periksa itu ditukar, kodratnya dikurangkan dan segala sifat yang tiada berkenaan dengan pemeriksaan, kita jauhkan sama sekali. Model sekarang sudah di kamar atau di kebun kita, kekuatannya tiada membahayakan lagi, sifat yang mau kita periksa itu sudah dikhususkan, diistimewakan, dengan mata, telinga dan perkakas kita boleh perhatikan dan kita tuliskan apa yang kita saksikan, berulang-ulang sampai jelas.
+
+Ahli listrik tak perlu lagi menaikkan layangan pada waktu petir dan bahaya atas dirinya seperti Benjamin Franklin. Satu battery kecil atau dinamo kecil sudah cukup buat menguji pendapatan kita tentang listerik, menguji hypothesis, persangkaan kita tentang listerik.
+
+Pengiraan yang tidak-tidak tentang tumbuhan, hewan atau manusia, sekarang boleh disingkirkan dengan menanam tumbuhan, memelihara hewan atau membelai mayat yang kita mau periksa. Tumbuhan boleh dicangkokkan, binatang boleh dicampurkan, diberi vitamin a atau b, dsb. Ditilik serta dituliskan hasil experimen, pengalaman kita. Kuman dibesarkan beribu kali oleh microskoop dan bintang didekatkan beribu kali oleh telescoop!
+
+Socrates Zaman sekarang, tak perlu lagi berkata pada dirinya sendiri "ketahuilah dirimu (jiwamu sendiri)", lantas bermenung berhari, berbulan dan bertahun-tahun. Ahli jiwa mengambil otak manusia, monyet atau binatang lain, memisahkan dalam laboratorium. Memeriksa zatnya dengan mata dan microskoop. Mempelajari laku, tabiat sifat anak-anak, anak hewan, dsb. Dan menuliskan apa yang dilihat.
+
+Sekarang adalah zaman experimenteel Science, zaman Ilmu Bukti. Bukti itu diperalamkan, betul-betul terbukti, tak sangsi buktinya pada tempat dan tempo manapun juga. Zaman ini masih baru. Sungguhpun begitu ahli experiment tentang zat, tumbuhan, hewan, otak dll. Sudah mengumpulkan begitu banyak bukti sehingga bukti itu belum lagi semuanya tersusun dengan sepatutnya, buat dijadikan undang.
+
+Mencari bukti dengan experiment, tentulah tiada sama sekali baru. Yang baru cuma terutamanya, teristimewanya dalam semua Ilmu Bukti. Dahulu experiment itu tiada begitu diutamakan, tiada dijadikan dasarnya sesuatu pemeriksaan. Dahulu kalapun experiment itu sudah dijalankan.
+
+Seorang Yunani bernama Heron, sudah memperlihatkan kekuatan uap dengan perkakas seperti cerek ketel, yang berputar ke belakang, sedangkan uap air panas mengembus kemuka. Jadi dia inilah sebetulnya bibit Stephenson, pendapat mesin locomotive (100 tahun dahulu!) yang dipakai sekarang sesudah diperbaiki beberapa kali.
+
+Lebih-lebih ahli kimia bangsa Arab, tiada putus-putusnya menjalankan experiment buat menukar logam jadi emas dan mendapatkan obat buat hidup kekal. Bukti yang mereka dapat dan tuliskan adalah menjadi dasar Lavoisier buat mendapatkan undang Ilmu Pisah pada permulaan abad yang lalu.
+
+Akhirnya walaupun sekarang peralaman, experimentlah, yang menaiki tahta Ilmu Bukti, tetapi ini tiada berarti, bahwa peramatan, observation sekarang sama sekali mati dan dahulu tiada diketahui atau tiada berhasil sama sekali. Dalam Ilmu sejarah umpamanya, kita tiada bisa menjalankan experiment seperti pada Ilmu Alam dan Kimia. Kita mesti menunggu bertahun-tahun bagaimana akibatnya sesuatu undang masyarakat. Kita sudah perlihatkan, berapa hasil yang didapatkan oleh Demokritus dalam hal Ilmu Alam sebagai buah pikiran berdasarkan Dialektika. Raksasa fikiran, seperti gelar yang diberikan oleh Marx pada Aristoteles, betul-betul raksasa dalam hal berpikir yang tiada atau sedikit sekali beralasan experiment. Tetapi sekarang dan pada hari depan sudahlah pasti, bahwa experimentlah yang akan terus menduduki tahta dalam daerah mencari bukti yang sah.
+
+Bukti dalam Ilmu Alam, berdasarkan benda, Matter. Apakah benda itu?
+
+Benda, matter, kata Science, yaitu yang mengenai panca indera kita. Yang pasti panca indera kita ada lima, mata buat melihat, telinga buat mendengar, lidah buat mengecap, hidung buat pencium dan kulit perasa.
+
+Menurut kaum mystikus ada lagi pancaindera yang ke 6, bernama intuition, perasaan gaib. Tetapi pada anggota mana dia berurat dan di bagian badan mana letaknya, tak pernah mereka terangkan. Juga akibat anggota ke-6 itu tiadalah pada semua orang dan sembarang tempoh boleh dipastikan. Pendeknya anggota ke-6 itu ada di luar pemeriksaan science dan common sense, pikiran biasa. Kita kembali kepada anggota yang lima tadi, maka menurut Ilmu Jiwa, Psychology, mata, telinga, hidung, lidah dan kulit kita menerima kesan impression, dari luar badan kita. Kesan dibawa oleh sensory nerve, saraf pancaindera, terus ke otak, seperti tali kawat membawa kabar dari pengetok kepada pendengar. Otak menggambarkan kesan yang diterima itu. Yang datang dari mata berupa besar atau kecil, hitam atau putih, tinggi atau rendah, aman atau berbahaya, dsb. Yang datang dari telinga berupa nyaring atau lembek. Yang dari lidah manis atau pahit, sedap atau ringan, halus atau kasar. Sesudah otak mendapat gambaran, maka ia beri perintah pada anggota yang berkenan. Kalau mata umpamanya melihat macan, maka otak dengan jalan motor-nerve, syaraf penunda, memerintahkan diri melepaskan pesawat senapan atau memerintahkan kaki membuat langkah seribu. Begitulah seluk-beluknya, kena-mengenanya, hati dan benda di luar kita dengan perantaraan pancaindera yang lima.
+
+Benda, kata ahli bukti, Scientist, seterusnya bisa melayani 3 keadaan. 1. Solid, ialah padat. 2. liquid, cair. 3. gasceus, uap. Kebanyakan benda bisa memasuki 3 keadaan itu. Air umpamanya boleh padat beku, cair dan menguap. Benda seterusnya menduduki ruang alam, mempunyai berat dan kodrat buat menggerakannya.
+
+Ilmu Alam, yaitu adalah penyusunan dengan mengumumkan beberapa sifat serta seluk-beluk Benda dan Kodratnya. Ilmu Alam mempelajari segala sifat dan seluk-beluknya Benda dan Kodratnya dalam keadaan tersebut di atas. Beratnya barang dengan  kilogram, hectogram, sampai miligram.
+
+Panjangnya barang dan kembangnya benda kalau dipanaskan, cepatnya benda jatuh atau menjalankan bunyinya diukur dengan kilometer sampai milimeter. Lamanya suatu barang menjalankan kerjanya diukur dengan tahun, bulan sampai dengan jam, menit dan detik.
+
+Ukur mengukur inilah yang menjadi kawannya satu experiment. Ukuran itu mesti pasti. Panjang itu mesti tetap, tiada dipermainkan tempat atau tempoh. Tetapi sejengkal umpamanya buat orang Indonesia, tiada sama dengan sejengkal orang Shantung dan lebih kurang lagi dari sejengkalnya orang Benggali. Ukuran jengkal semacam  itu tak berguna buat Ilmu Bukti.
+
+Meter mesti pasti, yakni mendekati kepastian yang sempurna. Meter mulanya 1/10.000.000 dari antara khatulistiwa ke Kutub Utara, jadi ¼ bundaran bumi. Satu tongkat dari platinum sepanjang meter itu, yang punya panas sama dengan air es menjadi cair (smelting) disimpan di Paris. Inilah yang jadi ukuran buat seluruh dunia, semua tempat dan tempoh, buat si pendek Indonesia, orang Shantung atau Hindustan pada segenap tempoh. Itulah yang tetap dan tepat kata Science, ilmu bukti.
+
+Kita sekarang tahu, bahwa menurut pengukuran baru, bahwa antara khatulistiwa dan Kutub Utara itu, ada sedikit berbeda dengan hasil pengukuran lama. Tetapi perbedaan itu ada sedikit sekali, atau kesalahan kita ada sedikit sekali. Jadi meter kita di Paris itu tak pula berapa salahnya dari 1/10.000.000 dari ¼ bundaran bumi.
+
+Kita tahu, bahwa perkakas penimbang yang kita pakai itu makin tua makin tak betul kerjanya. Tetapi kesalahan ada sedikit. Dan sekarang ada pula Ilmu buat membetulkan kesalahan yang sudah dikecilkan itu. Penghitung panas, thermometer, juga bisa membuat kesalahan. Begitu juga barometer pengukur tekanan (presure) udara.
+
+Yang semata-mata persis, jitu tentulah tak bisa kita peroleh di dunia ini. Tetapi dengan Science yang berkewajiban membetulkan kesalahan yang kecil yang biasanya tak kelihatan oleh mata itu, kesalahan kecil tadi bisa dikecilkan pula.
+
+Dengan 5 pancaindera kita, yang dibantu oleh perkakas penglihatan seperti telescoop dan microscoop, pengukur panas seperti thermometer, pengukur tekanan seperti barometer, maka bukti yang kita peroleh tentang benda yang dihitung beratnya dengan pertolongan Kg ……… mG, cepatnya dengan Km ……..mM, bolehlah kita katakan pasti. Kalau ada salah tiadalah akan berapa salahnya dan boleh dikecilkan pula salahnya itu oleh matematika. Tiadalah kita main agak-agak, terka menerka dan nujum menujum.
+
+**Pasal 2  LAW, UNDANG**
+
+Ambillah sembarang buku tentang Science yang dipakai di sekolah menengah, carilah defisininya Law. Satu definisi pada "Elementary Chemistry" oleh Littler berbunyi Law ialah "general statement that sums up a number of isolated facts". Undang yaitu satu pengumuman yang menyusun beberapa bukti yang terpencar-pencar. Beginilah kiranya definisi Law itu dan beginilah kira-kira bahasa Indonesianya. Lain buku lain pula kata-katanya dan lain pula susunannya. Tetapi maksudnya sama, ialah seperti maksud Science yang saya tuliskan lebih dahulu di atas, ialah penyusunan dengan pengumuman beberapa bukti.
+
+Kita masih ingat, bahwa Dalton menghadapi beberapa bukti terpencil. Wujudnya hendak memadukan oxygen dengan hydrogen jadi air. Dia menghadapi perbedaan dan persamaan. Jalan percampuran itu ada berbeda-beda. Ada dengan jalan membakar hydrogen, ada dengan jalan memberi lalu hydrogen dekat tembaga-oxigen. Ada di dapat pada air hujan. Tetapi bagaimana juga perbedaan jalan mendapatkan itu, dia menghadapi satu persamaan atau keumuman. Keumuman ini mengatakan, bahwa oxigen dan hydrogen berpadu menjadi air dengan perbandingan 11,1 % dan 88,9 %. Dia coba memadukan barang lain dengan bermacam-macam jalan. Tetapi dalam hal inipun perpaduan berlaku atas bandingan yang tentu, seperti pada air tadi. Segala bukti terpencar itu disusun dalam satu Undang bernama "Undang dari perpaduan yang tetap bandingan". Menurut undang ini, maka dengan jalan apapun juga satu zat berpadu dengan zat yang lain, menjadi benda baru, dia mesti berpadu dengan perbandingan yang tetap. Kalau kita sudah punya daftar dari perpaduan bermacam-macam zat, maka dengan jalan timbang menimbang kita bisa bikin satu perpaduan (garam dll).
+
+Setelah Newton mengadakan peramatan dan experiment peralaman tentang kodrat, maka ia simpulkan tiga Undang tentang gerakan "Laws of Motion“, undang Gerakan. Tiga undang ini diakui syahnya oleh para ahli bintang di seluruh dunia, dipelajari di sekolah menengah dan dipakai oleh yang bersangkutan dari hari kehari.
+
+Undang pertama berbunyi: Tiap-tiap benda tetap berhenti atau tetap bergerak pada garis lurus, kecuali kalau benda itu dipaksa oleh kodrat lain, menukar keadaan itu.
+
+Kelihatan jinak sekali undang ini, tetapi undang inilah yang menguasai seluruh alam kita ini. Semua yang berhenti mesti tetap berhenti. Kalau ia bergerak mesti ada sebab, mesti ada kodrat yang nyata, yang boleh diperiksa dan dihitung yang menggerakkannya. Sesuatu benda yang bergerak pada satu lapang itu, mesti terus bergerak, bergerak pada garis lurus di lapang itu. Kalau cepatnya atau arahnya bertukar, atau keduanya maka mesti ada sebab yang menukar cepat atau arah atau keduanya. Pendeknya tak ada akibat kalau tak ada sebab.
+
+Papan atau besi itu mengembang karena (kodrat) panas, susut karena dingin. Tak ada dalam Alam ini yang bisa membantah hal ini. Kalau mengembang atau menyusutnya terhalang, maka mesti ada kodrat lain yang menghalangi. Semua barang di atas bumi ditarik ke bawah oleh bumi. Tak ada benda di alam bisa membantah, kalau benda itu tak jatuh ke bumi, seperti kapal udara, mesti ada kodrat lain yang membantah. Kita tahu kodrat yang lain itu, tiada saja tahu, kita bisa adakan kodrat lain yang menyebabkan kapal udara yang berat itu melambung, membantah kodrat bumi yang menarik kapal udara itu ke tanah.
+
+Jadi apa juga benda dalam alam ini, kayu, batu, besi, tumbuhan, hewan, bumi, dsb. Kalau satu kali berhenti ia berhenti terus. Kalau dia bergerak mesti ada sebab yang menggerakkan. Kayu bergerak karena diangkat kodrat manusia atau lain sebab. Batu bergerak karena jatuh yaitu ditarik bumi. Besi bergerak karena umpamanya ditarik besi berani. Tumbuhan naik ke atas karena kodrat tumbuh. Hewan bergerak karena kodrat hewan atau ditarik manusia dsb. Berbagai-bagai benda yang sedang berhenti diambil sebagai contoh. Bermacam-macam kodrat yang boleh diambil jadi contoh. Tetapi walaupun bendanya berbagai-bagai dan kodratnya bermacam-macam, kita menghadapi satu persamaan, keumuman, satu undang, ialah: "Kalau benda bergerak, atau menukar arahnya bergerak, maka mesti ada sebab yang menggerakkan atau menukar arah geraknya." Semua benda dan semua kodrat dialam ini sudah tersusun (diorganisir). Pada satu penyusunan dan pengumuman, pada satu undang. Tak ada benda di alam ini, di atas bumi dan langit, tumbuhan, hewan logam, bumi dan bintang yang tiada takluk pada undang ini.
+
+Disinipun kita pastikan, bahwa benda dan kodrat itu bisa dipancirkan. Walaupun undang ini bernama Laws of Motion, undang gerakan, tetapi gerakan dan kodrat itu berbedaan pada Benda. Tak ada simpulan science, undang science, yang berhubungan dengan kodrat, yang mengandung kodrat saja atau benda semata-mata. Kita ingat pada A = B. A diterjemahkan diartikan dengan B, dan B diartikan dengan A. begitu juga mestinya benda diartikan dengan kodrat dan kodrat dengan benda.
+
+Putik apel yang kecil itu tetap pada ranting, sebab tampuk cukup kuat buat menahan apel itu jatuh disebabkan tarikan bumi. Jadi kekuatan tampuk bisa membantah kodrat bumi menarik. Tetapi karena tampuk busuk, maka kodratnya hilang. Sekarang kodrat bumi menang dan putik apel jatuh, kebetulan di atas hidung Newton. Apel yang begitu kecil bisa membikin berasa sakit. Hal ini menyebabkan Newton takjub berpikir, mengadakan experiment, dan menyimpulkan undang kedua. Undang yang kedua mengandung banyak technical terms, perkataan yang terkhusus artinya buat ahli mekanika.
+
+Kita tiada bisa tuliskan saja undang itu disini dengan tiada memakai keterangan yang panjang sekali, keterangan mana tiada berkenaan dengan maksud bagian buku ini. Undang itu berguna sekali buat hitung menghitung benda yang bergerak, benda yang jatuh umpamanya. Buat seorang opsir umpamanya, formule yang mengandung kesimpulan undang itu, adalah seperti cangkul buat pak tani. Kalau opsir artileri tak ber-fomule itu, maka ia tak bisa menghitung berapa tinggi dan jauhnya peluru bisa melayang. Menaksir, bisa atau tidaknya ia mengenai tujuannya. Bomnya satu bomber akan percuma jatuh, kalau tiada mengakui dan menjalankan undang kedua ini. Pendeknya undang ini tersimpul pada perhitungan yang mesti, yang bernama formule.
+
+Maknanya undang kedua ini tiada lain, melainkan barang yang jatuh itu bertambah cepat jatuhnya dari second ke second. Pada sekonde (detik) yang kedua jatuhnya lebih cepat dari yang pertama, yang ketiga lebih cepat dari yang kedua dsb. Formule yang sulit yang dikandung oleh undang kedua ini menggambarkan dengan huruf, berapa naiknya tambah kecepatan itu tiap-tiap sekonde. Makin lama barang jauh, makin cepat jatuhnya. Sehingga barang kecilpun kalau jatuh dari tempat yang tinggi, maka barang itu keras tekannya pada benda yang menerima, seperti putik apel atas puncak hidung Newton.
+
+Dalam formule yang sudah pasti inipun, diadakan penyusunan dari benda apapun juga yang jatuh. Berupa apapun juga benda itu, berbentuk apapun, juga ia mesti takluk pada undang kedua ini. Tak ada benda yang jatuh yang bisa membatalkan undang yang tersimpul pada formule undang ini.
+
+Disinipun terang seperti matahari, bahwa pada semua perhitungan yang dilakukan menurut formulenya undang, tak bisa disingkiri perpaduan benda dan kodrat.
+
+Undang ketiga : Tiap-tiap aksi menimbulkan reaksi yang sama.
+
+Berat badan kita menekan tanah dan tanah melambungkan kita ke atas dengan kodrat seberat badan kita pula. Kalau satu magnet (besi berani) menarik sepotong paku, maka paku itu menarik besi berani dengan kodrat yang sama pada arah bertentangan. Kalau satu benda tergantung pada palang dengan tali, maka tali tadi menarik benda ke atas dengan kekuatan beratnya benda menarik palang ke bawah.
+
+Kita ikat satu batu pada sepotong tali dan kita putar batu itu berkeliling kita. Kekuatan batu menarik kita dengan tali tadi, sama dengan kekuatan kita menarik batu. Matahari menarik bumi dengan kodrat yang tentu  pada arah ke Matahari, dan sebaliknya bumi menarik matahari dengan kekuatan yang sama pada bertentangan, ialah arah dari matahari.
+
+Lagi satu contoh. B menarik A dengan kekuatan lebih dari A, kita andaikan kelebihan itu 20 x. Tentu A mesti jalan ke B, tetapi kalau ada C menolong A dengan kekuatan 20 x menarik ke arah bertentangan dengan B, tentu A berhenti. Tak maju mundur. Begitu juga bintang, tetap pada tempatnya sebagai result (hasil) tarik menarik. Bintang sama bintang. Tiap-tiap aksi menimbulkan reaksi yang sama. Satu penyusun pula dari sekalian benda dalam alam ini yang mengadakan aksi. Balasnya ialah reaksi yang sama dari benda yang lain pada arah bertentangan. Sekali lagi kita bertemu benda dan kodrat , dalam perjuangan dimana aksi dan reaksi tadi tak berpisah.
+
+Sudahlah tentu di bagian Asia, dimana Kodrat dipisahkan dari Benda, dimana Rohani dipisahkan dari Jasmani, ya dimana Jasmani itu dianggap satu sengsara, satu bui satu kungkungan yang mesti dibatalkan, dibunuh supaya terjadi REINKARNASI, penjelmaan. Kelahiran yang akan datang tak lagi ke atas dunia sengsara terkutuk ini, melainkan terus ke Nirwana, padu dengan Rohani-Alam, Pati, dan sudahlah tentu di Hindustan, yakni Hindustannya Mahabrata Ramayana, Budhisme, dll. Tak akan lahir satu Newton. Saya mengaku penuh, bahwa Idealisme Hindustan bisa menerbitkan cara berpikir yang boleh dipakai., saya tahu, bahwa Matematika juga sedikit maju di Hindustan, walaupun saya tak bisa memeriksa berapa; adakah pengaruhnya Yunani dibawa Iskandar. Saya tahu artinya pengaruh filsafat Hindustan pada filosofi Barat seperti Schopenhauer dan Hegel. Tetapi hasil semacam itu didapat sebagai by product, hasil tersambil, bukan seperti hasil langsung, hasil langsung dari pemeriksaan yang berdasarkan Benda dan Kodrat keduanya. Diluar Matematika yang kurang lebih abstract itu, yakni pada Ilmu Bukti sejati boleh dikatakan tak ada penyusun atau undang science, yang diperoleh Hindustan Kuno itu.
+
+Saya ada sedikit rapat dengan negara, bangsa, dan sejarah Tiongkok. Saya pikir, dari penjuru manapun ahli kuno Tiongkok memandang alam lebih dekat pada science dari pada ahli kuno Hindustan. Walaupun Budhisme, menjalarnya dari Hindustan ke Tiongkok, tetapi penguraian yang pasti tentang Budhisme dan madzabnya saya peroleh pada tulisan Budhist Tionghoa seperti Cuang Cu, I Cing dan Fah Hin. Pada tempat asalnya sendiri di Hindustan barang yang terang itu menjadi gelap, manusia jadi Dewa, ya, lebih dari Dewa, apa yang di bawah terpelanting ke atas yang di atas tercampak ke bawah. Logika Mystika berimaharajalela walaupun yang arif bijaksana bisa memperoleh cara berpikir yang berarti, dalam peninjauan orang Hindustan yang memandang benda itu sebagai kutuk. Filsafat Hindu kuno juga mengenal materialisme, tetapi resminya ialah idealisme.
+
+Ahli Tionghoa, kakinya tetap di tanah, di atas bukti. Ahli fikir yang mencoba membalikkan kepala Tionghoa terletak di kaki itu seperti Lao Cu juga tak berapa pengaruhnya. Ahli Tionghoa tetap berdiri di atas fact, bukti, baik dalam filsafat, Ilmu Bintang ataupun obat-obatan. Kalau ada kekurangan ahli Tionghoa, maka bukan terletak pada penjuru pemandangan yang mesti buntu yang tak bisa mengadakan Ilmu Bukti, yakni pada penjuru Mystika, melainkan karena Ahli Tionghoa tak lebih maju dari pengetahuan tentang bukti, segala bukti yang diperolehnya tetap terpancir-pancir.
+
+Berkali-kali saya saksikan jitunya penaksiran Alamak Tionghoa tentang keadaan hari hujan, panas, dingin atau topan dsb., keadaan musin, heran bin ajaib, malah kadang-kadang lebih jitu dari alamanak model Barat. Saya tahu, bahwa pendeta Katholik pada abad ke-17 banyak mengajarkan Ilmu Bintang pada Tionghoa. Juga kedatangan Marco-Polo pada abad ke-14 banyak memberi bahagia pada Tiongkok. Tetapi perhitungan Alamanak Tionghoa kuno itu, boleh jadi perhitungan sama sekali berdasarkan atas observasi, peramatan. Menurut keterangan terpelajar Tionghoa pada saya; dari dahulu kala He-Siu, pendeta Budhist Tionghoa, mendaftarkan kejadian Alam, hujan, panas, dingin dsb. Dari hari ke hari, dari bulan ke bulan, dari tahun ke tahun. Jadi penaksiran yang jitu sama sekali berdasar atas perbandingan dengan yang sudah-sudah. Sebab dahulu begitu, sekarang tentu begitu juga, satu logika, yang sering mengandung bahaya yang bisa menyesatkan. Bukanlah akibat kesimpulan undang dari Ilmu Iklim, yang berhubung dengan pressure (tekanan udara) temperature (panas dingin). Jadi bukan perhitungan science, melainkan pengetahuan dari segala bukti yang sudah diperoleh, tetapi tidak disusun dan diumumkan, dijadikan science dan undang.
+
+Begitu juga pengetahuan ahli Tionghoa tentang zat dan khasiatnya zat pada beberapa tumbuhan dan hewan. Saya sendiri mengalami jitunya obat Tionghoa. Terhadap diri saya pada tempoh yang lalu lebih mujarab dari obat Barat (saya bilang buat diri saya, jadi hal yang terkecuali dan penyakit yang terkecuali!). Tetapi pengobatan itu berdasarkan bukti saja, ialah pengetahuan khasiatnya tumbuhan atau hewan. Pengetahuan yang acap mengagumkan dan memberi kepercayaan saya pada obat Tionghoa yang tulen itu tak kena mengena dengan undang Biology dan kimia yang dipakai oleh kedokteran Barat.
+
+Bukannya pula ahli Tionghoa tak mencoba menyusun dan mengumumkan Bukti mengadakan teori. Sedang Dokter Tionghoa sahabat saya, yang dapat didikan Barat menterjemahkan isi buku obat-obatan Tionghoa, yang lazim dipakai dukun lama, namanya saya sudah lupa! Tetapi ia tak bisa menyelesaikan terjemahan itu, karena ia tak bisa menahan tertawanya membaca tiap-tiap teori yang dimajukan oleh buku asli yang mahsyur tadi tentang jalannya darah dsb. Pendeknya teori itu tak lebih dari persangkaan semata-mata, tak berdasarkan experiment dan ujian logika, cara Barat.
+
+Demikianlah dalam Ilmu lain-lain, ahli Tionghoa banyak mempunyai bukti-bukti yang betul. Ingat saja, obat bedil dan pedoman yang berasal dari Tionghoa! Tetapi bukti tadi tinggal bukti cerai-berai, tak disusun dan diperumumkan, tak digeneralisir sampai ke pintu science.
+
+Sebabnya? Inilah yang menjadi persoalan bagi saya dan menimbulkan banyak percakapan dengan Tionghoa, yang berhak bercakap dalam hal itu. Hal ini saya pikir bukan karena otak Tionghoa kurang cerdas dari otak Barat, melainkan berhubung dengan keadaan masyarakat dan ekonomi Tionghoa. Begitu juga condongnya pikiran Hindu pada Logika mystika berkenaan dengan masyarakat dan ekonomi Hindustan. Tetapi saya tentu tak boleh menyimpang lebih jauh dari arah uraian saya.
+
+Pada para ahli Baratlah kita mesti gantungkan bintang kehormatan sebagai penyusun segala bukti yang nyata tentang benda yang bergerak di ruang alam yang tidak terbatas ini. Tiadalah benda itu dari Bintang sampai ke Kuman bergerak kacau-balau semau-maunya, melainkan menurut undang yang pasti yang boleh diukur dan dilaksanakan.
+
+Pada bangsa Yunanilah timbulnya semangat menyusun dan memperumumkan (generalizasi) segala bukti yang terpancir kacau-balau itu. Sekarang dari Barat semangat science ini menjalar dengan lambat, tetapi tetap ke seluruh pelosok bumi kita ini.
+
+Semenjak Copernicus tiadalah lagi jutaan, ya, juta-jutaan bintang dan matahari, yakni salah satu bintang saja, beredar mengelilingi bumi kita ini melainkan sebaliknya, bumi yang cuma dari penjuru kita manusia saja berarti begitu penting, bumi kitalah yang mengedari matahari dengan kecepatan 2.560.000 KM satu hari pada lingkaran 937.000.000 KM. Mata kita salah, ini kalipun salah, disalahkan oleh science. Copernicus dengan beberapa alasan yang pasti dan Galilei dengan Matematika menyatakan kesalahan mata kita itu.
+
+Dengan memakai undang-undang Newton kita boleh gambarkan alam yang teratur. Walaupun banyak bumi dan bintang berjuta-juta. Bumi yaitu bintang yang padam! Walaupun ada pula bumi lain dari bumi kita yang beredar pada matahari lain dari kita punya, walaupun ada pula bintang yang liar, mengembara, ialah Komet, walaupun banyak lagi bintang yang belum sampai kelihatan oleh teropong, sekarang kita bisa mengerti, bahwa semuanya bintang dan gerakan yang mahacepat takluk pada undang yang pasti.
+
+Tak ada yang ajaib. Yang ajaib itu besok akan diketahui. Pada para ahli Ilmu Kimia dan Ilmu Kimia Barat pulalah kita mesti memandang kalau mau berjumpakan undang yang menetapkan bagaimana zat dan kodratnya dalam ini berpadu dan berpisah. Pada Biologist dan Geologist Barat pulalah kita mesti mendapatkan keyakinan, kalau hendak mengetahui seluk-beluknya evolusi, ketumbuhan benda yang berkeliling kita ini dari zat tak bernyawa sampai ke protein (putih telur) dari putih telur sampai kepada dua tiga sel-asli bernyawa dan dari sel-asli sampai ke monyet dan manusia, dalam tempo beratus ribu tahun lamanya. Boleh jadi undang sekalian itu cuma didapat dengan jalan science, jalan yang sudah dirintis oleh Newton, Einstein, Darwin, Mendel, Dalton, Ruterford, Faraday, Ohm, Pascal dan Boyle, serta banyak ahli pemikir dalam segala cabangnya Ilmu Bukti.
+
+**Pasal 3. CARA : INDUCTION, DEDUCTION, VERIFICATION.**
+
+**Bagian 1. INDUCTION**
+
+Insyinyur Sukarno dibuang kira-kira 10 tahun. Ini adalah satu bukti sah, pasti, tetapi ini tiadalah undang. Cuma satu bukti, satu saja, bukti terpancir. Dari satu bukti terpancir tentu kita tak dapat mengadakan penyusunan dan perumpamaan. Cuma benar atau tidaknya bukti semacam itu boleh kita uji. Tetapi, kalau saya bilang, semua insinyur yang memimpin perkumpulan politik mesti diintenir oleh pemerintah Belanda.
+
+Simpulan di atas bukan lagi satu bukti yang terpancir. Kalau betul ia boleh menjadi salah satu penyusunan, satu undang. Kalau betul semua insinyur, dari insinyur A sampai Z yang memimpin perkumpulan politik di buang oleh pemerintah Belanda, maka benar simpulan itu.
+
+Tetapi kita tahu tiada beberapa banyaknya insinyur di Indonesia, kalau dibanding dengan penduduknya sendiri. Lebih-lebih kalau dibanding dengan negeri sopan. Apalagi insinyur yang menyeburkan diri dalam pergerakan politik boleh dibilang dengan jari tangan saja.
+
+Maksud dan contoh kedua ini juga, supaya yang memeriksa betul atau tidaknya simpulan (proposisition, bukan kalimat, sentence Inggrisnya) ini memeriksa dengan memakai jari, yang sudah diketahui banyaknya itu, yaitu cuma 10, maknanya cuma sedikit. Sebab sedikitnya bukti itu kita bisa main hitung, seperti orang desa ialah dengan jari saja. Marilah kita periksa. Saya ingat akan Ir. Baars, yang memimpin perkumpulan politik. Dia juga diintenir, baca extenir. Jadi bukti baru ini menyokong bukti pertama, ialah berhubung dengan Ir. Sukarno.
+
+Saya tahu lagi satu insinyur lain yang memimpin perkumpulan poltik, yaitu almarhum Ir. Anwari. Tetapi dia walaupun memimpin perkumpulan politik, tiadalah diinteernir. Dengan bukti ini saja simpulan di atas sudah gagal. Kebetulan saya tak kenal satu dua insinyur Indonesia lain yang memimpin perkumpulan politik. Tetapi dengan bukti yang berhubung dengan almarhum Ir. Anwari saja simpulan kedua sudah gagal, karena tiada semuanya insinyur yang memimpin perkumpulan politik itu dibuang.
+
+Kalau lebih banyak bukti yang diketahui dan belum diketahui maka lebih susahlah memeriksa benar atau tidaknya kesimpulan itu. Dalam hal ini kita tak bisa main hitung jari lagi, tetapi selamanya bukti yang kita ketahui adalah takluk pada simpulan itu maka lebih susahlah memeriksa benar atau tidaknya kesimpulan betul buat segala bukti yang ada dalam daerahnya, penyusunannya  
+dalam Matematika umpamanya: X (kuadrat) – X + 41 mesti odd number, yakni angka yang tak boleh dipisahkan atas faktornya, tunggal.
+
+Kalau umpamanya X itu kita anggap 2, maka  X (kuadrat) – X + 41 = 43, juga tunggal.
+
+Sekarang kita anggap sembarang saja umpamanya 100. Kita dapati X (kuadrat) – X + 41 = 9941. Bilangan mana saja kita anggap sampai bilangan yang kita ambil terjadi dari 7 angka, X (kuadrat) – X + 41 tetap tunggal. Kita sekarang hampir percaya akan formule ini, dan kita condong mau angkat calon undang ini jadi undang baru. Kebetulan ada kawan ahli Matematika datang dengan angka 41.
+
+Kalau X kita anggap 41, maka X (kuadrat) – X + 41 = 1681, yakni 41x41, jadi boleh dipisah atas factornya ialah 41, jadi bukannya tunggal. Dengan begini gagallah kebenaran, bahwa X (kuadrat) – X + 41, satu angka yang tunggal.
+
+Pada semua contoh yang kita pakai di ataslah terpendamnya, bagaimana cara membikin satu simpulan itu jadi undang, yakni penyusunan dengan perumuman sekalian bukti terpancir tak ada yang diketahui yang tiada takluk pada undang itu. Kita tiada menghadapi satu bukti saja, atau lebih dari satu, tetapi boleh dihitung dengan jari, sehingga kita bisa memeriksa satu persatunya. Tetapi kita menghadapi bukti yang tak berbatas, banyak kawannya. Semua bukti yang tak berbatas itu meski masuk, mesti tersusun dalam undang kita.
+
+Jalan induction mengambil jalan tengah, yakni di antara jalan yang memeriksa cuma satu bukti saja dan jalan yang menghitung lebih dari satu, tetapi boleh dihitung semuanya satu persatu. Induction mengandaikan, bahwa karena beberapa (tiada semuanya) di antara bukti yang diperiksanya itu benar, maka sekalian bukti lain yang sekawan, sekelas dengan dia benar pula.
+
+Buat contoh penegasan kita kembali pada masyarakat Yunani, masyarakat yang sebenarnya merintis kesopanan manusia. Lama sudah terpendam dalam otaknya Archimedes, pemikir Yunani yang hidup 250 tahun sebelum Masehi, persoalan: apa sebab badan yang masuk barang yang cair itu, jadi enteng kekurangan berat? Ketika mandi, maka jawab persoalan tadi tiba-tiba tercantum di matanya dan kegiatan yang memasuki jiwanya menyebabkan dia lupa akan adat istiadat negara dan bangsanya. Dengan melupakan pakaiannya, ia keluar dari tempat mandinya dengan bersorak-sorakkan "heureuka" saya dapati, saya dapati, adalah satu contoh lagi dari kuatnya nafsu ingin tahu dan lazatnya obat haus "ingin" tahu itu. Archimedes menjalankan experiment yang betul, ialah badannya sendiri, yang jadi benda yang dicemplungkan ke dalam air buat mandi. Dengan cara berpikir, yang biasa dipakainya sebagai pemikir besar, ia bisa bangunkan satu undang yang setiap pemuda yang mau jadi manusia sopan mesti mempelajari dalam sekolah di seluruh pelosok dunia sekarang.
+
+Menurut undang Archimedes, maka kalau benda yang padat (solid) terbenam pada barang cair, maka benda tadi kehilangan berat sama dengan berat zat cair yang dipindahkan oleh benda itu.
+
+Tegasnya kalau berat Archimedes di luar air umpamanya B gram dan berat air yang dipindahkan oleh badan Achimedes b gram, maka berat Archimedes dalam air tidak lagi B gram, melainkan (B-b) gr.
+
+Dengan contoh dirinya sendiri sebagai benda dan air sebagai barang cair, maka simpulan yang didapatkan Archimedes dalam tempat mandi itu belumlah boleh dikatakan undang. Semua benda dalam alam, kalau dicemplungkan ke dalam semua zat cair mestinya kekurangan berat sama dengan berat-zat cair yang dipindahkan oleh benda itu. Kalau semuanya takluk pada kesimpulan tadi, barulah kesimpulan itu akan jadi Undang dan barulah Archimedes tak akan dilupakan oleh manusia sopan, manusia yang betul-betul terlatih sebagai bapak undang itu.
+
+Tiada saja undang itu membetulkan bukti yang diketahui pada zaman Archimedes, tetapi undang itu sekarang sudah kembang biak, menyusun semua benda dan zat cair yag diketahui zaman sekarang, sehingga undang Archimedes adalah satu tiang yang tak boleh runtuh (dalam Ilmu Alam). Insinyur pembikin kapal air, atas atau bawah air, dan pembikinan kapal udara mesti mengakui dan memakai undang itu.
+
+Sebelumnya Archimedes memastikan undangnya, maka tentulah lebih dahulu ia coba dengan benda lain dari badannya. Ia coba dengan besi, batu, kayu dan lain-lainnya semuanya dibenamkan ke dalam air dan tentu semuanya takluk dalam simpulan yang diperolahnya.
+
+Archimedes tentu belum coba masukkan benda tadi ke dalam bensin atau spiritus atau air raksa yang lebih berat dari kayu, karena memang zat cair semacam ini belum diketahui pada zaman dia atau seandainya sudah diketahui, Archimedes belum merasa perlu mencobanya.
+
+Jadi dia pasti mengambil cuma beberapa bukti, karena tidak semua bukti di ruang Alam ini dipakai buat menetapkan undangnya. Inilah jalan induction, mengakui sahnya satu kesimpulan sebagai undang, walaupun belum semua bukti yang berkenaan, diuji. 
+
+**Bagian 2 DEDUCTION**
+
+Kawannya Induction adalah Deduction. Satu sama lain tak boleh berpisah. Induction yang tetap induction saja, sangat tak boleh dipercaya.
+
+Kalau dilaksanakan dan pelaksanaan ini membenarkan undang tadi, maka barulah boleh undang itu diaku syahnya, walaupun sementara. Banyak hypothesisnya pemikir zaman dulu tinggal hypothesis tentang keadaan kita sesudah mati umpamanya, adalah persangkaan yang tinggal persangkaan, karena belum ada orang yang sudah mati balik ke dunia fana ini. Dan experiment yang berhubungan dengan mati, berbahaya sekali kalau tiada mustahil dijalankan, yakni pada masa sekarang.
+
+Pada induction kita berjalan dari bukti naik ke undang. Pada cara deduction adalah sebaliknya. Kita berjalan dari Undang ke bukti. Kalau kita bertemu kecocokan antara undang dan bukti, maka barulah kita bisa bilang, bahwa undang itu benar.
+
+Kalau kita sudah terima, bahwa semua benda kehilangan berat dalam semua cair, maka kita ambil satu benda dan satu zat cair buat penglaksanaan. Kita ambil sepotong timah, kita timbang beratnya di udara. Kita dapat B gram. Kita masukkan timah tadi ke dalam air. Kita timbang beratnya air yang dipindahkan oleh timah tadi, kita dapati b gram. Menurut undang Archimedes timah tadi mesti kehilangan berat b gram. Jadi ditimbang dalam air, beratnya menurut Archimedes mestinya (B-b) gram. Sekarang kita ambil beratnya dan timbangan timah yang terbenam tadi. Betul kita dapat (B-b) gr. Jadi betul cocok dengan undang Archimedes. Sekarang induction sudah beralasan deduction, kebenaran undang sudah di sokong oleh penglaksanaan. Berulang-ulang kita lakukan pemeriksaan kita dengan benda dan zat cair berlainan dan berulang-ulang kita saksikan kebenaran undangnya Archimedes, pemikir Yunani itu.
+
+**Bagian 3. VERIFICATION**  
+    
+Pada suatu hari terbentang di muka kita satu persoalan. Bagaimana kalau zat cair itu bukan air, tetapi udara. Kalau begitu, menurut undang Archimedes, benda di udara itu juga mesti kehilangan berat sama dengan berat udara yang dipindahkan oleh benda tadi. Jadi menurut bacaan lain pada undang Archimedes, benda tadi ditolak ke atas oleh kodrat yang sama dengan berat udara yang dipindahkan oleh benda tadi. Mesti lebih berat dari benda di udara, karena pada tempat kosong benda itu tak menerima tekanan, jadi tak kehilangan berat apa-apa.
+
+Ini bukti ada baru, seperti di luar daerah bukti yang sudah dikenal di luar penglaksanaan kita yang sudah-sudah. Kalau bukti yang baru dikenal ini membenarkan undang jago tua dari Yunani itu, maka undang itu akan dapat verification, ialah pemastian baru.
+
+Sekarang kita laksanakan undang Archimedes pada udara. Kita timbang sepotong tembaga, dalam kaca yang sudah kita pompa udaranya. Disini beratnya umpamanya T gram. Kemudian kita timbang tembaga itu juga di udara.
+
+Disini dia mesti alamkan tolak ke atas dari kodrat yang sama beratnya dengan berat udara yang dipindahkan oleh tembaga, umpamanya t gram. Jadi kalau undang Archimedes benar, maka di udara berat tembaga tadi mestinya (T-t) gram.
+
+Dengan gugup kita ambil neraca buat menimbang, gugup karena kita takut undangnya jago tua kita akan gagal. Tetapi pengiraan kita tiada salah. Kita betul dapati (T-t) gram. Dan kita senang dan bangga karena jago tua mendapat kehormatan baru. Bukti baru, tetapi masuk daerah bukti yang lama juga tiada membatalkan undang Archimedes tadi. Demikianlah banyak kali undang Archimedes mendapat verification, pemastian baru, sesudah undang tadi dilahirkan di Yunani. Pemastian baru boleh jadi mengubah formulenya, kalimatnya undang itu, tetapi tiada mengubah semangatnya.
+
+Verification ini besar artinya dalam science. Dia bisa membatalkan dirinya sendiri, seperti nasibnya X(kuadrat) – X + 41 tadi.
+
+Menurut undang Newton, maka satu bIitang menari bitang lai dengan kodrat yang berbandig nai (right proportional) dengan masa (jumlah zat) dan berbanding turun (inverse ratio) dengan pangkat dua (kwadrat) antara.
+
+Dengan memakai undang ini, maka si penghitung satu lingkaran jalan (baan) yang dijalani oleh satu planet (bumi), mendapatkan hasil yang mungkin dari mestinya. Kesalahan ini menyebabkan dapatnya planet baru yang mengganggu jalannya bintang yang dihitung baannya tadi. Jadi planet baru tadilah yang selamanya ini tiada diketahui. Yang menarik planet yang mau dihitung baannya tadi, sebab itu baannya terganggu. Bukannya terganggu karena salahnya undang Newton, melainkan karena benarnya undang Newton. Kesalahan menghitung tadi menyebabkan terdapatnya planet baru yang memastikan sekali lagi benarnya undangnya Newton.
+
+1001 Hypothesis buatan Timur (baca impian), kalau betul-betul dilaksanakan dan diverifikasi, nasibnya akan sama dengan formule X (kuadrat) – X + 41 tadi. Tetapi undang yang betul berdasarkan bukti yang diperoleh dengan experiment, yang sesuai dengan caranya science, bisa mendapatkan perluasan daerah atau bukti baru karena verification tadi.
+
+Si-inventer, si pendapat-baru, seperti Edison atau ahli teori baru, seperti Eninstein, mendapatkan yang baru itu, tentulah tiada semata-mata sebagai hasil otaknya semata-mata, melainkan sebagai hasil dari penglaksanaan (deduction) dan pemastian (verification) dari undang atau teori yang lama, gurunya atau teman sejawatnya.
+
+Semenjak Bacon (dari Verulam?), maka induction, deduction dan verification ini sudah menjadi CARA-TIGA-SERANGKAI dalam SCIENCE, salah satunya tiada boleh dilupakan, kalau hendak mengadakan sesuatu pemeriksaan yang beralasan bukti.
+
+**Pasal 4. BATASAN SCIENCE**
+
+Kalau kita meninjau ke daerah bagian science yang sudah kita uraikan ini, maka nyata kita lihat dua macam cara, methode yang sudah kita uraikan dnegan panjang lebar. Pertama cara yang dipakai pada Matematika umumnya dan Geometry & Co. Khususnya, ialah : synthetic, analytic  dan ad absurdum buat menguji benar salahnya satu teori. Cara synthetic, analytic dan Intersection of logics buat menyelesaikan dan menguji benar salahnya satu problema, persoalan.
+
+Kedua cara yang dipakai pada Ilmu Alam (natural science) umumnya dan Ilmu fisika & Co, terkhususnya ialah pertama induction, kedua deduction, ketiga verification.
+
+Semua kata tadi yang berasal dari kata Yunani dan Latin, yang umum dipakai di dunia sekarang, mengandung arti, ilmu, maka sementara kata-kata itu kita pakai, buat terjemahan sementara kita pakai perkataan Indonesia pertama, memasang, kedua mengungkai, ketiga menyesatkan buat synthetic, analytic dan ad absurdum.
+
+Persilangan garis buat intersection dari logics buat 1 induction, 2 deduction dan 3 verification, sementara belum dapat yang lebih jitu kita pakai untuk 1 menyusun, 2 melaksanakan, 3 memastikan. Apakah bahasa barat itu kelak akan diterima mentah atau tercangkok dalam masyarakat bahasa Indonesia atau akan diganti dengan bahasa Indonesia sendiri, baiklah kita serahkan kepada sejarah.
+
+Tetapi sebelum artinya yang betul belum jadi umum dan sebelumnya pikiran-pikiran umum belum bisa memeriksa benar salahnya maka besar sekali bahayanya memakai salinan kata-kata yang mangandung pengertian yang berilmu itu (scientific). Lagi pula kalau Barat sopan sendiri masih memakai kata latin dan Yunani tadi tiadalah perlu kita malu memakainya, malu ditertawakan karena kemiskinan bahasa.
+
+Syahdan kalau kita bandingkan cara yang dipakai dalam Geometri & Co. dengan cara yang dipakai dalam ilmu Fisika & Co., maka nyatalah perkenaannya kedua cara itu. Syntetic dalam Geometri Co., dan Induction dalam Ilmu Alam & Co., keduanya berarti naik ke undang yang disyahkan, ialah naik dari bukti, walaupun bukti pada Geometry & Co. berlainan sifat dengan bukti dalam ilmu kodrat & Co. keduanya mau menyusun, memasang, segala atau sebagian bukti yang diketahui sampai ke undang, walaupun dalam Geometry & Co. bukti itu disusun buat menguji teori dan dalam Ilmu Alam & Co, buat membikin undang.
+
+Cara Analytic dalam Geometry pun ada berkenaan dengan cara Deduction dalam Ilmu alam & Co.  
+Keduanya turun dari mengumumkan kepada bukti. Pada Geometery & Co. turun itu, mengukai teori buat memeriksa salah benarnya satu teori. Pada Ilmu Alam & Co. turun itu berarti penglaksanaan buat menguji salah benarnya satu undang yang sudah diperoleh.
+
+Akhirnya cara ketiga, cara Absurdum dalam Geometry & Co. dan cara Verification dalam Ilmu Alam & Co., tiadalah sama sekali lepas satu sama lainnya. Dengan jalan menyesatkan, kita lihat Geometry & Co. membenarkan teorinya.
+
+Sesudah disangka sesat seperti pada perhitungan yang berdasarkan undang Newton, kita bertemu dengan verification, kepastian undang Newton tadi. Dengan meng-experimentkan memperalamkan (kebetulan dalam bahasa Tagalog Filipina, alam itu artinya tahu!), dengan peralamkan semua persangkaan hypothesis, dengan ukur mengukur, timbang menimbang buktinya sebelum dianggap hypotesis tadi, maka dengan cara kita sebutkan di atas. Science, maju dengan pesat sekali dalam 100 tahun dibelakang ini dari 500.000 tahun sebelum itu.
+
+Tetapi ada batasnya science. Batasnya menyebabkan dia tak tahu belum bisa mengembang semestinya. Batas limitnya itu, pertama terdapat pada dirinya sendiri, kedua diluar dirinya sendiri. Pada dirinya sendiri, yaitu kekurangan perkakas, instrument, yang dapat dengan seksama membesarkan yang kecil dan mendekatkan yang jauh, dan kekurangan memakai cara yang lebih jitu, ialah Dialektika. Kekurangan diluar dirinya sendiri, terdapat pada aturan masyarakat kita sekarang pada politik, ekonomi dan sosial. Kekurangan pertama berseluk beluknya dan tergantung pada kekurangan pada batas yang diadakan oleh yang kedua.
+
+Kekurangan instrument atau batas memakai Dialektika itu akan hilang, kalau masyarakat membenarkan. Dengan segera instrument yang kurang akan sempurna dan cara berpikir yang lebih jitu akan tercapai.
+
+Politik dan Ekonomi masyarakat tak membenarkan melambungnya dan mengembangnya seperti kebiasaannya, kesanggupannya. Terlampau panjang dan tiada pada tempatnya kalau sepenuhnya diuraikan disini, bagaimana masyarakat kemodalan menghambat majunya science, walaupun mesti diakui, bahwa masyarakat kemodalan lebih memajukan science dari masyarakat feodalisme manapun juga di bumi ini. Tetapi dengan pendek bisa dan mesti diterangkan batas yang diadakan oleh masyarakat itu.
+
+Dimana-mana kapitalisme itu (berpolitik demokratis atau autocratis), condong kepada monopoli. Dimana-mana monopoli condong pada ekonomi berdasarkan restriction, yaitu membatasi penghasilan. Dengan membatasi penghasilan, mengurangi hasil dari kekuatan (pabrik) dan mesinnya, dan monopoli punya sendiri hasil itu, maka si monopolist bisa menaikkan harga dan menetapkan untang. Dengan politik monopoli dan restrictie itu, maka mesti dibatasi pula invention, yaitu pendapatan teknik baru dari science. Berapa puluh, ya berapa ratus invention baru yang dibeli oleh monopoli besar buat dipendam atau dirusakkan di Amerika. Monopoli tadi takut kalau konkurensinya memakai invention tadi buat memurahkan harga barang dan dengan begitu menjatuhkan untuk dan perusahaannya. Kaum pekerja akan terlempar dari pabrik, kalau mesin baru yang lebih efficient berhasil dipakai.
+
+Monopoli dan Restriction pembatasan inilah yang maha kuasa. Politik dagang dan ekonomi yang beralasan Free Trade perdagangan merdeka, membikin banyak dan menjual obral dan murah, kandas oleh politik monopoli dan restriction, yakni bikin sedikit buat dijual mahal.
+
+Akibat politik restriction dan monopoli, terutama membatas banyaknya buruh terpakai. Jadi mengadakan pengangguran yang hebat dan tetap. Tetapi kita disini tiada berkenaan dengan akibat ini. Yang berkenaan, ialah dengan akibat, bahwa monopoli dengan politik restrictionnya, membatasi majunya teknik dan membatasi maju suaminya teknik, ialah science. Begitulah kita samapi pada titik bermula dalam penguraian ini. Masyarakat membatasi majunya Teknik dan Science.
+
+Selama Matematika masih melayani titik, garis dan sudut atau badan seperti KUBUS, CYLINDER dsb., yang semua masih bisa digambarkan di kertas, selama itu cara berpikir yang dipakai oleh Matematika, cara yang tepat berkenaan dengan Logika! Cara itu cukup memadai. Tetapi kalau Matematika melambung lebih tinggi, maka ia berjumpa dengan TIME-FACTOR, sebagai DIMENSION, pengukuran ke-4 dari Minkofsky.
+
+Disini cara berpikir yang lebih kita kenal, dipakai pada Matematika tak memadai lagi. Pada teori Relativity perkara tempoh ini penting sekali dan seperti kita uraikan lebih dahulu, maka teori relativity itu banyak sekali berkenaan dengan DIALEKTIKA.
+
+Selama ilmu Fisika & Co. masih melayani benda dan kodrat yang bisa ditimbang dan diukur, selama itu cara berpikir yang kita sebutkan dahulu sama sekali memadai. Tetapi kalau ia melambung pada langit filsafat, maka cara yang dipakai dalam ilmu Alam & Co. Tadi tak memadai lagi.  
+   
+Disinilah ahli Alam (physicist), sebagai ahli filsafat, menjumpai Time-Factor, ialah perkara sejarah, sebagai ahli filsafat mesti berjumpa dan menjawab persoalan: Mana yang pertama, Benda atau Kodrat. Ia tiada bisa lagi memisahkan persoalan Benda dan Kodrat, yang dia alami dalam laboratorium tadi dengan persoalan Jasmani atau Rohani, Lahir dan Batin, Hidup dan Mati. Dia tak bisa lagi memisahkan persoalan Ilmu Alam tadi dengan masyarakatnya. Disini sebagai ahli filsafat, dia mesti pilih Logika atau Dialektika. Apabila dia pisahkan Benda dari Kodrat, jadi Kodrat yang utama dan Benda kedua, maka seperti David Hume, dia mesti batalkan adanya Benda, adanya dirinya sendiri, atau dia mesti akui seluk beluknya, kena mengenanya. Tak bisa berpisahnya, Benda dan Kodrat, Jasmani dan Rohani. Dalam hal ini dia mesti akui DIALEKTIKA.
+
+Dalam ilmu bukti yang berhubung dengan hidup dan asal usulnya Tumbuhan, Hewan dan manusia, tegasnya dalam Biology, maka TIME-FACTOR itu tentulah barang yang penting sekali. Disini TIME-FACTOR ialah sejarahnya barang yang hidup dan mati dengan nyata tiada bisa disingkirkan. Pada Biologylah nyata pertentangan cara berpikir dari ahlinya.
+
+Kita ambil saja sistem, tata-lenxeus, tata yang dipelajari di sekolah. Tak perlulah pula disini kita terangkan tata Biology itu seluruhnya. Yang perlu diterangkan ialah bagaimana Lenxeus & Co. mendekati persoalan Biology. Dianggapnya jenis (species), yang ada di bumi ini, baik Tumbuhan atau Hewan, dibikin dalam sekejab mata saja, seperti diajarkan oleh agamanya. Bagaimana menerbitkan tumbuhan dan hewan itu tak berapa bedanya dengan hypothesisnya, filsafat Egypt yang sudah kita kenal. Karena kita hanya hendak menggambarkan bagaimana creation pembikin tumbuhan dan hewan terjadinya dan kita hendak menyingkiri semua rasa kefanatikan kaum yang bersangkutan, maka sekali lagi kita ambil lampu ajaibnya Aladin dan memanggil Dewa Rah dan minta dengan hormat, supaya DIA berfirman dari puncak gunung Himalaya di muka dia. Demikianlah firmannya :
+
+Ptah: maka timbullah ikan (ikan cumi-cumi, sepat, gabus, gurami, bukan ikan paus). Sebetulnya semua suku (pecahan jenis) mesti diptahkan pula masing-masingnya. Seperti ikan gabus, iju (cucut dsb) sebab menurut lenxeus cuma individunya badan dirinya saja yang sama asalnya. Tetapi cukuplah kalau di-ptahkan jenis binatangnya saja.
+
+Ptah: maka timbullah Amphibien, kodok (yang hidup di air dan di darat).  
+Ptah: maka timbullah Reptiel, binatang menjalar (ular, biawak, cecak, buaya, dsb).  
+Ptah: maka timbullah Burung (enggang, belatuk sampai buruh onta).  
+Ptah: maka timbullah binatang yang menyusukan anaknya (seperti tikus, kucing, monyet dsb.)
+
+Kita tahu, bahwa sistem peraturan Lenxeus tiada sama semacam ini. Tetapi yang mau kita gambarkan, ialah sifatnya sistem Lenxeus dan terutama bagaimana adanya, timbulnya Hewan sekarang menurut Lenxeus. Seperti Tumbuhan, maka menurut Lenxeus hewan itu terbikin pada suatu saat. Satu jenis terpilih dari yang lain. Tiap-tiap jenis itu tetap begitu, tak akan bertukar sekalipun dalam 1.000.000 tahun. Karena masing-masing kehendak Dewa Rah. Kalau mau memeriksa hewan (dan tumbuhan) itu, maka mesti diperiksa satu-satu jenis yang tak berkenaan satu sama lainnya.
+
+Tegasnya ikan tak berkenaan dengan kodok, kodok tak berkenaan dengan biawak, biawak terpisah dari burung dan burung sama sekali tak ada berkenaan dengan tikus dsb. Semua jenis tadi terbikin (created) satu persatu. Begitulah antara segala suku ikan, seperti gabus, cumi-cumi dll. Satu sama lainnya tak berkenaan. Satu-satunya ialah pembikinan Rohani pada lain-lain saat.
+
+Jadi menurut Lenxeus satu sama lainnya terpisah seperti Hume menganggap Jasmani dan Rohani ialah terpisah. Semua jenis tadi masing-masing dibikin pada satu ketika, seperti Dewa Rah membikin Bintang dan Langit. Jadi dari kosong. Disini juga rohani yang bermula jadi seperti pemandangan Hume juga.
+
+Sekarang datang Darwin & Co. Darwin menganggap jenis itu tiada terpisah satu dengan yang lain. Begitu juga suku-jenis. Ikan umpamanya tiada sama sekali terpisah dari kodok, burung dengan binatang menjalar, persamaan gerundang (anak kodok) dengan ikan. Bandingkanlah tengkorak ular dengan burung, monyet dengan manusia. Satu jenis kena mengena dan banyak persamaan dengan lain jenis. Semua jenis tadi bukanlah hasilnya creation bikinan pada satu saat, melainkan hasil evolution, beratus, ribuan, dan jutaan tahun.
+
+Jadi satu jenis terpisah dari yang lain menurut Lenxeus, dibatalkan oleh Darwin. Karena menurut Darwin ADA hubungan satu jenis dengan yang lain seperti Benda dan Kodrat juga. Dibikin pada satu saat, kata Lenxeus. Hasil evolution menurut undang Biology sendiri beratus, beribu tahun, kata Darwin.
+
+Bukan di negara Inggris dalam buku saja Darwin mempelajari Tumbuhan dan Binatang, tetapi ia bikin observatie dan experiment tentang Tumbuhan dan Binatang dari hampir seluruh pelosok dunia bertahun-tahun. Bukan satu contoh yang dia masukkan buat menyokong satu persatu teori atau Hypothesisnya melainkan bermacam-macam. Pengikut Darwin melakukan kalau tidak puluh ribuan tentu sudah ratusan experiment.
+
+Mendel, yang bekerja lepas dari Darwin, menjatuhkan dengan angka apa yang digambarkan oleh Darwin dengan teori, yaitu tentang undang yang menentukan sifat yang akan diperoleh turunan, kalau sifat ibu bapa (hewan) sudah diketahui.
+
+Dengan pendek menurut Darwin: Segala jenis di bumi tidak terbikin, melainkan maju menurut undang Evolution, undang pertumbuhan, beribu dan berjuta tahun. Undang itu menguasai Tumbuhan dan Hewan, seperti undang Newton menguasai jalannya Bintang dan Bumi. Dari Protein dan Protoplasma sampai ke beberapa sel bertunas-satu, Evolution tadi terjadi menurut undang kimia. Dari sel-bertunas-satu sampai ke tumbuh-tumbuhan, hewan dan manusia.
+
+1.  struggle-existence, pertarungan buat hidup.
+2.  adaptability, kodrat menyesuaikan diri dan
+3.  natural menurut selection, pilihan alam.
+
+1\. Pertarungan buat hidup dilihat dengan mata sendiri, bahwa dalam alam ini semua mahluk memerlukan makanan dan sex (laki-bini). Tak ada makanan, maka matilah mahluk hidup manapun dan tak ada sex, maka punahlah jenis mahluk itu. Kurang diketahui, tetapi tak kurang benarnya, bahwa sex itulah salah satu dari motive ujut pertarungan yang hebat. Bangunan kesusasteraan, seperti Ilyas dalam bahasa Yunani dan Ramayana di Hindustan. Cindur mata di Minangkabau, selainnya pada politik juga bertiang pada panggilan sex. Panggilan sex itulah yag menjadi kodrat yang penting sekali dalam penghidupan hewan. Dalam persoalan mencari makanan dan persoalan laki-bini, maka semua mahluk mengadakan pertarungan. Dan pertarungan itu adalah :
+
+1.  dengan alam sendiri.
+2.  Pertarungan dengan sesamanya atau dengan jenis yang lain, yang musuhnya dimakan musuh dan tiada dapat keturunan dsb.
+
+Dalam ilmu bumi kita pelajari, bahwa bumi kita ini sudah menjalani beberapa perubahan dan masih selalu dalam perubahan. Kita pelajari, bahwa Eropa sekarang selama dahulunya diselimuti salju saja. Gurun pasir di Mongolia sekarang, bernama Gobi, boleh jadi dahulunya tanah subur yag didiami manusia. Indonesia dahulunya berlainan sekali dengan sekarang. Sumatra, Malaka, Borneo, Jawa dan Filipina bertaut satu dengan lainnya dan bertaut dengan Indo-Cina dan Australia, pendeknya keadaan bagian bumi yang sejuk boleh menjadi panas dan sebaliknya. Danau atau laut menjadi kering.
+
+Tumbuhan dan binatang yang hidup di atas dan di bawahnya bertarung dengan pertukaran alam yang kadang-kadang berupa perubahan besar, revolusi. Selain dari itu hewan bertarung dengan keluarganya sendiri dan dengan musuhnya. Binatang dan Tumbuhan yang biasa hidup pada tempat dingin, sekarang berjumpa dengan hawa panas. Yang biasa hidup di hutan rimba, berjumpa dengan gurun pasir. Yang hidup di daratan, berjumpakan air tawar atau air laut. Selain dari itu hewan bertarung dengan sesamanya, jago dengan jago berebut makanan dan bini. Singa laut tak putusnya berkelahi dengan singa yang lain buat mempertahankan bininya. Tikus dengan kucing, burung merpati dengan elang, ikan tengiri dengan ikan hiu. Di udara, di daratan, dan di lautan terjadi setiap jam, tiap menit pertarungan mati-matian antara hewan sama sejenis karena makanan dan sex, dan di antara satu hewan dengan hewan musuhnya. (pembantah Darwin memajukan tolong-bertolong di antara hewan dan manusia. Tetapi perkara ini juga amat dipentingkan oleh Darwin. Tetapi sifat tolong-menolong itu berlaku dalam daerah pertarungan yang maha hebat !).
+
+2\. Adaptability, kodrat menyesuaikan diri.
+
+Dalam menghadapi pertarungan perubahan alam, matilah tumbuhan atau hewan yang tiada mempunyai anggota sesuai dengan perubahan tadi. Tumbuhan yang perlu hawa panas dan banyak air, sudah tentu tak bisa menyesuaikan diri dengan hawa dan tanah dingin atau kering. Binatang yang tak berbulu tebal sudah tentu mati, punah semuanya kalau hawa bertukar sejuk dan tanah diselimuti salju. Binatang yang perlu banyak air dan lumpur tak akan bisa hidup pada tempat yang sudah bertukar jadi gurun pasir. Binatang yang perlu tanah kering tentulah akan punah, kalau tanah bertukar jadi paya atau danau. Binatang yang tak punya anggota luar biasa sebentar akan habis diterkam binatang musuhnya. Ada macam hewan yang luar biasa cepat larinya, yang lain luar biasa penciumannya, yang lain lagi luar biasa pendengarannya, atau banyak sekali anaknya, sehingga tak apalah kalau satu dua mati. Dengan anggota begitu ia bisa menyesuaikan dirinya dengan kelilingnya dalam persoalan mencari makanan dan sex.
+
+3\. Natural selection, pilihan alam
+
+Alam yang ganas bertukar sejuk memilih tumbuhan dan hewan yang bisa mencocokkan diri dengan keadaan yang baru itu. Tumbuhan yang berdaun seperti ranting, seperti pokok cemara bisa tambah sejuk. Binatang seperti rendier (kijang) bisa hidup dengan rumput dua tiga potong saja dan bulunya yang tebal bisa menahan kedinginan. Tumbuhan yang berurat kuat dan dalam, berdaun mengandung air bisa tumbuh pada gurun pasir. Alam memilih binatang yang berwarna sama dengan warnanya guna memelihara dirinya dari musuhnya. Burung gagak pada salju atau di padang pasir sudah tentu mudah kelihatan oleh musuhnya. Bangsa burung yang berjari dipertautkan oleh kulit seperti itik (bebek) sudah tentu terpilih oleh alam buat tinggal pada daratan yang berganti paya atau danau. Rusa terpilih diantara jenis lain-lainnya, sebab ia bisa mendengar kedatangan musuhnya dan melarikan diri dari musuhnya.
+
+Kita misalkan saja di sekeliling kita di Indonesia ini besok daratan bertukar menjadi danau atau paya. Marilah kita amati segala hewan yang ada di bagian bumi kita ini. Sudahlah tentu kambing, kerbau dan lembu kita tiada berapa lama akan bertahan hidupnya. Tetapi binatang seperti berangan dan kodok tentu akan dapat menahan sengsara pertukaran ini lebih lama. Berapa lamanya adalah bergantung pada banyak hal lain-lainnya, yang berhubung dengan susunan badan (struktur) hewan itu sendiri dan perubahan alam di luar susunan badan itu. Sebaliknya, jika air danau atau paya di keliling kita di Indonesia ini bertukar jadi darat, sudah tentulah keluarga ikan emas tak akan berapa lama bisa menunggu ajalnya. Sedangkan belut atau ikan gabus tidak akan mati begitu saja. Rupanya sejenis dengan ikan gabus kita di Amoy, Tiongkok bernama Nomoa, kabarnya ditangkap di air, di daratan, dimana ia mencari makanannya. Pun saya dengar kabar ikan gabus kita seirng dijumpai di luar air, di waktu malam hari.
+
+Sekali lagi dalam pertukaran alam hewan yang mempunyai anggota yang cocok dengan keadaan baru tentulah lebih mempunyai pengharapan buat mempersesuaikan dirinya dengan pertukaran alam itu.
+
+Apakah Alam akan memilih sesuatu hewan itu sama sekali bergantung pada bermacam-macam sifat yang perlu dalam susunan badan (struktur) hewan itu sendiri dan berbagai-bagai keadaan di luar hewan tadi, hawa makanan, musuh dsb. Tetapi nyatalah sudah anggota yang tahan uji dalam pertarungan dengan alam dan musuh itu akan diturunkan pada anak cucunya, disebabkan pilihan sex. Bahwa bini itu di kalangan hewan memilih laki, perhatikan sajalah jenis burung di keliling kita, berapa lamanya ayam belanda turkey mesti menari dimuka kekasihnya. Dan setelah payah barangkali ia mesti melihat kekasihnya berjalan bersama saingannya yang lebih bagus tari atau warna bulunya. Berapa pesat sang anjing mesti berkelahi, yang setelah tewas atau luka setengah mati ia melihat jodohnya bergandengan dengan lawannya yang menang. Diantara jago tua Singa laut yang tetap memegang kejagoannya dan dengan begitu tetap pula memegang keharumannya, ada yang badannya penuh dengan bekas luka seperti juara ulung di antara hulubalang yang sudah menang dalam beberapa peperangan.
+
+Perhatikanlah bagaimana putri tekukur mendengarkan janji pertandingan yang merdu di antara beberapa calon suami, sama juga dengan putri kita di beberapa daerah melayani sahabat kekasihnya dalam satu pertandingan. Amatilah dengan tukang nyanyi yang mana si putri itu terbang buat hidup sampai mati.
+
+Demikianlah dalam pertarungan sex tadi terpilih laki yang kuat, pandai menyanyi atau menari baik warna bulunya buat meneruskan cucunya, menurut undangnya Mendel. Begitulah pula anggota yang cocok dengan kehidupan bertarung dengan alam atas musuh yang sejenis diluar jenis akan terus menerus pada anak dan cucu, dengan perubahan sedikit demi sedikit. Sepasang burung dilepaskan pada satu pulau sesudah beberapa lama menimbulkan bermacam-macam suku dari jenis itu.
+
+Perubahan alam menyebabkan perubahan struktur dan fungsi susunan dan bekerjanya badan sesuatu hewan. Dari cacing sampai ke manusia perubahan usus, hati jantung, rabu, otak, gigi, tengkorak dan tulang belulang, terjadi teliti sekali dan perlahan sekali. Biasanya alam berjalan perlahan-lahan, perubahan itu sedikit sekali, tetapi kadang-kadang juga mengadakan perubahan besar (sport, perlompatan). Kalau kita peramati segala perubahan dari semua anggota tadi dari cacing sampai ke manusia, maka kita mesti yakin, bahwa semuanya itu tiada satu kebetulan, satu bikinan pada satu saat, seperti menurut Logika Mistika atau Logika Lenxeus. Melainkan kemajuan (evolusi) yang berlaku menurut undang. Seperti peredaran bintang dan bumi dikuasai satu undang yang didapat oleh Newton, perpaduan zat menurut undang yang ditetapkan oleh Dalton. Begitulah evolusi tumbuhan dan hewan berjalan, sebab pilihan alam tadi pada pertarungan makhluk buat hidup.
+
+Dengan membatalkan Logika Mistika, membatalkan terpisahnya satu jenis dengan jenis yang lain  dan mengemukakan seluk-beluk kena-mengenanya satu jenis dengan jenis dalam tempo beribu juta tahun pada satu lapang pertarungan yang pesat jadinya. Dengan mengemukakan “perubahan kecil-kecilnya, akhirnya menjadi perubahan jenis" quantity into quality sebetulnya Darwin memakai perkakas berpikir Dialektika.
+
+Bagaimanakah akibatnya ?
+
+Dongeng atau sejarah, tetapi pasti pada salah satu tempat saya baca, bahwa Darwin memasuki gereja pada hari Minggu. Sebagai Kristen ia terus menjalankan agamanya.
+
+Dia tiada atau belum sadar, atau pura-pura tak sadar, bahwa akibat teorinya berlainan dnegan Logika Mistika. Tetapi tuan pendeta berpendapat lain, segala kutuk yang ada dalam kitab injil dikumpulkan jadi satu dan ditiupkan seperti topan ke penjuru tempat Darwin duduk, disudut bilik gereja. Sudahlah tentu semua mata dipusatkan oleh topan-kutuk tadi ke penjuru Darwin, sehingga Darwin orang murtad ini terpaksa berdiri …….mengambil topinya.
+
+Sudah tentu satu gereja bukannya tempat berdebat. Lagi pula boleh jadi Darwin berpikir: Lebih mudah buat seekor kerbau memasuki lubang jarum dari pada buat satu mystikus ………………….dan pulang.
+
+Tiga jenis yang bisa kita pisahkan diantara para scientist dan ahli filsafat borjuis, kalau mereka mesti menentukan sikapnya dalam science atau filsafat, jikalau berhadapan dengan dialektika.
+
+Pertama: Terang mentah dia memusuhi Dialektika yang beralasan Materialisme, dalam hal ini dia boleh jadi sekali pegang, dan bisa mempertahankan pangkatnya dalam masyarakat.
+
+Kedua: Terang mentah dia menyetujui Dialektika beralasan Materialisme. Dalam hal ini dia mesti kehilangan pangkatnya.
+
+Ketiga: Dia bermain putar belit, tolak-angsur, kong-ka-li-kong dengan Dialektika dan Materialisme. Dalam hal ini dia besar pengharapan buat memelihara kambing dan daun sirih.
+
+Kecuali pada waktu yang tiada membiarkan kompromis, dia bisa selamat …………….memegang terus pangkatnya.
+
+Begitu susah menyingkiri akibatnya Dialektika yang materialistis dalam Ilmu Bukti, apalagi susahnya dalam Ilmu Masyarakat.
+
+* * *
+
+[**BAB III: ILMU BUKTI - SCIENCE**](Bab3.html)
+
+[**DAFTAR ISI**](index.html)
+
+[**BAB V: DIALEKTIKA**](Bab5.html)

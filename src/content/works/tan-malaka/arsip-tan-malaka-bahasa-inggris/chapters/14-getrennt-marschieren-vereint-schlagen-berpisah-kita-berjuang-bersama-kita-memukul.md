@@ -1,0 +1,111 @@
+# Getrennt Marschieren Vereint Schlagen (Berpisah Kita Berjuang, Bersama Kita Memukul)
+
+## Tan Malaka (6 Mei 1948)
+
+* * *
+
+**Sumber :** Teks asli tulisan Tan Malaka tahun 1948
+
+* * *
+
+Soal sikap yang penting dan tegas yang dihadapi oleh Rakyat Indonesia yang sekarang sedang memperjuangkan kemerdekaannya ialah:
+
+1) Menerima bantuan (lahir-batin) dari blok Amerika
+
+2) Menerima bantuan (lahir-batin) dari blok Sosialis
+
+3) Mengadakan Blok Asia-Afrika
+
+4) Berdiri atas _self-help_ (kekuatan sendiri/diri sendiri) serta menerima bantuan batin (politik dan budi) dari dunia Luar
+
+Soal itu memangnya soal lama. Semenjak Rakyat Indonesia insaf akan hak kemerdekaannya sebagai bangsa dan menyusun segala kekuatannya untuk mencapai kemerdekaannya itu semenjak itulah pula dia memikirkan semua kemungkinan di atas, baik secara sistematis (teratur) atau kurang teratur.
+
+Tetapi kini berhubung dengan keadaan di dalam daerah Indonesia menghadapi keadaan luar Indonesia, maka satu persatu di antara empat soal di atas amat penting buat jaya atau gagalnya pembelaan **Kemerdekaan 100% itu!**
+
+Dahulu sebelum Proklamasi 17 Agustus, di masa bergerak di dalam haribaan “Hindia Belanda” di sekitar Dunia “Damai atau berperang” pernah sebagian Rakyat Indonesia memihak atau berpartisipasi kepada Internasional ini atau itu (Komunis atau Sosialis) dan kepada negara ini atau itu. Tetapi di masa itu Rakyat Indonesia belum bertanggungjawab sebagai satu negara merdeka terhadap negara merdeka lainnya. Resiko (bahaya) bersimpati atau antipati kepada Internasional ini atau itu, negara ini atau itu belum berapa langsung, sebab tanggungjawab Negara atas simpati atau antipati itu ditanggungjawabkan oleh negara Belanda. Tetapi sekarang bilamana buruk-baik, untung-malang Republik adalah sebagian besar tergantung/bergantung kepada sikap-tindakan memihak Internasional ini dan itu, negara ini atau itu, dapat benar menguntungkan atau merugikan pembelaan kemerdekaan Indonesia. Tiap langkah yang diambil menuju kepada Internasional atau sesuatu Negara adalah penuh mengandung akibat, buruk atau baik. Karena itulah empat soal di atas harus dipertimbangkan dengan teliti dan sempurna, supaya kita jangan salah-pilih dan terjerumus ke dalam bahaya. Marilah kita bersama-sama menambah kekurangan dan mengurangi yang berlebihan.
+
+**Suasana Dunia**
+
+Sebelum mempertimbangkan pro dan kontra soal-soal di atas, rasanya perlu dimajukan di sini beberapa hal yang penting sekali, ialah yang berhubungan dengan suasana dunia pada dewasa ini.
+
+Sebermula maka pertentangan Blok Sosialis dengan Blok Kapitalis bukanlah lagi pertentangan sistem saja, tetapi sudah memuncak kepada pertentangan ekonomi/perekonomian, diplomasi, bahkan kemiliteran Plan Marshall, yang bermaksud mengikat dunia kapitalis kepada Bank Amerika sedang dijalankan di Eropa Barat, Asia Timur, dan Amerika Tengah-Selatan. Ikatan perekonomian secara kapitalis-imperialistis ini sudah mengikat 16 negara di Eropa Barat dan mengadakan perjanjian perekonomian dan kemiliteran di antara 5 negara di Eropa Barat (Inggris, Perancis, Belgia, Nederland dan Luxemburg) dan dengan Amerika Serikat sebagai tulang punggungnya.
+
+Blok Eropa Barat-Amerika sedang menyusun markas, latihan dan persenjataan kemiliteran menghadapi Blok Rusia. Adapun Blok Rusia atau Soviet pula sedang menyusun kekuatan dalam perekonomian dan kemiliteran.
+
+Di luar kedua Blok yang bertentangan itu beradalah daerah yang luas sekali di Asia, Afrika, Australia dan Amerika, yang negaranya belum lagi langsung dimasukkan ke dalam kedua blok itu. Kedua blok itu masih berusaha keras untuk mendapatkan pimpinan atau pengaruh dengan melalui jalan ekonomi, keuangan, perdagangan, diplomasi, dan kemiliteran. Di Yunani dan Tiongkok perebutan pimpinan dan pengaruh itu terlaksana pada perang saudara mati-matian. Mungkin pula besok atau lusa perang saudara seperti di Yunani dan Tiongkok itu akan pecah di Palestina, Korea, Italia. Sedangkan di India, Burma, Siam, Vietnam, Indonesia, Australia dan Amerika Tengah dan Selatan, perjuangan merebut pengaruh dan pimpinan itu masih terpendam saja.
+
+Barulah diketahui, bahwa perebutan pimpinan dan pengaruh itu bukanlah teoritis atau platois belaka, melainkan memperkuat diri dan memperlemah musuh, bagi masing-masing blok itu.
+
+Maka berhubung dengan terakhir inilah, maka di dalam dunia yang mengandung pertentangan di antara dua pihak dengan senjata di tangan itu, buat Indonesia sebagai suatu negara merdeka, memilih sesuatu blok, berarti memusuhi kepada yang lain. Tegasnya memilih Blok Rusia berarti langsung atau tidak langsung memusuhi Blok Amerika. Sebaliknya memilih Blok Amerika berarti memusuhi Blok Rusia. Seterusnya pula besok atau lusa pertentangan Blok Amerika dengan Blok Rusia itu sekonyong-konyong bertukar menjadi perang dunia, maka _nolens volens_, mau tak mau kita sudah tergolong/terlondong hanyut ke dalam kancah peperangan. Kita yang tiada mempunyai alat buat penyelenggaraan perang dunia, sendirinya pula akan terpaksa menerima perlindungan dari salah satu pihak. Kalau sebaliknya kita berada di pihak Blok Amerika, maka kita akan dipaksa pula menerima armada, tentara dan Angkatan Udara Blok Amerika, maka kita dipaksa “perlindungan” Indonesia, entah berapa lamanya pula.
+
+Ringkasnya, memilih salah satu pihak yang mungkin akan berperang dengan pihak yang lain berarti menggantungkan nasib kita sama sekali kepada hasilnya perang dunia yang akan datang. Akan terombang-ambinglah kita kepada semua kemungkinan hasilnya perang itu. Jikalau Rusia lambat menangnya, maka kita akan cepat atau lambat pula ikut melaksanakan sistem sosialisme-komunisme. Jika Blok Amerika cepat atau lambat menang, maka Indonesia akan ikut memasuki dunia kapitalisme. Pasti sebagai jajahan atau setengah jajahan. Jikalau blok sosialis dan blok kapitalis tak kalah menang, artinya _podo,_ maka kitapun akan ikut terombang-ambing. Akhirnya kalau Blok Soviet dan Blok Amerika keduanya hancur lebur; maka Indonesiapun akan ikut hancur luluh oleh perang bakterilogis, biologis, klimaktologis dan atenologis.      
+
+Kemungkinan kalah menang itu mengandung bermacam-macam syarat dan ansir! Tiadalah dapat diselenggarakan dalam satu dua kalimat saja, dan tiadalah pula termasuk ke dalam hasrat karangan ini.
+
+Yang perlu disebut lagi dalam karangan ini, ialah bahwa tertulis di atas, tiada bermaksud bahwa Indonesia, yang sedang memperjuangkan kemerdekaannya itu, bisa sama sekali melepaskan dirinya dari dunia luar.
+
+Jauh daripada itu! Maksud cuma menjelaskan, bahwa selama mungkin Indonesia harus menghindarkan beban yang tiada sanggup dipikulkan kepadanya lantaran memilih salah satu/sesuatu pihak sebaliknya berusaha mendapatkan sesuatu yang menguntungkan dan memperkuat pembelaan kemerdekaan 100%. Kalau akhirnya Indonesia terpaksa juga memilih sesuatu pihak dan harus menanggung konsekuensi berpihak ke sini dan ke situ, maka cara berpihak kepada siapa itu haruslah dipertimbangkan benar-benar.
+
+Bagaimanapun juga waktunya berpihak itu haruslah di masa Indonesia berada di pihak dalam keadaan sekuat-kuat mungkin selama politik, ekonomi dan militer. Ketahuilah bahwa yang lemah selamanya akan menjadi sasaran yang kuat, ibarat ketimun yang berdampingan dengan durian.
+
+Dalam suasana seperti tersebut di ataslah kita sekarang menghampiri dan menyelidiki soal pertama, yakni:
+
+**1) Menerima bantuan (lahir-batin) dari Blok Amerika**.
+
+Dalam prakteknya ini kelak akan berarti membangun kembali perekonomian Indonesia menurut Plan Marshall dengan perantaraan kapitalis imperialis Belanda yang tergabung dalam Benelux, perjanjian lima negara dan Blok Eropa Barat yang berujung dan berpangkal di Bank Amerika!
+
+Blok amerika yang pada masa ini cuma memikirkan strategi dan ekonomi perang, hanya akan membolehkan Indonesia membangun ekonomi perang dan bahan makanan untuk persediaan perang itulah yang akan diutamakan! Industri induk, industri mesin untuk membikin mesinnya pabrik, tambang, kapal, kereta api dan pesawat tiada akan dibenarkan samasekali. Sebab, adanya industri berat semacam itu akan menghancurkan monopoli Eropa/Amerika atas Asia-Afrika dan mempertinggi teknik, pengetahuan dan kebudayaan Asia-Afrika umumnya. Lagi pula Blok Amerika dan Belanda ahli warung sebagai opasnya di Indonesia cuma mementingkan perusahaan, yang lekas dapat dibangunkan dan lekas memberikan keuntungan. Ringkasnya: akan kembalilah pula kebon karet, kina, kopi, teh, dan lain-lain; tambang minyak, arang, timah, bauxiet, nikel, emas, dan lain-lain; pabrik kertas, tinta, pensil, dan lain-lain.
+
+Berhubung dengan itu akan kembalilah pula pengangkutan darat, laut dan udara ke bawah milik kekuasaan atau pengawasan Belanda sebagai opasnya kapitalis-imperialis Amerika. Akhirnya akan tetaplah Indonesia yang kaya raya ini menjadi “negara sapi perahan”, yang pertahanannya tetap tergantung kepada negara asing, karena Indonesia tiada mempunyai industri berat.
+
+Dengan demikian, maka akan kembalilah Indonesia kepada keadaan di masa “Hindia Belanda” mungkin dengan sedikit perubahan dalam politik. Akan percumalah semua usaha proklamasi 17 Agustus dan akan sia-sia segala korban harta benda, tenaga, darah dan jiwa rakyat serta pemuda yang tiada ditaksir dengan ukuran uang itu.
+
+**2) Menerima bantuan (lahir-batin) dari Blok Sosialis**
+
+Penerimaan bantuan lahir dari Blok Rusia itu tiadalah sedemikian mudah seperti menerima bantuan batin dari orang Mekah buat orang Islam. Penerimaan itu tergantung kepada si pembantu sendiri. Soviet Rusia sendiri pun tergantung kepada kekuatan dan keadaan diri sendiri. Kita masih ingat akan pembubaran Komintern pada tahun 1943, ialah karena kepentingan peperangan buat negara Soviet Rusia yang pada masa itu bersekutu dengan Amerika, Inggris dan Perancis, akan melawan Jerman, terpaksa memperhentikan propaganda Komintern, yakni, suatu organisasi internasional yang berdasarkan pembatalan atas pemerintahnya negara-negara Benelux itu, karena berdasarkan kapitalisme-imperialisme. Dalam hal ini/serupa itu suatu jajahan dari negara sekutu itu tiada pula dapat mengharapkan pertolongan lahir (seperti) senjata dari Soviet Rusia yang pula masih berada dalam kekurangan itu. Pun sesuatu negara yang akan menerima bantuan lahir dari Blok Rusia itu (seandainya Blok Rusia menyanggupi) harus pula diperhatikan jarak, tempat dan tempo.
+
+Buat negara yang berdekatan dengan tapal batas Blok Rusia, seperti Italia, Jermania, Tiongkok dan Korea, maka kesanggupan Rusia tak akan dirintangi oleh musuh dan sangat berjauhan dengan Blok Soviet, maka bantuan lahir-batin sebagai bantuan, dan negara anggota sekutu perang negara anggota lainnya menurut (hukum perang) tiadalah seimbang dengan kerugian yang terkandung, sudahlah pasti bantuan yang akan diperoleh kaki-tangan Blok Amerika di sekitar Indonesia (Inggris, Perancis dan Belanda) dan dalam Republik Indonesia sendiri dari Amerika akan lebih banyak dan lebih cepat datangnya daripada bantuan yang sanggup diberikan oleh Blok Rusia.
+
+Perjuangan kaum revolusioner di Indonesia akan bertambah sulit dan bertambah berat daripada yang sudah-sudah. Blok Amerika akan bersatu menimpa Republik Indonesia, andaikan Republik Indonesia menjadi sekutunya Blok Rusia itu, ialah pada tingkat perjuangan kita sekarang.
+
+**3) Mengadakan Blok Asia-Afrika**
+
+Hasrat ini sudah lama terkandung dalam hati sanubari para pemimpin Asia/Afrika yang terutama-ternama sudah mengucapkannya. Malah Jepang sudah mencoba melaksanakannya! Oleh salah seorang diplomat di Indonesia ini hasratnya semacam itu disebut “Third Power Policy (Politik Tengah). Jadi maksudnya tidak memihak kepada Blok Rusia dan tidak pula memihak kepada Blok Amerika. Yang dijadikan dasar politik tersebut, ialah persamaan nasib, persamaan pengalaman sebagai negara-negara jajahan di waktu yang telah silam dan persamaan perjuangan untuk dapat memiliki kedudukan sebagai bangsa dan negara bebas di kemudian hari! Yang tidak disebut, ialah persamaan kasta pada semua bangsa di Asia itu. Memang mudah dan enak menyebut-nyebut persamaan nasib, pengalaman dan kedudukan sebagai bangsa, kalau berada di atas kursi empuk di Raffles hotel atau di tengah perdamsaan di Happy Valley, Singapore, di mana berada borjuis dari berbagai bangsa di Asia. Tetapi persamaan itu akan hilang lenyap, kalau masuk ke dalam pondok tani di salah satu desa di lembah Irawadi (Burma), di pondok buruh di kota Bangkok, atau Saigon, atau di kota Singapore sendiri.
+
+Memangnya Nehru, Patel, Kajagopalachari, dan semua kasta Chetty (lintah darat) India bisa bersatu mengatasi kasta Sudra dan kasta Paria (orang yang tidak boleh diraba!), buruh dan tani di India dapat bersatu melawan borjuis India. Juga kaum Chetty yang sudah memiliki tanahnya kaum tani bangsa Burma di lembah Irawadi (lembah sungai Irawadi) dapat bersatu dengan pemimpin borjuis Burma, seperti pula para petani Murba di lembah Irawadi dapat bersatu dengan Chetty, tuan tanah di Irawadi itu.
+
+Tetapi tiada mungkin disatukan dengan kekal buruh-tani itu, Sudra dan Paria India dengan kaum borjuis dan lintah darat India itu sendiri. Betapa pula lagi sukarnya pekerjaan mempersatukan tani-murba di lembah Irawadi dengan kaum Chetty India yang memiliki tanah, dan memeras, mengisap keringat dan darahnya tani murba itu. Mungkin pula dipersatukan para saudagar dan tuan pabrik beras tionghoa dengan kaum feodal dan borjuis Thailand di Siam dengan saudagar, paberikan dan tengkulak Tionghoa, di kota bangkok dan dan lain-lainnya kota.
+
+Tetapi mempersatukan tani dan buruh bangkok saja yang penduduknya sudah 80% terdiri dari bangsa Tionghoa dan setengah Tionghoa disamping perekonomian yang 99% dimiliki oleh bangsa Tionghoa pula, bukanlah pekerjaan mudah. Begitulah keadaan di kota-kota besar di Saigon, Hanoi, Manila, dll tempat. Perpecahan politis-sosial adalah lebih besar daripada persamaan nasib pengalaman kedudukan di antara borjuis dari satu daerah di Asia dengan daerah lainnya di Asia juga. Apalagi di Tiongkok perpecahan ekonomis-sosial itu sudah lebih dari 20 tahun bertukar menjadi perang saudara yang memakan korban di antara bangsa sendiri.
+
+“Third Power Policy” sebagai ucapan seorang yang sedang berdansa adalah khayal. Dalam Perang Dunia yang mungkin terjadi di hari depan, Asia pun akan pecah menjadi dua golongan: ialah golongan borjuis dan golongan Murba. Yang borjuisnya akan memihak kepada kelas borjuis dan blok borjuis dunia, ialah kalau tak bisa netral lagi. Yang murbanya akan menempati simpatik (kalau belum bisa berpihak) kepada kelas murba di sembarang negara di dunia ini dan kepada Blok Sosialis.
+
+Di sinilah berlakunya pepatah: “Resan (rasa) minyak ke minyak; resan air ke air.” Memang bisa dan harus Indonesia mengadakan persatuan dengan luar negeri, tetapi syarat yang praktis pada tingkat perjuangan sekarang ini, ialah syarat persamaan geografis, strategis kebangsaan, sosial-ekonomis serta kebudayaan-kejiwaan.
+
+**4) Berdiri di atas _self help_ (kekuatan sendiri) serta menerima bantuan (lahir-batin) dari dunia luar**
+
+Seandainya kalau Republik tak berdiplomasi dan tiada menyandarkan diri pada kerjasama dengan sesuatu negara kapitalis/imperialis menurut Linggarjati dan Renviele, tetapi terus berjuang dengan senjata politik, ekonomi dan militer yang ada pada kita, mungkin kemerdekaan 100% sudah tercapai. Tetapi karena selama ini dari dua tahun Pemerintahan Republik menyelenggarakan “kerjasama dengan Belanda”, maka Belanda, sehari demi sehari bertambah kuat dalam politik, ekonomi dan militer. Sebaliknya pula Republik kian bertambah lemah dalam segala hal tersebut.
+
+**Politik**: Bermacam negara kecil yang tak sanggup berdiri sendiri sudah berdiri atau sedang didirikan oleh Belanda dalam daerah Indonesia sendiri. Pelbagai negara itu sudah diadu dombakan dengan Republik sehingga kelak semua negara merasakan perlunya satu wasit ialah negara Belanda, yang berpucuk pada mahkota Belanda. Persoalan pembagian UNI dan NIS ialah persoalan pelaksanaan perbandingan kekuasaan ekonomi antara Belanda dan Indonesia, atas pengakuan pasal 14 Linggarjati, ialah pengakuan atas pengembalian hak milik Belanda dan Asing. Soal plebicitt sukar atau mustahillah dapat diselesaikan kalau soal pembagian kekuasaan itu belum diselesaikan. Demikian pula soal hubungan dengan luar negeri dan soal kemiliteran.    
+
+**Ekonomis**: Dengan kembalinya semua pabrik, kebun, tambang, alat pengangkutan darat, laut dan udara serta alat keuangan (bank-asuransi) kepada Belanda akan sudah tentu dengan sendirinya Belanda akan tetap menuntut kekuasaan dalam ekspor, impor, duane, devisen, dan yang sedang dijalankannya, sampai maksudnya tercapai. Dengan adanya semua senjata ekonomi di tangan Belanda (pabrik, kebun, tambang, pelabuhan dan pelayaran) dengan kemurahan hati Pemerintahan Republik memberikan makanan ke daerah pendudukan, maka suburlah tumbuhnya kembali perekonomian, perdagangan dan keuangan Belanda. Sebaliknya pula akan tetaplah pula merosotnya perekonomian, perdagangan keuangan Republik dan akan merosotlah pula kehidupan rakyat.
+
+**Militer**: Belanda yang tak bisa masuk zonder (tanpa) pertolongan Ingrgris dan Inggris pasti terpaksa menarik diri kembali tentaranya, walaupun tidak diadakan “_greaze fire order_” keduanya, negara tersebut (sekarang penuh oleh KTN) berduka cita melihat tempat yang strategis, yang tak bisa direbut Belanda yang dinamai “Kantong itu Dikosongkan” dengan hati luka. Di daerah pendudukannya Belanda senantiasa memperkuat kemiliterannya, disamping Republik berusaha keras ke arah “nasionalisasi” katanya. Tetapi...tetapi...walaupun daerah Republik tinggal lebih kurang 1% dari luasnya tanah air Indonesia...walaupun penduduknya yang langsung di bawah perintahnya cuma lebih kurang 3% hasrat kemerdekan belum hilang lenyap. Bahkan banyak tanda yang menunjukkan bahwa di daerah pendudukan Belanda sendiri, semangat, sikap dan tindakan rakyat tak kurang tegasnya daripada di pedalaman. Sudah hampir tiga (3) tahun rakyat Indonesia bernafaskan hawa merdeka! Sudah hampir tiga tahun mereka merasakan pula suasana kemerdekaan yang direbutnya dengan bambu runcing di tangan. Dan...hampir tiga tahun pula rakyat menyaksikan “kebijaksanaan” borjuis kecil membela kemerdekaan yang direbut oleh rakyat murba itu. Fase baru, tingkatan massa baru, sudah tiba dalam Revolusi Indonesia ini! Murbalah sekarang yang pantas mengambil pimpinan pembelaan kemerdekaan 100%! Tetapi murbalah sekarang yang pantas mengambil pembelaan kemerdekaan ini, yang harus mengisi dan menggerakkan semua organisasi pembelaan kemerdekaan ini, murbalah pula yang harus mengisi dan menggerakkan partai, badan ekonomi dan kelaskaran.
+
+Murba Indonesia tetap akan bersimpati dengan perjuangan kelas murba di luar negeri, di mana saja murba Indonesia akan tetap menerima pertolongan batin dari manapun datangnya dan dari mana juga datangnya. Tetapi dengan kekayaan dan istemewa alam Indonesia di bawah pimpinan organisasi murba yang sejati akan sanggup merebut kembali seluruh kekuasaan dalam arti politik, diplomasi, ekonomi dan kemiliteran.
+
+Perang kemerdekaan berlainan sifatnya atas pembelaan dan penyerangan dengan perang perebutan negara!
+
+Keinsyafan, ketangkasan serta kecakapan yang dibuktikan oleh rakyat murba selama hampir tiga tahun ini memberikan keyakinan kepada kami, bahwa dengan alat dan organisasi politik, ekonomi dan militer yang ada pada kita bisa kita perbaiki, bisa kita murbakan, kita akan sanggup menyelenggarakan pembelaan kemerdekaan kita atas dasar _self-hep._
+
+Dengan kelak terbentuknya keinsyafan serta organisasi dengan kodrat yang selama ini sembunyi pada rakyat yang 70 juta (sekarang 103 juta 1964) pula itu, dapatlah kita memperingatkan kepada negara atau gabungan negara mana saja, yang ingin hendak melanggar kenetralan kita, serta ingin hendak menyeret kita ke Plan Marshall dan perang kapitalis-imperialis, bahwa maksud penjajahan semacam itu tak akan dapat dilakukan dengan tiada membekukan sekurang-kurangnya 150.000 imperialis di bumi Indonesia ini. Dengan demikian maka kita dengan tak langsung akan membantu sosialis.
+
+Akhirnya kita akan sanggup pula menjanjikan kepada proletar asing bahwa atas dasar kekuatan kita sendiri dengan cara kita sendiri, pada suatu tempo, di suatu tempat kita akan dapat berjabatan tangan sampai sebagai Negara Murba Merdeka dengan Negara Murba Merdeka.
+
+_“Berpisah kita berjuang, bersama kita memukul!”_
+
+ 6 Mei 1948
+
+* * *
+
+[Arsip Tan Malaka](index.html) | [Sejarah Marxisme di Indonesia](https://www.marxists.org/indonesia/indones/index.htm) | [S�ksi Bahasa Indonesia M.I.A.](https://www.marxists.org/indonesia/index.htm)

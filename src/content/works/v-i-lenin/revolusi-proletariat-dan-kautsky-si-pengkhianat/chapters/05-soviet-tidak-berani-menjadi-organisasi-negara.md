@@ -1,0 +1,83 @@
+# Revolusi Proletariat dan Kautsky si Pengkhianat
+
+### V.I. Lenin (1918)
+
+* * *
+
+### Soviet Tidak Berani Menjadi Organisasi Negara
+
+Soviet adalah bentuk kediktatoran proletariat di Rusia. Bila seorang teoretikus Marxis, yang menulis sebuah karya mengenai kediktatoran proletariat, benar-benar telah mempelajari topik ini (dan tidak serta-merta mengulang-ulang keluhan-keluhan borjuis-kecil terhadap kediktatoran, seperti yang dilakukan oleh Kautsky, yang menyanyikan lagu Menshevik), dia akan pertama-tama memberikan definisi umum untuk kediktatoran, dan dia akan kemudian memeriksa bentuknya yang unik secara nasional, yakni Soviet. Dia akan memberikan kritiknya terhadap Soviet sebagai salah satu bentuk kediktatoran proletariat.
+
+Sungguh tidak ada hal yang serius yang bisa diharapkan dari Kautsky setelah “interpretasi” liberalnya terhadap ajaran-ajaran Marx mengenai kediktatoran. Tetapi cara dia melakukan pendekatan terhadap masalah apa itu Soviet, dan cara dia menjawab masalah ini sangatlah khas.
+
+Soviet, katanya, mengingat munculnya mereka pada 1905, menciptakan “bentuk organisasi proletariat yang paling inklusif _(umfassendste)_, karena ia merangkul semua pekerja upahan.” (hal. 31) Pada 1905 soviet-soviet hanyalah badan-badan yang bersifat lokal; pada 1917 mereka menjadi sebuah organisasi nasional.
+
+Kautsky melanjutkan: “Bentuk organisasi Soviet telah memiliki sejarah yang hebat dan mulia di belakangnya, dan ia masih memiliki masa depan yang bahkan lebih hebat di depannya, dan bukan hanya di Rusia saja. Di mana-mana tampaknya metode-metode perjuangan ekonomi dan politik kaum proletariat yang lama sudah tidak memadai (_versagen_; ekspresi Jerman ini lebih kuat daripada “tidak memadai” dan lebih lemah daripada “impoten”) dalam melawan kekuatan ekonomi dan politik yang ada di tangan kapital finans. Metode-metode lama ini tidak bisa dicampakkan; mereka masih tak-tergantikan pada masa-masa normal; tetapi dari waktu ke waktu ada tugas-tugas yang muncul yang tidak dapat mereka penuhi, tugas-tugas yang hanya bisa dipenuhi secara berhasil dengan kombinasi dari semua instrumen kekuatan politik dan ekonomi kelas buruh.” (hal.32)
+
+Lalu ini diikuti dengan sebuah penalaran mengenai pemogokan massa dan “birokrasi serikat buruh” – yang juga dibutuhkan seperti serikat-serikat buruh – yang “tidak berguna dalam memimpin pertempuran-pertempuran massa yang besar, yang menjadi semakin sering terjadi ...”
+
+“Oleh karenanya,” Kautsky menyimpulkan, “bentuk organisasi Soviet adalah salah satu fenomena terpenting di jaman kita. Ia memiliki peluang untuk memainkan peran yang menentukan di dalam pertempuran-pertempuran besar yang menentukan antara kapital dan buruh, yang mana kita sedang bergerak ke arah sana.”
+
+“Tetapi, apakah kita punya hak untuk menuntut lebih dari Soviet? Kaum Bolshevik, setelah Revolusi November (penanggalan baru, atau Revolusi Oktober sesuai dengan penanggalan lama Rusia), bersama-sama dengan kaum Sosialis-Revolusioner Kiri mengamankan mayoritas di dalam Soviet Perwakilan Buruh Rusia, dan setelah pembubaran Majelis Konstituante, mereka memulai mentransformasi Soviet-soviet dari _organisasi perjuangan sebuah kelas_ menjadi _organisasi negara_. Mereka menghancurkan demokrasi yang telah dimenangkan oleh rakyat Rusia pada Revolusi Maret (penanggalan lama, atau Revolusi Februari sesuai dengan penanggalan lama Rusia). Bersamaan dengan ini, kaum Bolshevik telah berhenti memanggil diri mereka sendiri kaum Sosial-Demokrat. Mereka memanggil diri mereka _Komunis_.” (hal. 33., italik dari Kautsky)
+
+Mereka-mereka yang mengenal literatur Menshevik Rusia akan segera melihat bagaimana Kautsky secara menghamba mengkopi Martov[\[1\]](#_ftn1), Axelrod[\[2\]](#_ftn2), Stein dan yang lainnya. Ya, “secara menghamba”, karena Kautsky dengan seenaknya mendistorsi fakta-fakta demi mengekori prasangka-prasangka Menshevik. Kautsky tidak ambil pusing, misalnya, untuk menanyakan para informannya (Stein di Berlin, atau Axelrod di Stockholm) _kapan_ masalah penggantian nama Bolshevik menjadi Komunis dan _kapan_ masalah signifikansi Soviet sebagai organisasi negara pertama kali dikemukakan. Bila saja Kautsky menanyakan pertanyaan sederhana ini, dia tidak akan menulis baris-baris yang konyol ini, karena kedua masalah ini dikemukakan oleh kaum Bolshevik _pada April 1917,_ misalnya di “Tesis” 4 April 1917 saya, yakni _jauh sebelum_ Revolusi Oktober 1917 (dan, tentu saja, jauh sebelum pembubaran Majelis Konstituante pada 5 Januari 1918).
+
+Tetapi argumen Kautsky yang telah saya kutip sepenuhnya mewakili _inti_ dari seluruh masalah mengenai Soviet. _Intinya_ adalah: apakah Soviet harus berusaha menjadi organisasi negara (pada April 1917, kaum Bolshevik mengedepankan slogan “Seluruh Kekuasaan Untuk Soviet!” dan pada Konferensi Partai Bolshevik yang diselenggarakan pada bulan yang sama mereka menyatakan bahwa mereka tidak puas dengan republik parlementer borjuis, tetapi menuntut sebuah republik buruh dan tani seperti tipe Komune Paris atau tipe Soviet); _atau_ apakah Soviet tidak boleh berusaha untuk mencapai ini, dan menahan diri dari merebut kekuasaan ke tangannya, menahan diri dari menjadi organisasi negara dan tetap menjadi “organisasi perjuangan” dari “sebuah kelas” (seperti yang diekspresikan oleh Martov, yang dengan harapan lugunya menutup-nutupi kenyataan bahwa di bawah kepemimpinan Menshevik Soviet adalah _instrumen yang digunakan untuk menundukkan kaum buruh di bawah borjuasi)._
+
+Kautsky secara menghamba mengulang kata-kata Martov, memilah _fragmen-fragmen_ dari polemik teoritis antara Bolshevik dan Menshevik, dan secara tidak kritis dan seenaknya mencangkokkan mereka ke bidang teori dan Eropa secara umum. Hasilnya adalah sebuah tambal sulam yang begitu buruk sehingga mengundang tawa keras dari setiap buruh Rusia yang sadar kelas yang membaca argumen-argumen Kautsky ini.
+
+Ketika kita menjelaskan apa isu utamanya, setiap buruh di Eropa (kecuali segelintir kaum imperialis-sosial yang tak bertulang punggung) akan menyambut Kautsky dengan tawa yang sama kerasnya.
+
+Kautsky telah memberikan Martov bantuan yang tak terduga dengan mengembangkan kesalahannya menjadi sebuah absurditas yang mencolok. Coba kita lihat apa argumen Kautsky sebenarnya.
+
+Soviet merangkul semua pekerja upahan. Metode-metode perjuangan ekonomi dan politik kaum proletariat yang lama sudah tidak memadai dalam melawan kapital finans. Soviet punya peran yang besar di masa depan, dan tidak hanya di Rusia. Mereka akan memainkan peran yang menentukan di dalam pertempuran-pertempuran besar yang menentukan antara kapital dan buruh di Eropa. Inilah yang dikatakan oleh Kautsky.
+
+Luar biasa. Tetapi bukankah “pertempuran-pertempuran yang menentukan antara kapital dan buruh” akan menentukan kelas mana yang akan merebut kekuasaan negara?
+
+Tidak boleh sama sekali! Ini haram!
+
+Soviet, yang merangkul semua pekerja upahan, _tidak boleh menjadi organisasi negara_ di dalam pertempuran-pertempuran “yang menentukan”!
+
+Tetapi apa itu negara?
+
+Negara tidak lain adalah mesin bagi satu kelas untuk menindas kelas yang lainnya.
+
+Oleh karenanya, kelas yang tereksploitasi, kaum pelopor dari semua rakyat pekerja dan rakyat yang tereksploitasi di masyarakat modern, harus berusaha bergerak ke “pertempuran-pertempuran menentukan antara kapital dan buruh”, _tetapi tidak boleh menyentuh_ mesin negara yang digunakan oleh kapital untuk menindas buruh! Mereka tidak boleh _menghancurkan_ mesin tersebut! _Mereka tidak boleh menggunakan_ organisasinya yang sepenuhnya-inklusif _untuk menindas kaum pengeksploitasi!_
+
+Luar biasa, Tn. Kautsky, luar biasa! “Kita” mengakui perjuangan kelas – seperti halnya semua kaum liberal mengakuinya,  yakni tanpa penggulingan kaum borjuasi ...
+
+Di sinilah perpecahan Kautsky dengan Marxisme dan sosialisme menjadi jelas. Sesungguhnya, ini adalah pembelotan ke kamp borjuasi, yang siap memberikan segala macam konsesi kecuali transformasi organisasi kelas tertindas menjadi organisasi negara. Kautsky sudah tidak bisa lagi menyelamatkan posisinya yang ingin mendamaikan segalanya dan menghindari semua kontradiksi-kontradiksi utama dengan kata-kata.
+
+Kautsky sepenuhnya menolak perebutan kekuasaan negara oleh kelas buruh, atau dia menerima bahwa kelas buruh boleh mengambil alih mesin negara borjuis yang lama. Tetapi dia tidak akan pernah menerima bahwa kelas buruh harus menghancurkan negara borjuis yang lama dan menggantikannya dengan mesin proletar yang baru. Bagaimanapun argumen-argumen Kautsky “diinterpretasikan”, atau “dijelaskan”, perpecahan dia dengan Marxisme dan pembelotan dia ke kamp borjuasi adalah jelas.
+
+Di _“Manifesto Komunis”_, Marx menjelaskan bentuk negara seperti apa yang dibutuhkan oleh kelas buruh yang menang. Dia menulis: “negara, yakni, kelas proletar yang terorganisir sebagai kelas penguasa.”[\[3\]](#_ftn3) Sekarang ada seseorang, yang masih mengklaim dirinya sebagai seorang Marxis, maju ke depan dan menyatakan bahwa kaum proletariat, yang sepenuhnya terorganisir dan mengobarkan “pertempuran menentukan” melawan kapital, _tidak boleh_ mengubah organisasi kelasnya menjadi organisasi negara. Di sini Kautsky telah menunjukkan “takhayul mengenai negara”, yang di Jerman, seperti yang ditulis oleh Engels pada 1891, “telah merasuk ke dalam pemikiran umum kaum borjuasi dan bahkan banyak buruh.”[\[4\]](#_ftn4) Buruh, berjuanglah! -- Para filistin kita “setuju” dengan ini (semua kaum borjuasi juga “setuju” dengan ini, karena buruh tetap akan berjuang, dan satu-satunya hal yang perlu dilakukan adalah mencari cara untuk menumpulkan pisau mereka) – berjuanglah, tetapi _jangan berani-berani menang!_ Jangan hancurkan mesin negara borjuis, jangan gantikan “organisasi negara” borjuis dengan “organisasi negara” proletar!
+
+Siapa pun yang secara jujur setuju dengan gagasan Marxis bahwa negara tidak lain adalah sebuah mesin yang digunakan satu kelas untuk menindas kelas yang lain, dan yang telah mempertimbangkan kebenaran ini, tidak akan pernah dapat meraih kesimpulan yang konyol bahwa organisasi proletar yang dapat mengalahkan kapital finans tidak boleh mengubah dirinya menjadi organisasi negara. Pada poin inilah tersibak kaum borjuis kecil yang percaya bahwa “setelah semuanya” negara adalah sesuatu yang ada di luar kelas atau di atas kelas. Mengapa kelas proletariat, _“sebuah kelas”,_ diperbolehkan mengobarkan perjuangan yang tak kunjung padam melawan _kapital¸_ yang menindas tidak hanya proletariat tetapi juga seluruh rakyat, seluruh borjuasi kecil, seluruh kaum tani, tetapi _“kelas yang satu ini”_ tidak diperbolehkan mengubah organisasinya menjadi sebuah organisasi negara? Karena kaum borjuis kecil _takut_ terhadap perjuangan kelas, dan tidak dapat membawa perjuangan kelas ke kesimpulan logisnya, _ke tujuan utamanya._
+
+Kautsky menjadi bingung sendiri dan mengekspos dirinya sendiri. Dia sendiri mengakui bahwa Eropa sedang bergerak ke arah pertempuran-pertempuran menentukan antara kapital dan buruh, dan bahwa metode-metode perjuangan ekonomi dan politik kelas proletariat yang lama sudah tidak memadai. Tetapi metode-metode lama ini justru adalah penggunaan demokrasi _borjuis_. Oleh karenanya ...?
+
+Tetapi Kautsky takut memikirkan kelanjutannya.
+
+... Oleh karenanya hanya seorang reaksioner, seorang musuh kelas buruh, seorang kacung borjuasi, yang sekarang dapat memalingkan mukanya ke masa lalu yang sudah usang, menghiasi demokrasi borjuis dan berkoar-koar tentang demokrasi murni. Demokrasi borjuis _dulunya_ progresif dibandingkan dengan abad pertengahan, dan ia harus digunakan. Tetapi sekarang ia sudah _tidak lagi memadai_ bagi kelas buruh. Sekarang kita harus menatap ke depan alih-alih ke belakang – untuk menggantikan demokrasi borjuis dengan demokrasi proletariat. Dan sementara kerja persiapan untuk revolusi proletariat, pembentukan dan pelatihan pasukan proletar adalah mungkin (dan diperlukan) _di dalam kerangka_ negara demokratik-borjuis, sekarang ketika kita telah sampai pada tahapan “pertempuran menentukan”, untuk membatasi proletariat ke dalam kerangka ini berarti mengkhianati perjuangan proletariat, berarti menjadi seorang pengkhianat.
+
+Kautsky telah membuat dirinya sendiri tampak konyol dengan mengulangi argumen Martov _tanpa mengetahui_ bahwa dalam kasus Martov argumen ini adalah berdasarkan argumen _lain_ yang dia, Kautsky, tidak gunakan! Martov mengatakan (dan Kautsky mengulanginya) bahwa Rusia belumlah matang untuk sosialisme. Dari ini, secara logis maka terlalu dini untuk mentransformasi Soviet dari organ perjuangan menjadi organisasi negara (baca: adalah waktu yang tepat untuk mentransformasi Soviet, dengan bantuan para pemimpin Menshevik, menjadi instrumen untuk menundukkan kaum buruh ke bawah kaum borjuasi imperialis). Akan tetapi, Kautsky _tidak dapat_ mengatakan secara terbuka bahwa Eropa belumlah matang untuk sosialisme. Pada 1909, ketika dia belumlah menjadi seorang pengkhianat, dia menulis bahwa tidak ada alasan untuk takut terhadap revolusi yang _prematur,_ bahwa siapa pun yang menyangkal revolusi karena takut akan kekalahan adalah seorang pengkhianat. Kautsky tidak berani membantah ini _secara terbuka._ Dan oleh karenanya kita mendapati absurditas, yang dengan sepenuhnya menyibak kebodohan dan kepengecutan dari seorang borjuis kecil: di satu pihak, Eropa sudah matang untuk sosialisme dan bergerak ke arah pertempuran menentukan antara kapital dan buruh; tetapi, di lain pihak, _organisasi perjuangan_ (yakni organisasi yang lahir, tumbuh, dan bertambah kuat melalui perjuangan), organisasi proletariat, sang pelopor dan organisator, sang pemimpin rakyat tertindas, _tidak boleh_ diubah menjadi organisasi negara.
+
+\*\*\*
+
+Dari sudut pandang politik praktis, gagasan bahwa Soviet diperlukan sebagai organisasi perjuangan tetapi tidak boleh diubah menjadi organisasi negara adalah jauh lebih absurd dibandingkan dari sudut pandang teori. Bahkan di masa damai, ketika tidak ada situasi revolusioner, perjuangan massa buruh dalam melawan kapitalis – misalnya, pemogokan massa – menimbulkan rasa permusuhan yang besar di antara kedua belah pihak, menimbulkan semangat yang menggebu-gebu di dalam perjuangan, di mana kaum borjuasi terus bersikeras bahwa mereka masihlah “penguasa di rumah mereka sendiri:”, dsb. Dan di masa revolusi, ketika kehidupan politik mencapai titik didih, sebuah organisasi seperti Soviet, yang merangkul _semua_ pekerja di _semua_ cabang industri, _semua_ tentara, dan semua lapisan pekerja dan kaum miskin desa – organisasi seperti ini, secara otomatis, seiring dengan perkembangan perjuangan, oleh karena “logika” sederhana dari menyerang dan bertahan, niscaya berbenturan dengan masalah ini _secara langsung_. Usaha untuk mengambil posisi tengah dan untuk “mendamaikan” kelas proletariat dengan kelas borjuasi adalah kebodohan yang teramat besar dan pasti menemui kegagalan. Inilah yang terjadi di Rusia pada ceramah dari Martov dan kaum Menshevik lainnya, dan ini akan terjadi di Jerman dan negeri-negeri lain bila Soviet berhasil berkembang dalam skala yang luas, berhasil bersatu dan menjadi kuat. Untuk mengatakan kepada Soviet: bertarunglah, tetapi jangan rebut kekuasaan negara ke tanganmu, jangan menjadi organisasi negara – ini sama dengan berceramah mengenai kolaborasi kelas dan “perdamaian sosial” antara proletariat dan borjuasi. Sungguh tidak masuk akal untuk bahkan berpikir bahwa di tengah perjuangan yang tajam posisi seperti ini tidak akan berakhir pada kekalahan yang telak. Tetapi nasib Kautsky adalah untuk duduk di antara dua kursi. Dia pura-pura tidak setuju secara teoritis dengan kaum oportunis dalam semua hal, tetapi _dalam praktek_ dia setuju dengan mereka dalam semua hal yang esensial (yakni, dalam semua hal yang berkaitan dengan revolusi).
+
+* * *
+
+#### Catatan
+
+[\[1\]](#_ftnref1) Yuli Martov (1873-1923) adalah pemimpin Menshevik. Dia memulai karir politiknya pada tahun 1895 bekerja bersama Lenin di Liga Perjuangan Untuk Emansipasi Kelas Buruh di kota St Petersburg. Awalnya dia berkolaborasi dengan Lenin untuk mendirikan Iskra namun pecah dengannya pada tahun 1903..
+
+[\[2\]](#_ftnref2) Pavel Axelrod (1850-1928) adalah salah satu pendiri Kelompok Emansipasi Buruh. Setelah Kongres Kedua Partai Buruh Sosial Demokrasi Buruh pada 1903 dia bergabung dengan Menshevik.
+
+[\[3\]](#_ftnref3) Marx dan Engels, _Manifesto of the Communist Party,_ Moskow, 1957, p. 85.
+
+[\[4\]](#_ftnref4) Lenin merujuk pada Kata Pengantar Engels untuk Perang Sipil di Prancis oleh Karl Marx (Marx dan Engels, _Selected Works,_ Moskow, 1962,Vol. 1, hal. 484)
+
+* * *
+
+[DAFTAR ISI](index.html) | [KARYA-KARYA LENIN](../index.html)

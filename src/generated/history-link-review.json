@@ -1,0 +1,973 @@
+{
+  "highConfidenceLinks": [
+    {
+      "eventId": "si-semarang-dan-onderwijs",
+      "entityType": "organization",
+      "entityId": "sarekat-islam",
+      "matchedText": "SI"
+    },
+    {
+      "eventId": "si-semarang-dan-onderwijs",
+      "entityType": "work",
+      "entityId": "si-semarang-dan-onderwijs-rncbb",
+      "matchedText": "SI Semarang dan Onderwijs"
+    },
+    {
+      "eventId": "komunisme-dan-pan-islamisme",
+      "entityType": "work",
+      "entityId": "komunisme-dan-pan-islamisme",
+      "matchedText": "Komunisme dan Pan-Islamisme"
+    },
+    {
+      "eventId": "menuju-republik-indonesia",
+      "entityType": "work",
+      "entityId": "naar-de-republiek-indonesia",
+      "matchedText": "Menuju Republik Indonesia"
+    },
+    {
+      "eventId": "semangat-muda",
+      "entityType": "work",
+      "entityId": "semangat-muda-0hcqh",
+      "matchedText": "Semangat Muda"
+    },
+    {
+      "eventId": "aksi-massa",
+      "entityType": "work",
+      "entityId": "aksi-massa",
+      "matchedText": "Aksi Massa"
+    },
+    {
+      "eventId": "madilog",
+      "entityType": "work",
+      "entityId": "madilog",
+      "matchedText": "Madilog"
+    },
+    {
+      "eventId": "politik",
+      "entityType": "work",
+      "entityId": "politik-bvm7i",
+      "matchedText": "Politik"
+    },
+    {
+      "eventId": "rencana-ekonomi-berjuang",
+      "entityType": "work",
+      "entityId": "rencana-ekonomi-berjuang-etvyg",
+      "matchedText": "Rencana Ekonomi Berjuang"
+    },
+    {
+      "eventId": "muslihat",
+      "entityType": "work",
+      "entityId": "muslihat-vekv1",
+      "matchedText": "Muslihat"
+    },
+    {
+      "eventId": "manifesto-jakarta",
+      "entityType": "work",
+      "entityId": "manifesto-jakarta-h0dli",
+      "matchedText": "Manifesto Jakarta"
+    },
+    {
+      "eventId": "thesis",
+      "entityType": "work",
+      "entityId": "thesis",
+      "matchedText": "Thesis"
+    },
+    {
+      "eventId": "pki-dan-kni-pusat",
+      "entityType": "organization",
+      "entityId": "pki",
+      "matchedText": "PKI"
+    },
+    {
+      "eventId": "kuhandel-di-kaliurang",
+      "entityType": "work",
+      "entityId": "kuhandel-di-kaliurang-04xlq",
+      "matchedText": "Kuhandel di Kaliurang"
+    },
+    {
+      "eventId": "gerpolek-gerilya-politik-ekonomi",
+      "entityType": "work",
+      "entityId": "politik-bvm7i",
+      "matchedText": "Politik"
+    },
+    {
+      "eventId": "gerpolek-gerilya-politik-ekonomi",
+      "entityType": "work",
+      "entityId": "gerpolek",
+      "matchedText": "GERPOLEK"
+    },
+    {
+      "eventId": "pandangan-dan-langkah-partai-rakyat",
+      "entityType": "work",
+      "entityId": "pandangan-dan-langkah-partai-rakyat-cvxzf",
+      "matchedText": "Pandangan dan Langkah Partai Rakyat"
+    },
+    {
+      "eventId": "uraian-mendadak",
+      "entityType": "work",
+      "entityId": "uraian-mendadak-xw2bd",
+      "matchedText": "Uraian Mendadak"
+    },
+    {
+      "eventId": "proklamasi-17-8-1945-isi-dan-pelaksanaannya",
+      "entityType": "work",
+      "entityId": "proklamasi-17-8-1945-isi-dan-pelaksanaannya-u9dp4",
+      "matchedText": "Proklamasi 17-8-1945, Isi dan Pelaksanaannya"
+    },
+    {
+      "eventId": "pandangan-hidup",
+      "entityType": "work",
+      "entityId": "pandangan-hidup-prk1z",
+      "matchedText": "Pandangan Hidup"
+    },
+    {
+      "eventId": "islam-dalam-tinjauan-madilog",
+      "entityType": "work",
+      "entityId": "madilog",
+      "matchedText": "Madilog"
+    },
+    {
+      "eventId": "islam-dalam-tinjauan-madilog",
+      "entityType": "work",
+      "entityId": "islam-dalam-tinjauan-madilog-seuon",
+      "matchedText": "Islam dalam Tinjauan Madilog"
+    },
+    {
+      "eventId": "sambutan-murba",
+      "entityType": "work",
+      "entityId": "sambutan-murba-hi4pi",
+      "matchedText": "Sambutan Murba"
+    },
+    {
+      "eventId": "hukum-revolusi",
+      "entityType": "work",
+      "entityId": "hukum-revolusi-zunou",
+      "matchedText": "Hukum Revolusi"
+    },
+    {
+      "eventId": "dari-ir-soekarno-sampai-ke-presiden-soekarno",
+      "entityType": "historical-person",
+      "entityId": "sukarno",
+      "matchedText": "Soekarno"
+    },
+    {
+      "eventId": "dari-ir-soekarno-sampai-ke-presiden-soekarno",
+      "entityType": "work",
+      "entityId": "dari-ir-soekarno-sampai-ke-presiden-soekarno-k8n9v",
+      "matchedText": "Dari Ir. Soekarno sampai ke Presiden Soekarno"
+    },
+    {
+      "eventId": "keterangan-ringkas-tentang-program-maksimum",
+      "entityType": "work",
+      "entityId": "keterangan-ringkas-tentang-program-maksimum-jdmki",
+      "matchedText": "Keterangan Ringkas tentang Program Maksimum"
+    },
+    {
+      "eventId": "nasrani-yahudi-dalam-tinjauan-madilog",
+      "entityType": "work",
+      "entityId": "madilog",
+      "matchedText": "Madilog"
+    },
+    {
+      "eventId": "nasrani-yahudi-dalam-tinjauan-madilog",
+      "entityType": "work",
+      "entityId": "nasrani-yahudi-dalam-tinjauan-madilog-p7est",
+      "matchedText": "Nasrani-Yahudi dalam Tinjauan Madilog"
+    },
+    {
+      "eventId": "dokumen-dokumen-kongres-nasional-ke-v-partai-komun",
+      "entityType": "organization",
+      "entityId": "pki",
+      "matchedText": "Partai Komunis Indonesia"
+    },
+    {
+      "eventId": "lahirnya-pki-dan-perkembangannya",
+      "entityType": "organization",
+      "entityId": "pki",
+      "matchedText": "PKI"
+    },
+    {
+      "eventId": "pki-dan-konstituante",
+      "entityType": "organization",
+      "entityId": "pki",
+      "matchedText": "PKI"
+    },
+    {
+      "eventId": "abc-politik",
+      "entityType": "work",
+      "entityId": "politik-bvm7i",
+      "matchedText": "Politik"
+    },
+    {
+      "eventId": "dokumen-dokumen-kongres-nasional-ke-vi-partai-komu",
+      "entityType": "organization",
+      "entityId": "pki",
+      "matchedText": "Partai Komunis Indonesia"
+    },
+    {
+      "eventId": "maju-terus-menggempur-imperialisme-dan-feodalisme-",
+      "entityType": "organization",
+      "entityId": "pki",
+      "matchedText": "PKI"
+    },
+    {
+      "eventId": "maju-terus-menggempur-imperialisme-dan-feodalisme-",
+      "entityType": "work",
+      "entityId": "imperialisme",
+      "matchedText": "Imperialisme"
+    },
+    {
+      "eventId": "pokok-pokok-ajaran-tan-malaka-murbaisme",
+      "entityType": "author",
+      "entityId": "tan-malaka",
+      "matchedText": "Tan Malaka"
+    },
+    {
+      "eventId": "pki-dan-mprs",
+      "entityType": "organization",
+      "entityId": "pki",
+      "matchedText": "PKI"
+    },
+    {
+      "eventId": "konferensi-nasional-tani-ke-ii-pki",
+      "entityType": "organization",
+      "entityId": "pki",
+      "matchedText": "PKI"
+    },
+    {
+      "eventId": "dokumen-dokumen-kongres-nasional-ke-vii-luar-biasa",
+      "entityType": "organization",
+      "entityId": "pki",
+      "matchedText": "Partai Komunis Indonesia"
+    },
+    {
+      "eventId": "anti-imperialisme-dan-front-nasional",
+      "entityType": "work",
+      "entityId": "imperialisme",
+      "matchedText": "Imperialisme"
+    },
+    {
+      "eventId": "pki-dan-polisi",
+      "entityType": "organization",
+      "entityId": "pki",
+      "matchedText": "PKI"
+    },
+    {
+      "eventId": "pki-dan-auri",
+      "entityType": "organization",
+      "entityId": "pki",
+      "matchedText": "PKI"
+    },
+    {
+      "eventId": "pki-dan-angkatan-darat",
+      "entityType": "organization",
+      "entityId": "pki",
+      "matchedText": "PKI"
+    },
+    {
+      "eventId": "pki-dan-alri",
+      "entityType": "organization",
+      "entityId": "pki",
+      "matchedText": "PKI"
+    },
+    {
+      "eventId": "revolusi-indonesia-dan-tugas-tugas-mendesak-pki",
+      "entityType": "organization",
+      "entityId": "pki",
+      "matchedText": "PKI"
+    },
+    {
+      "eventId": "beberapa-soal-revolusi-indonesia-dan-pki",
+      "entityType": "organization",
+      "entityId": "pki",
+      "matchedText": "PKI"
+    },
+    {
+      "eventId": "aliarcham-sedikit-tentang-riwayat-dan-perjuanganny",
+      "entityType": "historical-person",
+      "entityId": "aliarcham",
+      "matchedText": "Aliarcham"
+    },
+    {
+      "eventId": "ayo-bersama-sama-bung-karno-kita-bina-kebudayaan-y",
+      "entityType": "historical-person",
+      "entityId": "sukarno",
+      "matchedText": "Bung Karno"
+    },
+    {
+      "eventId": "politik-luar-negeri-dan-revolusi-indonesia",
+      "entityType": "work",
+      "entityId": "politik-bvm7i",
+      "matchedText": "Politik"
+    },
+    {
+      "eventId": "marxisme-dan-pembinaan-nasion-indonesia-pki-dan-al",
+      "entityType": "organization",
+      "entityId": "pki",
+      "matchedText": "PKI"
+    },
+    {
+      "eventId": "subur-subur-suburlah-pki",
+      "entityType": "organization",
+      "entityId": "pki",
+      "matchedText": "PKI"
+    },
+    {
+      "eventId": "tegakkan-pki-yang-marxis-leninis-untuk-memimpin-re",
+      "entityType": "organization",
+      "entityId": "pki",
+      "matchedText": "PKI"
+    },
+    {
+      "eventId": "program-partai-komunis-indonesia-untuk-demokrasi-r",
+      "entityType": "organization",
+      "entityId": "pki",
+      "matchedText": "Partai Komunis Indonesia"
+    },
+    {
+      "eventId": "tegakkan-pki-yang-marxis-leninis-untuk-memimpin-re-340",
+      "entityType": "organization",
+      "entityId": "pki",
+      "matchedText": "PKI"
+    }
+  ],
+  "mediumConfidenceLinks": [
+    {
+      "eventId": "suara-rakyat-1919-1923",
+      "entityType": "organization",
+      "entityId": "pki",
+      "matchedText": "PKI"
+    },
+    {
+      "eventId": "hikayat-kadiroen",
+      "entityType": "historical-person",
+      "entityId": "semaun",
+      "matchedText": "Semaoen"
+    },
+    {
+      "eventId": "penuntun-kaum-buruh",
+      "entityType": "historical-person",
+      "entityId": "semaun",
+      "matchedText": "Semaoen"
+    },
+    {
+      "eventId": "parlemen-atau-soviet",
+      "entityType": "author",
+      "entityId": "tan-malaka",
+      "matchedText": "Tan Malaka"
+    },
+    {
+      "eventId": "si-semarang-dan-onderwijs",
+      "entityType": "author",
+      "entityId": "tan-malaka",
+      "matchedText": "Tan Malaka"
+    },
+    {
+      "eventId": "komunisme-dan-pan-islamisme",
+      "entityType": "author",
+      "entityId": "tan-malaka",
+      "matchedText": "Tan Malaka"
+    },
+    {
+      "eventId": "kehasilan-indonesia",
+      "entityType": "historical-person",
+      "entityId": "semaun",
+      "matchedText": "Semaoen"
+    },
+    {
+      "eventId": "menuju-republik-indonesia",
+      "entityType": "author",
+      "entityId": "tan-malaka",
+      "matchedText": "Tan Malaka"
+    },
+    {
+      "eventId": "semangat-muda",
+      "entityType": "author",
+      "entityId": "tan-malaka",
+      "matchedText": "Tan Malaka"
+    },
+    {
+      "eventId": "aksi-massa",
+      "entityType": "author",
+      "entityId": "tan-malaka",
+      "matchedText": "Tan Malaka"
+    },
+    {
+      "eventId": "madilog",
+      "entityType": "author",
+      "entityId": "tan-malaka",
+      "matchedText": "Tan Malaka"
+    },
+    {
+      "eventId": "politik",
+      "entityType": "author",
+      "entityId": "tan-malaka",
+      "matchedText": "Tan Malaka"
+    },
+    {
+      "eventId": "rencana-ekonomi-berjuang",
+      "entityType": "author",
+      "entityId": "tan-malaka",
+      "matchedText": "Tan Malaka"
+    },
+    {
+      "eventId": "muslihat",
+      "entityType": "author",
+      "entityId": "tan-malaka",
+      "matchedText": "Tan Malaka"
+    },
+    {
+      "eventId": "manifesto-jakarta",
+      "entityType": "author",
+      "entityId": "tan-malaka",
+      "matchedText": "Tan Malaka"
+    },
+    {
+      "eventId": "situasi-poltik-luar-dan-dalam-negeri",
+      "entityType": "author",
+      "entityId": "tan-malaka",
+      "matchedText": "Tan Malaka"
+    },
+    {
+      "eventId": "thesis",
+      "entityType": "author",
+      "entityId": "tan-malaka",
+      "matchedText": "Tan Malaka"
+    },
+    {
+      "eventId": "analisis",
+      "entityType": "historical-person",
+      "entityId": "alimin",
+      "matchedText": "Alimin"
+    },
+    {
+      "eventId": "kuhandel-di-kaliurang",
+      "entityType": "author",
+      "entityId": "tan-malaka",
+      "matchedText": "Tan Malaka"
+    },
+    {
+      "eventId": "getrennt-marschieren-vereint-schlagen-berpisah-kit",
+      "entityType": "author",
+      "entityId": "tan-malaka",
+      "matchedText": "Tan Malaka"
+    },
+    {
+      "eventId": "gerpolek-gerilya-politik-ekonomi",
+      "entityType": "author",
+      "entityId": "tan-malaka",
+      "matchedText": "Tan Malaka"
+    },
+    {
+      "eventId": "pandangan-dan-langkah-partai-rakyat",
+      "entityType": "author",
+      "entityId": "tan-malaka",
+      "matchedText": "Tan Malaka"
+    },
+    {
+      "eventId": "jalan-baru-untuk-republik-indonesia",
+      "entityType": "historical-person",
+      "entityId": "musso",
+      "matchedText": "Musso"
+    },
+    {
+      "eventId": "uraian-mendadak",
+      "entityType": "author",
+      "entityId": "tan-malaka",
+      "matchedText": "Tan Malaka"
+    },
+    {
+      "eventId": "proklamasi-17-8-1945-isi-dan-pelaksanaannya",
+      "entityType": "author",
+      "entityId": "tan-malaka",
+      "matchedText": "Tan Malaka"
+    },
+    {
+      "eventId": "pandangan-hidup",
+      "entityType": "author",
+      "entityId": "tan-malaka",
+      "matchedText": "Tan Malaka"
+    },
+    {
+      "eventId": "islam-dalam-tinjauan-madilog",
+      "entityType": "author",
+      "entityId": "tan-malaka",
+      "matchedText": "Tan Malaka"
+    },
+    {
+      "eventId": "sambutan-murba",
+      "entityType": "author",
+      "entityId": "tan-malaka",
+      "matchedText": "Tan Malaka"
+    },
+    {
+      "eventId": "hukum-revolusi",
+      "entityType": "author",
+      "entityId": "tan-malaka",
+      "matchedText": "Tan Malaka"
+    },
+    {
+      "eventId": "dari-ir-soekarno-sampai-ke-presiden-soekarno",
+      "entityType": "author",
+      "entityId": "tan-malaka",
+      "matchedText": "Tan Malaka"
+    },
+    {
+      "eventId": "keterangan-ringkas-tentang-program-maksimum",
+      "entityType": "author",
+      "entityId": "tan-malaka",
+      "matchedText": "Tan Malaka"
+    },
+    {
+      "eventId": "nasrani-yahudi-dalam-tinjauan-madilog",
+      "entityType": "author",
+      "entityId": "tan-malaka",
+      "matchedText": "Tan Malaka"
+    },
+    {
+      "eventId": "partai-tipe-baru",
+      "entityType": "organization",
+      "entityId": "pki",
+      "matchedText": "PKI"
+    },
+    {
+      "eventId": "pedoman-organisasi",
+      "entityType": "organization",
+      "entityId": "pki",
+      "matchedText": "PKI"
+    },
+    {
+      "eventId": "kewajiban-front-persatuan-buruh",
+      "entityType": "organization",
+      "entityId": "pki",
+      "matchedText": "PKI"
+    },
+    {
+      "eventId": "menempuh-jalan-rakyat",
+      "entityType": "historical-person",
+      "entityId": "dn-aidit",
+      "matchedText": "D.N. Aidit"
+    },
+    {
+      "eventId": "sejarah-gerakan-buruh-indonesia",
+      "entityType": "historical-person",
+      "entityId": "dn-aidit",
+      "matchedText": "D.N. Aidit"
+    },
+    {
+      "eventId": "menuju-indonesia-baru",
+      "entityType": "historical-person",
+      "entityId": "dn-aidit",
+      "matchedText": "D.N. Aidit"
+    },
+    {
+      "eventId": "jalan-ke-demokrasi-rakyat-bagi-indonesia",
+      "entityType": "historical-person",
+      "entityId": "dn-aidit",
+      "matchedText": "D.N. Aidit"
+    },
+    {
+      "eventId": "untuk-persatuan-yang-lebih-luas-dari-semua-kekuata",
+      "entityType": "historical-person",
+      "entityId": "dn-aidit",
+      "matchedText": "D.N. Aidit"
+    },
+    {
+      "eventId": "menggugat-peristiwa-madiun",
+      "entityType": "historical-person",
+      "entityId": "dn-aidit",
+      "matchedText": "D.N. Aidit"
+    },
+    {
+      "eventId": "lahirnya-pki-dan-perkembangannya",
+      "entityType": "historical-person",
+      "entityId": "dn-aidit",
+      "matchedText": "D.N. Aidit"
+    },
+    {
+      "eventId": "untuk-kemenangan-front-nasional-dalam-pemilihan-um",
+      "entityType": "historical-person",
+      "entityId": "dn-aidit",
+      "matchedText": "D.N. Aidit"
+    },
+    {
+      "eventId": "pertahankan-republik-proklamasi-1945",
+      "entityType": "historical-person",
+      "entityId": "dn-aidit",
+      "matchedText": "D.N. Aidit"
+    },
+    {
+      "eventId": "bersatu-untuk-menyelesaikan-tuntutan-tuntutan-revo",
+      "entityType": "historical-person",
+      "entityId": "dn-aidit",
+      "matchedText": "D.N. Aidit"
+    },
+    {
+      "eventId": "bersatu-untuk-menyelesaikan-tuntutan-tuntutan-revo",
+      "entityType": "organization",
+      "entityId": "pki",
+      "matchedText": "PKI"
+    },
+    {
+      "eventId": "konfrontasi-peristiwa-madiun-1948-peristiwa-sumate",
+      "entityType": "historical-person",
+      "entityId": "dn-aidit",
+      "matchedText": "D.N. Aidit"
+    },
+    {
+      "eventId": "masyarakat-indonesia-dan-revolusi-indonesia",
+      "entityType": "historical-person",
+      "entityId": "dn-aidit",
+      "matchedText": "D.N. Aidit"
+    },
+    {
+      "eventId": "revolusi-oktober-rusia-dan-revolusi-agustus-indone",
+      "entityType": "historical-person",
+      "entityId": "njoto",
+      "matchedText": "Njoto"
+    },
+    {
+      "eventId": "abc-politik",
+      "entityType": "organization",
+      "entityId": "pki",
+      "matchedText": "PKI"
+    },
+    {
+      "eventId": "untuk-bekerja-lebih-baik-di-kalangan-kaum-tani",
+      "entityType": "historical-person",
+      "entityId": "dn-aidit",
+      "matchedText": "Aidit"
+    },
+    {
+      "eventId": "pidato-nyoto-menyambut-ulang-tahun-ke-vi-harian-ra",
+      "entityType": "historical-person",
+      "entityId": "njoto",
+      "matchedText": "Njoto"
+    },
+    {
+      "eventId": "apa-partai-komunis-itu",
+      "entityType": "organization",
+      "entityId": "pki",
+      "matchedText": "PKI"
+    },
+    {
+      "eventId": "bahan-bahan-untuk-kongres-nasional-ke-vi-partai-ko",
+      "entityType": "organization",
+      "entityId": "pki",
+      "matchedText": "PKI"
+    },
+    {
+      "eventId": "introduksi-soal-soal-pokok-revolusi-indonesia",
+      "entityType": "historical-person",
+      "entityId": "dn-aidit",
+      "matchedText": "D.N. Aidit"
+    },
+    {
+      "eventId": "tentang-marxisme",
+      "entityType": "historical-person",
+      "entityId": "dn-aidit",
+      "matchedText": "D.N. Aidit"
+    },
+    {
+      "eventId": "untuk-demokrasi-persatuan-dan-mobilisasi",
+      "entityType": "historical-person",
+      "entityId": "dn-aidit",
+      "matchedText": "D.N. Aidit"
+    },
+    {
+      "eventId": "untuk-demokrasi-persatuan-dan-mobilisasi",
+      "entityType": "organization",
+      "entityId": "pki",
+      "matchedText": "PKI"
+    },
+    {
+      "eventId": "menanggulangi-kesulitan-kesulitan-ekonomi-dengan-s",
+      "entityType": "organization",
+      "entityId": "pki",
+      "matchedText": "PKI"
+    },
+    {
+      "eventId": "marxisme-ilmu-dan-amalnya",
+      "entityType": "historical-person",
+      "entityId": "njoto",
+      "matchedText": "Njoto"
+    },
+    {
+      "eventId": "anti-imperialisme-dan-front-nasional",
+      "entityType": "historical-person",
+      "entityId": "dn-aidit",
+      "matchedText": "Aidit"
+    },
+    {
+      "eventId": "dorong-maju-demokrasi-dan-produksi-serta-lanjutkan",
+      "entityType": "historical-person",
+      "entityId": "njono",
+      "matchedText": "Njono"
+    },
+    {
+      "eventId": "deklarasi-ekonomi",
+      "entityType": "historical-person",
+      "entityId": "sukarno",
+      "matchedText": "Soekarno"
+    },
+    {
+      "eventId": "dekon-dan-syarat-syarat-pelaksanaannya",
+      "entityType": "historical-person",
+      "entityId": "dn-aidit",
+      "matchedText": "D.N. Aidit"
+    },
+    {
+      "eventId": "ayo-ringkus-dan-ganyang-kontra-revolusi",
+      "entityType": "historical-person",
+      "entityId": "dn-aidit",
+      "matchedText": "D.N. Aidit"
+    },
+    {
+      "eventId": "pki-dan-polisi",
+      "entityType": "historical-person",
+      "entityId": "dn-aidit",
+      "matchedText": "D.N. Aidit"
+    },
+    {
+      "eventId": "pki-dan-auri",
+      "entityType": "historical-person",
+      "entityId": "dn-aidit",
+      "matchedText": "D.N. Aidit"
+    },
+    {
+      "eventId": "peranan-koperasi-dewasa-ini",
+      "entityType": "historical-person",
+      "entityId": "dn-aidit",
+      "matchedText": "D.N. Aidit"
+    },
+    {
+      "eventId": "selamatkan-dekon",
+      "entityType": "organization",
+      "entityId": "pki",
+      "matchedText": "PKI"
+    },
+    {
+      "eventId": "dekon-dalam-bahaya-selamatkan-dekon",
+      "entityType": "historical-person",
+      "entityId": "dn-aidit",
+      "matchedText": "D.N. Aidit"
+    },
+    {
+      "eventId": "kaum-buruh-adalah-pembela-dekon-yang-gigih",
+      "entityType": "historical-person",
+      "entityId": "dn-aidit",
+      "matchedText": "D.N. Aidit"
+    },
+    {
+      "eventId": "pki-dan-angkatan-darat",
+      "entityType": "historical-person",
+      "entityId": "dn-aidit",
+      "matchedText": "D.N. Aidit"
+    },
+    {
+      "eventId": "pki-dan-alri",
+      "entityType": "historical-person",
+      "entityId": "dn-aidit",
+      "matchedText": "D.N. Aidit"
+    },
+    {
+      "eventId": "revolusi-indonesia-dan-tugas-tugas-mendesak-pki",
+      "entityType": "historical-person",
+      "entityId": "dn-aidit",
+      "matchedText": "D.N. Aidit"
+    },
+    {
+      "eventId": "beberapa-soal-revolusi-indonesia-dan-pki",
+      "entityType": "historical-person",
+      "entityId": "dn-aidit",
+      "matchedText": "D.N. Aidit"
+    },
+    {
+      "eventId": "untuk-persahabatan-abadi-antara-rakyat-indonesia-d",
+      "entityType": "historical-person",
+      "entityId": "dn-aidit",
+      "matchedText": "D.N. Aidit"
+    },
+    {
+      "eventId": "revolusi-indonesia-bagian-tak-terpisahkan-dari-rev",
+      "entityType": "historical-person",
+      "entityId": "dn-aidit",
+      "matchedText": "D.N. Aidit"
+    },
+    {
+      "eventId": "kobarkan-semangat-banteng",
+      "entityType": "historical-person",
+      "entityId": "dn-aidit",
+      "matchedText": "D.N. Aidit"
+    },
+    {
+      "eventId": "dekon-dalam-ujian",
+      "entityType": "historical-person",
+      "entityId": "dn-aidit",
+      "matchedText": "D.N. Aidit"
+    },
+    {
+      "eventId": "kibarkan-tinggi-panji-revolusi",
+      "entityType": "historical-person",
+      "entityId": "dn-aidit",
+      "matchedText": "D.N. Aidit"
+    },
+    {
+      "eventId": "sosialisme-hari-ini-dan-esok-bangsa-bangsa",
+      "entityType": "organization",
+      "entityId": "pki",
+      "matchedText": "PKI"
+    },
+    {
+      "eventId": "revolusi-angkatan-bersenjata-partai-komunis",
+      "entityType": "historical-person",
+      "entityId": "dn-aidit",
+      "matchedText": "D.N. Aidit"
+    },
+    {
+      "eventId": "kaum-tani-mengganyang-setan-setan-desa",
+      "entityType": "historical-person",
+      "entityId": "dn-aidit",
+      "matchedText": "D.N. Aidit"
+    },
+    {
+      "eventId": "jadilah-komunis-yang-baik-dan-lebih-baik-lagi",
+      "entityType": "historical-person",
+      "entityId": "dn-aidit",
+      "matchedText": "D.N. Aidit"
+    },
+    {
+      "eventId": "angkatan-bersenjata-dan-penyesuaian-kekuasaan-nega",
+      "entityType": "historical-person",
+      "entityId": "dn-aidit",
+      "matchedText": "D.N. Aidit"
+    },
+    {
+      "eventId": "pemecahan-masalah-ekonomi-dan-ilmu-ekonomi-dewasa-",
+      "entityType": "historical-person",
+      "entityId": "dn-aidit",
+      "matchedText": "D.N. Aidit"
+    },
+    {
+      "eventId": "ayo-bersama-sama-bung-karno-kita-bina-kebudayaan-y",
+      "entityType": "historical-person",
+      "entityId": "dn-aidit",
+      "matchedText": "D.N. Aidit"
+    },
+    {
+      "eventId": "dengan-sastra-dan-seni-yang-berkepribadian-nasiona",
+      "entityType": "historical-person",
+      "entityId": "dn-aidit",
+      "matchedText": "D.N. Aidit"
+    },
+    {
+      "eventId": "kibarkan-tinggi-tinggi-panji-pertempuran-di-bidang",
+      "entityType": "historical-person",
+      "entityId": "dn-aidit",
+      "matchedText": "D.N. Aidit"
+    },
+    {
+      "eventId": "politik-luar-negeri-dan-revolusi-indonesia",
+      "entityType": "historical-person",
+      "entityId": "dn-aidit",
+      "matchedText": "D.N. Aidit"
+    },
+    {
+      "eventId": "tentang-sastra-dan-seni",
+      "entityType": "historical-person",
+      "entityId": "dn-aidit",
+      "matchedText": "D.N. Aidit"
+    },
+    {
+      "eventId": "marxisme-dan-pembinaan-nasion-indonesia-pki-dan-al",
+      "entityType": "historical-person",
+      "entityId": "dn-aidit",
+      "matchedText": "Aidit"
+    },
+    {
+      "eventId": "subur-subur-suburlah-pki",
+      "entityType": "historical-person",
+      "entityId": "sukarno",
+      "matchedText": "Sukarno"
+    },
+    {
+      "eventId": "junjung-tinggi-nama-dan-kehormatan-komunis",
+      "entityType": "organization",
+      "entityId": "pki",
+      "matchedText": "PKI"
+    },
+    {
+      "eventId": "menempuh-jalan-revolusi-untuk-mewujudkan-tugas-tug",
+      "entityType": "organization",
+      "entityId": "pki",
+      "matchedText": "PKI"
+    },
+    {
+      "eventId": "tegakkan-pki-yang-marxis-leninis-untuk-memimpin-re",
+      "entityType": "historical-person",
+      "entityId": "sudisman",
+      "matchedText": "Sudisman"
+    },
+    {
+      "eventId": "beberapa-pendapat-yang-mempengaruhi-gagalnya-g-30-",
+      "entityType": "historical-person",
+      "entityId": "supardjo",
+      "matchedText": "Supardjo"
+    },
+    {
+      "eventId": "kibarkan-tinggi-tinggi-panji-marxisme-leninisme-da",
+      "entityType": "organization",
+      "entityId": "pki",
+      "matchedText": "PKI"
+    },
+    {
+      "eventId": "uraian-tanggung-jawab",
+      "entityType": "historical-person",
+      "entityId": "sudisman",
+      "matchedText": "Sudisman"
+    }
+  ],
+  "lowConfidenceCandidates": [],
+  "unmatchedReferences": [
+    {
+      "eventId": "tiga-tahun-revolusi-indonesia",
+      "title": "Tiga Tahun Revolusi Indonesia"
+    },
+    {
+      "eventId": "undang-berpikir-rakyat-berjuang",
+      "title": "Undang Berpikir Rakyat Berjuang"
+    },
+    {
+      "eventId": "menara-buruh",
+      "title": "Menara Buruh"
+    },
+    {
+      "eventId": "jalan-keluar-dari-krisis-ekonomi",
+      "title": "Jalan Keluar dari Krisis Ekonomi"
+    },
+    {
+      "eventId": "pengantar-oposisi-rakyat",
+      "title": "Pengantar Oposisi Rakyat"
+    },
+    {
+      "eventId": "marxisme-dan-manipol-usdek",
+      "title": "Marxisme dan MANIPOL USDEK"
+    },
+    {
+      "eventId": "marxisme-dan-sosialisme-ala-indonesia",
+      "title": "Marxisme dan Sosialisme ala Indonesia"
+    },
+    {
+      "eventId": "kembali-ke-dekon-laksanakan-konsekuen-patriotisme-",
+      "title": "Kembali ke Dekon, Laksanakan Konsekuen Patriotisme Ekonomi"
+    },
+    {
+      "eventId": "kepada-partai-kumpulan-sajak",
+      "title": "Kepada Partai, Kumpulan Sajak"
+    },
+    {
+      "eventId": "bps-aksi-dan-reaksi",
+      "title": "\"BPS\", Aksi dan Reaksi"
+    }
+  ]
+}

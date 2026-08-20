@@ -1,0 +1,73 @@
+# Kekuasaan Rangkap
+
+## V.I. Lenin (1917)
+
+* * *
+
+**Sumber:** Lenin Collected Works, 1974, Vol. 24, hal 38-41.
+
+**Penerjemah:** Disalin ulang untuk Situs Indo-Marxist dari terbitan Yayasan "Pembaruan", Jakarta
+
+Diterbitkan di Pravda No. 29, 9 April, 1917
+
+* * *
+
+Persoalan fundamentil dari setiap revolusi adalah persoalan kekuasaan negara. Tanpa memahami persoalan ini orang bahkan tak usah berbicara tentang ikut serta secara sadar bagaimanapun dalam revolusi, apalagi tentang memimpinnya.
+
+Ciri khas yang sangat menyolok sekali dari revolusi kita \[1\] ialah bahwa revolusi itu telah melahirkan suatu kekuasaan rangkap.Fakta ini mesti dicekau pertama-tama dan terutama; kalau ia tidak dipahami; orang tidak dapat maju. Orang harus pandai melengkapkan dan mengamandemen “rumus” lama, umpamanya, rumus-rumus dari Bolshevisme, sebab, sebagaimana menjadi jelas, rumus-rumus itu ternyata tetap pada umumnya, tetapi realisasi kongkritnya telah ternyata berbeda.  Dulunya, siapapun juga tidak berpikir, dan tidak dapat berpikir, tentang suatu kekuasaan rangkap.
+
+Apa hakekatnya kekuasaan rangkap ini ? Hakekatnya ialah bahwa di samping Pemerintah Sementara, pemerintah dari burjuasi, telah lahir suatu pemerintah lain, yang masih lemah dan bersifat embrio, akan tetapi tak diragukan suatu pemerintah yang sesungguhnya ada dan sedang tumbuh – Sovyet-Sovyet Perwakilan Buruh dan prajurit.
+
+Apakah komposisi klas dari pemerintah lain ini ? Ia terdiri dari proletariat dan kaum tani (dalam pakaian-pakaian seragam prajurit). Apakah watak politik dari pemerintah ini ? Ia adalah suatu diktatur revolusioner, yaitu, suatu kekuasaan yang secara langsung bersandar pada perebutan revolusioner, pada prakarsa langsung massa Rakyat dari bawah, dan bukan pada suatu undang-undang yang dikeluarkan oleh suatu kekuasaan pusat negara. Ia adalah suatu jenis kekuasaan yang samasekali lain daripada jenis yang pada umumnya ada di dalam republik-republik  demokratis-burjuis parlementer tipe biasa yang sampai sekarang masih umum terdapat di negeri-negeri yang maju dari Eropa dan Amerika. Keadaan ini seringkali dilupakan, seringkali tidak dipikir-pikirkan, meskipun inilah yang merupakan inti persoalan. Kekuasaan ini adalah Kekuasaan tipe yang sama seperti Komune Paris \[2\] tahun 1817. Karakteristik-karakteristik pokok dari tipe ini adalah: 1) sumber kekuasaannya bukanlah suatu undang-undang yang terlebih dahulu didiskusikan dan disahkan oleh parlemen, melainkan prakarsa langsung dari Rakyat dari bawah dan di lingkungan-lingkungan setempat mereka – “perebutan” langsung, kalau menggunakan ucapan yang lazim; 2) penggantian polisi dan tentara, yang merupakan lembaga-lembaga yang terpisah dari Rakyat dan yang ditujukan terhadap Rakyat, dengan mempersenjatai secara langsung seluruh Rakyat; tatatertib di dalam negara di bawah kekuasaan seperti itu dipelihara sendiri oleh kaum buruh dan kaum tani yang dipersenjatai, sendiri oleh Rakyat yang dipersenjatai itu; 3) kekuasaan pegawai, birokrasi, atau sama juga diganti oleh kekuasaan langsung Rakyat sendiri, atau setidak-tidaknya ditempatkan di bawah kontrol khusus, mereka tidak saja dijadikan pegawai-pegawai yang dipilih, melainkan juga yang dapat ditarik kembali pada tuntutan pertama dari Rakyat; mereka dimerosotkan kedudukan petugas-petugas biasa; dari suatu lapisan yang berhak istimewa, yang memegang “kursi-kursi empuk” yang digaji menurut ukuran tinggi, ukuran burjuis, mereka diubah menjadi pekerja-pekerja dari suatu “cabang kedinasan” khusus, yang gajinya tidak melebihi upah biasa dari seorang buruh yang cakap.
+
+Ini, dan ini sajalah, yang merupakan hakekat Komune Paris sebagai suatu tipe negara khusus. Hakekat ini telah dilupakan atau diputar balikkan oleh tuan-tuan Plekhanov \[3\]  (sovinis-sovinis terang-terangan yang telah mengkhianati Marxisme), tuan-tuan Kautsky \[4\] (orang-orang “Sentrum”, yaitu mereka yang goyang antara sovinisme dan Marxisme), dan pada umumnya oleh semua Sosial-Demokrat, Sosialis-Revolusioner \[5\], dst, dsb., yang sekarang sedang berkuasa.
+
+Mereka berusaha menghindarkan diri dengan frase-frase kosong, membungkam persoalan dan berdalih-dalih, mengucapkan selamat kepada satu sama lain beribu kali atas revolusi, tetapi menolak untuk memikirkan dalam-dalam apa Sovyet-Sovyet Perwakilan Buruh dan Prajurit itu. Mereka tidak mau melihat kebenaran yang nyata betul-betul bahwa sekali Sovyet-Sovyet ini ada, sekali Sovyet-Sovyet itu merupakan suatu kekuasaan, maka kita di Rusia mempunyai suatu negara tipe Komune Paris.
+
+Saya tegaskan kata “sekali”, sebab ia hanya merupakan suatu kekuasaan yang bersifat embrio. Dengan perjanjian langsung dengan Pemerintah Sementara burjuis, maupun dengan serentetan konsesi-konsesi yang sungguh-sungguh, ia sendiri telah menyerahkan dan sedang terus menyerahkan kedudukan-kedudukanya kepada burjuasi.
+
+Mengapa ? Apakah karena Tyheidze, Tsereteli, Steklov \[6\] & Co, sedang membuat suatu “kesalahan”? Omong kosong. Hanya seorang filistin dapat berpikir demikian – bukan seorang Marxis. Alasannya ialah tidak cukupnya kesadaran-klas dan pengorganisasian kaum buruh dan kaum tani. “Kesalahan” gembong-gembong yang saya telah sebut terletak pada pendirian burjuis kecil mereka, dalam kenyataan bahwa mereka bukannya menjernihkan pikiran kaum buruh, melainkan menutupinya dengan kabut, bukannya membantah ilusi-ilusi berjuis kecil, melainkan menanamkannya, bukannya membebaskan massa Rakyat dari pengaruh burjuasi, melainkan memperkuat pengaruh burjuasi atas massa itu.
+
+Seharusnya dari ini sudah menjadi jelas mengapa kawan-kawan kitapun membuat begitu banyak kesalahan ketika “secara sederhana” mengajukan pertanyaan:”Haruskah Pemerintah Sementara segera digulingkan?”
+
+Jawaban saya ialah: 1) ia harus digulingkan, sebab ia adalah suatu pemerintah oligarki, burjuis, dan bukan pemerintah seluruh Rakyat, dan tidak mampu memberikan baik perdamaian, maupun roti, ataupun kebebasan penuh; 2) ia tidak dapat digulingkan sekarang juga, sebab ia sedang tetap bertahan lewat suatu persetujuan yang langsung dan tak langsung, yang formil dan sesungguhnya dengan Sovyet-Sovyet Perwakilan Buruh, dan terutama dengan Sovyet utama, Sovyet Petrograd; 3) pada umumnya, ia tidak dapat “digulingkan” dengan cara biasa, sebab ia bersandar pada “dukungan” yang diberikan kepada burjuasi oleh pemerintah kedua – Sovyet Perewakilan Buruh, dan pemerintah itu adalah satu-satunya pemerintah revolusioner yang mungkin, yang dengan langsung menyatakan pikiran dan kehendak mayoritas kaum buruh dan kaum tani. Umat manusia masih belum menciptakan dan kita masih belum mengetahui suatu tipe pemerintah yang lebih unggul dan lebih baik daripada Sovyet-Sovyet Perwakilan Buruh, Buruh-tani, Tani, dan Parjurit.
+
+Untuk menjadi suatu kekuasaan, kaum buruh yang sadar-klas harus memenangkan mayoritas ke pihak mereka: selama tidak ada kekerasan yang digunakan terhadap massa Rakyat, tidak ada jalan lain menuju kekuasaan. Kita bukan kaum Blanquis \[7\], kita tidak memihak perebutan kekuasaan oleh minoritas. Kita adalah kaum Marxis, kita memihak perjuangan klas proletar melawan pemabukan burjuis-kecil, melawan defensisme-sovinisme, pengobralan omong kosong dan ketergantungan pada burjuasi.
+
+Mari kita ciptakan suatu Partai Komunis proletar; unsur-unsurnya telah diciptakan oleh penganut-penganut Bolshevisme yang terbaik; mari kita maju bersatu padu untuk pekerjaan klas proletar; dan jumlah-jumlah yang semakin besar dan semakin besar lagi dari kalangan kaum proletar, dari kalangan kaum tani- termiskin akan membariskan diri pada pihak kita. Sebab kehidupan dari hari ke hari dari kaum “Sosial-Demokrat” itu para Tyheidze, Tsereteli, Steklov dan lain-lain, kaum “Sosialis-Revolusioner”, burjuis kecil yang lebih “murni” lagi, dan seterusnya dan sebaginya.
+
+Burjuasi berpihak pada kekuasaan burjuasi yang tak dibagi-bagi.
+
+Kaum buruh yang sadar klas berpihak pada kekuasaan yang tak dibagi-bagi dari Sovyet-Sovyet Perwakilan Buruh, Buruh-tani, Tani, dan Prajurit – pada kekuasaan yang tak dibagi-bagi, yang dipersiapkan bukan oleh tindakan-tindakan petualangan, melainkan oleh tindakan-tindakan yang menjernihkan pikiran proletar, oleh pembebasannya dari pengaruh burjuasi.
+
+Burjuis kecil – kaum “Sosial-Demokrat”, kaum Sosialis-Revolusioner, dst., dsb., -- goyang dan, dengan itu, menghambat penjernihan dan pembebasan ini.
+
+Demikianlah imbangan sesungguhnya, imbangan klas dari kekuatan-kekuatan, yang menentukan tugas-tugas kita.
+
+Pravda No. 28
+
+9 April 1917.
+
+Ditandatangani: N. L e n i n
+
+* * *
+
+**Keterangan:**
+
+1.        Yang dimaksudkan adalah Revolusi Burjuis-Demokratis bulan Pebruari 1917 di Rusia
+
+2.        **Komune Paris –** pemerintah diktatur proletariat yang pertama dalam sejarah, yang dibentuk oleh kaum buruh Paris yang berontak pada tanggal 18 Maret 1871. Pemerintah itu ada selama 72 hari, yaitu sampai tanggal 28 Mei 1871.
+
+3.        **Plekhanov, G. W. –** tokoh terkemuka gerakan buruh Rusia dan internasional, propaganda Marxisme yang pertama  di Rusia. Plekhanov berjuang melawan Karodisme dan tampil melawan revisionisme dalam gerakan buruh internasional. Tetapi sudah dalam masa itu ia mempunyai kesalahan-kesalahan serius yang menjadi benih-benih pandangan-pandangan Mensheviknya di masa kemudian. Dalam tahun-tahun reaksi (1907-1910) dan kenaikan revolusioner yang baru pernah melawan Likwidatorisme dan memimpin grup kaum Menshevik-penganut Partai. Waktu perang dunia imperialis pindah ke pendirian sosial-sovinis. Sekembalinya ke Rusia sesudah Revolusi Burjuais-Demokratis bulan Pebruari 1917 ia memimpin grup kaum Menshevik-defensis yang paling ekstrim “**Yedinstwo**” dan tampil melawan kaum Bolshevik, melawan Revolusi Sosialis.
+
+4.        **Kautsky, Karl –** salah seorang gembong Sosial-demokrasi Jerman dan Internasional II, mula-mulanya seorang Marxis, kemudian renegat Marxisme, ideolog suatu macam oportunisme yang paling berbahaya dan merugikan, yaitu Sentrisme (Kautskyisme).
+
+5.        **Kaum Sosialis-Revolusioner** (kaum Enser) – partai burjuis kecil di Rusia, yang dibentuk pada tahun1901-1902. Kaum Enser setelah Revolusi-Burjuis-Demokratis bulan Pebruari 1917 merupakan sandaran pokok Pemerintah Sementara burjuis, sedangkan pemimpin-pemimpin Partai – Kerenski, Awksentiev, Cernov – masuk ke dalam susunan Pemerintah itu.
+
+6.        **Tyheidze, Tsereteli, Steklov –** kaum Menshevik, anggota-anggota badan Eksekutif Sovyet Perwakilan Buruh Petrograd.
+
+7.        **Kaum Blanquis –** Para pengikut suatu aliran dalam gerakan Sosialis Perancis, yang dipimpin oleh seorang revolusioner terkemuka, wakil kenamaan Komunisme utopis Perancis – Louis Auguste Blanqui. Kaum Blanquis mengganti aktivitas partai revolusioner dengan tindakan-tindakan segundukan komplotan-komplotan rahasia, tidak memperhitungkan situasi kongkrit yang diperlukan bagi kemenangan pemberontakan, mengabaikan hubungan dengan massa.
+
+* * *
+
+[Karya-karya V.I. Lenin](../index.html) | [S�ksi Bahasa Indonesia M.I.A.](https://www.marxists.org/indonesia/index.htm)
