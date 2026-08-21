@@ -10,6 +10,7 @@ const mainLinks = [
   { name: 'Tokoh', path: '/tokoh' },
   { name: 'Karya', path: '/karya' },
   { name: 'Perpustakaan', path: '/perpustakaan' },
+  { name: 'Sejarah Indonesia', path: '/sejarah-indonesia' },
 ];
 
 const exploreLinks = [

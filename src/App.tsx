@@ -23,6 +23,7 @@ import { Library } from './pages/Library';
 import { Reader } from './pages/Reader';
 import { Sources } from './pages/Sources';
 import { SourceArchive } from './pages/SourceArchive';
+import { SejarahIndonesia } from './pages/SejarahIndonesia';
 
 const NotFound = () => (
   <div className="flex flex-col items-center justify-center min-h-[60vh] text-center px-4">
@@ -58,6 +59,7 @@ function App() {
           <Route path="timeline" element={<Timeline />} />
           <Route path="peta-gagasan" element={<IdeaMap />} />
           <Route path="indonesia" element={<Indonesia />} />
+          <Route path="sejarah-indonesia" element={<SejarahIndonesia />} />
           <Route path="organisasi" element={<Organizations />} />
           <Route path="organisasi/:slug" element={<OrganizationDetail />} />
           <Route path="belajar" element={<LearningPaths />} />
