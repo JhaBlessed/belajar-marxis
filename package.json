@@ -17,10 +17,12 @@
     "import:local-mia": "tsx scripts/import-local-mia.ts",
     "prepare:mirror": "tsx scripts/prepare-mirror.ts",
     "validate:mirror": "tsx scripts/validate-mirror.ts",
+    "validate:work-summaries": "tsx scripts/validate-work-summaries.ts",
     "scan:history": "tsx scripts/scan-history-source.ts",
     "validate:history": "tsx scripts/validate-history.ts",
     "link:history": "tsx scripts/link-history-entities.ts",
-    "extract:history-people": "tsx scripts/extract-history-people.ts"
+    "extract:history-people": "tsx scripts/extract-history-people.ts",
+    "generate:work-summaries": "tsx scripts/generate-work-summaries.ts"
   },
   "dependencies": {
     "@types/marked": "^5.0.2",
