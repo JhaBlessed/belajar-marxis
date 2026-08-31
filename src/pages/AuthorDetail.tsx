@@ -44,15 +44,27 @@ export function AuthorDetail() {
         <div className="flex flex-col md:flex-row gap-8 relative z-10">
           <div className="w-full md:w-1/3 flex-shrink-0">
             <div className="aspect-[3/4] rounded-xl overflow-hidden bg-gray-200 dark:bg-gray-700">
-               {author.image ? (
-                <img src={author.image} alt={author.name} className="w-full h-full object-cover grayscale" />
-              ) : (
-                <div className="w-full h-full flex items-center justify-center text-6xl text-gray-400">
+                {author.image ? (
+                  <img 
+                    src={author.image} 
+                    alt={author.name} 
+                    loading="lazy"
+                    className="w-full h-full object-cover grayscale"
+                    onError={(e) => {
+                      e.currentTarget.style.display = 'none';
+                      const fallbackDiv = e.currentTarget.nextElementSibling as HTMLElement;
+                      if (fallbackDiv) fallbackDiv.style.display = 'flex';
+                    }}
+                  />
+                ) : null}
+                <div 
+                  className="w-full h-full flex items-center justify-center text-6xl text-gray-400"
+                  style={{ display: author.image ? 'none' : 'flex' }}
+                >
                   {author.name.charAt(0)}
                 </div>
-              )}
+              </div>
             </div>
-          </div>
           <div className="flex-1 space-y-6">
             <div className="flex justify-between items-start">
               <div>

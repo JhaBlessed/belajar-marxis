@@ -17,14 +17,28 @@ export function Authors() {
         {authors.map(author => (
           <Link key={author.id} to={`/tokoh/${author.slug}`} className="group bg-white dark:bg-gray-800 rounded-xl overflow-hidden border border-gray-200 dark:border-gray-700 shadow-sm hover:border-red-500 focus:outline-none focus:ring-2 focus:ring-red-500 focus:border-red-500 hover:shadow-lg transition-all flex flex-col">
             <div className="aspect-video w-full bg-gray-200 dark:bg-gray-700 overflow-hidden relative">
-              {author.image ? (
-                <img src={author.image} alt={author.name} className="w-full h-full object-cover object-top grayscale group-hover:grayscale-0 transition-all duration-500" />
-              ) : (
-                <div className="w-full h-full flex items-center justify-center text-4xl text-gray-400 font-bold">
+                {author.image ? (
+                  <img 
+                    src={author.image} 
+                    alt={author.name} 
+                    loading="lazy"
+                    className="w-full h-full object-cover object-top grayscale group-hover:grayscale-0 transition-all duration-500"
+                    onError={(e) => {
+                      // fallback sederhana untuk broken image
+                      e.currentTarget.style.display = 'none';
+                      const fallbackDiv = e.currentTarget.nextElementSibling as HTMLElement;
+                      if (fallbackDiv) fallbackDiv.style.display = 'flex';
+                    }}
+                  />
+                ) : null}
+                <div 
+                  className="w-full h-full flex items-center justify-center text-4xl text-gray-400 font-bold"
+                  style={{ display: author.image ? 'none' : 'flex' }}
+                >
                   {author.name.charAt(0)}
                 </div>
-              )}
-              <div className="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/80 to-transparent p-4 text-white">
+                <div className="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/80 to-transparent p-4 text-white">
+
                 <h2 className="text-xl font-bold">{author.name}</h2>
                 <p className="text-sm opacity-90">{author.birthYear} - {author.deathYear}</p>
               </div>

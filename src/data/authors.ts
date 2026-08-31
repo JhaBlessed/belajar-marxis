@@ -34,7 +34,7 @@ export const authors: Author[] = [
       "v-i-lenin",
       "rosa-luxemburg"
     ],
-    "image": "https://www.marxists.org/archive/marx/photo/marx/images/1875.jpg",
+    "image": "/images/tokoh/karl-marx.jpg",
     "sources": [
       "https://www.marxists.org/indonesia/archive/marx/"
     ]
@@ -69,7 +69,7 @@ export const authors: Author[] = [
       "kautsky",
       "plekhanov"
     ],
-    "image": "https://www.marxists.org/archive/marx/photo/engels/images/1868.jpg",
+    "image": "/images/tokoh/friedrich-engels.jpg",
     "sources": [
       "https://www.marxists.org/indonesia/archive/marx/"
     ]
@@ -109,7 +109,7 @@ export const authors: Author[] = [
       "rosa-luxemburg",
       "tan-malaka"
     ],
-    "image": "https://www.marxists.org/archive/lenin/photo/1918/01.jpg",
+    "image": "/images/tokoh/lenin.jpg",
     "sources": [
       "https://www.marxists.org/indonesia/archive/lenin/"
     ]
@@ -145,7 +145,7 @@ export const authors: Author[] = [
       "v-i-lenin",
       "kautsky"
     ],
-    "image": "https://www.marxists.org/archive/luxemburg/photo/rosa_luxemburg.jpg",
+    "image": "/images/tokoh/rosa-luxemburg.jpg",
     "sources": [
       "https://www.marxists.org/indonesia/archive/luxemburg/"
     ]
@@ -182,7 +182,7 @@ export const authors: Author[] = [
       "karl-marx",
       "ernest-mandel"
     ],
-    "image": "https://www.marxists.org/archive/trotsky/photo/trotsky.jpg",
+    "image": "/images/tokoh/leon-trotsky.jpg",
     "sources": [
       "https://www.marxists.org/indonesia/archive/trotsky/"
     ]
@@ -220,7 +220,7 @@ export const authors: Author[] = [
       "karl-marx",
       "friedrich-engels"
     ],
-    "image": "https://www.marxists.org/indonesia/archive/malaka/tan-malaka.jpg",
+    "image": "/images/tokoh/tan-malaka.jpg",
     "sources": [
       "https://www.marxists.org/indonesia/archive/malaka/"
     ]
@@ -250,7 +250,7 @@ export const authors: Author[] = [
       "eleanor-marx",
       "rosa-luxemburg"
     ],
-    "image": "https://www.marxists.org/archive/kollonta/photo/kollontai1.jpg",
+    "image": "/images/tokoh/alexandra-kollontai.jpg",
     "sources": [
       "https://www.marxists.org/indonesia/archive/kollontai/"
     ]
@@ -279,7 +279,7 @@ export const authors: Author[] = [
       "v-i-lenin",
       "karl-marx"
     ],
-    "image": "https://www.marxists.org/archive/plekhanov/images/plekhanov.jpg",
+    "image": "/images/tokoh/georgi-plekhanov.jpg",
     "sources": [
       "https://www.marxists.org/indonesia/archive/plekhanov/"
     ]
@@ -306,7 +306,7 @@ export const authors: Author[] = [
     "relatedAuthors": [
       "leon-trotsky"
     ],
-    "image": "https://www.marxists.org/archive/chen-duxiu/images/chen-duxiu.jpg",
+    "image": "/images/tokoh/chen-duxiu.jpg",
     "sources": [
       "https://www.marxists.org/indonesia/archive/chenduxiu/"
     ]
@@ -333,7 +333,7 @@ export const authors: Author[] = [
     ],
     "recommendedWorks": [],
     "relatedAuthors": [],
-    "image": "https://www.marxists.org/archive/guevara/photo/che-22.jpg",
+    "image": "/images/tokoh/che-guevara.jpg",
     "sources": [
       "https://www.marxists.org/indonesia/archive/guevara/"
     ]
@@ -361,7 +361,7 @@ export const authors: Author[] = [
       "karl-marx",
       "friedrich-engels"
     ],
-    "image": "https://www.marxists.org/archive/eleanor-marx/images/eleanor-marx.jpg",
+    "image": "/images/tokoh/eleanor-marx.jpg",
     "sources": [
       "https://www.marxists.org/indonesia/archive/marx-eleanor/"
     ]
@@ -390,7 +390,7 @@ export const authors: Author[] = [
       "leon-trotsky",
       "karl-marx"
     ],
-    "image": "https://www.marxists.org/archive/mandel/images/ernest-mandel.jpg",
+    "image": "",
     "sources": [
       "https://www.marxists.org/indonesia/archive/mandel/"
     ]
@@ -419,7 +419,7 @@ export const authors: Author[] = [
       "leon-trotsky",
       "karl-marx"
     ],
-    "image": "https://www.marxists.org/archive/novack/images/george-novack.jpg",
+    "image": "/images/tokoh/george-novack.jpg",
     "sources": [
       "https://www.marxists.org/indonesia/archive/novack/"
     ]
@@ -448,7 +448,7 @@ export const authors: Author[] = [
       "leon-trotsky",
       "v-i-lenin"
     ],
-    "image": "https://www.marxists.org/archive/hallas/images/hallas.jpg",
+    "image": "/images/tokoh/hallas-duncan.jpg",
     "sources": [
       "https://www.marxists.org/indonesia/archive/hallas/"
     ]
@@ -477,7 +477,7 @@ export const authors: Author[] = [
       "v-i-lenin",
       "leon-trotsky"
     ],
-    "image": "https://www.marxists.org/history/international/comintern/images/comintern.jpg",
+    "image": "",
     "sources": [
       "https://www.marxists.org/indonesia/archive/komintern/"
     ]
