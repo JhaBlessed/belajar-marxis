@@ -2,6 +2,7 @@ import { resolveArchiveUrl } from '../lib/archiveUrl';
 import { useParams, Link } from 'react-router-dom';
 import { works } from '../data/works';
 import { authors } from '../data/authors';
+import { getWorkSummary } from '../generated/workSummaries';
 import { useProgress } from '../hooks/useProgress';
 import { 
   ArrowLeft, BookOpen, Clock, AlertCircle, 
@@ -224,39 +225,107 @@ export function WorkDetail() {
           </div>
 
           <div className="space-y-12">
-            <section>
-              <h3 className="text-2xl font-bold text-gray-900 dark:text-white mb-4">Konteks Sejarah</h3>
-              <p className="text-gray-600 dark:text-gray-300 text-lg leading-relaxed">{work.summary.historicalContext}</p>
-            </section>
+              {(() => {
+                const generatedSummary = getWorkSummary(work.slug);
+                
+                if (!generatedSummary || generatedSummary.summaryStatus === 'missing') {
+                  return (
+                    <div className="bg-gray-50 dark:bg-gray-900/50 p-8 rounded-2xl border border-gray-100 dark:border-gray-700 text-center">
+                      <p className="text-gray-500 dark:text-gray-400 text-lg">Ringkasan bacaan belum tersedia untuk karya ini.</p>
+                    </div>
+                  );
+                }
 
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
-              <section className="bg-gray-50 dark:bg-gray-900/50 p-6 rounded-xl border border-gray-100 dark:border-gray-700">
-                <h3 className="text-xl font-bold text-gray-900 dark:text-white mb-3 flex items-center gap-2">Masalah Utama</h3>
-                <p className="text-gray-600 dark:text-gray-300 leading-relaxed">{work.summary.mainProblem}</p>
-              </section>
+                if (generatedSummary.summaryStatus === 'unavailable') {
+                  return (
+                    <div className="bg-yellow-50 dark:bg-yellow-900/20 p-8 rounded-2xl border border-yellow-200 dark:border-yellow-900/30 text-center">
+                      <p className="text-yellow-700 dark:text-yellow-400 text-lg">Sumber dokumen ini tidak dapat dibaca oleh sistem (misalnya PDF tanpa teks yang dapat diekstrak secara lokal).</p>
+                    </div>
+                  );
+                }
 
-              <section className="bg-gray-50 dark:bg-gray-900/50 p-6 rounded-xl border border-gray-100 dark:border-gray-700">
-                <h3 className="text-xl font-bold text-gray-900 dark:text-white mb-3 flex items-center gap-2">Tesis Utama</h3>
-                <p className="text-gray-600 dark:text-gray-300 leading-relaxed">{work.summary.mainThesis}</p>
-              </section>
-            </div>
+                return (
+                  <>
+                    <section>
+                      <h3 className="text-2xl font-bold text-gray-900 dark:text-white mb-4">Konteks Sejarah</h3>
+                      <div className="prose prose-lg dark:prose-invert max-w-none text-gray-600 dark:text-gray-300 leading-relaxed whitespace-pre-line">
+                        {generatedSummary.historicalContext}
+                      </div>
+                    </section>
 
-            <section>
-              <h3 className="text-2xl font-bold text-gray-900 dark:text-white mb-4">Ringkasan Konten</h3>
-              <div className="prose prose-lg dark:prose-invert max-w-none text-gray-600 dark:text-gray-300">
-                <p>{work.summary.contentSummary}</p>
-              </div>
-            </section>
+                    <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
+                      <section className="bg-gray-50 dark:bg-gray-900/50 p-6 rounded-xl border border-gray-100 dark:border-gray-700">
+                        <h3 className="text-xl font-bold text-gray-900 dark:text-white mb-3 flex items-center gap-2">Masalah Utama</h3>
+                        <p className="text-gray-600 dark:text-gray-300 leading-relaxed">{generatedSummary.mainProblem}</p>
+                      </section>
 
-            <section>
-              <h3 className="text-2xl font-bold text-gray-900 dark:text-white mb-4">Struktur Argumen</h3>
-              <p className="text-gray-600 dark:text-gray-300 text-lg leading-relaxed">{work.summary.structure}</p>
-            </section>
+                      <section className="bg-gray-50 dark:bg-gray-900/50 p-6 rounded-xl border border-gray-100 dark:border-gray-700">
+                        <h3 className="text-xl font-bold text-gray-900 dark:text-white mb-3 flex items-center gap-2">Tesis Utama</h3>
+                        <p className="text-gray-600 dark:text-gray-300 leading-relaxed">{generatedSummary.mainThesis}</p>
+                      </section>
+                    </div>
 
-            <section className="bg-red-50 dark:bg-red-900/10 p-8 rounded-2xl border border-red-100 dark:border-red-900/30">
-              <h3 className="text-2xl font-bold text-gray-900 dark:text-white mb-4">Pentingnya Karya Ini</h3>
-              <p className="text-gray-700 dark:text-gray-300 text-lg leading-relaxed">{work.importance}</p>
-            </section>
+                    <section>
+                      <h3 className="text-2xl font-bold text-gray-900 dark:text-white mb-4">Ringkasan Konten</h3>
+                      <div className="prose prose-lg dark:prose-invert max-w-[80ch] text-gray-600 dark:text-gray-300 leading-relaxed whitespace-pre-line">
+                        {generatedSummary.contentSummary}
+                      </div>
+                    </section>
+
+                    <section>
+                      <h3 className="text-2xl font-bold text-gray-900 dark:text-white mb-4">Struktur Argumen</h3>
+                      <ol className="list-decimal list-outside ml-6 space-y-2 text-gray-600 dark:text-gray-300 text-lg leading-relaxed max-w-[80ch]">
+                        {generatedSummary.argumentStructure.map((point: string, idx: number) => (
+                          <li key={idx} className="pl-2">{point}</li>
+                        ))}
+                      </ol>
+                    </section>
+
+                    <section className="bg-red-50 dark:bg-red-900/10 p-8 rounded-2xl border border-red-100 dark:border-red-900/30">
+                      <h3 className="text-2xl font-bold text-gray-900 dark:text-white mb-4">Pentingnya Karya Ini</h3>
+                      <p className="text-gray-700 dark:text-gray-300 text-lg leading-relaxed">{generatedSummary.significance}</p>
+                    </section>
+                    
+                    {generatedSummary.sourceBasis && generatedSummary.sourceBasis.length > 0 && (
+                      <section className="mt-8 pt-8 border-t border-gray-100 dark:border-gray-800">
+                        <h4 className="text-sm font-semibold text-gray-400 dark:text-gray-500 mb-4 uppercase tracking-wider">Basis Sumber</h4>
+                        
+                        <div className="mb-4">
+                          <h5 className="text-xs font-bold text-gray-500 dark:text-gray-400 uppercase mb-2">Teks Utama</h5>
+                          <ul className="text-sm text-gray-600 dark:text-gray-300 space-y-2">
+                            {generatedSummary.sourceBasis.map((src: string, idx: number) => {
+                               const basename = src.split('/').pop() || src;
+                               return (
+                                <li key={idx} className="flex items-center gap-2">
+                                  <BookOpen className="w-4 h-4 text-gray-400" />
+                                  <a href={src} target="_blank" rel="noopener noreferrer" className="hover:text-red-600 transition-colors">{basename}</a>
+                                </li>
+                               );
+                            })}
+                          </ul>
+                        </div>
+                        
+                        {generatedSummary.contextBasis && generatedSummary.contextBasis.length > 0 && (
+                          <div>
+                            <h5 className="text-xs font-bold text-gray-500 dark:text-gray-400 uppercase mb-2 mt-4">Konteks Pendukung</h5>
+                            <ul className="text-sm text-gray-600 dark:text-gray-300 space-y-2">
+                              {generatedSummary.contextBasis.map((src: string, idx: number) => {
+                                 const basename = src.split('/').pop() || src;
+                                 return (
+                                  <li key={idx} className="flex items-center gap-2">
+                                    <BookOpen className="w-4 h-4 text-gray-400" />
+                                    <a href={src} target="_blank" rel="noopener noreferrer" className="hover:text-red-600 transition-colors">{basename}</a>
+                                  </li>
+                                 );
+                              })}
+                            </ul>
+                          </div>
+                        )}
+                      </section>
+                    )}
+                  </>
+                );
+              })()}
             
             {work.debates && (
               <section>
