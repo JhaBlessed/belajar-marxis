@@ -2,6 +2,7 @@ import { useState, useMemo } from 'react';
 import { Link } from 'react-router-dom';
 import { works } from '../data/works';
 import { authors } from '../data/authors';
+import { getPrimarySourceUrl } from '../lib/archiveUrl';
 import { Search } from 'lucide-react';
 import { SEO } from '../components/ui/SEO';
 
@@ -16,7 +17,7 @@ export function Works() {
       .filter(w => {
         const matchAuthor = filterAuthor ? w.authorId === filterAuthor : true;
         const matchDifficulty = filterDifficulty ? w.difficulty === filterDifficulty : true;
-        const matchSearch = w.title.toLowerCase().includes(searchQuery.toLowerCase()) || 
+        const matchSearch = w.title.toLowerCase().includes(searchQuery.toLowerCase()) ||
                             w.themes.some(t => t.toLowerCase().includes(searchQuery.toLowerCase()));
         return matchAuthor && matchDifficulty && matchSearch;
       })
@@ -58,17 +59,17 @@ export function Works() {
       <div className="bg-white dark:bg-gray-800 p-4 rounded-xl border border-gray-200 dark:border-gray-700 mb-8 flex flex-col md:flex-row gap-4 items-center shadow-sm">
         <div className="relative flex-1 w-full">
           <Search className="absolute left-3 top-1/2 -translate-y-1/2 w-5 h-5 text-gray-400" />
-          <input 
-            type="text" 
-            placeholder="Cari judul atau tema..." 
+          <input
+            type="text"
+            placeholder="Cari judul atau tema..."
             value={searchQuery}
             onChange={e => setSearchQuery(e.target.value)}
             className="w-full pl-10 pr-4 py-2 border border-gray-300 dark:border-gray-600 bg-gray-50 dark:bg-gray-700 rounded-lg focus:outline-none focus:ring-2 focus:ring-red-500 dark:text-white"
           />
         </div>
-        
-        <select 
-          value={filterAuthor} 
+
+        <select
+          value={filterAuthor}
           onChange={e => setFilterAuthor(e.target.value)}
           className="w-full md:w-auto px-4 py-2 border border-gray-300 dark:border-gray-600 bg-gray-50 dark:bg-gray-700 rounded-lg focus:outline-none focus:ring-2 focus:ring-red-500 dark:text-white"
         >
@@ -76,8 +77,8 @@ export function Works() {
           {[...authors].sort((a,b) => a.name.localeCompare(b.name, 'id')).map(a => <option key={a.id} value={a.id}>{a.name}</option>)}
         </select>
 
-        <select 
-          value={filterDifficulty} 
+        <select
+          value={filterDifficulty}
           onChange={e => setFilterDifficulty(e.target.value)}
           className="w-full md:w-auto px-4 py-2 border border-gray-300 dark:border-gray-600 bg-gray-50 dark:bg-gray-700 rounded-lg focus:outline-none focus:ring-2 focus:ring-red-500 dark:text-white"
         >
@@ -87,8 +88,8 @@ export function Works() {
           <option value="Mahir">Mahir</option>
         </select>
 
-        <select 
-          value={sortBy} 
+        <select
+          value={sortBy}
           onChange={e => setSortBy(e.target.value)}
           className="w-full md:w-auto px-4 py-2 border border-gray-300 dark:border-gray-600 bg-gray-50 dark:bg-gray-700 rounded-lg focus:outline-none focus:ring-2 focus:ring-red-500 dark:text-white"
         >
@@ -111,7 +112,7 @@ export function Works() {
                   {authorWorks.length} karya
                 </span>
               </div>
-              
+
               <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-6">
                 {authorWorks.map(work => (
                   <Link key={work.id} to={`/karya/${work.slug}`} className="flex flex-col bg-white dark:bg-gray-800 rounded-xl p-6 border border-gray-200 dark:border-gray-700 hover:border-red-500 dark:hover:border-red-500 focus:outline-none focus:ring-2 focus:ring-red-500 focus:border-red-500 hover:shadow-md transition-all group">
@@ -144,13 +145,15 @@ export function Works() {
                           Baca Ringkasan
                         </span>
                         {work.fullTextEnabled && (
-                          <Link 
-                            to={`/baca/${work.slug}`}
-                            onClick={(e) => e.stopPropagation()} 
+                          <a
+                            href={getPrimarySourceUrl(work) || `/karya/${work.slug}`}
+                            target={getPrimarySourceUrl(work) ? "_blank" : undefined}
+                            rel={getPrimarySourceUrl(work) ? "noopener noreferrer" : undefined}
+                            onClick={(e) => e.stopPropagation()}
                             className="flex-1 text-center bg-red-600 hover:bg-red-700 text-white font-medium py-1.5 px-3 rounded text-sm transition-colors"
                           >
                             Baca Tulisan
-                          </Link>
+                          </a>
                         )}
                       </div>
                     </div>
@@ -160,7 +163,7 @@ export function Works() {
             </div>
           );
         })}
-        
+
         {filteredWorks.length === 0 && (
           <div className="py-20 text-center text-gray-500 dark:text-gray-400 bg-white dark:bg-gray-800 rounded-xl border border-gray-200 dark:border-gray-700">
             Karya tidak ditemukan berdasarkan pencarian atau filter yang dipilih.

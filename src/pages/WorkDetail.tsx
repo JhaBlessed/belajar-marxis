@@ -1,13 +1,13 @@
-import { resolveArchiveUrl } from '../lib/archiveUrl';
+import { resolveArchiveUrl, getPrimarySourceUrl } from '../lib/archiveUrl';
 import { useParams, Link } from 'react-router-dom';
 import { works } from '../data/works';
 import { authors } from '../data/authors';
 import { getWorkSummary } from '../generated/workSummaries';
 import { useProgress } from '../hooks/useProgress';
-import { 
-  ArrowLeft, BookOpen, Clock, AlertCircle, 
+import {
+  ArrowLeft, BookOpen, Clock, AlertCircle,
   ShieldCheck, ShieldAlert, CheckCircle, HelpCircle,
-  ExternalLink, 
+  ExternalLink,
 } from 'lucide-react';
 
 const metaModules = import.meta.glob('../content/works/**/metadata.ts', { import: 'metadata', eager: true });
@@ -26,7 +26,7 @@ function getLocalWorks() {
 export function WorkDetail() {
   const { slug } = useParams();
   const work = works.find(w => w.slug === slug);
-  const workAuthors = work?.authorIds 
+  const workAuthors = work?.authorIds
     ? work.authorIds.map(id => authors.find(a => a.id === id)).filter(Boolean) as typeof authors
     : authors.filter(a => a.id === work?.authorId);
 
@@ -56,7 +56,7 @@ export function WorkDetail() {
   };
 
   const availability = getReadingAvailability();
-  
+
 
   return (
     <div className="min-h-screen bg-gray-50 dark:bg-gray-900 pb-20">
@@ -67,7 +67,7 @@ export function WorkDetail() {
             <ArrowLeft className="w-4 h-4" />
             Kembali ke Daftar Karya
           </Link>
-          
+
           <div className="flex items-center gap-3 mb-6">
             <span className="px-3 py-1 bg-red-100 dark:bg-red-900/30 text-red-700 dark:text-red-400 rounded-full text-sm font-bold tracking-wide">
               {work.category}
@@ -110,31 +110,33 @@ export function WorkDetail() {
 
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 -mt-8 relative z-10">
         <div className="bg-white dark:bg-gray-800 rounded-2xl shadow-xl p-6 sm:p-10 border border-gray-100 dark:border-gray-700">
-          
+
           {/* ACTION BUTTONS (READ / MIA) */}
           <div className="flex flex-col gap-4 mb-8">
             {(availability === 'available' || availability === 'partial') && work.format !== 'multi-pdf' && (
-              <Link 
-                to={`/baca/${work.slug}`}
+              <a
+                href={getPrimarySourceUrl(work) || `/baca/${work.slug}`}
+                target={getPrimarySourceUrl(work) ? "_blank" : undefined}
+                rel={getPrimarySourceUrl(work) ? "noopener noreferrer" : undefined}
                 className={`flex items-center justify-center gap-2 text-white font-bold py-4 px-6 rounded-lg transition-colors shadow-sm ${availability === 'partial' ? 'bg-amber-600 hover:bg-amber-700' : 'bg-red-600 hover:bg-red-700'}`}
               >
                 <BookOpen className="w-5 h-5" /> BACA TULISAN
                 <span className={`text-xs px-2 py-0.5 rounded-full ml-2 ${availability === 'partial' ? 'bg-amber-800' : 'bg-red-800'}`}>
                   {availability === 'partial' ? 'SEBAGIAN' : 'TEKS LENGKAP'}
                 </span>
-              </Link>
+              </a>
             )}
-            
+
             {work.sourceFormat ? (
               <div className="flex flex-col gap-3">
                 <h3 className="font-bold text-gray-900 dark:text-white mb-2 uppercase tracking-wide text-sm opacity-80 mt-2">SUMBER ARSIP</h3>
-                
+
                 {(work.sourceFormat === 'pdf' || work.sourceFormat === 'html') && work.localSourcePath && (
                   <a href={resolveArchiveUrl(work.localSourcePath)} target="_blank" rel="noopener noreferrer" className="flex items-center justify-center gap-2 bg-gray-100 dark:bg-gray-800 border border-gray-300 dark:border-gray-600 hover:bg-gray-200 dark:hover:bg-gray-700 text-gray-800 dark:text-gray-100 font-bold py-3 px-6 rounded-lg transition-colors">
                     {work.sourceFormat === 'pdf' ? <><BookOpen className="w-4 h-4" /> BUKA PDF</> : <><ExternalLink className="w-4 h-4" /> BUKA ARSIP</>}
                   </a>
                 )}
-                
+
                 {(work.sourceFormat === 'multi-pdf' || work.sourceFormat === 'multi-html') && work.localSourceParts && (
                   <div className="flex flex-col gap-3">
                     {work.localSourceParts.map((part, idx) => (
@@ -227,7 +229,7 @@ export function WorkDetail() {
           <div className="space-y-12">
               {(() => {
                 const generatedSummary = getWorkSummary(work.slug);
-                
+
                 if (!generatedSummary || generatedSummary.summaryStatus === 'missing') {
                   return (
                     <div className="bg-gray-50 dark:bg-gray-900/50 p-8 rounded-2xl border border-gray-100 dark:border-gray-700 text-center">
@@ -285,11 +287,11 @@ export function WorkDetail() {
                       <h3 className="text-2xl font-bold text-gray-900 dark:text-white mb-4">Pentingnya Karya Ini</h3>
                       <p className="text-gray-700 dark:text-gray-300 text-lg leading-relaxed">{generatedSummary.significance}</p>
                     </section>
-                    
+
                     {generatedSummary.sourceBasis && generatedSummary.sourceBasis.length > 0 && (
                       <section className="mt-8 pt-8 border-t border-gray-100 dark:border-gray-800">
                         <h4 className="text-sm font-semibold text-gray-400 dark:text-gray-500 mb-4 uppercase tracking-wider">Basis Sumber</h4>
-                        
+
                         <div className="mb-4">
                           <h5 className="text-xs font-bold text-gray-500 dark:text-gray-400 uppercase mb-2">Teks Utama</h5>
                           <ul className="text-sm text-gray-600 dark:text-gray-300 space-y-2">
@@ -304,7 +306,7 @@ export function WorkDetail() {
                             })}
                           </ul>
                         </div>
-                        
+
                         {generatedSummary.contextBasis && generatedSummary.contextBasis.length > 0 && (
                           <div>
                             <h5 className="text-xs font-bold text-gray-500 dark:text-gray-400 uppercase mb-2 mt-4">Konteks Pendukung</h5>
@@ -326,7 +328,7 @@ export function WorkDetail() {
                   </>
                 );
               })()}
-            
+
             {work.debates && (
               <section>
                 <h3 className="text-2xl font-bold text-gray-900 dark:text-white mb-4">Perdebatan</h3>
@@ -349,7 +351,7 @@ export function WorkDetail() {
                 </div>
               </section>
             )}
-            
+
             {(work.themes.length > 0 || work.concepts.length > 0) && (
               <section className="border-t border-gray-200 dark:border-gray-700 pt-8 mt-12">
                 <div className="flex flex-wrap gap-6">
