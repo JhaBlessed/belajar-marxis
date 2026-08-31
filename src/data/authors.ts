@@ -390,7 +390,7 @@ export const authors: Author[] = [
       "leon-trotsky",
       "karl-marx"
     ],
-    "image": "",
+    "image": "/images/tokoh/ernest-mandel.jpg",
     "sources": [
       "https://www.marxists.org/indonesia/archive/mandel/"
     ]
@@ -477,7 +477,7 @@ export const authors: Author[] = [
       "v-i-lenin",
       "leon-trotsky"
     ],
-    "image": "",
+    "image": "/images/tokoh/komunis-internasional.jpg",
     "sources": [
       "https://www.marxists.org/indonesia/archive/komintern/"
     ]
