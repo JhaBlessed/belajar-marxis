@@ -50,10 +50,10 @@ for (const file of files) {
   try {
     const buffer = fs.readFileSync(file);
     const html = buffer.toString('utf8');
-    
+
     const hasHeader = html.includes('mia-modern-header');
     const isLegacyWrapped = html.includes('MIA-LEGACY-ORIGINAL-BEGIN');
-    
+
     if (!hasHeader) {
       stats.skippedUnsafe++;
       continue;
@@ -103,14 +103,14 @@ for (const file of files) {
     if (isLegacyWrapped) {
       const beginMarker = Buffer.from('<!-- MIA-LEGACY-ORIGINAL-BEGIN -->\n');
       const endMarker = Buffer.from('\n<!-- MIA-LEGACY-ORIGINAL-END -->');
-      
+
       const startIdx = buffer.indexOf(beginMarker);
       if (startIdx !== -1) {
         const payloadStart = startIdx + beginMarker.length;
         const endIdx = buffer.indexOf(endMarker, payloadStart);
-        
+
         if (endIdx !== -1) {
-          // OK, we found it. We can't really compare it against original here because original is overwritten, 
+          // OK, we found it. We can't really compare it against original here because original is overwritten,
           // but we can at least verify markers exist. The modernize script checks the actual hash against the original before memory is lost.
         } else {
           stats.contentIntegrityFailures++;

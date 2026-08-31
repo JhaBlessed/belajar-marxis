@@ -41,7 +41,7 @@ function copyAssets() {
   const sourceCssPath = path.join(process.cwd(), 'scripts', 'assets', 'archive-modern.css');
   const destDirHistory = path.join(HISTORY_DIR, '_assets');
   const destCssHistory = path.join(destDirHistory, 'archive-modern.css');
-  
+
   if (!isDryRun) {
     if (!fs.existsSync(destDirHistory)) {
       fs.mkdirSync(destDirHistory, { recursive: true });
@@ -93,10 +93,10 @@ function processFile(srcPath: string) {
   try {
     const buffer = fs.readFileSync(srcPath);
     const contentString = buffer.toString('utf8');
-    
+
     const hasHeader = contentString.includes('mia-modern-header');
     const isLegacyWrapped = contentString.includes('MIA-LEGACY-ORIGINAL-BEGIN');
-    
+
     if (hasHeader) {
       if (isLegacyWrapped) {
         stats.legacyFragments++;
@@ -106,10 +106,10 @@ function processFile(srcPath: string) {
 
       let needsMigration = false;
       let newBuffer = buffer;
-      
+
       const legacyCssBytes = Buffer.from('/mia/_assets/archive-modern.css');
       const newCssBytes = Buffer.from('/_assets/archive-modern.css');
-      
+
       let cssIdx = newBuffer.indexOf(legacyCssBytes);
       if (cssIdx !== -1) {
         needsMigration = true;
@@ -117,7 +117,7 @@ function processFile(srcPath: string) {
         const suffix = newBuffer.subarray(cssIdx + legacyCssBytes.length);
         newBuffer = Buffer.concat([prefix, newCssBytes, suffix]);
       }
-      
+
       const legacyBacklinkBytes = Buffer.from('href="/" class="mia-modern-header-btn mia-modern-header-btn-primary"');
       const newBacklinkBytes = Buffer.from(`href="${PRODUCTION_URL}" class="mia-modern-header-btn mia-modern-header-btn-primary"`);
       let linkIdx = newBuffer.indexOf(legacyBacklinkBytes);
@@ -135,7 +135,7 @@ function processFile(srcPath: string) {
         if (vpIdx !== -1) {
           needsMigration = true;
           const prefix = newBuffer.subarray(0, vpIdx);
-          const suffix = newBuffer.subarray(vpIdx + viewportStr.length - 1); 
+          const suffix = newBuffer.subarray(vpIdx + viewportStr.length - 1);
           newBuffer = Buffer.concat([prefix, suffix]);
         }
       }
@@ -158,7 +158,7 @@ function processFile(srcPath: string) {
 
     if (hasHead && hasBody) {
       stats.standardDocs++;
-      
+
       let headIdx = indexOfBufferCaseInsensitive(buffer, '<head');
       let headEndIdx = buffer.indexOf('>', headIdx);
       let bodyIdx = indexOfBufferCaseInsensitive(buffer, '<body');
@@ -173,7 +173,7 @@ function processFile(srcPath: string) {
       const hasOriginalViewport = /<meta\s+name=["']viewport["']/i.test(contentString);
       const viewportStr = hasOriginalViewport ? '' : '\n<meta name="viewport" content="width=device-width, initial-scale=1.0">\n';
       const cssStr = '<link rel="stylesheet" type="text/css" href="/_assets/archive-modern.css">\n';
-      
+
       const relPath = path.relative(HISTORY_DIR, srcPath).replace(/\\/g, '/');
       const miaAbsoluteUrl = 'https://www.marxists.org/' + relPath;
       const banner = bannerHtml.replace('{{ONLINE_LINK}}', miaAbsoluteUrl);
@@ -207,10 +207,10 @@ function processFile(srcPath: string) {
     }
 
     const hasSubstantiveTags = /<h[1-6]|<p>|<div|<table|<a /i.test(contentString);
-    
+
     if (!hasHtml && !hasHead && !hasBody && hasSubstantiveTags) {
       stats.legacyFragments++;
-      
+
       const relPath = path.relative(HISTORY_DIR, srcPath).replace(/\\/g, '/');
       const miaAbsoluteUrl = 'https://www.marxists.org/' + relPath;
       const banner = bannerHtml.replace('{{ONLINE_LINK}}', miaAbsoluteUrl);
@@ -232,29 +232,29 @@ ${banner}
 </html>`);
 
       const finalBuffer = Buffer.concat([prefix, buffer, suffix]);
-      
+
       if (!isDryRun) {
         fs.writeFileSync(srcPath, finalBuffer);
-        
+
         // Verify Content Integrity
         const writtenBuffer = fs.readFileSync(srcPath);
         const beginMarker = Buffer.from('<!-- MIA-LEGACY-ORIGINAL-BEGIN -->\n');
         const endMarker = Buffer.from('\n<!-- MIA-LEGACY-ORIGINAL-END -->');
-        
+
         const startIdx = writtenBuffer.indexOf(beginMarker) + beginMarker.length;
         const endIdx = writtenBuffer.indexOf(endMarker, startIdx);
-        
+
         const extractedOriginal = writtenBuffer.subarray(startIdx, endIdx);
-        
+
         const originalHash = crypto.createHash('sha256').update(buffer).digest('hex');
         const extractedHash = crypto.createHash('sha256').update(extractedOriginal).digest('hex');
-        
+
         if (originalHash !== extractedHash) {
           console.error(`CONTENT INTEGRITY FAILURE in ${srcPath}`);
           process.exitCode = 1;
         }
       }
-      
+
       stats.wrappedLegacy++;
       return;
     }
@@ -295,4 +295,3 @@ console.log(`Errors: ${stats.errors}`);
 if (stats.errors > 0 && !isDryRun) {
   process.exit(1);
 }
-
