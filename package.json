@@ -22,7 +22,9 @@
     "validate:history": "tsx scripts/validate-history.ts",
     "link:history": "tsx scripts/link-history-entities.ts",
     "extract:history-people": "tsx scripts/extract-history-people.ts",
-    "generate:work-summaries": "tsx scripts/generate-work-summaries.ts"
+    "generate:work-summaries": "tsx scripts/generate-work-summaries.ts",
+    "modernize:history": "tsx scripts/modernize-history.ts",
+    "validate:history-modern": "tsx scripts/validate-history-modern.ts"
   },
   "dependencies": {
     "@types/marked": "^5.0.2",

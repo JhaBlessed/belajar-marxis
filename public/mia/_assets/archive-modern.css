@@ -2,10 +2,10 @@
 /* Modern Archive Reader Stylesheet - Non-destructive */
 
 :root {
-  --mia-bg: #fdfcf9;
+  --mia-bg: #f8f9fa;
   --mia-text: #1f2937;
-  --mia-link: #2563eb;
-  --mia-link-hover: #1d4ed8;
+  --mia-link: #b91c1c;
+  --mia-link-hover: #991b1b;
   --mia-accent: #b91c1c;
   --mia-border: #e5e7eb;
 }
@@ -24,15 +24,34 @@ html, body {
 
 body {
   width: 100%;
-  max-width: 900px;
+  max-width: 1040px;
   margin: 0 auto;
-  padding: 0 clamp(16px, 3vw, 32px) 64px;
+  padding: 0 clamp(16px, 3vw, 40px) 64px;
   background-color: var(--mia-bg);
   color: var(--mia-text);
   font-family: Georgia, "Times New Roman", Times, serif;
   font-size: clamp(16px, 1.15vw, 18px);
   line-height: 1.75;
   overflow-wrap: break-word;
+}
+
+/* Document content area styling (simulated paper effect) */
+@media (min-width: 641px) {
+  body {
+    background-color: #f3f4f6; /* outer gray */
+  }
+  body::before {
+    content: "";
+    position: fixed;
+    top: 0; left: 50%;
+    transform: translateX(-50%);
+    width: 100%;
+    max-width: 1100px;
+    height: 100%;
+    background-color: #ffffff;
+    z-index: -1;
+    box-shadow: 0 0 15px rgba(0,0,0,0.03);
+  }
 }
 
 /* Typography Responsive */
@@ -42,10 +61,11 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.3;
   font-weight: 700;
   overflow-wrap: break-word;
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
 }
 
-/* Center heading if source implies center, but defensively wrap them */
-h1 { font-size: clamp(1.65rem, 4.5vw, 2.35rem); }
+h1 { font-size: clamp(1.65rem, 4.5vw, 2.35rem); margin-top: 1em; }
 h2 { font-size: clamp(1.5rem, 3vw, 1.9rem); }
 h3 { font-size: clamp(1.25rem, 2.5vw, 1.55rem); }
 h4 { font-size: clamp(1.1rem, 2vw, 1.25rem); }
@@ -53,20 +73,17 @@ h4 { font-size: clamp(1.1rem, 2vw, 1.25rem); }
 /* Paragraph readability */
 p {
   line-height: 1.75;
-  text-align: left; /* Don't justify to prevent bad spacing */
+  text-align: left;
 }
 p + p {
   margin-top: 1em;
 }
 
-/* Fix Legacy Index & Spacing Issues */
-/* Hide spacer paragraphs that add massive whitespace */
 p.skip,
 p:empty {
   display: none !important;
 }
 
-/* Metadata box */
 .title, p.title {
   font-size: 1.1rem;
   font-weight: bold;
@@ -96,12 +113,14 @@ hr {
 a {
   color: var(--mia-link);
   text-decoration: underline;
+  text-decoration-color: rgba(185, 28, 28, 0.3);
   text-underline-offset: 2px;
   transition: all 0.2s ease;
 }
 
 a:hover {
   color: var(--mia-link-hover);
+  text-decoration-color: var(--mia-link-hover);
 }
 
 a:focus-visible {
@@ -119,7 +138,6 @@ img {
   max-width: 100%;
   height: auto;
 }
-/* If image acts like a profile photo (often has border in legacy html) */
 img[border], img[align="right"], img[align="left"] {
   border-radius: 6px;
   box-shadow: 0 2px 4px rgba(0,0,0,0.1);
@@ -128,11 +146,15 @@ img[border], img[align="right"], img[align="left"] {
 /* Table Legacy */
 table {
   max-width: 100%;
-  height: auto !important; /* Defend against fixed height tables in index profiles */
+  border-collapse: collapse;
+  display: block; /* enables horizontal scrolling */
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
 }
 
 td, th {
-  overflow-wrap: break-word;
+  padding: 6px 12px;
+  border: 1px solid var(--mia-border);
 }
 
 blockquote {
@@ -145,9 +167,9 @@ blockquote {
 }
 
 /* Daftar Isi / TOC Specific Fixes */
-/* Usually index pages use simple lists or paragraphs for links */
 ul > li, ol > li {
   margin-bottom: 0.5em;
+  line-height: 1.6;
 }
 
 ul > li > a, ol > li > a, p.index > a, td > a {
@@ -189,6 +211,7 @@ ul > li > a, ol > li > a, p.index > a, td > a {
   font-weight: 400;
   color: #6b7280;
   margin-top: 2px;
+  text-transform: none;
 }
 
 .mia-modern-header-actions {
@@ -231,22 +254,27 @@ ul > li > a, ol > li > a, p.index > a, td > a {
   color: #111827;
 }
 
+/* Pre/Code */
+pre, code {
+  font-family: "Courier New", Courier, monospace;
+  overflow-x: auto;
+  max-width: 100%;
+}
+
 /* Mobile Breakpoints */
 @media (max-width: 640px) {
   .mia-modern-header {
-    position: static; /* Do not eat up screen height on mobile */
+    position: static;
     padding: 10px 16px;
     gap: 8px;
     margin-bottom: 24px;
   }
-
   .mia-modern-header-actions {
     width: 100%;
     gap: 8px;
   }
-
   .mia-modern-header-btn {
-    min-height: 42px; /* touch target */
+    min-height: 42px;
     flex: 1 1 140px;
     justify-content: center;
     text-align: center;
@@ -260,9 +288,50 @@ ul > li > a, ol > li > a, p.index > a, td > a {
   .mia-modern-header-subtitle {
     font-size: 11px;
   }
-  /* TOC links easier to touch on small screens */
   ul > li > a, ol > li > a, p.index > a {
     padding: 6px 0; 
+  }
+}
+
+/* Dark Mode */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --mia-bg: #111827;
+    --mia-text: #e5e7eb;
+    --mia-link: #ef4444;
+    --mia-link-hover: #f87171;
+    --mia-border: #374151;
+  }
+  @media (min-width: 641px) {
+    body { background-color: #030712; }
+    body::before {
+      background-color: #111827;
+      box-shadow: 0 0 15px rgba(0,0,0,0.5);
+    }
+  }
+  h1, h2, h3, h4, h5, h6 { color: #f9fafb; }
+  .information, p.information {
+    background: #1f2937;
+    color: #d1d5db;
+  }
+  blockquote {
+    background-color: #1f2937;
+    color: #d1d5db;
+  }
+  .mia-modern-header {
+    background-color: #1f2937;
+    box-shadow: 0 4px 6px -1px rgba(0,0,0,0.3);
+  }
+  .mia-modern-header-title { color: #f3f4f6; }
+  .mia-modern-header-subtitle { color: #9ca3af; }
+  .mia-modern-header-btn-secondary {
+    background-color: #374151;
+    color: #f3f4f6;
+    border-color: #4b5563;
+  }
+  .mia-modern-header-btn-secondary:hover {
+    background-color: #4b5563;
+    color: #ffffff;
   }
 }
 
@@ -278,8 +347,17 @@ ul > li > a, ol > li > a, p.index > a, td > a {
     background: #fff;
     color: #000;
   }
+  body::before {
+    display: none !important;
+  }
   a {
     color: inherit;
     text-decoration: none;
   }
+}
+
+/* Legacy HTML Fragment Wrapper */
+.mia-legacy-fragment {
+  width: 100%;
+  display: block;
 }
