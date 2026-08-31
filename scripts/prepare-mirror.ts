@@ -21,12 +21,14 @@ function isIgnored(fileName: string) {
 }
 
 const bannerHtml = `
-<div style="background-color: #fef3c7; color: #92400e; padding: 12px; font-family: sans-serif; border-bottom: 1px solid #f59e0b; text-align: center; margin-bottom: 20px; z-index: 9999; position: relative;">
-  <strong>ARSIP LOKAL MIA</strong><br/>
-  Sumber: Marxists Internet Archive - Seksi Bahasa Indonesia<br/>
-  <div style="margin-top: 8px; display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-    <a href="/" style="background: #ef4444; color: white; padding: 4px 12px; text-decoration: none; border-radius: 4px; font-size: 14px;">Kembali ke Belajar Marxis</a>
-    <a id="mia-online-link" href="#" target="_blank" style="background: #374151; color: white; padding: 4px 12px; text-decoration: none; border-radius: 4px; font-size: 14px;">Lihat Versi Online di MIA ↗</a>
+<div class="mia-modern-header">
+  <div class="mia-modern-header-title">
+    ARSIP LOKAL MIA
+    <div class="mia-modern-header-subtitle">Sumber: Marxists Internet Archive - Seksi Bahasa Indonesia</div>
+  </div>
+  <div class="mia-modern-header-actions">
+    <a href="/" class="mia-modern-header-btn mia-modern-header-btn-primary">&larr; Kembali ke Belajar Marxis</a>
+    <a id="mia-online-link" href="#" target="_blank" class="mia-modern-header-btn mia-modern-header-btn-secondary">Lihat Versi Online di MIA &#8599;</a>
   </div>
 </div>
 `;
@@ -152,6 +154,13 @@ async function prepare() {
       const $ = cheerio.load(html);
       sanitizeHtml($);
 
+      // Add modern viewport and stylesheet
+      if ($('head').length === 0) {
+        $('html').prepend('<head></head>');
+      }
+      $('head').prepend('<meta name="viewport" content="width=device-width, initial-scale=1.0">');
+      $('head').append('<link rel="stylesheet" type="text/css" href="/mia/_assets/archive-modern.css">');
+
       // Prepend banner
       $('body').prepend(bannerHtml);
       $('#mia-online-link').attr('href', miaAbsoluteUrl);
@@ -159,7 +168,7 @@ async function prepare() {
       // Rewrite links
       $('a').each((_, el) => {
         const href = $(el).attr('href');
-        if (href && !href.startsWith('http') && !href.startsWith('mailto:') && !href.startsWith('#')) {
+        if (href && !href.startsWith('http') && !href.startsWith('mailto:') && !href.startsWith('#') && href !== '/') {
           // Resolve relative href to absolute /mia/ path
           // The current file is at /mia/indonesia/archive/...
           const currentDir = '/mia/' + path.dirname(relPath);
@@ -185,7 +194,7 @@ async function prepare() {
       $('img, link[rel="stylesheet"]').each((_, el) => {
         const attr = el.tagName === 'img' ? 'src' : 'href';
         const val = $(el).attr(attr);
-        if (val && !val.startsWith('http') && !val.startsWith('data:')) {
+        if (val && !val.startsWith('http') && !val.startsWith('data:') && val !== '/mia/_assets/archive-modern.css') {
           const currentDir = '/mia/' + path.dirname(relPath);
           try {
             const resolved = new URL(val, 'http://localhost' + currentDir + '/').pathname;
@@ -203,6 +212,20 @@ async function prepare() {
     } else {
       assetCount++;
       fs.copyFileSync(srcPath, pubPath);
+    }
+  }
+
+  // Copy shared assets
+  const sourceAssetsDir = path.join(process.cwd(), 'scripts', 'assets');
+  const targetAssetsDir = path.join(PUBLIC_MIA_DIR, '_assets');
+  
+  if (fs.existsSync(sourceAssetsDir)) {
+    if (!fs.existsSync(targetAssetsDir)) {
+      fs.mkdirSync(targetAssetsDir, { recursive: true });
+    }
+    const cssFileName = 'archive-modern.css';
+    if (fs.existsSync(path.join(sourceAssetsDir, cssFileName))) {
+      fs.copyFileSync(path.join(sourceAssetsDir, cssFileName), path.join(targetAssetsDir, cssFileName));
     }
   }
 
