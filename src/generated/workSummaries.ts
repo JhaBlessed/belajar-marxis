@@ -25,6 +25,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/kollontai/19200101-kollontai-komunismedankeluarga.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "pejuang-wanita-pada-hari-hari-revolusi-oktober-besar": {
@@ -37,6 +38,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/kollontai/oktober.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "apa-yang-harus-kita-pelajari-dan-apa-yang-harus-kita-kerjakan": {
@@ -49,6 +51,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/guevara/1958-Apa.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "esensi-perang-gerilya": {
@@ -61,6 +64,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/guevara/1960-Esensi.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "tanggung-jawab-kelas-buruh-dalam-revolusi-kita": {
@@ -73,6 +77,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/guevara/1960-TanggungJawab.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "kader-tulang-punggung-revolusi": {
@@ -85,6 +90,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/guevara/1962-Kader.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "sosialisme-dan-manusia-di-kuba": {
@@ -97,6 +103,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/guevara/1965-Sosialisme.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "surat-che-kepada-anak-anaknya": {
@@ -109,6 +116,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/guevara/1965-SuratAnak.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "surat-che-kepada-orang-tuanya": {
@@ -121,6 +129,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/guevara/1965-SuratOrangTua.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "surat-selamat-tinggal-che-kepada-fidel-castro": {
@@ -133,6 +142,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/guevara/1965-SuratFidelCastro.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "surat-che-kepada-hildita": {
@@ -145,6 +155,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/guevara/1966-SuratHildita.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "seruan-untuk-semua-kamerad-partai-komunis-tiongkok": {
@@ -157,6 +168,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/chenduxiu/1929-seruan.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "tesis-mengenai-persoalan-kebangsaan-dan-kolonial": {
@@ -169,6 +181,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/komintern/1920-tesiskebangsaan.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "agitasi-dan-propaganda": {
@@ -181,6 +194,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/hallas/agitasi.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "karl-marx-beberapa-catatan-ringan": {
@@ -193,6 +207,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/marx-eleanor/001.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "pengenalan-kepada-teori-ekonomi-marxis": {
@@ -205,6 +220,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/mandel/002.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "gerakan-mahasiswa-revolusioner-teori-dan-praktek": {
@@ -217,6 +233,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/mandel/001.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "sejarah-internasional-i-dan-internasional-ii": {
@@ -229,6 +246,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/novack/001.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "pengantar-logika-marxisme": {
@@ -241,6 +259,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/novack/002.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "peran-individu-dalam-sejarah": {
@@ -253,6 +272,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/plekhanov/18980101-plekhanov-peranindividudalamsejarah.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "masalah-masalah-dasar-marxisme": {
@@ -265,6 +285,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/plekhanov/problems.pdf"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "seni-dan-kehidupan-sosial": {
@@ -277,6 +298,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/plekhanov/seni.pdf"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "sosialisme-utopian-abad-xix": {
@@ -289,6 +311,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/plekhanov/utopian.pdf"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "siapa-sahabat-rakyat-dan-bagaimana-mereka-memusuhi-kaum-sosial-demokrat": {
@@ -309,6 +332,7 @@ export const workSummaries: Record<string, WorkSummary> = {
       "/mia/indonesia/archive/lenin/1894/SahabatRakyat/Lampiran2.html",
       "/mia/indonesia/archive/lenin/1894/SahabatRakyat/Lampiran3.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "selebaran-may-day-lenin-hari-libur-buruh-satu-mei": {
@@ -321,6 +345,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/lenin/1896/MayDay.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "program-kita": {
@@ -333,6 +358,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/lenin/1899/ProgramKita.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "deklarasi-dewan-editorial-iskra": {
@@ -345,6 +371,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/lenin/1900/Deklarasi.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "tugas-tugas-mendesak-gerakan-kita": {
@@ -357,6 +384,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/lenin/1900/Tugas.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "dari-mana-kita-mulai": {
@@ -369,6 +397,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/lenin/1901/Dimana.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "apa-yang-harus-dikerjakan": {
@@ -388,6 +417,9 @@ export const workSummaries: Record<string, WorkSummary> = {
       "/mia/indonesia/archive/lenin/1902/ApaYang/Tambahan.html",
       "/mia/indonesia/archive/lenin/1902/ApaYang/Koreksi.html"
     ],
+    "contextBasis": [
+      "/mia/indonesia/archive/lenin/1902/ApaYang/KataPengantar.html"
+    ],
     "summaryStatus": "missing"
   },
   "agitasi-politik-dan-sudut-pandang-kelas": {
@@ -400,6 +432,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/lenin/1902/AgitasiPolitik.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "sebuah-surat-untuk-seorang-kamerad-mengenai-tugas-tugas-organisasional-kita": {
@@ -412,6 +445,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/lenin/1902/1902-TugasOrganisasional.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "kepada-kaum-miskin-desa": {
@@ -432,6 +466,7 @@ export const workSummaries: Record<string, WorkSummary> = {
       "/mia/indonesia/archive/lenin/1903/KepadaKaumMiskin/Program.html",
       "/mia/indonesia/archive/lenin/1903/KepadaKaumMiskin/Keterangan.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "tugas-tugas-demokratik-kaum-proletariat-revolusioner": {
@@ -444,6 +479,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/lenin/1905/TugasDemokratik.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "sosialisme-borjuis-kecil-dan-sosialisme-proletar": {
@@ -456,6 +492,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/lenin/1905/Sosialisme.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "sosialisme-dan-kaum-tani": {
@@ -468,6 +505,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/lenin/1905/SosialismeDanKaumTani.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "sosialisme-dan-agama": {
@@ -480,6 +518,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/lenin/1905/SosialismeDanAgama.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "kebebasan-mengkritik-dan-kesatuan-tindakan": {
@@ -492,6 +531,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/lenin/1906/Kebebasan.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "pelajaran-dari-pemberontakan-moskow": {
@@ -504,6 +544,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/lenin/1906/Pelajaran.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "perang-gerilya": {
@@ -516,6 +557,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/lenin/1906/Perang.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "viii-kongres-telah-menyimpulkan": {
@@ -528,6 +570,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/lenin/1906/Kongres.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "kekuatan-dan-kelemahan-revolusi-rusia": {
@@ -540,6 +583,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/lenin/1907/Kekuatan.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "marxisme-dan-revisionisme": {
@@ -552,6 +596,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/lenin/1908/marx-rev.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "tentang-penilaian-revolusi-rusia": {
@@ -564,6 +609,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/lenin/1908/Penilaian.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "sikap-partai-buruh-terhadap-agama": {
@@ -576,6 +622,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/lenin/19090513-lenin-sikappartaiburuhterhadapagama.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "pelajaran-dari-revolusi": {
@@ -588,6 +635,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/lenin/1910/Pelajaran.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "kampanye-pemilihan-untuk-duma-keempat-dan-tugas-tugas-kaum-sosial-demokrat-revolusioner": {
@@ -600,6 +648,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/lenin/1912/Kampanye.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "kenaikan-revolusioner": {
@@ -612,6 +661,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/lenin/1912/Kenaikan.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "situasi-di-dalam-pbsdr-dan-tugas-tugas-segera-partai": {
@@ -624,6 +674,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/lenin/1912/Situasi.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "tiga-sumber-dan-tiga-komponen-marxisme": {
@@ -636,6 +687,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/lenin/1913/tigasumb.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "takdir-historis-bagi-doktrin-karl-marx": {
@@ -648,6 +700,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/lenin/1913/Takdir.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "hari-jadi-pravda": {
@@ -660,6 +713,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/lenin/1913/1913-HariJadiPravda.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "di-ambang-batas": {
@@ -672,6 +726,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/lenin/19151120-lenin-diambangbatas.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "revolusi-sosialis-dan-hak-sebuah-bangsa-untuk-menentukan-nasib-sendiri": {
@@ -684,6 +739,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/lenin/1916/1916-hakpenentuannasibsendiri.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "imperialisme-sebagai-tahapan-khusus-kapitalisme": {
@@ -696,6 +752,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/lenin/1916/1916-tahapankhusus.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "tugas-kaum-proletar-dalam-revolusi-sekarang-ini-tesis-april": {
@@ -708,6 +765,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/lenin/19170407-lenin-tesisapril.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "kekuasaan-rangkap": {
@@ -720,6 +778,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/lenin/1917/KekuasaanRangkap.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "suatu-pemerintah-revolusioner-yang-kuat": {
@@ -732,6 +791,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/lenin/1917/SuatuPemerintah.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "apakah-kekuasaan-rangkap-telah-lenyap": {
@@ -744,6 +804,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/lenin/1917/ApakahKekuasaan.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "sifat-merugikan-omong-kosong": {
@@ -756,6 +817,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/lenin/1917/Sifat.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "bolshevisme-dan-demoralisasi-tentara": {
@@ -768,6 +830,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/lenin/1917/Demoralisasi.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "keruntuhan-ekonomi-dan-perjuangan-proletariat-melawannya": {
@@ -780,6 +843,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/lenin/1917/Keruntuhan.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "titik-balik": {
@@ -792,6 +856,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/lenin/1917/TitikBalik.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "sumber-kelas-para-cavaignac-masa-ini-dan-masa-yang-akan-datang": {
@@ -804,6 +869,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/lenin/1917/SumberKelas.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "awal-bonapartisme": {
@@ -816,6 +882,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/lenin/19170729-lenin-awalbonapartisme.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "negara-dan-revolusi": {
@@ -834,6 +901,10 @@ export const workSummaries: Record<string, WorkSummary> = {
       "/mia/indonesia/archive/lenin/19170901-lenin-negaradanrevolusi/bab6.html",
       "/mia/indonesia/archive/lenin/19170901-lenin-negaradanrevolusi/catatantambahan.html"
     ],
+    "contextBasis": [
+      "/mia/indonesia/archive/lenin/19170901-lenin-negaradanrevolusi/katapengantarindonesia.html",
+      "/mia/indonesia/archive/lenin/19170901-lenin-negaradanrevolusi/katapengantar.html"
+    ],
     "summaryStatus": "missing"
   },
   "surat-lenin-untuk-komite-pusat-pbsdr": {
@@ -846,6 +917,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/lenin/19170830-lenin-kepadakppbsdr.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "tentang-kompromi": {
@@ -858,6 +930,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/lenin/1917/Kompromi.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "marxisme-dan-pemberontakan": {
@@ -870,6 +943,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/lenin/1917/Marxisme.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "draft-regulasi-atas-kontrol-buruh": {
@@ -882,6 +956,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/lenin/1917/DraftKontrol.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "aliansi-antara-kelas-buruh-dan-petani-terhisap": {
@@ -894,6 +969,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/lenin/1917/Aliansi.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "tesis-mengenai-majelis-konstituante": {
@@ -906,6 +982,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/lenin/19171211-lenin-tesismk.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "revolusi-proletariat-dan-kautsky-si-pengkhianat": {
@@ -929,6 +1006,7 @@ export const workSummaries: Record<string, WorkSummary> = {
       "/mia/indonesia/archive/lenin/19181101-lenin-kautskypengkhianat/Bab11.html",
       "/mia/indonesia/archive/lenin/19181101-lenin-kautskypengkhianat/Bab12.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "pemilihan-majelis-konstituante-dan-kediktatoran-proletariat": {
@@ -941,6 +1019,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/lenin/19191216-lenin-pemilihanmk.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "kepada-para-pekerja-perempuan": {
@@ -953,6 +1032,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/lenin/1920/20-kpp.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "komunisme-sayap-kiri-penyakit-kekanak-kanakan": {
@@ -975,6 +1055,7 @@ export const workSummaries: Record<string, WorkSummary> = {
       "/mia/indonesia/archive/lenin/19200401-lenin-komunismesayapkiri/bab10.html",
       "/mia/indonesia/archive/lenin/19200401-lenin-komunismesayapkiri/Lampiran.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "laporan-komisi-tentang-permasalahan-nasional-dan-kolonial": {
@@ -987,6 +1068,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/lenin/1920/Laporan.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "tugas-tugas-liga-pemuda": {
@@ -999,6 +1081,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/lenin/1920/TugasLigaPemuda.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "pendahuluan-sumbangan-untuk-kritik-terhadap-filsafat-hak-hegel": {
@@ -1685,6 +1768,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/trotsky/1940-DenganTrotsky.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "bagaimana-itu-terjadi": {
@@ -1697,6 +1781,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/trotsky/1940-BagaimanaItuTerjadi.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "tentang-optimisme-dan-pesimisme": {
@@ -1709,6 +1794,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/trotsky/19010101-trotsky-optimismedanpesimisme.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "kaum-proletar-dan-revolusi": {
@@ -1721,6 +1807,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/trotsky/1904-KaumProletar.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "hasil-dan-prospek": {
@@ -1747,6 +1834,7 @@ export const workSummaries: Record<string, WorkSummary> = {
       "/mia/indonesia/archive/trotsky/Hasil/Bab9.html",
       "/mia/indonesia/archive/trotsky/Hasil/Bab10.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "kebangkrutan-terorisme-individual": {
@@ -1759,6 +1847,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/trotsky/19090501-trotsky-kebangkrutanterorisme.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "kaum-intelektual-dan-sosialisme": {
@@ -1771,6 +1860,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/trotsky/1910-Intelektual.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "mengapa-kaum-marxis-menentang-terorisme-individual": {
@@ -1783,6 +1873,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/trotsky/19111101-trotsky-mengapamarxismenentangterorisme.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "pasifisme-sebagai-pelayan-imperialisme": {
@@ -1795,6 +1886,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/trotsky/1917-Pasifisme.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "sandiwara-kekuasaan-ganda": {
@@ -1807,6 +1899,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/trotsky/1917-SandiwaraKekuasaanGanda.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "dengan-darah-dan-besi": {
@@ -1819,6 +1912,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/trotsky/1917-DenganDarahdanBesi.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "pernyataan-trotsky-mengenai-publikasi-perjanjian-perjanjian-rahasia": {
@@ -1831,6 +1925,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/trotsky/1917-PerjanjianRahasia.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "nasionalisme-dalam-lenin": {
@@ -1843,6 +1938,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/trotsky/1920-NasionalismeDalamLenin.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "pelajaran-komune-paris": {
@@ -1855,6 +1951,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/trotsky/19210204-trotsky-pelajarankomuneparis.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "tugas-tugas-pendidikan-komunis": {
@@ -1867,6 +1964,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/trotsky/1922-TugasPendidikanKomunis1.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "apakah-budaya-proletar-itu-dan-mungkinkah-ada": {
@@ -1879,6 +1977,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/trotsky/1923-Apakah.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "akar-dan-fungsi-sosial-dunia-sastra": {
@@ -1891,6 +1990,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/trotsky/1923-Akar.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "manusia-tidak-hidup-dari-politik-saja": {
@@ -1903,6 +2003,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/trotsky/1923-TidakHidupDariPolitik.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "birokratisme-dan-kelompok-faksi": {
@@ -1915,6 +2016,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/trotsky/1923-Birokratismedanfaksi.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "kebijakan-kaum-komunis-terhadap-seni": {
@@ -1927,6 +2029,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/trotsky/1924-Kebijakan.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "pelajaran-revolusi-oktober": {
@@ -1939,6 +2042,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/trotsky/19241001-trotsky-pelajaranoktober.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "kebudayaan-dan-sosialisme": {
@@ -1951,6 +2055,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/trotsky/19260203-trotsky-kebudayaandansosialisme.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "revolusi-permanen": {
@@ -1974,6 +2079,7 @@ export const workSummaries: Record<string, WorkSummary> = {
       "/mia/indonesia/archive/trotsky/Permanen/Bab9.html",
       "/mia/indonesia/archive/trotsky/Permanen/Bab10.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "sepucuk-surat-untuk-kaum-trotskis-amerika": {
@@ -1986,6 +2092,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/trotsky/19290301-trotsky-sepucuksurattrotkisamerika.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "kehidupanku": {
@@ -2002,6 +2109,7 @@ export const workSummaries: Record<string, WorkSummary> = {
       "/mia/indonesia/archive/trotsky/19300101-trotsky-kehidupanku/bab3.html",
       "/mia/indonesia/archive/trotsky/19300101-trotsky-kehidupanku/bab4.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "problem-problem-revolusi-italia": {
@@ -2014,6 +2122,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/trotsky/1930-Surat300514.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "masalah-persatuan-serikat-buruh": {
@@ -2026,6 +2135,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/trotsky/1931-MasalahPersatuan.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "kontrol-buruh-dalam-produksi": {
@@ -2038,6 +2148,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/trotsky/1931-KontrolBuruh.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "membela-revolusi-oktober": {
@@ -2050,6 +2161,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/trotsky/19321127-trotsky-membelaoktober.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "oposisi-kiri-internasional-tugas-tugas-dan-metode-metodenya": {
@@ -2062,6 +2174,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/trotsky/1932-TugasOposisi.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "kpd-atau-partai-baru-i": {
@@ -2074,6 +2187,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/trotsky/1933-KPDPartaiBaruI.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "kpd-atau-partai-baru-ii": {
@@ -2086,6 +2200,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/trotsky/1933-KPDPartaiBaruII.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "kpd-atau-partai-baru-iii": {
@@ -2098,6 +2213,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/trotsky/1933-KPDPartaiBaruIII.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "kita-perlu-membangun-partai-partai-komunis-dan-internasional-baru": {
@@ -2110,6 +2226,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/trotsky/1933-PartaiKomunisBaru.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "bonapartisme-dan-fasisme": {
@@ -2122,6 +2239,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/trotsky/19340715-trotsky-bonapartismefasisme.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "beberapa-catatan-tentang-koran-revolution": {
@@ -2134,6 +2252,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/trotsky/1934-BeberapaCatatanRevolusi.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "jika-amerika-menjalankan-komunisme": {
@@ -2146,6 +2265,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/trotsky/1935-Jika.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "tentang-problem-problem-organisasional": {
@@ -2158,6 +2278,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/trotsky/1935-TentangProblemOrganisasional.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "apakah-koran-massa-itu": {
@@ -2170,6 +2291,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/trotsky/1935-ApakahKoranMassa.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "revolusi-yang-dikhianati": {
@@ -2197,6 +2319,7 @@ export const workSummaries: Record<string, WorkSummary> = {
       "/mia/indonesia/archive/trotsky/khianat/Bab11.html",
       "/mia/indonesia/archive/trotsky/khianat/Lampiran.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "stalinisme-dan-bolshevisme": {
@@ -2209,6 +2332,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/trotsky/19370828-trotsky-stalinismedanbolshevisme.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "90-tahun-manifesto-komunis": {
@@ -2221,6 +2345,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/trotsky/19371030-trotsky-90tahunmanifestokomunis.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "beberapa-patah-kata-tentang-lutte-ouvriere": {
@@ -2233,6 +2358,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/trotsky/1937-LutteOuvriere.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "mengenai-sentralisme-demokratis": {
@@ -2245,6 +2371,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/trotsky/19371208-trotsky-sentralismedemokratis.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "koran-pabrik-dan-jurnal-teoretis": {
@@ -2257,6 +2384,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/trotsky/1938-KoranPabrik.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "hingar-bingar-kronstadt": {
@@ -2269,6 +2397,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/trotsky/1938-Kronstadt.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "nasionalisasi-industri-dan-kontrol-buruh": {
@@ -2281,6 +2410,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/trotsky/1938-Nasionalisasi.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "program-transisional": {
@@ -2293,6 +2423,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/trotsky/19380501-trotsky-programtransisional.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "diskusi-dengan-trotsky-mengenai-program-transisional": {
@@ -2305,6 +2436,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/trotsky/1938-Diskusi.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "sekali-lagi-mengenai-pemberontakan-kronstadt": {
@@ -2317,6 +2449,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/trotsky/1938-Kronstadt2.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "semangat-pengorbanan-mengenai-keuangan": {
@@ -2329,6 +2462,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/trotsky/1938-Surat380723.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "problem-problem-socialist-appeal": {
@@ -2341,6 +2475,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/trotsky/1939-ProblemSocialistAppeal.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "abc-dialektika-materialis": {
@@ -2353,6 +2488,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/trotsky/19391215-trotsky-ABCDialektikaMaterialis.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "mengenai-masalah-yahudi-saduran-dari-1937-1940": {
@@ -2365,6 +2501,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/trotsky/1940-Yahudi.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "partai-kelas-dan-kepemimpinan": {
@@ -2377,6 +2514,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/trotsky/19400101-trotsky-partaikelaskepemimpinan.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "fasisme-apa-itu-dan-bagaimana-melawannya": {
@@ -2389,6 +2527,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/trotsky/1944-Fasisme.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "reformasi-atau-revolusi": {
@@ -2401,6 +2540,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/luxemburg/reformasi-atau-revolusi.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "stagnasi-dan-kemajuan-marxisme": {
@@ -2413,6 +2553,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/luxemburg/1903-Stagnasi.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "pemogokan-massa": {
@@ -2425,6 +2566,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/luxemburg/pemogokan-massa.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "gagasan-may-day-bergerak-maju": {
@@ -2437,6 +2579,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/luxemburg/1913-MayDay.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "parlemen-atau-soviet": {
@@ -2457,6 +2600,7 @@ export const workSummaries: Record<string, WorkSummary> = {
       "/mia/indonesia/archive/malaka/Soviet/Bab6.html",
       "/mia/indonesia/archive/malaka/Soviet/Bab7.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "si-semarang-dan-onderwijs": {
@@ -2469,6 +2613,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/malaka/1921-SISemarang.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "komunisme-dan-pan-islamisme": {
@@ -2481,6 +2626,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/malaka/1922-PanIslamisme.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "menuju-republik-indonesia-naar-de-republiek-indonesia": {
@@ -2493,6 +2639,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/malaka/1925-Menuju.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "semangat-muda": {
@@ -2505,6 +2652,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/malaka/1926-SemangatMuda.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "aksi-massa": {
@@ -2529,6 +2677,9 @@ export const workSummaries: Record<string, WorkSummary> = {
       "/mia/indonesia/archive/malaka/AksiMassa/Bab12.html",
       "/mia/indonesia/archive/malaka/AksiMassa/Program.html"
     ],
+    "contextBasis": [
+      "/mia/indonesia/archive/malaka/AksiMassa/KataPengantar.html"
+    ],
     "summaryStatus": "missing"
   },
   "madilog": {
@@ -2549,6 +2700,7 @@ export const workSummaries: Record<string, WorkSummary> = {
       "/mia/indonesia/archive/malaka/Madilog/Bab6.html",
       "/mia/indonesia/archive/malaka/Madilog/Bab7.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "politik": {
@@ -2561,6 +2713,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/malaka/1945-Politik.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "rencana-ekonomi-berjuang": {
@@ -2573,6 +2726,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/malaka/1945-Rencana.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "muslihat": {
@@ -2585,6 +2739,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/malaka/1945-Muslihat.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "manifesto-jakarta": {
@@ -2597,6 +2752,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/malaka/1945-ManifestoJakarta.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "situasi-politik-luar-dan-dalam-negeri": {
@@ -2609,6 +2765,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/malaka/1946-Situasi.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "thesis": {
@@ -2621,6 +2778,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/malaka/1946-Thesis.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "kuhandel-di-kaliurang": {
@@ -2633,6 +2791,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/malaka/1948-Kuhandel.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "getrennt-marschieren-vereint-schlagen-berpisah-kita-berjuang-bersama-kita-memukul": {
@@ -2645,6 +2804,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/malaka/1948-Berjuang.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "gerpolek-gerilya-politik-ekonomi": {
@@ -2657,6 +2817,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/malaka/1948-Gerpolek.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "pandangan-dan-langkah-partai-rakyat": {
@@ -2669,6 +2830,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/malaka/1948-PandanganPartaiRakyat.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "uraian-mendadak": {
@@ -2681,6 +2843,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/malaka/1948-Uraian.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "proklamasi-17-8-1945-isi-dan-pelaksanaannya": {
@@ -2693,6 +2856,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/malaka/1948-Proklamasi.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "pandangan-hidup": {
@@ -2705,6 +2869,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/malaka/1948-Pandangan.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "islam-dalam-tinjauan-madilog": {
@@ -2717,6 +2882,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/malaka/1948-Islam.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "sambutan-murba": {
@@ -2729,6 +2895,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/malaka/1948-SambutanMurba.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "hukum-revolusi": {
@@ -2741,6 +2908,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/malaka/1948-HukumRevolusi.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "dari-ir-soekarno-sampai-ke-presiden-soekarno": {
@@ -2753,6 +2921,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/malaka/1948-DariIrSoekarno.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "keterangan-ringkas-tentang-program-maksimum": {
@@ -2765,6 +2934,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/malaka/1948-Keterangan.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "nasrani-yahudi-dalam-tinjauan-madilog": {
@@ -2777,6 +2947,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/malaka/1948-Nasrani.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "arsip-tan-malaka-bahasa-inggris": {
@@ -2787,7 +2958,9 @@ export const workSummaries: Record<string, WorkSummary> = {
     "argumentStructure": [],
     "significance": "",
     "sourceBasis": [],
-    "summaryStatus": "missing"
+    "contextBasis": [],
+    "summaryStatus": "unavailable",
+    "unavailableReason": "No extractable local primary source is available"
   },
   "manifesto-komunis": {
     "historicalContext": "",
@@ -2921,6 +3094,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/lenin/1916/1916-tahapankhusus.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "tesis-april": {
@@ -2933,6 +3107,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/lenin/19170407-lenin-tesisapril.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "naar-de-republiek-indonesia": {
@@ -2945,6 +3120,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/malaka/1925-Menuju.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "gerpolek": {
@@ -2957,6 +3133,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/malaka/1948-Gerpolek.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "dari-penjara-ke-penjara": {
@@ -2967,7 +3144,9 @@ export const workSummaries: Record<string, WorkSummary> = {
     "argumentStructure": [],
     "significance": "",
     "sourceBasis": [],
-    "summaryStatus": "missing"
+    "contextBasis": [],
+    "summaryStatus": "unavailable",
+    "unavailableReason": "No extractable local primary source is available"
   },
   "pendahuluan-sumbangan-untuk-kritik-terhadap-filsaf": {
     "historicalContext": "",
@@ -3083,6 +3262,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/lenin/1902/1902-TugasOrganisasional.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "tugas-tugas-demokratik-kaum-proletariat-revolusion": {
@@ -3095,6 +3275,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/lenin/1905/TugasDemokratik.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "kampanye-pemilihan-untuk-duma-keempat-dan-tugas-tu": {
@@ -3107,6 +3288,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/lenin/1912/Kampanye.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "situasi-di-dalam-pbsdr-dan-tugas-tugas-segera-part": {
@@ -3119,6 +3301,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/lenin/1912/Situasi.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "revolusi-sosialis-dan-hak-sebuah-bangsa-untuk-mene": {
@@ -3131,6 +3314,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/lenin/1916/1916-hakpenentuannasibsendiri.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "tugas-kaum-proletar-dalam-revolusi-sekarang-ini-te": {
@@ -3143,6 +3327,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/lenin/19170407-lenin-tesisapril.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "keruntuhan-ekonomi-dan-perjuangan-proletariat-mela": {
@@ -3155,6 +3340,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/lenin/1917/Keruntuhan.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "sumber-kelas-para-cavaignac-masa-ini-dan-masa-yang": {
@@ -3167,6 +3353,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/lenin/1917/SumberKelas.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "pemilihan-majelis-konstituante-dan-kediktatoran-pr": {
@@ -3179,6 +3366,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/lenin/19191216-lenin-pemilihanmk.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "laporan-komisi-tentang-permasalahan-nasional-dan-k": {
@@ -3191,6 +3379,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/lenin/1920/Laporan.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "pernyataan-trotsky-mengenai-publikasi-perjanjian-p": {
@@ -3203,6 +3392,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/trotsky/1917-PerjanjianRahasia.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "oposisi-kiri-internasional-tugas-tugas-dan-metode-": {
@@ -3215,6 +3405,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/trotsky/1932-TugasOposisi.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "kita-perlu-membangun-partai-partai-komunis-dan-int": {
@@ -3227,6 +3418,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/trotsky/1933-PartaiKomunisBaru.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "tahun-manifesto-komunis": {
@@ -3239,6 +3431,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/trotsky/19371030-trotsky-90tahunmanifestokomunis.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "diskusi-dengan-trotsky-mengenai-program-transision": {
@@ -3251,6 +3444,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/trotsky/1938-Diskusi.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "apa-yang-harus-kita-pelajari-dan-apa-yang-harus-ki": {
@@ -3263,6 +3457,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/guevara/1958-Apa.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "menuju-republik-indonesia-naar-de-republiek-indone": {
@@ -3275,6 +3470,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/malaka/1925-Menuju.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "getrennt-marschieren-vereint-schlagen-berpisah-kit": {
@@ -3287,6 +3483,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/malaka/1948-Berjuang.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "pejuang-wanita-pada-hari-hari-revolusi-oktober-bes": {
@@ -3299,6 +3496,7 @@ export const workSummaries: Record<string, WorkSummary> = {
     "sourceBasis": [
       "/mia/indonesia/archive/kollontai/oktober.html"
     ],
+    "contextBasis": [],
     "summaryStatus": "missing"
   }
 };

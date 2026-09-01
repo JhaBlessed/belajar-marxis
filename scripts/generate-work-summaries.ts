@@ -19,10 +19,6 @@ async function main() {
   let missingCount = 0;
 
   for (const work of works) {
-    const isMarxEngels = work.authorId === 'karl-marx' ||
-                         work.authorId === 'friedrich-engels' ||
-                         (work.authorIds && (work.authorIds.includes('karl-marx') || work.authorIds.includes('friedrich-engels')));
-
     let curated = curatedWorkSummaries[work.slug];
     if (curated && (curated as any).$ref) {
       curated = { ...curatedWorkSummaries[(curated as any).$ref] };
@@ -39,67 +35,50 @@ async function main() {
       }
     }
 
-    if (isMarxEngels) {
-      if (curated) {
-        let status: SummaryStatus = 'missing';
+    let status: SummaryStatus = 'missing';
+    let unavailableReason: string | undefined = undefined;
 
-        // Completion rule check
-        if (evidence && evidence.extractionStatus === 'complete' && sourceBasis.length > 0) {
-          status = 'complete';
-        } else if (evidence && evidence.extractionStatus === 'partial') {
-          status = 'unavailable';
-        }
-
-        result[work.slug] = {
-          historicalContext: curated.historicalContext || '',
-          mainProblem: curated.mainProblem || '',
-          mainThesis: curated.mainThesis || '',
-          contentSummary: curated.contentSummary || '',
-          argumentStructure: curated.argumentStructure || [],
-          significance: curated.significance || '',
-          sourceBasis,
-          contextBasis,
-          summaryStatus: status,
-          unavailableReason: status === 'unavailable' ? 'Beberapa bagian primary source (PDF/HTML) tidak dapat diekstrak' : undefined
-        };
-
-        if (status === 'complete') completeCount++;
-        else if (status === 'unavailable') unavailableCount++;
-        else missingCount++;
+    if (!evidence) {
+      status = 'unavailable';
+      unavailableReason = 'No extractable local primary source is available';
+    } else if (evidence.extractionStatus === 'unavailable') {
+      status = 'unavailable';
+      if (evidence.sources.length === 0 || sourceBasis.length === 0) {
+        unavailableReason = 'No extractable local primary source is available';
       } else {
-        let status: SummaryStatus = 'missing';
-        if (evidence && evidence.extractionStatus === 'unavailable' && evidence.sources.length > 0) {
-          status = 'unavailable';
-        }
-
-        result[work.slug] = {
-          historicalContext: '',
-          mainProblem: '',
-          mainThesis: '',
-          contentSummary: '',
-          argumentStructure: [],
-          significance: '',
-          sourceBasis,
-          contextBasis,
-          summaryStatus: status,
-          unavailableReason: status === 'unavailable' ? 'Ekstraksi dokumen primary gagal' : undefined
-        };
-
-        if (status === 'unavailable') unavailableCount++;
-        else missingCount++;
+        unavailableReason = 'Local primary sources exist but failed to extract (e.g., unreadable PDF)';
+      }
+    } else if (evidence.extractionStatus === 'partial') {
+      status = 'unavailable';
+      unavailableReason = 'Multipart primary sources are only partially readable';
+    } else if (evidence.extractionStatus === 'complete' && sourceBasis.length > 0) {
+      if (curated) {
+        status = 'complete';
+      } else {
+        status = 'missing';
       }
     } else {
-      result[work.slug] = {
-        historicalContext: '',
-        mainProblem: '',
-        mainThesis: '',
-        contentSummary: '',
-        argumentStructure: [],
-        significance: '',
-        sourceBasis,
-        summaryStatus: 'missing'
-      };
+       // fallback
+       status = 'unavailable';
+       unavailableReason = 'No extractable local primary source is available';
     }
+
+    result[work.slug] = {
+      historicalContext: curated?.historicalContext || '',
+      mainProblem: curated?.mainProblem || '',
+      mainThesis: curated?.mainThesis || '',
+      contentSummary: curated?.contentSummary || '',
+      argumentStructure: curated?.argumentStructure || [],
+      significance: curated?.significance || '',
+      sourceBasis,
+      contextBasis,
+      summaryStatus: status,
+      unavailableReason
+    };
+
+    if (status === 'complete') completeCount++;
+    else if (status === 'unavailable') unavailableCount++;
+    else missingCount++;
   }
 
   const outputContent = `/* eslint-disable max-len */
@@ -140,7 +119,7 @@ export function getWorkSummary(slug: string): WorkSummary | undefined {
 
   fs.writeFileSync(outputFilePath, outputContent);
   console.log(`Generated summaries for ${works.length} works.`);
-  console.log(`Batch 1 (Marx/Engels) Status: ${completeCount} complete, ${unavailableCount} unavailable (PDFs/partial), ${missingCount} missing.`);
+  console.log(`Global Status: ${completeCount} complete, ${unavailableCount} unavailable (No source/PDFs/partial), ${missingCount} missing.`);
 }
 
 main().catch(console.error);

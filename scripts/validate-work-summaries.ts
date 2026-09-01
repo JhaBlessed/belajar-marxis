@@ -13,6 +13,7 @@ function validate() {
   let multipartIncompleteCount = 0;
   let aliasErrorCount = 0;
   let evidenceErrorCount = 0;
+  let mismatchCount = 0;
 
   // Track alias cycles
   for (const [alias, target] of Object.entries(summaryAliases)) {
@@ -33,6 +34,43 @@ function validate() {
     const summary = workSummaries[work.slug];
     if (!summary) continue;
 
+    const evidence = workSourceEvidence[work.slug];
+
+    // Check mismatches
+    if (evidence) {
+      if (evidence.extractionStatus === 'unavailable' && summary.summaryStatus !== 'unavailable') {
+        console.error(`FAIL: Evidence is unavailable but summary is ${summary.summaryStatus} for ${work.slug}`);
+        mismatchCount++;
+        errors++;
+      }
+
+      if (evidence.extractionStatus === 'complete' && summary.summaryStatus === 'unavailable') {
+        console.error(`FAIL: Evidence is complete but summary is unavailable for ${work.slug}`);
+        mismatchCount++;
+        errors++;
+      }
+
+      if (evidence.extractionStatus === 'partial' && summary.summaryStatus !== 'unavailable') {
+        console.error(`FAIL: Evidence is partial but summary is not unavailable for ${work.slug}`);
+        mismatchCount++;
+        errors++;
+      }
+    } else {
+      if (summary.summaryStatus !== 'unavailable') {
+        console.error(`FAIL: No evidence manifest but summary is ${summary.summaryStatus} for ${work.slug}`);
+        mismatchCount++;
+        errors++;
+      }
+    }
+
+    if (summary.summaryStatus === 'complete') {
+      if (!evidence || evidence.extractionStatus !== 'complete') {
+        console.error(`FAIL: Summary is complete but evidence is not complete for ${work.slug}`);
+        mismatchCount++;
+        errors++;
+      }
+    }
+
     if (summary.summaryStatus === 'missing') {
       missingCount++;
       continue;
@@ -43,7 +81,6 @@ function validate() {
     }
 
     completeCount++;
-    const evidence = workSourceEvidence[work.slug];
 
     if (!evidence) {
       console.error(`FAIL: Evidence manifest missing for COMPLETE work: ${work.slug}`);
@@ -136,6 +173,7 @@ function validate() {
   console.log(`Multipart incomplete: ${multipartIncompleteCount}`);
   console.log(`Alias errors: ${aliasErrorCount}`);
   console.log(`Evidence errors: ${evidenceErrorCount}`);
+  console.log(`Evidence/status mismatches: ${mismatchCount}`);
 
   if (errors > 0) {
     process.exitCode = 1;
