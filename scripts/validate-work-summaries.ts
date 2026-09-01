@@ -3,6 +3,7 @@ import { works } from '../src/data/works';
 import { workSourceEvidence } from '../src/generated/workSourceEvidence';
 import { workAliases } from '../src/data/workAliases';
 import { getCanonicalWorks } from '../src/lib/canonicalWorks';
+import { canonicalExclusions } from '../src/data/canonicalExclusions';
 
 function validate() {
   let errors = 0;
@@ -13,8 +14,9 @@ function validate() {
   const visibleCanonicalCount = canonicalWorks.length;
 
   let aliasAccountingErrors = 0;
-  if (rawWorksCount !== visibleCanonicalCount + legacyAliasCount) {
-    console.error(`FAIL: Alias accounting error! Raw: ${rawWorksCount}, Visible: ${visibleCanonicalCount}, Legacy: ${legacyAliasCount}`);
+  const exclusionsCount = Object.keys(canonicalExclusions || {}).length;
+  if (rawWorksCount !== visibleCanonicalCount + legacyAliasCount + exclusionsCount) {
+    console.error(`FAIL: Alias accounting error! Raw: ${rawWorksCount}, Visible: ${visibleCanonicalCount}, Legacy: ${legacyAliasCount}, Exclusions: ${exclusionsCount}`);
     aliasAccountingErrors++;
     errors++;
   }
@@ -225,9 +227,12 @@ function validate() {
     }
   }
 
+  const canonicalExclusionsCount = Object.keys(canonicalExclusions || {}).length;
+
   console.log(`\n--- SUMMARY VALIDATION REPORT ---`);
   console.log(`Raw work records: ${rawWorksCount}`);
   console.log(`Legacy alias records: ${legacyAliasCount}`);
+  console.log(`Canonical exclusions: ${canonicalExclusionsCount}`);
   console.log(`Visible canonical works: ${visibleCanonicalCount}`);
   console.log();
   console.log(`Raw Complete: ${rawCompleteCount}`);

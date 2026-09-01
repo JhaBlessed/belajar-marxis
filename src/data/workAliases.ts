@@ -28,5 +28,13 @@ export const workAliases: Record<string, string> = {
   "diskusi-dengan-trotsky-mengenai-program-transision": "diskusi-dengan-trotsky-mengenai-program-transisional",
   "menuju-republik-indonesia-naar-de-republiek-indone": "menuju-republik-indonesia-naar-de-republiek-indonesia",
   "getrennt-marschieren-vereint-schlagen-berpisah-kit": "getrennt-marschieren-vereint-schlagen-berpisah-kita-berjuang-bersama-kita-memukul",
-  "gerpolek": "gerpolek-gerilya-politik-ekonomi"
+  "gerpolek": "gerpolek-gerilya-politik-ekonomi",
+  "kapital-i": "kapital-jilid-1",
+  "bab-1-20": "kapital-jilid-3",
+  "bag-1": "kapital-jilid-2",
+  "naar-de-republiek-indonesia": "menuju-republik-indonesia-naar-de-republiek-indonesia",
+  "tahun-manifesto-komunis": "90-tahun-manifesto-komunis",
+  "tesis-tentang-feuerbach": "tesis-tentang-feuerbach-versi-asli",
+  "tesis-april": "tugas-kaum-proletar-dalam-revolusi-sekarang-ini-tesis-april",
+  "imperialisme": "imperialisme-sebagai-tahapan-khusus-kapitalisme"
 };

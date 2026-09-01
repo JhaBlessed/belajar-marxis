@@ -3885,9 +3885,57 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
           "Friedrich Engels (1886)",
           "Kata pengantar"
         ]
+      },
+      {
+        "path": "/mia/indonesia/archive/marx-engels/1886/ludwig-feuerbach/ch01.html",
+        "type": "html",
+        "role": "primary",
+        "readable": true,
+        "sha256": "38a6823450c523dfa7fc21f635cb862f64b9587febc151ad792f691eba963918",
+        "textLength": 25617,
+        "headings": [
+          "I - Hegel",
+          "Catatan"
+        ]
+      },
+      {
+        "path": "/mia/indonesia/archive/marx-engels/1886/ludwig-feuerbach/ch02.html",
+        "type": "html",
+        "role": "primary",
+        "readable": true,
+        "sha256": "0cdbef7640da98af630c9a0b4d7107d5cb20ded10b49ce9cf61f5870a0556f0c",
+        "textLength": 26461,
+        "headings": [
+          "II - Materialisme dan Idealisme",
+          "Catatan"
+        ]
+      },
+      {
+        "path": "/mia/indonesia/archive/marx-engels/1886/ludwig-feuerbach/ch03.html",
+        "type": "html",
+        "role": "primary",
+        "readable": true,
+        "sha256": "a0997d0ed4d0e7046f6653ebaaae0909a247a24369750839d36cca68ec2f8dda",
+        "textLength": 20484,
+        "headings": [
+          "III - Feuerbach",
+          "Catatan"
+        ]
+      },
+      {
+        "path": "/mia/indonesia/archive/marx-engels/1886/ludwig-feuerbach/ch04.html",
+        "type": "html",
+        "role": "primary",
+        "readable": true,
+        "sha256": "d95287e9d056af6d73be83b18068704fc75855a5bd12bdb09e97d3c5c5425a0a",
+        "textLength": 47666,
+        "headings": [
+          "IV - Dialektika Materials",
+          "Catatan"
+        ]
       }
     ],
-    "totalTextLength": 4270,
+    "totalTextLength": 124498,
     "extractionStatus": "complete",
     "documentCoverage": "full"
   },

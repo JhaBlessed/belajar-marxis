@@ -5143,7 +5143,28 @@ export const works: Work[] = [
     "sourceAvailability": "local-only",
     "sourceType": "MIA_LOCAL_ARCHIVE",
     "sourceFormat": "html",
-    "localSourcePath": "/mia/indonesia/archive/marx-engels/1886/ludwig-feuerbach/pengantar.html"
+    "localSourceParts": [
+      {
+        "title": "Pengantar",
+        "path": "/mia/indonesia/archive/marx-engels/1886/ludwig-feuerbach/pengantar.html"
+      },
+      {
+        "title": "Bab I",
+        "path": "/mia/indonesia/archive/marx-engels/1886/ludwig-feuerbach/ch01.html"
+      },
+      {
+        "title": "Bab II",
+        "path": "/mia/indonesia/archive/marx-engels/1886/ludwig-feuerbach/ch02.html"
+      },
+      {
+        "title": "Bab III",
+        "path": "/mia/indonesia/archive/marx-engels/1886/ludwig-feuerbach/ch03.html"
+      },
+      {
+        "title": "Bab IV",
+        "path": "/mia/indonesia/archive/marx-engels/1886/ludwig-feuerbach/ch04.html"
+      }
+    ]
   },
   {
     "id": "w-118-surat",

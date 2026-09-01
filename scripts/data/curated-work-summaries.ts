@@ -159,10 +159,6 @@ export const curatedWorkSummaries: Record<string, CuratedWorkSummary> = {
     significance: "Merupakan salah satu draf paling awal dari pendekatan Materialisme Historis. Teks ini menandai perpisahan Marx secara epistemologis dengan filsafat hegelaian Kiri dan materialisme feuerbachian klasik.",
     summaryStatus: 'complete'
   },
-  'tesis-tentang-feuerbach': {
-    summaryStatus: 'complete',
-    $ref: 'tesis-tentang-feuerbach-versi-asli'
-  },
   'upah-harga-dan-laba': {
     historicalContext: "Berawal dari naskah pidato Marx di Dewan Umum Asosiasi Pekerja Internasional (Internasional Pertama) pada 20 dan 27 Juni 1865. Ditujukan untuk merespons pendapat John Weston yang berargumen bahwa serikat pekerja dan pemogokan tidak ada gunanya karena kenaikan upah hanya akan memicu kenaikan harga.",
     mainProblem: "Apakah tuntutan kenaikan upah oleh serikat buruh berguna, dan bagaimana hubungan antara upah, harga barang, dan profit kapitalis?",

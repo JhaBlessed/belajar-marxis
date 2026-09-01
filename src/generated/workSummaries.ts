@@ -1738,7 +1738,11 @@ export const workSummaries: Record<string, WorkSummary> = {
     "argumentStructure": [],
     "significance": "",
     "sourceBasis": [
-      "/mia/indonesia/archive/marx-engels/1886/ludwig-feuerbach/pengantar.html"
+      "/mia/indonesia/archive/marx-engels/1886/ludwig-feuerbach/pengantar.html",
+      "/mia/indonesia/archive/marx-engels/1886/ludwig-feuerbach/ch01.html",
+      "/mia/indonesia/archive/marx-engels/1886/ludwig-feuerbach/ch02.html",
+      "/mia/indonesia/archive/marx-engels/1886/ludwig-feuerbach/ch03.html",
+      "/mia/indonesia/archive/marx-engels/1886/ludwig-feuerbach/ch04.html"
     ],
     "contextBasis": [],
     "summaryStatus": "missing"
@@ -3035,22 +3039,17 @@ export const workSummaries: Record<string, WorkSummary> = {
     "summaryStatus": "missing"
   },
   "tesis-tentang-feuerbach": {
-    "historicalContext": "Ditulis oleh Karl Marx di Brussels pada musim semi (kemungkinan April) 1845. Ini merupakan catatan awal di mana Marx mulai melepaskan diri dari materialisme pasif Feuerbach dan merumuskan konsepsi materialisme barunya yang berfokus pada aktivitas praktis manusia.",
-    "mainProblem": "Apa kelemahan mendasar dari materialisme sebelumnya (termasuk Feuerbach) dan idealisme dalam memahami hubungan manusia dengan dunia objektif?",
-    "mainThesis": "Filsuf selama ini hanya menafsirkan dunia dengan berbagai cara; yang penting sekarang adalah mengubahnya (Tesis ke-11). Pemahaman yang benar tentang kenyataan harus berasal dari 'praksis' atau kegiatan revolusioner.",
-    "contentSummary": "Karya ini terdiri dari 11 tesis pendek. Marx mengkritik materialisme lama (seperti milik Feuerbach) karena memandang dunia secara objektif tetapi mengabaikan aktivitas manusia (subjektif/praktis) di dalamnya. Sebaliknya, idealisme mengembangkan sisi aktif manusia tetapi hanya dalam alam pikiran, terlepas dari kenyataan material. Marx berargumen bahwa kebenaran pemikiran tidak bisa diputuskan oleh teori semata, melainkan harus dibuktikan melalui praktek. Ia menolak pandangan bahwa manusia murni produk dari lingkungannya, karena manusia itu sendirilah yang mengubah lingkungannya. Agama dan keterasingan ideologis lainnya hanya dapat diselesaikan dengan merevolusionerkan basis material masyarakat tersebut di dunia nyata.",
-    "argumentStructure": [
-      "Tesis 1-3: Kritik terhadap kebuntuan materialisme lama dan idealisme; penegasan pentingnya aktivitas manusia-inderawi (praksis) dalam mengubah lingkungan.",
-      "Tesis 4-7: Kritik spesifik terhadap keterasingan agama Feuerbach. Agama tidak cukup dikritik secara teoritis, dasar material/sosial yang melahirkannya harus dihancurkan.",
-      "Tesis 8-10: Penegasan bahwa kehidupan sosial pada dasarnya bersifat praktis. Materialisme lama hanya mengarah pada masyarakat borjuis.",
-      "Tesis 11: Kesimpulan agitatif bahwa tugas filsafat bukan lagi sekadar interpretasi, melainkan transformasi revolusioner atas dunia."
-    ],
-    "significance": "Merupakan salah satu draf paling awal dari pendekatan Materialisme Historis. Teks ini menandai perpisahan Marx secara epistemologis dengan filsafat hegelaian Kiri dan materialisme feuerbachian klasik.",
+    "historicalContext": "",
+    "mainProblem": "",
+    "mainThesis": "",
+    "contentSummary": "",
+    "argumentStructure": [],
+    "significance": "",
     "sourceBasis": [
       "/mia/indonesia/archive/marx-engels/18450401-tesisfeuerbachversiasli.html"
     ],
     "contextBasis": [],
-    "summaryStatus": "complete"
+    "summaryStatus": "missing"
   },
   "brumaire-xviii": {
     "historicalContext": "",
