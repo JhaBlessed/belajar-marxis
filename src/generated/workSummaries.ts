@@ -1203,17 +1203,21 @@ export const workSummaries: Record<string, WorkSummary> = {
     "summaryStatus": "missing"
   },
   "anggaran-dasar-liga-komunis": {
-    "historicalContext": "",
-    "mainProblem": "",
-    "mainThesis": "",
-    "contentSummary": "",
-    "argumentStructure": [],
-    "significance": "",
+    "historicalContext": "Dokumen organisasional ini diadopsi pada Kongres Kedua Liga Komunis di London pada bulan Desember 1847. Kongres ini, yang sangat dipengaruhi oleh Marx dan Engels, secara fundamental merombak struktur organisasi dari sebuah perkumpulan rahasia menjadi sebuah organisasi komunis yang terstruktur, demokratis, dan memiliki tujuan revolusioner yang terbuka.",
+    "mainProblem": "Bagaimana menyusun struktur, aturan keanggotaan, pendanaan, dan tata tertib internal dari sebuah organisasi kelas pekerja agar mampu menjalankan aktivitasnya secara disiplin, aman, dan kohesif?",
+    "mainThesis": "Liga Komunis dikelola melalui struktur yang hierarkis namun demokratis—dari tingkat Komunitas hingga Kongres—yang diikat oleh kewajiban administratif, pelaporan berkala, kepatuhan iuran, dan ketaatan pada tujuan organisasi komunis.",
+    "contentSummary": "Anggaran Dasar ini merincikan struktur organisasi Liga Komunis yang terbagi ke dalam Komunitas, Lingkaran, Lingkaran Poros, Pimpinan Sentral, dan Kongres. Kongres ditetapkan sebagai institusi tertinggi yang bersidang setahun sekali untuk menetapkan kebijakan dan memilih Pimpinan Sentral sebagai organ eksekutif. Aturan ini mewajibkan adanya pelaporan dan pertemuan rutin antarjenjang secara ketat untuk menjamin soliditas. Dokumen ini juga mengatur secara spesifik mengenai kewajiban iuran anggota yang dananya dialokasikan sebagian untuk Pimpinan Sentral dan sebagian untuk kas lokal demi membiayai korespondensi serta propaganda. Di bagian akhir, diatur pula prosedur seremonial penerimaan anggota baru, disiplin organisasi, serta tata cara pengawasan dan penjatuhan sanksi pemecatan.",
+    "argumentStructure": [
+      "Disusun dalam format perundang-undangan (10 Bagian, 50 Pasal).",
+      "Menetapkan struktur kelembagaan dari tingkat akar rumput (Komunitas) hingga tingkat eksekutif tertinggi (Pimpinan Sentral dan Kongres).",
+      "Menetapkan tata tertib pengawasan, sanksi organisasi atas pelanggaran, mekanisme pendanaan dan alokasinya, serta sumpah peresmian penerimaan keanggotaan."
+    ],
+    "significance": "Dokumen ini bernilai historis sebagai cikal bakal prinsip sentralisme demokratis dalam sejarah organisasi Marxis. Anggaran dasar ini menandai transformasi gerakan buruh awal menjadi embrio organisasi politik modern yang disiplin dan sistematis.",
     "sourceBasis": [
       "/mia/indonesia/archive/marx-engels/1847/anggaran-dasar-liga-komunis.html"
     ],
     "contextBasis": [],
-    "summaryStatus": "missing"
+    "summaryStatus": "complete"
   },
   "kerja-upahan-dan-kapital": {
     "historicalContext": "Asalnya adalah rangkaian kuliah yang diberikan Marx kepada Asosiasi Pekerja Jerman di Brussels pada tahun 1847. Kemudian diterbitkan sebagai artikel berseri di Neue Rheinische Zeitung pada April 1849.",
@@ -1367,17 +1371,21 @@ export const workSummaries: Record<string, WorkSummary> = {
     "summaryStatus": "missing"
   },
   "tentang-proudhon": {
-    "historicalContext": "",
-    "mainProblem": "",
-    "mainThesis": "",
-    "contentSummary": "",
-    "argumentStructure": [],
-    "significance": "",
+    "historicalContext": "Teks ini aslinya ditulis oleh Karl Marx dalam format surat kepada J.B. Schweitzer pada bulan Januari 1865, menanggapi permintaan pendapat atas wafatnya pemikir Prancis, Pierre-Joseph Proudhon. Surat panjang ini kemudian diterbitkan sebagai artikel di koran Social-Demokrat.",
+    "mainProblem": "Bagaimana mengevaluasi kontribusi, keterbatasan filosofis, hingga manuver politik Pierre-Joseph Proudhon di masa akhirnya dari sudut pandang sosialisme ilmiah?",
+    "mainThesis": "Marx menilai bahwa meskipun Proudhon memiliki kecerdikan dan membuat gebrakan di awal karirnya, metode teoretisnya gagal karena dilumpuhkan oleh kerangka pikir borjuis-kecil yang mengganti dialektika ilmiah dan analisis materialistis historis dengan sofistri abstrak, yang akhirnya melahirkan posisi politik yang reaksioner.",
+    "contentSummary": "Marx secara sistematis merekapitulasi lintasan karier Proudhon. Ia memuji buku pertama Proudhon, 'Apa Itu Milik?', atas keberanian deklaratifnya meskipun isinya dianggap kurang memuat penemuan ekonomi yang baru. Namun, pada karya lanjutannya 'Filsafat Kemiskinan', Marx membongkar kelemahan utamanya: Proudhon gagal memahami sifat materialis historis dari formasi ekonomi. Bukannya memandang kategori-kategori ekonomi (seperti nilai, modal, upah) sebagai ekspresi teoretis dari relasi produksi nyata yang berevolusi secara historis, Proudhon malah memperlakukannya sebagai ide-ide moral yang abadi menurut skema Hegel yang disalahartikan. Akibat kegagalan filosofis ini—yaitu selalu menimbang secara eklektik 'di satu sisi dan di sisi lain' khas borjuis-kecil—pada periode akhirnya Proudhon berujung merilis karya-karya politik kompromistis yang terang-terangan mencari sensasi dan berpihak pada reaksi, seperti pujian atas kudeta Louis Bonaparte.",
+    "argumentStructure": [
+      "Mengevaluasi 'Apa Itu Milik?' sebagai pamflet yang provokatif dan cemerlang secara stilistika namun secara ilmiah belum menyajikan terobosan orisinal.",
+      "Mengajukan kritik teoretis mematikan terhadap 'Filsafat Kemiskinan', memperlihatkan kekeliruan fatal dalam penerapan pseudo-dialektika terhadap kategori-kategori ekonomi (dengan merujuk karya Marx, 'Kemiskinan Filsafat').",
+      "Menilai fase senja kehidupan politik Proudhon, menyimpulkan bahwa kelemahan fondasi teoretis tersebut secara niscaya menghasilkan tindakan politik yang sinis dan oportunistik."
+    ],
+    "significance": "Karya ini menyajikan salah satu ringkasan paling otoritatif atas kelemahan mendasar mazhab anarkisme Proudhonis, sekaligus mengukuhkan garis tegas batas demarkasi antara sosialisme ilmiah berlandaskan materialisme historis dengan utopianisme borjuis-kecil.",
     "sourceBasis": [
       "/mia/indonesia/archive/marx-engels/1865/tentang-proudhon.html"
     ],
     "contextBasis": [],
-    "summaryStatus": "missing"
+    "summaryStatus": "complete"
   },
   "upah-harga-dan-laba": {
     "historicalContext": "Berawal dari naskah pidato Marx di Dewan Umum Asosiasi Pekerja Internasional (Internasional Pertama) pada 20 dan 27 Juni 1865. Ditujukan untuk merespons pendapat John Weston yang berargumen bahwa serikat pekerja dan pemogokan tidak ada gunanya karena kenaikan upah hanya akan memicu kenaikan harga.",
@@ -1499,17 +1507,21 @@ export const workSummaries: Record<string, WorkSummary> = {
     "summaryStatus": "complete"
   },
   "tentang-kongres-den-haag": {
-    "historicalContext": "",
-    "mainProblem": "",
-    "mainThesis": "",
-    "contentSummary": "",
-    "argumentStructure": [],
-    "significance": "",
+    "historicalContext": "Pidato ini disampaikan oleh Karl Marx di Amsterdam pada tanggal 8 September 1872, tak lama setelah Kongres Den Haag dari Asosiasi Pekerja Internasional (Internasionale Pertama). Kongres ini berlangsung di tengah konflik tajam dengan faksi abstensionis yang menolak perjuangan politik, dan menghasilkan keputusan historis untuk memperkuat otoritas Dewan Umum serta memindahkannya ke New York.",
+    "mainProblem": "Bagaimana kelas pekerja harus mengorganisir diri dan taktik apa yang harus diambil untuk mencapai emansipasinya di tengah perlawanan negara-negara Eropa yang reaksioner?",
+    "mainThesis": "Kelas pekerja wajib melakukan aksi politik dan pada akhirnya harus merebut kekuasaan politik negara untuk membangun tatanan sosial yang baru. Perjuangan ini mutlak membutuhkan otoritas yang terpusat dan solidaritas internasional yang kokoh.",
+    "contentSummary": "Dalam pidato pelaporannya ini, Marx menyoroti tiga ketetapan krusial dari Kongres Den Haag. Pertama, Kongres secara resmi memasukkan keharusan aksi politik kelas pekerja ke dalam anggaran dasar, sekaligus secara tegas menolak pandangan kaum abstensionis yang anti-politik. Marx menegaskan perlunya merebut kekuasaan politik, meskipun ia mengakui bahwa transisi ini mungkin bisa dicapai secara damai di negara-negara tertentu (seperti Amerika atau Inggris), sementara kekerasan tetap menjadi tuas revolusi bagi sebagian besar benua Eropa. Kedua, otoritas Dewan Umum diperluas untuk memusatkan perjuangan melawan penindasan, sebuah otoritas yang bersifat murni moral dan didasarkan pada kepercayaan kaum buruh. Ketiga, pemindahan Dewan Umum ke New York didasarkan pada fakta demografis bahwa Amerika telah menjadi benua utama bagi kaum buruh dunia. Marx menutup dengan menarik pelajaran dari kejatuhan Komune Paris: revolusi akan gagal tanpa adanya solidaritas pekerja internasional.",
+    "argumentStructure": [
+      "Membuka dengan membedakan pertemuan kaum buruh dengan pertemuan dinasti-dinasti kerajaan di Den Haag.",
+      "Menguraikan tiga butir resolusi Kongres satu per satu, dengan memberikan argumentasi taktis untuk masing-masing butir (perlunya kekuasaan politik untuk melawan tatanan lama, perlunya sentralisasi untuk melawan represi, dan pemindahan ke Amerika untuk mengakar di pusat proletariat yang baru).",
+      "Menutup dengan refleksi sejarah mengenai Komune Paris untuk menggarisbawahi keharusan aksi yang bersolidaritas secara internasional."
+    ],
+    "significance": "Pidato ini sangat penting karena memperlihatkan penegasan definitif Marxisme atas perlunya perebutan kekuasaan politik (berlawanan dengan anarkisme abstensionis). Karya ini juga menonjol karena pengakuan eksplisit Marx bahwa pergerakan kelas pekerja mungkin dapat mencapai tujuan secara damai di negara-negara dengan tradisi institusi tertentu yang kondusif.",
     "sourceBasis": [
       "/mia/indonesia/archive/marx-engels/1872/KongresDenHaag.html"
     ],
     "contextBasis": [],
-    "summaryStatus": "missing"
+    "summaryStatus": "complete"
   },
   "mengenai-otoritas": {
     "historicalContext": "Ditulis oleh Friedrich Engels pada tahun 1873 sebagai tanggapan polemik terhadap kaum anti-otoritas (anarkis) di dalam gerakan kelas pekerja Eropa pada saat itu.",
@@ -1530,17 +1542,22 @@ export const workSummaries: Record<string, WorkSummary> = {
     "summaryStatus": "complete"
   },
   "ketidakacuhan-politik": {
-    "historicalContext": "",
-    "mainProblem": "",
-    "mainThesis": "",
-    "contentSummary": "",
-    "argumentStructure": [],
-    "significance": "",
+    "historicalContext": "Artikel polemis ini ditulis oleh Karl Marx pada awal tahun 1873. Karya ini ditujukan untuk merespons faksi Proudhonis dan Bakuninis (anarkis) di dalam gerakan kelas pekerja yang menganjurkan 'ketidakacuhan politik' (abstensionisme), yaitu seruan agar kaum pekerja tidak terlibat dalam perjuangan politik demi kekuasaan negara atau perjuangan ekonomi praktis seperti pemogokan.",
+    "mainProblem": "Apakah kelas pekerja harus menolak partisipasi dalam perjuangan politik praktis dan aksi perlindungan ekonomi harian (pemogokan dan serikat buruh) demi mempertahankan kemurnian teoretis mereka?",
+    "mainThesis": "Marx menyatakan bahwa doktrin ketidakacuhan politik adalah kemunafikan yang merugikan. Dengan menolak perjuangan kelas secara praktis (membentuk serikat, memaksakan UU tenaga kerja) demi menghindari 'legitimasi' terhadap negara, kaum abstensionis justru membantu membiarkan eksploitasi borjuis berlangsung leluasa.",
+    "contentSummary": "Melalui satire yang keras, Marx menguraikan absurditas doktrin 'ketidakacuhan politik'. Jika kaum buruh menuruti dogma tersebut, mereka dilarang untuk berorganisasi dalam serikat buruh, melakukan pemogokan untuk upah, atau menuntut undang-undang pembatasan jam kerja, karena setiap tindakan tersebut mengharuskan mereka berinteraksi dengan negara dan mengakui institusi kapitalis yang ada. Marx menelusuri akar kecacatan ini hingga ke tulisan-tulisan P.J. Proudhon, mengutip langsung pernyataan Proudhon yang menentang hak mogok buruh karena dianggap merusak prinsip 'persaingan bebas'. Marx menyimpulkan bahwa sementara kelas borjuis siap menindas pekerja kapan saja demi mempertahankan kekuasaannya, penganjur ketidakacuhan politik justru menuntut buruh menanggung penderitaan tersebut secara stoik, semata-mata demi menjaga kelangsungan dogma kebebasan borjuis.",
+    "argumentStructure": [
+      "Memulai dengan menirukan secara sarkastis argumen abstensionis yang menolak perjuangan demi upah karena dianggap bertentangan dengan prinsip abadi kebebasan.",
+      "Melacak silsilah historis pemikiran tersebut dari awal gerakan sosialis utopis hingga kepada figur P.J. Proudhon.",
+      "Mendedah tulisan-tulisan Proudhon yang mengutuk pembentukan serikat dan aksi pemogokan untuk menunjukkan betapa dogma utopis borjuis-kecil berakhir dengan menjustifikasi dominasi pemilik modal.",
+      "Menyimpulkan dengan ironi bahwa kemurnian doktrin kaum abstensionis berujung pada penderitaan praktis buruh."
+    ],
+    "significance": "Karya ini merupakan salah satu pembelaan klasik paling mematikan dalam tradisi Marxisme atas keniscayaan perjuangan harian (serikat buruh) sekaligus aksi politik menuju penaklukan kekuasaan, menyingkap karakter pasif yang bersembunyi di balik retorika ultraradikal kaum abstensionis.",
     "sourceBasis": [
       "/mia/indonesia/archive/marx-engels/18730101-marx-ketidakacuhanpolitik.html"
     ],
     "contextBasis": [],
-    "summaryStatus": "missing"
+    "summaryStatus": "complete"
   },
   "peranan-yang-dimainkan-kerja-dalam-peralihan-dari-kera-ke-manusia": {
     "historicalContext": "Ditulis oleh Friedrich Engels pada tahun 1876 sebagai bagian dari karya yang direncanakan lebih besar, naskah ini tidak pernah diselesaikan dan baru diterbitkan pada tahun 1896 (setelah kematian Engels). Naskah ini merupakan penerapan awal dari materialisme dialektis pada pertanyaan-pertanyaan antropologi evolusioner dan biologi manusia pasca-Darwin. Local source ini merupakan keseluruhan naskah yang sempat ditulis (berakhir mid-sentence).",
@@ -1731,12 +1748,17 @@ export const workSummaries: Record<string, WorkSummary> = {
     "summaryStatus": "missing"
   },
   "feuerbach-dan-akhir-filsafat-klasik-jerman": {
-    "historicalContext": "",
-    "mainProblem": "",
-    "mainThesis": "",
-    "contentSummary": "",
-    "argumentStructure": [],
-    "significance": "",
+    "historicalContext": "Karya ini ditulis oleh Friedrich Engels pada tahun 1886, berawal sebagai sebuah tinjauan atas buku C.N. Starcke mengenai Ludwig Feuerbach. Ia kemudian diperluas menjadi pamflet yang diterbitkan tahun 1888. Karya ini bertujuan menuntaskan 'perhitungan' yang telah tertunda selama 40 tahun dengan akar filsafat mereka sendiri, terutama warisan Hegel dan Feuerbach.",
+    "mainProblem": "Apa hubungan sebenarnya antara gerakan kelas pekerja sosialis dengan warisan filsafat klasik Jerman, dan bagaimana materialisme historis berkembang dengan melepaskan diri dari idealisme Hegel sembari melampaui keterbatasan materialisme mekanis Feuerbach?",
+    "mainThesis": "Sistem filsafat Hegel yang idealis bersifat konservatif, namun metode dialektikanya amat revolusioner. Feuerbach berjasa meledakkan idealisme itu demi materialisme, tetapi pemahamannya atas manusia terlalu abstrak dan ahistoris. Sintesis yang sejati adalah memadukan metode dialektika dengan pandangan dunia materialis, dan menerapkannya untuk memahami gerak historis masyarakat dan perjuangan kelas.",
+    "contentSummary": "Buku ini adalah eksposisi lengkap perkembangan filsafat Jerman dan fondasi Marxisme. Bab pertama memisahkan secara analitis kontradiksi besar Hegel: metode dialektikanya mengajarkan bahwa segala bentuk masyarakat dan teori adalah sementara dan terus berubah, namun ia dibatasi oleh obsesi membekukan semuanya ke dalam satu sistem kebenaran mutlak. Bab kedua merumuskan perdebatan utama sejarah filsafat: idealisme (mengutamakan roh/akal di atas realitas) versus materialisme (mengutamakan alam/kenyataan material). Bab ketiga merayakan Feuerbach yang meruntuhkan idealisme dengan menegaskan bahwa pemikiran berasal dari realitas jasmani; namun Engels menunjukkan kelemahan Feuerbach yang terputus dari sejarah dunia ketika berbicara soal moral dan agama (hanya mengandalkan konsep 'Cinta' universal yang ahistoris). Pada bab penutup, Engels mengartikulasikan bahwa sejarah manusia didorong oleh pertarungan kelas yang berbasis pada kekuatan ekonomi (materialisme historis), mengakhiri relevansi 'filsafat murni' abstrak, dan menyatakan bahwa pewaris sejati filsafat Jerman adalah gerakan kelas buruh.",
+    "argumentStructure": [
+      "Bab I mengurai anatomi filsafat Hegel, menarik kekuatan intinya yaitu metode dialektika yang merusak kebenaran akhir statis.",
+      "Bab II menegaskan belahan fundamental dunia pemikiran: antara materialisme dan idealisme.",
+      "Bab III membedah kelemahan kritis Feuerbach yang mandek karena gagal menerapkan konsepsi materialis ke ranah sosial dan sejarah manusia.",
+      "Bab IV merangkai resolusi puncaknya: materialisme historis sebagai instrumen penjelasan evolusi masyarakat, mencampakkan metafisika tradisional dan mewariskan obor pengetahuan saintifik kepada kaum pekerja."
+    ],
+    "significance": "Dianggap sebagai salah satu karya klasik filsafat Marxis yang paling padat dan definitif. Risalah ini memberikan eksposisi mendasar dan mudah dipahami perihal berdirinya materialisme historis serta hukum-hukum dialektika.",
     "sourceBasis": [
       "/mia/indonesia/archive/marx-engels/1886/ludwig-feuerbach/pengantar.html",
       "/mia/indonesia/archive/marx-engels/1886/ludwig-feuerbach/ch01.html",
@@ -1745,7 +1767,7 @@ export const workSummaries: Record<string, WorkSummary> = {
       "/mia/indonesia/archive/marx-engels/1886/ludwig-feuerbach/ch04.html"
     ],
     "contextBasis": [],
-    "summaryStatus": "missing"
+    "summaryStatus": "complete"
   },
   "surat-engels-untuk-gerson-trier-di-copenhagen-18-desember-1889": {
     "historicalContext": "Surat (draft) dari Engels kepada Gerson Trier ini ditulis pada Desember 1889 di tengah perselisihan taktis dalam Partai Sosialis Denmark. Trier dan rekan-rekannya di sayap radikal baru saja dikeluarkan karena menolak pembentukan blok politik dengan partai radikal borjuis-kecil, Venstre. Engels memberikan pandangannya tentang kebijakan kolaborasi elektoral dan batas-batas kerjasama antar kelas.",
