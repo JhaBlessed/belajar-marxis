@@ -4482,9 +4482,8 @@ export const works: Work[] = [
     "title": "Surat kepada Cuno Theodor, 24 Januari 1872",
     "originalTitle": null,
     "slug": "surat-kepada-cuno-theodor-24-januari-1872",
-    "authorId": "karl-marx",
+    "authorId": "friedrich-engels",
     "authorIds": [
-      "karl-marx",
       "friedrich-engels"
     ],
     "year": 1872,
@@ -4633,9 +4632,8 @@ export const works: Work[] = [
     "title": "Peranan Yang Dimainkan Kerja Dalam Peralihan Dari Kera Ke Manusia",
     "originalTitle": null,
     "slug": "peranan-yang-dimainkan-kerja-dalam-peralihan-dari-kera-ke-manusia",
-    "authorId": "karl-marx",
+    "authorId": "friedrich-engels",
     "authorIds": [
-      "karl-marx",
       "friedrich-engels"
     ],
     "year": null,
@@ -4852,9 +4850,8 @@ export const works: Work[] = [
     "title": "Upah Sehari Yang Layak Bagi Kerja Sehari Yang Layak!",
     "originalTitle": null,
     "slug": "upah-sehari-yang-layak-bagi-kerja-sehari-yang-layak",
-    "authorId": "karl-marx",
+    "authorId": "friedrich-engels",
     "authorIds": [
-      "karl-marx",
       "friedrich-engels"
     ],
     "year": null,
@@ -4890,9 +4887,8 @@ export const works: Work[] = [
     "title": "Klas-Klas Masyarakat Diperlukan Dan Berlebihan",
     "originalTitle": null,
     "slug": "klas-klas-masyarakat-diperlukan-dan-berlebihan",
-    "authorId": "karl-marx",
+    "authorId": "friedrich-engels",
     "authorIds": [
-      "karl-marx",
       "friedrich-engels"
     ],
     "year": 1881,
@@ -4928,9 +4924,8 @@ export const works: Work[] = [
     "title": "Dialektika",
     "originalTitle": null,
     "slug": "dialektika",
-    "authorId": "karl-marx",
+    "authorId": "friedrich-engels",
     "authorIds": [
-      "karl-marx",
       "friedrich-engels"
     ],
     "year": 1883,
@@ -5118,9 +5113,8 @@ export const works: Work[] = [
     "title": "Feuerbach dan Akhir Filsafat Klasik Jerman",
     "originalTitle": null,
     "slug": "feuerbach-dan-akhir-filsafat-klasik-jerman",
-    "authorId": "karl-marx",
+    "authorId": "friedrich-engels",
     "authorIds": [
-      "karl-marx",
       "friedrich-engels"
     ],
     "year": 1886,
@@ -5156,9 +5150,8 @@ export const works: Work[] = [
     "title": "Surat Engels Untuk Gerson Trier di Copenhagen,18 Desember 1889",
     "originalTitle": null,
     "slug": "surat-engels-untuk-gerson-trier-di-copenhagen-18-desember-1889",
-    "authorId": "karl-marx",
+    "authorId": "friedrich-engels",
     "authorIds": [
-      "karl-marx",
       "friedrich-engels"
     ],
     "year": 1889,
@@ -9804,7 +9797,7 @@ export const works: Work[] = [
     "slug": "peranan-yang-dimainkan-kerja-dalam-peralihan-dari-",
     "title": "Peranan Yang Dimainkan Kerja Dalam Peralihan Dari Kera Ke Manusia",
     "originalTitle": "",
-    "authorId": "karl-marx",
+    "authorId": "friedrich-engels",
     "year": 1876,
     "category": "Karya Umum",
     "difficulty": "Menengah",
@@ -9830,7 +9823,10 @@ export const works: Work[] = [
     "sourceAvailability": "local-only",
     "sourceType": "MIA_LOCAL_ARCHIVE",
     "sourceFormat": "html",
-    "localSourcePath": "/mia/indonesia/archive/marx-engels/1876/apetoman.html"
+    "localSourcePath": "/mia/indonesia/archive/marx-engels/1876/apetoman.html",
+    "authorIds": [
+      "friedrich-engels"
+    ]
   },
   {
     "id": "kata-pengantar-lama-pada-anti-d-hring-tentang-dial-ry7gm",
@@ -9903,7 +9899,7 @@ export const works: Work[] = [
     "slug": "upah-sehari-yang-layak-bagi-kerja-sehari-yang-laya",
     "title": "Upah Sehari Yang Layak Bagi Kerja Sehari Yang Layak!",
     "originalTitle": "",
-    "authorId": "karl-marx",
+    "authorId": "friedrich-engels",
     "year": 1881,
     "category": "Karya Umum",
     "difficulty": "Menengah",
@@ -9929,14 +9925,17 @@ export const works: Work[] = [
     "sourceAvailability": "local-only",
     "sourceType": "MIA_LOCAL_ARCHIVE",
     "sourceFormat": "html",
-    "localSourcePath": "/mia/indonesia/archive/marx-engels/1881/kerja.html"
+    "localSourcePath": "/mia/indonesia/archive/marx-engels/1881/kerja.html",
+    "authorIds": [
+      "friedrich-engels"
+    ]
   },
   {
     "id": "surat-engels-untuk-gerson-trier-di-copenhagen-18-d-mja8z",
     "slug": "surat-engels-untuk-gerson-trier-di-copenhagen-18-d",
     "title": "Surat Engels Untuk Gerson Trier di Copenhagen,18 Desember 1889",
     "originalTitle": "",
-    "authorId": "karl-marx",
+    "authorId": "friedrich-engels",
     "year": 1889,
     "category": "Karya Umum",
     "difficulty": "Menengah",
@@ -9962,7 +9961,10 @@ export const works: Work[] = [
     "sourceAvailability": "local-only",
     "sourceType": "MIA_LOCAL_ARCHIVE",
     "sourceFormat": "html",
-    "localSourcePath": "/mia/indonesia/archive/marx-engels/1889/18-trier.html"
+    "localSourcePath": "/mia/indonesia/archive/marx-engels/1889/18-trier.html",
+    "authorIds": [
+      "friedrich-engels"
+    ]
   },
   {
     "id": "sebuah-surat-untuk-seorang-kamerad-mengenai-tugas--p3cvt",
