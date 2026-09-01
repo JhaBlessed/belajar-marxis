@@ -208,6 +208,9 @@ async function main() {
       else if (somePrimaryReadable) extractionStatus = 'partial';
     }
 
+    // Operational default: Assume 'full' coverage unless explicitly overridden
+    // NOTE: This does NOT mean all 249 works have received a full bibliographic completeness review,
+    // but maintains existing pipeline behavior until verified otherwise.
     let documentCoverage: 'full' | 'excerpt' | 'unknown' = 'full';
     if (work.slug === 'pendahuluan-sumbangan-untuk-kritik-terhadap-filsafat-hak-hegel' || work.slug === 'pendahuluan-sumbangan-untuk-kritik-terhadap-filsaf') {
       documentCoverage = 'excerpt';

@@ -10,8 +10,9 @@ function validate() {
   let missingCount = 0;
   let unavailableCount = 0;
 
-  let completeWithEvidenceCount = 0;
-  let completeWithoutEvidenceCount = 0;
+  let completeWithVerifiedEvidence = 0;
+  let partialWithVerifiedEvidence = 0;
+  let completeWithoutVerifiedEvidence = 0;
   let multipartIncompleteCount = 0;
   let aliasErrorCount = 0;
   let evidenceErrorCount = 0;
@@ -102,7 +103,7 @@ function validate() {
 
     if (!evidence) {
       console.error(`FAIL: Evidence manifest missing for COMPLETE/PARTIAL work: ${work.slug}`);
-      completeWithoutEvidenceCount++;
+      completeWithoutVerifiedEvidence++;
       evidenceErrorCount++;
       errors++;
       continue;
@@ -175,11 +176,19 @@ function validate() {
     }
 
     if (validEvidence) {
-      completeWithEvidenceCount++;
+      if (summary.summaryStatus === 'complete' && evidence.documentCoverage === 'full') {
+        completeWithVerifiedEvidence++;
+      } else if (summary.summaryStatus === 'partial' && evidence.documentCoverage === 'excerpt') {
+        partialWithVerifiedEvidence++;
+      }
     } else {
-      completeWithoutEvidenceCount++;
+      if (summary.summaryStatus === 'complete') {
+        completeWithoutVerifiedEvidence++;
+      }
     }
   }
+
+  const summariesWithVerifiedEvidence = completeWithVerifiedEvidence + partialWithVerifiedEvidence;
 
   console.log(`\n--- SUMMARY VALIDATION REPORT ---`);
   console.log(`Canonical works: ${works.length}`);
@@ -187,8 +196,10 @@ function validate() {
   console.log(`Partial summaries: ${partialCount}`);
   console.log(`Missing: ${missingCount}`);
   console.log(`Unavailable: ${unavailableCount}`);
-  console.log(`Complete with verified evidence: ${completeWithEvidenceCount}`);
-  console.log(`Complete without verified evidence: ${completeWithoutEvidenceCount}`);
+  console.log(`Complete with verified evidence: ${completeWithVerifiedEvidence}`);
+  console.log(`Partial with verified evidence: ${partialWithVerifiedEvidence}`);
+  console.log(`Summaries with verified evidence: ${summariesWithVerifiedEvidence}`);
+  console.log(`Complete without verified evidence: ${completeWithoutVerifiedEvidence}`);
   console.log(`Complete with full document coverage: ${completeWithFullDocumentCoverageCount}`);
   console.log(`Complete on excerpt evidence: ${completeOnExcerptCount}`);
   console.log(`Multipart incomplete: ${multipartIncompleteCount}`);
