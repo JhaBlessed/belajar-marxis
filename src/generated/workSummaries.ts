@@ -379,7 +379,6 @@ export const workSummaries: Record<string, WorkSummary> = {
     "argumentStructure": [],
     "significance": "",
     "sourceBasis": [
-      "/mia/indonesia/archive/lenin/1902/ApaYang/KataPengantar.html",
       "/mia/indonesia/archive/lenin/1902/ApaYang/Bab1.html",
       "/mia/indonesia/archive/lenin/1902/ApaYang/Bab2.html",
       "/mia/indonesia/archive/lenin/1902/ApaYang/Bab3.html",
@@ -827,8 +826,6 @@ export const workSummaries: Record<string, WorkSummary> = {
     "argumentStructure": [],
     "significance": "",
     "sourceBasis": [
-      "/mia/indonesia/archive/lenin/19170901-lenin-negaradanrevolusi/katapengantarindonesia.html",
-      "/mia/indonesia/archive/lenin/19170901-lenin-negaradanrevolusi/katapengantar.html",
       "/mia/indonesia/archive/lenin/19170901-lenin-negaradanrevolusi/bab1.html",
       "/mia/indonesia/archive/lenin/19170901-lenin-negaradanrevolusi/bab2.html",
       "/mia/indonesia/archive/lenin/19170901-lenin-negaradanrevolusi/bab3.html",
@@ -1059,22 +1056,17 @@ export const workSummaries: Record<string, WorkSummary> = {
     "summaryStatus": "complete"
   },
   "tesis-tentang-feuerbach-versi-suntingan-engels": {
-    "historicalContext": "Ditulis oleh Karl Marx di Brussels pada musim semi (kemungkinan April) 1845. Ini merupakan catatan awal di mana Marx mulai melepaskan diri dari materialisme pasif Feuerbach dan merumuskan konsepsi materialisme barunya yang berfokus pada aktivitas praktis manusia.",
-    "mainProblem": "Apa kelemahan mendasar dari materialisme sebelumnya (termasuk Feuerbach) dan idealisme dalam memahami hubungan manusia dengan dunia objektif?",
-    "mainThesis": "Filsuf selama ini hanya menafsirkan dunia dengan berbagai cara; yang penting sekarang adalah mengubahnya (Tesis ke-11). Pemahaman yang benar tentang kenyataan harus berasal dari 'praksis' atau kegiatan revolusioner.",
-    "contentSummary": "Karya ini terdiri dari 11 tesis pendek. Marx mengkritik materialisme lama (seperti milik Feuerbach) karena memandang dunia secara objektif tetapi mengabaikan aktivitas manusia (subjektif/praktis) di dalamnya. Sebaliknya, idealisme mengembangkan sisi aktif manusia tetapi hanya dalam alam pikiran, terlepas dari kenyataan material. Marx berargumen bahwa kebenaran pemikiran tidak bisa diputuskan oleh teori semata, melainkan harus dibuktikan melalui praktek. Ia menolak pandangan bahwa manusia murni produk dari lingkungannya, karena manusia itu sendirilah yang mengubah lingkungannya. Agama dan keterasingan ideologis lainnya hanya dapat diselesaikan dengan merevolusionerkan basis material masyarakat tersebut di dunia nyata.",
-    "argumentStructure": [
-      "Tesis 1-3: Kritik terhadap kebuntuan materialisme lama dan idealisme; penegasan pentingnya aktivitas manusia-inderawi (praksis) dalam mengubah lingkungan.",
-      "Tesis 4-7: Kritik spesifik terhadap keterasingan agama Feuerbach. Agama tidak cukup dikritik secara teoritis, dasar material/sosial yang melahirkannya harus dihancurkan.",
-      "Tesis 8-10: Penegasan bahwa kehidupan sosial pada dasarnya bersifat praktis. Materialisme lama hanya mengarah pada masyarakat borjuis.",
-      "Tesis 11: Kesimpulan agitatif bahwa tugas filsafat bukan lagi sekadar interpretasi, melainkan transformasi revolusioner atas dunia."
-    ],
-    "significance": "Merupakan salah satu draf paling awal dari pendekatan Materialisme Historis. Teks ini menandai perpisahan Marx secara epistemologis dengan filsafat hegelaian Kiri dan materialisme feuerbachian klasik.",
+    "historicalContext": "",
+    "mainProblem": "",
+    "mainThesis": "",
+    "contentSummary": "",
+    "argumentStructure": [],
+    "significance": "",
     "sourceBasis": [
       "/mia/indonesia/archive/marx-engels/18450401-tesisfeuerbachversisuntinganengels.html"
     ],
     "contextBasis": [],
-    "summaryStatus": "complete"
+    "summaryStatus": "missing"
   },
   "surat-marx-pada-p-v-annenkov": {
     "historicalContext": "",
@@ -1161,7 +1153,7 @@ export const workSummaries: Record<string, WorkSummary> = {
       "Pertanyaan 11-13: Revolusi Industri dan kemunculan krisis kapitalis akibat overproduksi.",
       "Pertanyaan 14-24: Kebutuhan akan tatanan masyarakat baru, program revolusi, dampaknya terhadap negara, keluarga, dan kelas-kelas sosial lainnya."
     ],
-    "significance": "Garis besar paling jernih dan mendasar mengenai prinsip-prinsip utama Marxisme. Sangat cocok bagi pembaca pemula yang baru ingin memahami terminologi dan konsep sejarah gerakan komunis.",
+    "significance": "Garis besar yang jernih dan mendasar mengenai prinsip-prinsip utama Marxisme. Sangat cocok bagi pembaca pemula yang baru ingin memahami terminologi dan konsep sejarah gerakan komunis.",
     "sourceBasis": [
       "/mia/indonesia/archive/marx-engels/1847/1847-PrinsipKomunisme.html"
     ],
@@ -1192,7 +1184,7 @@ export const workSummaries: Record<string, WorkSummary> = {
       "III. Literatur Sosialis dan Komunis: Kritik terhadap aliran sosialisme borjuis, reaksioner, dan utopis.",
       "IV. Pendirian Komunis: Taktik aliansi dengan oposisi dan seruan revolusi 'Kaum buruh sedunia, bersatulah!'"
     ],
-    "significance": "Karya politik paling berpengaruh di abad ke-19 dan ke-20. Manifesto ini meletakkan landasan politik praktis dan teoritis pertama yang sistematis bagi gerakan komunis internasional.",
+    "significance": "Karya politik yang sangat berpengaruh dalam sejarah modern. Manifesto ini meletakkan landasan politik praktis dan teoritis pertama yang sistematis bagi gerakan komunis internasional.",
     "sourceBasis": [
       "/mia/indonesia/archive/marx-engels/18480221-manifestokomunis/manifestokomunis.html"
     ],
@@ -1220,10 +1212,11 @@ export const workSummaries: Record<string, WorkSummary> = {
       "/mia/indonesia/archive/marx-engels/1850/PerangTani/Bab5.html",
       "/mia/indonesia/archive/marx-engels/1850/PerangTani/Bab6.html",
       "/mia/indonesia/archive/marx-engels/1850/PerangTani/Bab7.html",
-      "/mia/indonesia/archive/marx-engels/1850/PerangTani/Pasal.html",
+      "/mia/indonesia/archive/marx-engels/1850/PerangTani/Pasal.html"
+    ],
+    "contextBasis": [
       "/mia/indonesia/archive/marx-engels/1850/PerangTani/Komentar.html"
     ],
-    "contextBasis": [],
     "summaryStatus": "missing"
   },
   "brumaire-xviii-louis-bonaparte": {
@@ -1451,14 +1444,14 @@ export const workSummaries: Record<string, WorkSummary> = {
     "historicalContext": "Ditulis oleh Engels antara 1876 dan 1878 untuk melawan pengaruh teoretis Eugen Dühring yang sedang naik daun di Partai Sosial Demokrat Jerman (SPD). Marx dan Engels merasa perlu menjaga kejernihan ideologi partai.",
     "mainProblem": "Bagaimana mengcounter pandangan positivis borjuis kecil Dühring yang mengancam akan membingungkan program politik dan fondasi teoritis gerakan pekerja Jerman?",
     "mainThesis": "Marxisme adalah konsepsi dunia yang menyeluruh dan koheren (Materialisme Dialektis) yang membedah dan memberi jawaban yang lebih saintifik terhadap persoalan filsafat, ekonomi politik, maupun sosialisme dibandingkan dengan eklektisisme superfisial milik Dühring.",
-    "contentSummary": "Karena Dühring menciptakan seluruh 'sistem' ilmu yang baru, Engels terpaksa mengikutinya melintasi berbagai subjek—mulai dari ruang dan waktu, mekanika kuantum zaman itu, kimia, moral, hukum, hingga ekonomi dan sejarah. Secara tidak langsung, ini mendorong Engels untuk pertama kalinya memaparkan 'pandangan dunia' (worldview) Marxisme secara komprehensif. Pada bagian Filsafat, ia menjelaskan bahwa dialektika berlaku di alam semesta. Pada bagian Ekonomi Politik, ia (dengan bantuan bab yang ditulis Marx) membela Teori Nilai-Kerja. Dan pada bagian Sosialisme, ia menjelaskan transisi dari utopia ke sains.",
+    "contentSummary": "Karena Dühring menciptakan seluruh 'sistem' ilmu yang baru, Engels terpaksa mengikutinya melintasi berbagai subjek—mulai dari ruang dan waktu, mekanika, ilmu fisika, kimia, moral, hukum, hingga ekonomi dan sejarah. Secara tidak langsung, ini mendorong Engels untuk pertama kalinya memaparkan 'pandangan dunia' (worldview) Marxisme secara komprehensif. Pada bagian Filsafat, ia menjelaskan bahwa dialektika berlaku di alam semesta. Pada bagian Ekonomi Politik, ia (dengan bantuan bab yang ditulis Marx) membela Teori Nilai-Kerja. Dan pada bagian Sosialisme, ia menjelaskan transisi dari utopia ke sains.",
     "argumentStructure": [
       "Pendahuluan: Sejarah pembentukan sosialisme dan metode materialis.",
       "Bagian I: Filsafat. Membahas ontologi, apriori, waktu, ruang, moral, hukum, dan hukum dialektika.",
       "Bagian II: Ekonomi Politik. Menjelaskan nilai, kapital, bunga, nilai-lebih, dan mengoreksi pembacaan Dühring terhadap Marx.",
       "Bagian III: Sosialisme. Menganalisis sejarah produksi, kapitalisme, dan tugas negara yang akan 'melenyap' (withering away)."
     ],
-    "significance": "Ensiklopedia awal dari Marxisme itu sendiri. Hampir seluruh kepemimpinan sosialis generasi Kedua (Lenin, Kautsky, Plekhanov, Bebel) mempelajari Marxisme secara utuh untuk pertama kalinya melalui buku ini.",
+    "significance": "Buku ini sering dianggap sebagai paparan komprehensif pertama dari Marxisme.",
     "sourceBasis": [
       "/mia/indonesia/archive/marx-engels/1877/anti-duhring.pdf"
     ],
@@ -1501,7 +1494,7 @@ export const workSummaries: Record<string, WorkSummary> = {
       "Bagian 2 (Dialektika): Kritik terhadap metafisika yang kaku, serta penjelasan mengenai dialektika materialis sebagai pisau analisis revolusioner.",
       "Bagian 3 (Materialisme Historis): Aplikasi metode dialektik untuk membedah kontradiksi kapitalisme dan peran historis proletariat untuk mengakhiri masyarakat kelas."
     ],
-    "significance": "Pamflet Marxis yang paling banyak dibaca dan diterjemahkan pada akhir abad ke-19 setelah Manifesto. Karya ini adalah pengantar standar mengenai bagaimana Marxisme memandang sejarah dan ekonomi secara rasional dan ilmiah.",
+    "significance": "Pamflet Marxis yang secara luas dibaca dan diterjemahkan pada akhir abad ke-19. Karya ini adalah pengantar standar mengenai bagaimana Marxisme memandang sejarah dan ekonomi secara rasional dan ilmiah.",
     "sourceBasis": [
       "/mia/indonesia/archive/marx-engels/18800420-sosialismeutopis/bagian1.html",
       "/mia/indonesia/archive/marx-engels/18800420-sosialismeutopis/bagian2.html",
@@ -2522,7 +2515,6 @@ export const workSummaries: Record<string, WorkSummary> = {
     "argumentStructure": [],
     "significance": "",
     "sourceBasis": [
-      "/mia/indonesia/archive/malaka/AksiMassa/KataPengantar.html",
       "/mia/indonesia/archive/malaka/AksiMassa/Bab1.html",
       "/mia/indonesia/archive/malaka/AksiMassa/Bab2.html",
       "/mia/indonesia/archive/malaka/AksiMassa/Bab3.html",
@@ -2907,7 +2899,7 @@ export const workSummaries: Record<string, WorkSummary> = {
       "Bagian 2 (Dialektika): Kritik terhadap metafisika yang kaku, serta penjelasan mengenai dialektika materialis sebagai pisau analisis revolusioner.",
       "Bagian 3 (Materialisme Historis): Aplikasi metode dialektik untuk membedah kontradiksi kapitalisme dan peran historis proletariat untuk mengakhiri masyarakat kelas."
     ],
-    "significance": "Pamflet Marxis yang paling banyak dibaca dan diterjemahkan pada akhir abad ke-19 setelah Manifesto. Karya ini adalah pengantar standar mengenai bagaimana Marxisme memandang sejarah dan ekonomi secara rasional dan ilmiah.",
+    "significance": "Pamflet Marxis yang secara luas dibaca dan diterjemahkan pada akhir abad ke-19. Karya ini adalah pengantar standar mengenai bagaimana Marxisme memandang sejarah dan ekonomi secara rasional dan ilmiah.",
     "sourceBasis": [
       "/mia/indonesia/archive/marx-engels/18800420-sosialismeutopis/bagian1.html",
       "/mia/indonesia/archive/marx-engels/18800420-sosialismeutopis/bagian2.html",
@@ -3312,7 +3304,6 @@ export const workSummaries: Record<string, WorkSummary> = {
 };
 
 export const summaryAliases: Record<string, string> = {
-  'kapital-jilid-1': 'kapital-i',
   'sosialisme-utopis-dan-ilmiah': 'sosialisme-utopis-dan-sosialisme-ilmiah',
   'tesis-tentang-feuerbach': 'tesis-tentang-feuerbach-versi-asli'
 };
