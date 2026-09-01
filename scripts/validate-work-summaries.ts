@@ -11,7 +11,7 @@ function validate() {
   const legacyAliasCount = Object.keys(workAliases).length;
   const canonicalWorks = getCanonicalWorks();
   const visibleCanonicalCount = canonicalWorks.length;
-  
+
   let aliasAccountingErrors = 0;
   if (rawWorksCount !== visibleCanonicalCount + legacyAliasCount) {
     console.error(`FAIL: Alias accounting error! Raw: ${rawWorksCount}, Visible: ${visibleCanonicalCount}, Legacy: ${legacyAliasCount}`);
@@ -204,22 +204,22 @@ function validate() {
       }
     }
   }
-  
+
   let canonicalComplete = 0;
   let canonicalPartial = 0;
   let canonicalMissing = 0;
   let canonicalUnavailable = 0;
   let canonicalWithVerifiedEvidence = 0;
-  
+
   for (const work of canonicalWorks) {
     const summary = workSummaries[work.slug];
     if (!summary) continue;
-    
+
     if (summary.summaryStatus === 'complete') canonicalComplete++;
     else if (summary.summaryStatus === 'partial') canonicalPartial++;
     else if (summary.summaryStatus === 'missing') canonicalMissing++;
     else if (summary.summaryStatus === 'unavailable') canonicalUnavailable++;
-    
+
     if (verifiedSlugs.has(work.slug)) {
       canonicalWithVerifiedEvidence++;
     }
@@ -243,7 +243,7 @@ function validate() {
   console.log(`Canonical summaries with verified evidence: ${canonicalWithVerifiedEvidence}`);
   console.log(`Evidence/status mismatches: ${mismatchCount}`);
   console.log(`Alias accounting errors: ${aliasAccountingErrors}`);
-  
+
   // Also log the debug details for raw
   console.log(`\n(Raw Debug: Complete with full coverage: ${completeWithFullDocumentCoverageCount}, Excerpt complete: ${completeOnExcerptCount}, Alias errors: ${aliasErrorCount}, Evidence errors: ${evidenceErrorCount})`);
 
