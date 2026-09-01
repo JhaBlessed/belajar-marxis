@@ -1,6 +1,6 @@
 import Fuse from 'fuse.js';
 import { authors } from '../data/authors';
-import { works } from '../data/works';
+import { getCanonicalWorks } from './canonicalWorks';
 import { concepts } from '../data/concepts';
 import { organizations } from '../data/organizations';
 import { timelineEvents } from '../data/timeline';
@@ -26,7 +26,7 @@ const authorDocs = authors.map(a => ({
   url: `/tokoh/${a.slug}`
 }));
 
-const workDocs = works.map(w => {
+const workDocs = getCanonicalWorks().map(w => {
   const author = authors.find(a => a.id === w.authorId);
   return {
     type: 'work' as const,

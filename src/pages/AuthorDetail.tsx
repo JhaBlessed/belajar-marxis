@@ -1,7 +1,7 @@
 import { useParams, Link } from 'react-router-dom';
 import { Bookmark, BookmarkCheck, BookOpen } from 'lucide-react';
 import { authors } from '../data/authors';
-import { works } from '../data/works';
+import { getCanonicalWorks } from '../lib/canonicalWorks';
 import { useProgress } from '../hooks/useProgress';
 import { SEO } from '../components/ui/SEO';
 
@@ -14,7 +14,7 @@ export function AuthorDetail() {
     return <div className="text-center py-20 dark:text-white">Tokoh tidak ditemukan</div>;
   }
 
-  const authorWorks = works.filter(w => w.authorId === author.id);
+  const authorWorks = getCanonicalWorks().filter(w => w.authorId === author.id || w.authorIds?.includes(author.id));
   const bookmarked = isBookmarked('Authors', author.id);
 
   return (

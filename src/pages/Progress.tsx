@@ -1,15 +1,15 @@
 import { Link } from 'react-router-dom';
 import { useProgress } from '../hooks/useProgress';
 import { works } from '../data/works';
+import { getCanonicalWorks } from '../lib/canonicalWorks';
 import { BookOpen, CheckCircle, Clock } from 'lucide-react';
 
 export function Progress() {
   const { progress } = useProgress();
-
   const completedWorks = Object.keys(progress.works).filter(k => progress.works[k] === 'Selesai');
   const readingWorks = Object.keys(progress.works).filter(k => progress.works[k] === 'Sedang Dibaca');
   
-  const totalWorksCount = works.length;
+  const totalWorksCount = getCanonicalWorks().length;
   const percentage = totalWorksCount === 0 ? 0 : Math.round((completedWorks.length / totalWorksCount) * 100);
 
   return (

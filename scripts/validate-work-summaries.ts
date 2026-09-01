@@ -1,17 +1,31 @@
 import { workSummaries, summaryAliases } from '../src/generated/workSummaries';
 import { works } from '../src/data/works';
 import { workSourceEvidence } from '../src/generated/workSourceEvidence';
+import { workAliases } from '../src/data/workAliases';
+import { getCanonicalWorks } from '../src/lib/canonicalWorks';
 
 function validate() {
   let errors = 0;
 
-  let completeCount = 0;
-  let partialCount = 0;
-  let missingCount = 0;
-  let unavailableCount = 0;
+  const rawWorksCount = works.length;
+  const legacyAliasCount = Object.keys(workAliases).length;
+  const canonicalWorks = getCanonicalWorks();
+  const visibleCanonicalCount = canonicalWorks.length;
+  
+  let aliasAccountingErrors = 0;
+  if (rawWorksCount !== visibleCanonicalCount + legacyAliasCount) {
+    console.error(`FAIL: Alias accounting error! Raw: ${rawWorksCount}, Visible: ${visibleCanonicalCount}, Legacy: ${legacyAliasCount}`);
+    aliasAccountingErrors++;
+    errors++;
+  }
 
-  let completeWithVerifiedEvidence = 0;
-  let partialWithVerifiedEvidence = 0;
+  let rawCompleteCount = 0;
+  let rawPartialCount = 0;
+  let rawMissingCount = 0;
+  let rawUnavailableCount = 0;
+
+  let rawCompleteWithVerifiedEvidence = 0;
+  let rawPartialWithVerifiedEvidence = 0;
   let completeWithoutVerifiedEvidence = 0;
   let multipartIncompleteCount = 0;
   let aliasErrorCount = 0;
@@ -21,16 +35,18 @@ function validate() {
   let completeOnExcerptCount = 0;
   let completeWithFullDocumentCoverageCount = 0;
 
-  // Track alias cycles
+  const verifiedSlugs = new Set<string>();
+
+  // Track summary alias cycles
   for (const [alias, target] of Object.entries(summaryAliases)) {
     if (summaryAliases[target]) {
-      console.error(`FAIL: Alias cycle detected: ${alias} -> ${target} -> ${summaryAliases[target]}`);
+      console.error(`FAIL: Summary Alias cycle detected: ${alias} -> ${target} -> ${summaryAliases[target]}`);
       aliasErrorCount++;
       errors++;
     }
     const targetSummary = workSummaries[target];
     if (!targetSummary || targetSummary.summaryStatus === 'missing') {
-      console.error(`FAIL: Alias target ${target} for ${alias} is missing or not complete/partial`);
+      console.error(`FAIL: Summary Alias target ${target} for ${alias} is missing or not complete/partial`);
       aliasErrorCount++;
       errors++;
     }
@@ -85,19 +101,19 @@ function validate() {
       if (evidence && evidence.documentCoverage === 'full') {
         completeWithFullDocumentCoverageCount++;
       }
-      completeCount++;
+      rawCompleteCount++;
     } else if (summary.summaryStatus === 'partial') {
       if (!evidence || evidence.extractionStatus !== 'complete') {
         console.error(`FAIL: Summary is partial but evidence is not complete for ${work.slug}`);
         mismatchCount++;
         errors++;
       }
-      partialCount++;
+      rawPartialCount++;
     } else if (summary.summaryStatus === 'missing') {
-      missingCount++;
+      rawMissingCount++;
       continue;
     } else if (summary.summaryStatus === 'unavailable') {
-      unavailableCount++;
+      rawUnavailableCount++;
       continue;
     }
 
@@ -176,10 +192,11 @@ function validate() {
     }
 
     if (validEvidence) {
+      verifiedSlugs.add(work.slug);
       if (summary.summaryStatus === 'complete' && evidence.documentCoverage === 'full') {
-        completeWithVerifiedEvidence++;
+        rawCompleteWithVerifiedEvidence++;
       } else if (summary.summaryStatus === 'partial' && evidence.documentCoverage === 'excerpt') {
-        partialWithVerifiedEvidence++;
+        rawPartialWithVerifiedEvidence++;
       }
     } else {
       if (summary.summaryStatus === 'complete') {
@@ -187,25 +204,48 @@ function validate() {
       }
     }
   }
-
-  const summariesWithVerifiedEvidence = completeWithVerifiedEvidence + partialWithVerifiedEvidence;
+  
+  let canonicalComplete = 0;
+  let canonicalPartial = 0;
+  let canonicalMissing = 0;
+  let canonicalUnavailable = 0;
+  let canonicalWithVerifiedEvidence = 0;
+  
+  for (const work of canonicalWorks) {
+    const summary = workSummaries[work.slug];
+    if (!summary) continue;
+    
+    if (summary.summaryStatus === 'complete') canonicalComplete++;
+    else if (summary.summaryStatus === 'partial') canonicalPartial++;
+    else if (summary.summaryStatus === 'missing') canonicalMissing++;
+    else if (summary.summaryStatus === 'unavailable') canonicalUnavailable++;
+    
+    if (verifiedSlugs.has(work.slug)) {
+      canonicalWithVerifiedEvidence++;
+    }
+  }
 
   console.log(`\n--- SUMMARY VALIDATION REPORT ---`);
-  console.log(`Canonical works: ${works.length}`);
-  console.log(`Complete: ${completeCount}`);
-  console.log(`Partial summaries: ${partialCount}`);
-  console.log(`Missing: ${missingCount}`);
-  console.log(`Unavailable: ${unavailableCount}`);
-  console.log(`Complete with verified evidence: ${completeWithVerifiedEvidence}`);
-  console.log(`Partial with verified evidence: ${partialWithVerifiedEvidence}`);
-  console.log(`Summaries with verified evidence: ${summariesWithVerifiedEvidence}`);
-  console.log(`Complete without verified evidence: ${completeWithoutVerifiedEvidence}`);
-  console.log(`Complete with full document coverage: ${completeWithFullDocumentCoverageCount}`);
-  console.log(`Complete on excerpt evidence: ${completeOnExcerptCount}`);
-  console.log(`Multipart incomplete: ${multipartIncompleteCount}`);
-  console.log(`Alias errors: ${aliasErrorCount}`);
-  console.log(`Evidence errors: ${evidenceErrorCount}`);
+  console.log(`Raw work records: ${rawWorksCount}`);
+  console.log(`Legacy alias records: ${legacyAliasCount}`);
+  console.log(`Visible canonical works: ${visibleCanonicalCount}`);
+  console.log();
+  console.log(`Raw Complete: ${rawCompleteCount}`);
+  console.log(`Raw Partial: ${rawPartialCount}`);
+  console.log(`Raw Missing: ${rawMissingCount}`);
+  console.log(`Raw Unavailable: ${rawUnavailableCount}`);
+  console.log();
+  console.log(`Canonical Complete: ${canonicalComplete}`);
+  console.log(`Canonical Partial: ${canonicalPartial}`);
+  console.log(`Canonical Missing: ${canonicalMissing}`);
+  console.log(`Canonical Unavailable: ${canonicalUnavailable}`);
+  console.log();
+  console.log(`Canonical summaries with verified evidence: ${canonicalWithVerifiedEvidence}`);
   console.log(`Evidence/status mismatches: ${mismatchCount}`);
+  console.log(`Alias accounting errors: ${aliasAccountingErrors}`);
+  
+  // Also log the debug details for raw
+  console.log(`\n(Raw Debug: Complete with full coverage: ${completeWithFullDocumentCoverageCount}, Excerpt complete: ${completeOnExcerptCount}, Alias errors: ${aliasErrorCount}, Evidence errors: ${evidenceErrorCount})`);
 
   if (errors > 0) {
     process.exitCode = 1;

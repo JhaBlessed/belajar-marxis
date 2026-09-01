@@ -8,6 +8,7 @@
     "build": "tsc -b && vite build",
     "lint": "oxlint",
     "preview": "vite preview",
+    "validate:work-aliases": "tsx scripts/validate-work-aliases.ts",
     "import:mia": "tsx scripts/import-mia.ts",
     "check:mia": "echo 'Not implemented yet'",
     "validate:data": "tsx scripts/validate-data.ts",

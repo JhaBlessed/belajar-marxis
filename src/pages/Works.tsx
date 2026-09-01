@@ -1,6 +1,6 @@
 import { useState, useMemo } from 'react';
 import { Link } from 'react-router-dom';
-import { works } from '../data/works';
+import { getCanonicalWorks } from '../lib/canonicalWorks';
 import { authors } from '../data/authors';
 import { getPrimarySourceUrl } from '../lib/archiveUrl';
 import { Search } from 'lucide-react';
@@ -13,9 +13,11 @@ export function Works() {
   const [sortBy, setSortBy] = useState('year-asc');
 
   const filteredWorks = useMemo(() => {
-    return works
+    return getCanonicalWorks()
       .filter(w => {
-        const matchAuthor = filterAuthor ? w.authorId === filterAuthor : true;
+        const matchAuthor = filterAuthor
+          ? (w.authorId === filterAuthor || w.authorIds?.includes(filterAuthor))
+          : true;
         const matchDifficulty = filterDifficulty ? w.difficulty === filterDifficulty : true;
         const matchSearch = w.title.toLowerCase().includes(searchQuery.toLowerCase()) ||
                             w.themes.some(t => t.toLowerCase().includes(searchQuery.toLowerCase()));

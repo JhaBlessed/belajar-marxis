@@ -1,8 +1,8 @@
 import { resolveArchiveUrl, getPrimarySourceUrl } from '../lib/archiveUrl';
-import { useParams, Link } from 'react-router-dom';
-import { works } from '../data/works';
+import { useParams, Link, Navigate } from 'react-router-dom';
 import { authors } from '../data/authors';
 import { getWorkSummary } from '../generated/workSummaries';
+import { resolveWorkSlug, getWorkBySlug } from '../lib/canonicalWorks';
 import { useProgress } from '../hooks/useProgress';
 import {
   ArrowLeft, BookOpen, Clock, AlertCircle,
@@ -25,7 +25,15 @@ function getLocalWorks() {
 
 export function WorkDetail() {
   const { slug } = useParams();
-  const work = works.find(w => w.slug === slug);
+
+  if (slug) {
+    const canonicalSlug = resolveWorkSlug(slug);
+    if (canonicalSlug !== slug) {
+      return <Navigate to={`/karya/${canonicalSlug}`} replace />;
+    }
+  }
+
+  const work = getWorkBySlug(slug || '');
   const workAuthors = work?.authorIds
     ? work.authorIds.map(id => authors.find(a => a.id === id)).filter(Boolean) as typeof authors
     : authors.filter(a => a.id === work?.authorId);

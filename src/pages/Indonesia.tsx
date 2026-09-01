@@ -1,6 +1,7 @@
 import { Link } from 'react-router-dom';
 import { Book, Users, Calendar, Flag } from 'lucide-react';
 import { works } from '../data/works';
+import { getCanonicalWorks } from '../lib/canonicalWorks';
 import { authors } from '../data/authors';
 import { organizations } from '../data/organizations';
 import { indonesiaTimeline } from '../generated/indonesiaTimeline';
@@ -10,7 +11,7 @@ import { historicalPersons } from '../data/historicalPersons';
 
 export function Indonesia() {
   const indonesiaAuthors = authors.filter(a => a.nationality.includes('Indonesia'));
-  const indonesiaWorks = works.filter(w => indonesiaAuthors.some(a => a.id === w.authorId));
+  const indonesiaWorks = getCanonicalWorks().filter(w => indonesiaAuthors.some(a => a.id === w.authorId || w.authorIds?.includes(a.id)));
 
   return (
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">

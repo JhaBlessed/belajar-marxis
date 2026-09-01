@@ -1,7 +1,7 @@
 import { useState, useMemo } from 'react';
 import { Link } from 'react-router-dom';
 import { Book } from 'lucide-react';
-import { works } from '../data/works';
+import { getCanonicalWorks } from '../lib/canonicalWorks';
 import { resolveMiaSource } from '../lib/sourceResolver';
 import { getPrimarySourceUrl } from '../lib/archiveUrl';
 import { authors } from '../data/authors';
@@ -25,7 +25,7 @@ export function Library() {
   const [filterStatus, setFilterStatus] = useState('');
 
   const libraryWorks = useMemo(() => {
-    return works
+    return getCanonicalWorks()
       .filter(w => {
         const matchAuthor = filterAuthor
           ? (w.authorIds ? w.authorIds.includes(filterAuthor) : w.authorId === filterAuthor)

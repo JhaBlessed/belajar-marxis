@@ -2,7 +2,7 @@ import { useParams, Link } from 'react-router-dom';
 import { Bookmark, BookmarkCheck, BookOpen, Users } from 'lucide-react';
 import { concepts } from '../data/concepts';
 import { authors } from '../data/authors';
-import { works } from '../data/works';
+import { getCanonicalWorks } from '../lib/canonicalWorks';
 import { useProgress } from '../hooks/useProgress';
 import { SEO } from '../components/ui/SEO';
 
@@ -17,7 +17,7 @@ export function ConceptDetail() {
 
   const bookmarked = isBookmarked('Concepts', concept.id);
   const relatedAuthors = authors.filter(a => concept.authors.includes(a.id));
-  const relatedWorks = works.filter(w => concept.works.includes(w.id));
+  const relatedWorks = getCanonicalWorks().filter(w => concept.works.includes(w.id));
   const otherConcepts = concepts.filter(c => concept.relatedConcepts.includes(c.id));
 
   return (

@@ -1,5 +1,5 @@
 import { useState, useEffect, useMemo, useRef } from 'react';
-import { useParams, Link, } from 'react-router-dom';
+import { useParams, Link, Navigate } from 'react-router-dom';
 import { ArrowLeft, Settings, ChevronLeft, ChevronRight, Menu, ExternalLink, Bookmark, BookmarkCheck, Search as X, Info } from 'lucide-react';
 import { works } from '../data/works';
 import { authors } from '../data/authors';
@@ -11,26 +11,37 @@ import { SEO } from '../components/ui/SEO';
 const mdModules = import.meta.glob('../content/works/**/*.md', { query: '?raw', import: 'default' });
 const metaModules = import.meta.glob('../content/works/**/metadata.ts', { import: 'metadata', eager: true });
 
+import { resolveWorkSlug } from '../lib/canonicalWorks';
+
 export function Reader() {
   const { workSlug, chapterSlug } = useParams();
-    const { fontSize, width, theme, lineHeight, setFontSize, setWidth, setTheme, setLineHeight } = useReaderSettings();
-  
+
+  if (workSlug) {
+    const canonicalSlug = resolveWorkSlug(workSlug);
+    if (canonicalSlug !== workSlug) {
+      const target = chapterSlug ? `/baca/${canonicalSlug}/${chapterSlug}` : `/baca/${canonicalSlug}`;
+      return <Navigate to={target} replace />;
+    }
+  }
+
+  const { fontSize, width, theme, lineHeight, setFontSize, setWidth, setTheme, setLineHeight } = useReaderSettings();
+
   const [showSettings, setShowSettings] = useState(false);
   const [showMobileToC, setShowMobileToC] = useState(false);
   const [content, setContent] = useState('');
   const [isLoading, setIsLoading] = useState(true);
   const [bookmarked, setBookmarked] = useState(false);
-  
+
   const contentRef = useRef<HTMLDivElement>(null);
 
   const work = useMemo(() => works.find(w => w.slug === workSlug), [workSlug]);
   const author = useMemo(() => authors.find(a => a.id === work?.authorId), [work]);
 
   // Extract chapters from metadata
-  
+
   const chapters = useMemo(() => {
     if (!work) return [];
-    
+
     if (work.format === 'multi-pdf' && work.parts) {
       return work.parts.map((p, idx) => ({
         slug: `bagian-${p.number}`,
@@ -43,7 +54,7 @@ export function Reader() {
 
     const metaPathKey = Object.keys(metaModules).find(path => path.endsWith(`/${work.slug}/metadata.ts`));
     const meta = metaPathKey ? metaModules[metaPathKey] as any : null;
-    
+
     if (meta && meta.chapters) {
       return meta.chapters.map((slug: string, idx: number) => ({
         slug,
@@ -61,16 +72,16 @@ export function Reader() {
     if (!chapterSlug && chapters.length > 0) return 0;
     return chapters.findIndex((c: any) => c.slug === chapterSlug) || 0;
   }, [chapterSlug, chapters]);
-  
+
   const currentChapter = chapters[currentChapterIndex];
   const prevChapter = chapters[currentChapterIndex - 1];
   const nextChapter = chapters[currentChapterIndex + 1];
 
   // Load content
-  
+
   useEffect(() => {
     if (!work || !currentChapter) return;
-    
+
     if (currentChapter.isPdf) {
       setIsLoading(false);
       setContent('');
@@ -81,7 +92,7 @@ export function Reader() {
     const fileName = `${String(currentChapterIndex).padStart(2, '0')}-${currentChapter.slug}.md`;
     const mdPathKey = Object.keys(mdModules).find(path => path.endsWith(`/${work.slug}/chapters/${fileName}`));
 
-    
+
     const loadContent = async () => {
       try {
         const module = mdPathKey ? mdModules[mdPathKey] : null;
@@ -99,7 +110,7 @@ export function Reader() {
         setIsLoading(false);
       }
     };
-    
+
     loadContent();
     setShowMobileToC(false); // hide on chapter change
     window.scrollTo(0, 0);
@@ -129,7 +140,7 @@ export function Reader() {
   useEffect(() => {
     if (!work || !currentChapter || isLoading) return;
     const key = `reader_progress_${work.id}`;
-    
+
     const saveProgress = () => {
       const scrollPos = window.scrollY;
       localStorage.setItem(key, JSON.stringify({
@@ -138,7 +149,7 @@ export function Reader() {
         timestamp: Date.now()
       }));
     };
-    
+
     window.addEventListener('scroll', saveProgress);
     return () => window.removeEventListener('scroll', saveProgress);
   }, [work, currentChapter, isLoading]);
@@ -174,7 +185,7 @@ export function Reader() {
   return (
     <div className={`min-h-screen flex flex-col ${bgTheme}`}>
       <SEO title={`${currentChapter?.title || work.title} | ${author?.name}`} />
-      
+
       {/* HEADER NAVBAR (Hidden on print) */}
       <nav className={`sticky top-0 z-40 border-b print:hidden ${sidebarBg} shadow-sm backdrop-blur-sm bg-opacity-90`}>
         <div className="max-w-[1400px] mx-auto px-4 h-14 flex items-center justify-between">
@@ -187,7 +198,7 @@ export function Reader() {
               <div className="text-sm font-bold truncate max-w-[200px] md:max-w-[300px]">{work.title}</div>
             </div>
           </div>
-          
+
           <div className="flex items-center gap-2">
             <button onClick={toggleBookmark} className="p-2 hover:bg-gray-200 dark:hover:bg-gray-700 rounded-full transition-colors" title="Bookmark">
               {bookmarked ? <BookmarkCheck className="w-5 h-5 text-red-600" /> : <Bookmark className="w-5 h-5" />}
@@ -258,8 +269,8 @@ export function Reader() {
             <div className="p-4 overflow-y-auto flex-1">
               <div className="space-y-1">
                 {chapters.map((ch: any) => (
-                  <Link 
-                    key={ch.slug} 
+                  <Link
+                    key={ch.slug}
                     to={`/baca/${work.slug}/${ch.slug}`}
                     className={`block px-3 py-2 rounded-md text-sm transition-colors ${ch.slug === chapterSlug ? 'bg-red-100 dark:bg-red-900/30 text-red-700 dark:text-red-400 font-bold border-l-2 border-red-600' : 'opacity-80 hover:opacity-100 hover:bg-black/5 dark:hover:bg-white/5'}`}
                   >
@@ -274,15 +285,15 @@ export function Reader() {
 
       {/* MAIN READER LAYOUT */}
       <div className="flex-1 max-w-[1400px] mx-auto w-full flex relative">
-        
+
         {/* LEFT SIDEBAR (Desktop ToC) */}
         <aside className={`hidden lg:block w-64 shrink-0 border-r print:hidden overflow-y-auto sticky top-14 h-[calc(100vh-3.5rem)] ${sidebarBg}`}>
           <div className="p-6">
             <h2 className="font-bold uppercase tracking-wider text-sm opacity-60 mb-4">Daftar Isi</h2>
             <div className="space-y-1">
               {chapters.map((ch: any) => (
-                <Link 
-                  key={ch.slug} 
+                <Link
+                  key={ch.slug}
                   to={`/baca/${work.slug}/${ch.slug}`}
                   className={`block px-3 py-2 rounded-md text-sm transition-colors ${ch.slug === chapterSlug ? 'bg-red-100 dark:bg-red-900/30 text-red-700 dark:text-red-400 font-bold border-l-2 border-red-600' : 'opacity-70 hover:opacity-100 hover:bg-black/5 dark:hover:bg-white/5'}`}
                 >
@@ -296,7 +307,7 @@ export function Reader() {
         {/* MAIN CONTENT */}
         <main className="flex-1 px-4 sm:px-8 py-10 w-full overflow-x-hidden relative">
           <div className={`mx-auto ${widthClass} transition-all duration-300`}>
-            
+
             {/* PRINT HEADER */}
             <div className="hidden print:block mb-8 border-b pb-4 border-gray-300">
               <h1 className="text-3xl font-bold mb-2">{work.title}</h1>
@@ -338,7 +349,7 @@ export function Reader() {
                 </div>
               </div>
             ) : (
-              <div 
+              <div
                 ref={contentRef}
                 className={`prose dark:prose-invert max-w-none prose-headings:font-bold prose-a:text-red-600 prose-blockquote:border-l-red-600 prose-hr:border-gray-300 dark:prose-hr:border-gray-700 ${fontClass} ${lineClass}`}
                 dangerouslySetInnerHTML={{ __html: content }}
@@ -367,9 +378,9 @@ export function Reader() {
                   <span className="hidden sm:inline">Sebelumnya</span>
                 </Link>
               ) : <div></div>}
-              
+
               <span className="text-sm font-medium opacity-60">Bab {currentChapterIndex + 1} dari {chapters.length}</span>
-              
+
               {nextChapter ? (
                 <Link to={`/baca/${work.slug}/${nextChapter.slug}`} className="flex items-center gap-2 px-4 py-2 border border-black/10 dark:border-white/10 rounded-lg hover:bg-black/5 dark:hover:bg-white/5 transition-colors">
                   <span className="hidden sm:inline">Berikutnya</span>
@@ -377,7 +388,7 @@ export function Reader() {
                 </Link>
               ) : <div></div>}
             </div>
-            
+
           </div>
         </main>
 
@@ -385,7 +396,7 @@ export function Reader() {
         <aside className={`hidden xl:block w-72 shrink-0 border-l print:hidden overflow-y-auto sticky top-14 h-[calc(100vh-3.5rem)] ${sidebarBg}`}>
           <div className="p-6">
             <h2 className="font-bold uppercase tracking-wider text-sm opacity-60 mb-6">Informasi Karya</h2>
-            
+
             <div className="space-y-6 text-sm">
               <div>
                 <span className="block opacity-60 mb-1">Penulis</span>
