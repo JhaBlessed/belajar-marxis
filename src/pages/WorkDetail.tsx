@@ -248,6 +248,17 @@ export function WorkDetail() {
 
                 return (
                   <>
+                    {generatedSummary.summaryStatus === 'partial' && (
+                      <div className="bg-orange-50 dark:bg-orange-900/20 p-6 rounded-2xl border border-orange-200 dark:border-orange-900/30 mb-8 flex gap-4 items-start">
+                        <AlertCircle className="w-6 h-6 text-orange-600 dark:text-orange-400 shrink-0 mt-0.5" />
+                        <div>
+                          <h4 className="text-lg font-bold text-orange-800 dark:text-orange-300">Ringkasan Parsial</h4>
+                          <p className="text-orange-700 dark:text-orange-400 mt-1">
+                            Sumber lokal yang tersedia hanya mencakup sebagian karya. Ringkasan di bawah ini disusun murni berdasarkan teks yang tersedia, bukan dari keseluruhan dokumen secara utuh.
+                          </p>
+                        </div>
+                      </div>
+                    )}
                     <section>
                       <h3 className="text-2xl font-bold text-gray-900 dark:text-white mb-4">Konteks Sejarah</h3>
                       <div className="prose prose-lg dark:prose-invert max-w-none text-gray-600 dark:text-gray-300 leading-relaxed whitespace-pre-line">

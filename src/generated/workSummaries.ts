@@ -1,5 +1,5 @@
 /* eslint-disable max-len */
-export type SummaryStatus = 'complete' | 'unavailable' | 'missing';
+export type SummaryStatus = 'complete' | 'partial' | 'unavailable' | 'missing';
 
 export interface WorkSummary {
   historicalContext: string;
@@ -1085,17 +1085,22 @@ export const workSummaries: Record<string, WorkSummary> = {
     "summaryStatus": "missing"
   },
   "pendahuluan-sumbangan-untuk-kritik-terhadap-filsafat-hak-hegel": {
-    "historicalContext": "",
-    "mainProblem": "",
-    "mainThesis": "",
-    "contentSummary": "",
-    "argumentStructure": [],
-    "significance": "",
+    "historicalContext": "Ditulis oleh Karl Marx pada awal 1844 dan diterbitkan dalam Deutsch-Französische Jahrbücher. Pada masa ini, Marx berada dalam transisi radikal menuju perumusan materialisme historis dan mulai melihat peran historis kelas pekerja.",
+    "mainProblem": "Apa hubungan antara kritik terhadap agama dengan kebutuhan akan emansipasi radikal dan kritik terhadap situasi politik Jerman yang terbelakang?",
+    "mainThesis": "Agama adalah kesadaran-dunia yang terbalik (candu rakyat) yang lahir dari penderitaan dan kondisi duniawi yang terbalik. Menghapuskan agama berarti menuntut perubahan pada kondisi-kondisi riil yang menyebabkan ilusi agama itu diperlukan; sehingga, kritik teologi harus bermutasi menjadi kritik politik yang bertujuan menghancurkan status quo secara praktis.",
+    "contentSummary": "Tulisan ini secara kuat menegaskan bahwa manusia menciptakan agama, bukan sebaliknya. Agama bertindak sebagai pelipur lara ('jantung-hati sebuah dunia tanpa hati') atas penindasan yang riil. Marx berargumen bahwa mencopot topeng teologis hanyalah langkah awal; tugas utamanya adalah mencopot 'topeng keterasingan dalam bentuk-bentuk yang tak suci', yaitu politik dan hukum. Ia meluncurkan pengutukan keras terhadap situasi Jerman pada 1843 yang dinilainya berada di bawah level sejarah (sebuah anakronisme) karena tidak mengalami kemajuan revolusioner seperti negara modern lainnya. Oleh karena itu, kritik tidak boleh sekadar menjadi argumen akademis, melainkan sebuah 'senjata' (pisau bedah) yang gairahnya adalah kemarahan untuk menghancurkan kekejian rezim saat itu. (Catatan: Teks primer dalam arsip lokal terpotong secara prematur dan tidak memuat bab mengenai emansipasi proletar secara penuh).",
+    "argumentStructure": [
+      "Dimulai dengan premis bahwa manusialah yang menciptakan agama karena masyarakat yang memproduksinya adalah dunia yang terbalik.",
+      "Kemudian menjabarkan peran fungsional agama sebagai protes terhadap kesengsaraan sekaligus sebagai candu rakyat yang mengilusionerkan realitas.",
+      "Argumen beralih bahwa kritik surga harus menjelma menjadi kritik politik dan hukum (dunia nyata).",
+      "Teks ditutup (dalam versi ekstraksi yang tersedia) dengan seruan perang/pengutukan tajam terhadap situasi Jerman yang terbelakang dan ketinggalan zaman dibanding sejarah negara-negara modern Eropa, di mana kritik kini harus berfungsi sebagai senjata fisik penghancur lawan."
+    ],
+    "significance": "Karya ini sangat terkenal karena penggalan kalimat 'Agama adalah candu rakyat'. Teks ini juga menandai pergeseran penting Marx dari sekadar filosof pemikir-kiri-Hegelian ke ranah praksis revolusioner, mengaitkan penderitaan spiritual langsung dengan struktur penindasan politik.",
     "sourceBasis": [
       "/mia/indonesia/archive/marx-engels/1844/PendahuluanSumbangan.html"
     ],
     "contextBasis": [],
-    "summaryStatus": "missing"
+    "summaryStatus": "partial"
   },
   "keluarga-suci": {
     "historicalContext": "",
@@ -1139,17 +1144,24 @@ export const workSummaries: Record<string, WorkSummary> = {
     "summaryStatus": "complete"
   },
   "tesis-tentang-feuerbach-versi-suntingan-engels": {
-    "historicalContext": "",
-    "mainProblem": "",
-    "mainThesis": "",
-    "contentSummary": "",
-    "argumentStructure": [],
-    "significance": "",
+    "historicalContext": "Tesis ini ditulis oleh Karl Marx pada musim semi tahun 1845 di Brussels. Karena Marx tidak pernah mempublikasikannya semasa hidupnya, Friedrich Engels menyunting dan menerbitkannya pada tahun 1888 sebagai lampiran dalam 'Ludwig Feuerbach dan Akhir Filsafat Jerman Klasik'. Engels melakukan perubahan editorial agar catatan-catatan kasar Marx lebih dapat dipahami oleh pembaca umum.",
+    "mainProblem": "Di mana letak kelemahan utama dari materialisme lama (termasuk materialisme Feuerbach) dalam memahami realitas, dan bagaimana filsafat baru harus mengatasi kelemahan tersebut?",
+    "mainThesis": "Kelemahan materialisme sebelumnya adalah memahami realitas hanya sebagai objek kontemplasi, bukan sebagai aktivitas indrawi manusia (praktik). Maka, kebenaran pemikiran manusia harus dibuktikan melalui praktik yang merevolusionerkan dunia.",
+    "contentSummary": "Marx mengkritik materialisme kontemplatif yang memisahkan manusia dari dunia sekitarnya dan menganggap esensi agama sekadar terlepas ke dalam 'esensi manusia' abstrak. Marx menegaskan bahwa esensi manusia sejatinya adalah himpunan relasi-relasi sosial, dan bahwa keadaan historis serta masyarakat adalah produk dari aktivitas manusia itu sendiri. Pembebasan sosial karenanya memerlukan revolusi praktis, di mana filsafat tidak lagi hanya bertugas menafsirkan dunia, melainkan mengubahnya.",
+    "argumentStructure": [
+      "Tesis 1: Mengkritik materialisme sebelumnya karena mengabaikan sisi aktif/subjektif dari keindrawian yang justru dikembangkan secara abstrak oleh idealisme.",
+      "Tesis 2: Menegaskan bahwa perdebatan tentang kebenaran pemikiran adalah perkara praktik, bukan sekadar teori.",
+      "Tesis 3-5: Menolak pandangan bahwa manusia murni produk keadaan pasif; mengkritik cara Feuerbach menyelesaikan keterasingan religius tanpa merevolusionerkan landasan sekulernya.",
+      "Tesis 6-7: Mendefinisikan ulang esensi manusia bukan sebagai individu abstrak spesies, melainkan sebagai keseluruhan relasi sosial yang terbentuk secara historis.",
+      "Tesis 8-10: Membedakan materialisme lama yang sudut pandangnya adalah 'masyarakat sipil' dengan materialisme baru yang sudut pandangnya adalah kemanusiaan yang bermasyarakat.",
+      "Tesis 11: Menyatakan bahwa tugas utama filsuf bukan lagi sekadar menafsirkan, tetapi mengubah dunia."
+    ],
+    "significance": "Merupakan salah satu dokumen filosofis awal terpenting yang memformulasikan fondasi materialisme historis dengan meletakkan 'praktik' (praxis) sebagai kriteria kebenaran dan agen perubahan sejarah.",
     "sourceBasis": [
       "/mia/indonesia/archive/marx-engels/18450401-tesisfeuerbachversisuntinganengels.html"
     ],
     "contextBasis": [],
-    "summaryStatus": "missing"
+    "summaryStatus": "complete"
   },
   "surat-marx-pada-p-v-annenkov": {
     "historicalContext": "",
@@ -1324,17 +1336,22 @@ export const workSummaries: Record<string, WorkSummary> = {
     "summaryStatus": "missing"
   },
   "kata-pengantar-pada-sebuah-sumbangan-untuk-kritik-terhadap-ekonomi-politik": {
-    "historicalContext": "",
-    "mainProblem": "",
-    "mainThesis": "",
-    "contentSummary": "",
-    "argumentStructure": [],
-    "significance": "",
+    "historicalContext": "Ditulis oleh Karl Marx pada Januari 1859 di London sebagai pendahuluan untuk karyanya yang menganalisis kapitalisme. Periode ini ditandai oleh studi intensif Marx terhadap ekonomi politik pasca-revolusi 1848 yang gagal.",
+    "mainProblem": "Bagaimana cara kerja dasar (anatomi) masyarakat dan apa motor penggerak yang menyebabkan terjadinya revolusi sosial dan sejarah peralihan zaman?",
+    "mainThesis": "Keseluruhan hubungan-hubungan produksi material (struktur ekonomi) adalah dasar nyata (fondasi) dari masyarakat, di mana hukum, politik, dan kesadaran sosial dibangun di atasnya (struktur atas). Eksistensi sosial manusialah yang menentukan kesadaran mereka, bukan sebaliknya.",
+    "contentSummary": "Marx menjelaskan perjalanan intelektualnya dari kritik terhadap filsafat hukum Hegel menuju ekonomi politik. Ia memformulasikan dalil intinya: tahap perkembangan kekuatan-kekuatan produksi material niscaya akan bertentangan dengan hubungan-hubungan produksi yang ada (sistem hak milik). Ketika hubungan tersebut berubah menjadi belenggu-belenggu bagi kekuatan produktif, sampailah masa revolusi sosial yang pada akhirnya mengubah keseluruhan struktur atas. Marx menegaskan bahwa tidak ada tata sosial pernah lenyap sebelum seluruh kekuatan produktifnya habis berkembang, dan formasi borjuis adalah bentuk antagonistis terakhir dari tahap prehistoris masyarakat manusia.",
+    "argumentStructure": [
+      "Membuka dengan jejak rekam sejarah intelektualnya sendiri dari studi filsafat hukum di Paris hingga kajian ekonomi politik intensif di London.",
+      "Kemudian merumuskan prinsip fondasional: hubungan-hubungan produksi membentuk struktur ekonomi riil (basis), dan dari situlah struktur atas lahir.",
+      "Argumen beralih kepada teori revolusi sosial yang terpicu saat kekuatan-kekuatan produksi material berkontradiksi dengan hubungan hak milik yang mengekangnya.",
+      "Teks ditutup dengan menyebutkan bahwa metode studi ilmiah ini membutuhkan penelitian tekun dan keberanian, dengan mengutip penyair Dante: 'Di sini semua sifat pengecut harus mati'."
+    ],
+    "significance": "Dokumen ini sering dianggap sebagai perumusan paling padat dan klasik dari konsepsi utama Marxis (Materialisme Historis), khususnya dalam menggunakan rumusan Struktur Ekonomi (basis) dan Struktur Atas (superstruktur).",
     "sourceBasis": [
       "/mia/indonesia/archive/marx-engels/1859/pengantar-kritik.html"
     ],
     "contextBasis": [],
-    "summaryStatus": "missing"
+    "summaryStatus": "complete"
   },
   "sebuah-sumbangan-pada-kritik-atas-ekonomi-politik-hal-61-64": {
     "historicalContext": "",
@@ -1433,17 +1450,22 @@ export const workSummaries: Record<string, WorkSummary> = {
     "summaryStatus": "missing"
   },
   "penghapusan-hak-milik-tanah": {
-    "historicalContext": "",
-    "mainProblem": "",
-    "mainThesis": "",
-    "contentSummary": "",
-    "argumentStructure": [],
-    "significance": "",
+    "historicalContext": "Ditulis oleh Karl Marx sebagai sebuah memorandum untuk Robert Applegarth pada 3 Desember 1869, yang dipersiapkan dalam rangka mendiskusikan persoalan hak milik tanah dalam gerakan buruh internasional (Internasional Pertama).",
+    "mainProblem": "Mengapa hak pemilikan pribadi atas tanah harus dihapuskan, dan bagaimana pertanian harus diorganisir setelah nasionalisasi tanah?",
+    "mainThesis": "Hak kepemilikan pribadi atas tanah pada dasarnya adalah hasil dari penaklukan dan kekerasan. Perkembangan ekonomi, pertumbuhan populasi, dan keharusan penerapan ilmu pengetahuan alam dalam pertanian menjadikan nasionalisasi tanah sebagai suatu keharusan sosial demi meningkatkan produksi dan menghapus eksploitasi kelas.",
+    "contentSummary": "Marx menolak argumen yang menggunakan 'hak alamiah' untuk membela kepemilikan tanah partikelir, karena sejarah membuktikan hak itu direbut dengan kekerasan. Ia membedakan kasus Perancis, di mana tanah dipecah-pecah ke petani kecil yang akhirnya menjadi musuh kemajuan sosial dan terhisap utang, dengan kebutuhan produksi massal modern. Marx berpendapat bahwa tanah tidak boleh sekadar dibagikan ke petani kecil atau asosiasi pedesaan, karena itu akan menciptakan sentralisasi keuntungan pada satu kelas. Tanah harus dinasionalisasi demi kepentingan seluruh bangsa (masyarakat terpusat), sehingga produksi pertanian dapat diselenggarakan secara rasional oleh asosiasi kaum 'produser' yang bebas dan sederajat.",
+    "argumentStructure": [
+      "Membuka dengan sanggahan bahwa kepemilikan privat adalah hak alamiah, melainkan hasil perebutan (penaklukan) paksa dalam sejarah.",
+      "Kemudian membahas mengapa pertanian masa kini membutuhkan sentralisasi dan permesinan secara skala besar yang mustahil dipenuhi oleh petani-petani berbidang kecil.",
+      "Mengambil contoh Perancis di mana pembagian bidang tanah ke kaum tani justru menciptakan kebodohan, beban pajak, dan memusuhi gerakan pekerja industrial.",
+      "Teks ditutup dengan kesimpulan polemis terhadap usulan Kongres Brussel 1868: tanah harus dinasionalisasi secara penuh untuk melenyapkan perbedaan kelas, bukan sekadar dipindahtangankan ke asosiasi pekerja pedesaan."
+    ],
+    "significance": "Memperjelas sikap ekonomi-politik Marx yang menentang redistribusi tanah ke kepemilikan kecil-kecilan (petani gurem) sebagai solusi sosialis, dan sebaliknya menuntut sentralisasi dan budidaya pertanian secara besar-besaran oleh negara atau masyarakat.",
     "sourceBasis": [
       "/mia/indonesia/archive/marx-engels/1869/PenghapusanHak.html"
     ],
     "contextBasis": [],
-    "summaryStatus": "missing"
+    "summaryStatus": "complete"
   },
   "masalah-perumahan": {
     "historicalContext": "",
@@ -1485,17 +1507,22 @@ export const workSummaries: Record<string, WorkSummary> = {
     "summaryStatus": "missing"
   },
   "mengenai-otoritas": {
-    "historicalContext": "",
-    "mainProblem": "",
-    "mainThesis": "",
-    "contentSummary": "",
-    "argumentStructure": [],
-    "significance": "",
+    "historicalContext": "Ditulis oleh Friedrich Engels pada tahun 1873 sebagai tanggapan polemik terhadap kaum anti-otoritas (anarkis) di dalam gerakan kelas pekerja Eropa pada saat itu.",
+    "mainProblem": "Apakah otoritas dapat dan harus dihapuskan sepenuhnya dalam produksi industri modern dan dalam revolusi sosial kelas pekerja?",
+    "mainThesis": "Otoritas adalah suatu keniscayaan yang lahir dari kondisi material produksi industri skala besar dan kerja kolektif. Menghapuskan otoritas secara mutlak tidak mungkin dilakukan tanpa menghancurkan industri itu sendiri, dan sebuah revolusi adalah tindakan yang paling otoriter secara inheren.",
+    "contentSummary": "Engels membantah gagasan anti-otoritas dengan menggunakan contoh pabrik pemintal kapas, rel kereta api, dan kapal laut. Ia menjelaskan bahwa produksi massal modern membutuhkan aksi gabungan dan ketundukan individual pada keputusan atau jadwal yang dipusatkan (despotisme mesin). Selanjutnya, ia mengkritik tuntutan anarkis untuk menghapuskan negara politik dalam satu malam. Engels menegaskan bahwa revolusi itu sendiri adalah proses pemaksaan kehendak (dengan senjata) oleh satu bagian populasi atas bagian lainnya, sehingga kelas pekerja membutuhkan otoritas untuk menundukkan perlawanan kaum reaksioner.",
+    "argumentStructure": [
+      "Engels membuka dengan mendefinisikan otoritas sebagai subordinasi pada kehendak pihak lain, lalu menyoroti bagaimana industri dan pertanian modern mensyaratkan aksi gabungan massal.",
+      "Kemudian membahas contoh operasional pabrik, rel kereta, dan kapal layar laut yang mutlak mensyaratkan sebuah otoritas agar tidak terjadi kekacauan dan kecelakaan.",
+      "Argumen beralih kepada kritik atas permainan kata anarkis yang mengganti istilah 'otoritas' menjadi sekadar 'tugas delegasi'.",
+      "Teks ditutup dengan pernyataan bahwa revolusi bersenjata (seperti Komune Paris) secara alamiah bersifat otoriter, dan menuntut penghapusan otoritas seketika adalah sebuah pengkhianatan atau kebingungan terhadap gerakan proletariat."
+    ],
+    "significance": "Karya polemik ini menjadi teks rujukan utama dalam membedakan teori Marxis tentang pentingnya kepemimpinan politik dan alat negara pasca-revolusi dengan teori anarkisme yang menolak segala bentuk otoritas.",
     "sourceBasis": [
       "/mia/indonesia/archive/marx-engels/1873/1873-MengenaiOtoritas.html"
     ],
     "contextBasis": [],
-    "summaryStatus": "missing"
+    "summaryStatus": "complete"
   },
   "ketidakacuhan-politik": {
     "historicalContext": "",
@@ -3503,7 +3530,9 @@ export const workSummaries: Record<string, WorkSummary> = {
 
 export const summaryAliases: Record<string, string> = {
   'sosialisme-utopis-dan-ilmiah': 'sosialisme-utopis-dan-sosialisme-ilmiah',
-  'tesis-tentang-feuerbach': 'tesis-tentang-feuerbach-versi-asli'
+  'tesis-tentang-feuerbach': 'tesis-tentang-feuerbach-versi-asli',
+  'pendahuluan-sumbangan-untuk-kritik-terhadap-filsaf': 'pendahuluan-sumbangan-untuk-kritik-terhadap-filsafat-hak-hegel',
+  'kata-pengantar-pada-sebuah-sumbangan-untuk-kritik-': 'kata-pengantar-pada-sebuah-sumbangan-untuk-kritik-terhadap-ekonomi-politik'
 };
 
 export function getWorkSummary(slug: string): WorkSummary | undefined {

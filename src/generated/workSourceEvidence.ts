@@ -16,6 +16,7 @@ export interface WorkEvidence {
   sources: SourceEvidence[];
   totalTextLength: number;
   extractionStatus: 'complete' | 'partial' | 'unavailable';
+  documentCoverage: 'full' | 'excerpt' | 'unknown';
 }
 
 export const workSourceEvidence: Record<string, WorkEvidence> = {
@@ -36,7 +37,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 30324,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "pejuang-wanita-pada-hari-hari-revolusi-oktober-besar": {
     "slug": "pejuang-wanita-pada-hari-hari-revolusi-oktober-besar",
@@ -54,7 +56,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 11365,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "apa-yang-harus-kita-pelajari-dan-apa-yang-harus-kita-kerjakan": {
     "slug": "apa-yang-harus-kita-pelajari-dan-apa-yang-harus-kita-kerjakan",
@@ -73,7 +76,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 6212,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "esensi-perang-gerilya": {
     "slug": "esensi-perang-gerilya",
@@ -92,7 +96,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 16803,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "tanggung-jawab-kelas-buruh-dalam-revolusi-kita": {
     "slug": "tanggung-jawab-kelas-buruh-dalam-revolusi-kita",
@@ -111,7 +116,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 65150,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "kader-tulang-punggung-revolusi": {
     "slug": "kader-tulang-punggung-revolusi",
@@ -130,7 +136,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 15648,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "sosialisme-dan-manusia-di-kuba": {
     "slug": "sosialisme-dan-manusia-di-kuba",
@@ -149,7 +156,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 43141,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "surat-che-kepada-anak-anaknya": {
     "slug": "surat-che-kepada-anak-anaknya",
@@ -168,7 +176,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 1054,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "surat-che-kepada-orang-tuanya": {
     "slug": "surat-che-kepada-orang-tuanya",
@@ -187,7 +196,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 1992,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "surat-selamat-tinggal-che-kepada-fidel-castro": {
     "slug": "surat-selamat-tinggal-che-kepada-fidel-castro",
@@ -206,7 +216,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 5020,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "surat-che-kepada-hildita": {
     "slug": "surat-che-kepada-hildita",
@@ -225,7 +236,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 2440,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "seruan-untuk-semua-kamerad-partai-komunis-tiongkok": {
     "slug": "seruan-untuk-semua-kamerad-partai-komunis-tiongkok",
@@ -244,7 +256,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 70403,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "tesis-mengenai-persoalan-kebangsaan-dan-kolonial": {
     "slug": "tesis-mengenai-persoalan-kebangsaan-dan-kolonial",
@@ -262,7 +275,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 19698,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "agitasi-dan-propaganda": {
     "slug": "agitasi-dan-propaganda",
@@ -281,7 +295,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 9666,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "karl-marx-beberapa-catatan-ringan": {
     "slug": "karl-marx-beberapa-catatan-ringan",
@@ -300,7 +315,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 33511,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "pengenalan-kepada-teori-ekonomi-marxis": {
     "slug": "pengenalan-kepada-teori-ekonomi-marxis",
@@ -322,7 +338,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 172278,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "gerakan-mahasiswa-revolusioner-teori-dan-praktek": {
     "slug": "gerakan-mahasiswa-revolusioner-teori-dan-praktek",
@@ -341,7 +358,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 85995,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "sejarah-internasional-i-dan-internasional-ii": {
     "slug": "sejarah-internasional-i-dan-internasional-ii",
@@ -357,7 +375,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 66685,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "pengantar-logika-marxisme": {
     "slug": "pengantar-logika-marxisme",
@@ -377,7 +396,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 68246,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "peran-individu-dalam-sejarah": {
     "slug": "peran-individu-dalam-sejarah",
@@ -404,7 +424,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 104227,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "masalah-masalah-dasar-marxisme": {
     "slug": "masalah-masalah-dasar-marxisme",
@@ -420,7 +441,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 279339,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "seni-dan-kehidupan-sosial": {
     "slug": "seni-dan-kehidupan-sosial",
@@ -436,7 +458,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 188158,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "sosialisme-utopian-abad-xix": {
     "slug": "sosialisme-utopian-abad-xix",
@@ -452,7 +475,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 173970,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "siapa-sahabat-rakyat-dan-bagaimana-mereka-memusuhi-kaum-sosial-demokrat": {
     "slug": "siapa-sahabat-rakyat-dan-bagaimana-mereka-memusuhi-kaum-sosial-demokrat",
@@ -585,7 +609,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 614283,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "selebaran-may-day-lenin-hari-libur-buruh-satu-mei": {
     "slug": "selebaran-may-day-lenin-hari-libur-buruh-satu-mei",
@@ -604,7 +629,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 8793,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "program-kita": {
     "slug": "program-kita",
@@ -623,7 +649,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 11448,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "deklarasi-dewan-editorial-iskra": {
     "slug": "deklarasi-dewan-editorial-iskra",
@@ -642,7 +669,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 18251,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "tugas-tugas-mendesak-gerakan-kita": {
     "slug": "tugas-tugas-mendesak-gerakan-kita",
@@ -661,7 +689,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 14672,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "dari-mana-kita-mulai": {
     "slug": "dari-mana-kita-mulai",
@@ -680,7 +709,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 30120,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "apa-yang-harus-dikerjakan": {
     "slug": "apa-yang-harus-dikerjakan",
@@ -810,7 +840,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 445421,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "agitasi-politik-dan-sudut-pandang-kelas": {
     "slug": "agitasi-politik-dan-sudut-pandang-kelas",
@@ -829,7 +860,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 17008,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "sebuah-surat-untuk-seorang-kamerad-mengenai-tugas-tugas-organisasional-kita": {
     "slug": "sebuah-surat-untuk-seorang-kamerad-mengenai-tugas-tugas-organisasional-kita",
@@ -848,7 +880,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 50605,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "kepada-kaum-miskin-desa": {
     "slug": "kepada-kaum-miskin-desa",
@@ -979,7 +1012,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 204467,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "tugas-tugas-demokratik-kaum-proletariat-revolusioner": {
     "slug": "tugas-tugas-demokratik-kaum-proletariat-revolusioner",
@@ -998,7 +1032,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 19164,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "sosialisme-borjuis-kecil-dan-sosialisme-proletar": {
     "slug": "sosialisme-borjuis-kecil-dan-sosialisme-proletar",
@@ -1018,7 +1053,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 26693,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "sosialisme-dan-kaum-tani": {
     "slug": "sosialisme-dan-kaum-tani",
@@ -1037,7 +1073,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 27410,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "sosialisme-dan-agama": {
     "slug": "sosialisme-dan-agama",
@@ -1056,7 +1093,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 12976,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "kebebasan-mengkritik-dan-kesatuan-tindakan": {
     "slug": "kebebasan-mengkritik-dan-kesatuan-tindakan",
@@ -1075,7 +1113,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 5022,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "pelajaran-dari-pemberontakan-moskow": {
     "slug": "pelajaran-dari-pemberontakan-moskow",
@@ -1094,7 +1133,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 19145,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "perang-gerilya": {
     "slug": "perang-gerilya",
@@ -1117,7 +1157,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 33476,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "viii-kongres-telah-menyimpulkan": {
     "slug": "viii-kongres-telah-menyimpulkan",
@@ -1136,7 +1177,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 15345,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "kekuatan-dan-kelemahan-revolusi-rusia": {
     "slug": "kekuatan-dan-kelemahan-revolusi-rusia",
@@ -1156,7 +1198,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 24447,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "marxisme-dan-revisionisme": {
     "slug": "marxisme-dan-revisionisme",
@@ -1175,7 +1218,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 23589,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "tentang-penilaian-revolusi-rusia": {
     "slug": "tentang-penilaian-revolusi-rusia",
@@ -1194,7 +1238,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 34869,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "sikap-partai-buruh-terhadap-agama": {
     "slug": "sikap-partai-buruh-terhadap-agama",
@@ -1213,7 +1258,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 40611,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "pelajaran-dari-revolusi": {
     "slug": "pelajaran-dari-revolusi",
@@ -1232,7 +1278,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 18045,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "kampanye-pemilihan-untuk-duma-keempat-dan-tugas-tugas-kaum-sosial-demokrat-revolusioner": {
     "slug": "kampanye-pemilihan-untuk-duma-keempat-dan-tugas-tugas-kaum-sosial-demokrat-revolusioner",
@@ -1251,7 +1298,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 20879,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "kenaikan-revolusioner": {
     "slug": "kenaikan-revolusioner",
@@ -1270,7 +1318,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 24715,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "situasi-di-dalam-pbsdr-dan-tugas-tugas-segera-partai": {
     "slug": "situasi-di-dalam-pbsdr-dan-tugas-tugas-segera-partai",
@@ -1292,7 +1341,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 22519,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "tiga-sumber-dan-tiga-komponen-marxisme": {
     "slug": "tiga-sumber-dan-tiga-komponen-marxisme",
@@ -1314,7 +1364,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 13353,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "takdir-historis-bagi-doktrin-karl-marx": {
     "slug": "takdir-historis-bagi-doktrin-karl-marx",
@@ -1336,7 +1387,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 8369,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "hari-jadi-pravda": {
     "slug": "hari-jadi-pravda",
@@ -1355,7 +1407,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 8147,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "di-ambang-batas": {
     "slug": "di-ambang-batas",
@@ -1374,7 +1427,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 5573,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "revolusi-sosialis-dan-hak-sebuah-bangsa-untuk-menentukan-nasib-sendiri": {
     "slug": "revolusi-sosialis-dan-hak-sebuah-bangsa-untuk-menentukan-nasib-sendiri",
@@ -1394,7 +1448,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 39416,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "imperialisme-sebagai-tahapan-khusus-kapitalisme": {
     "slug": "imperialisme-sebagai-tahapan-khusus-kapitalisme",
@@ -1413,7 +1468,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 28477,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "tugas-kaum-proletar-dalam-revolusi-sekarang-ini-tesis-april": {
     "slug": "tugas-kaum-proletar-dalam-revolusi-sekarang-ini-tesis-april",
@@ -1433,7 +1489,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 21677,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "kekuasaan-rangkap": {
     "slug": "kekuasaan-rangkap",
@@ -1452,7 +1509,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 11112,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "suatu-pemerintah-revolusioner-yang-kuat": {
     "slug": "suatu-pemerintah-revolusioner-yang-kuat",
@@ -1471,7 +1529,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 8473,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "apakah-kekuasaan-rangkap-telah-lenyap": {
     "slug": "apakah-kekuasaan-rangkap-telah-lenyap",
@@ -1490,7 +1549,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 8059,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "sifat-merugikan-omong-kosong": {
     "slug": "sifat-merugikan-omong-kosong",
@@ -1509,7 +1569,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 8767,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "bolshevisme-dan-demoralisasi-tentara": {
     "slug": "bolshevisme-dan-demoralisasi-tentara",
@@ -1528,7 +1589,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 6909,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "keruntuhan-ekonomi-dan-perjuangan-proletariat-melawannya": {
     "slug": "keruntuhan-ekonomi-dan-perjuangan-proletariat-melawannya",
@@ -1547,7 +1609,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 9780,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "titik-balik": {
     "slug": "titik-balik",
@@ -1566,7 +1629,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 5842,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "sumber-kelas-para-cavaignac-masa-ini-dan-masa-yang-akan-datang": {
     "slug": "sumber-kelas-para-cavaignac-masa-ini-dan-masa-yang-akan-datang",
@@ -1585,7 +1649,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 9452,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "awal-bonapartisme": {
     "slug": "awal-bonapartisme",
@@ -1604,7 +1669,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 12948,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "negara-dan-revolusi": {
     "slug": "negara-dan-revolusi",
@@ -1728,7 +1794,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 283585,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "surat-lenin-untuk-komite-pusat-pbsdr": {
     "slug": "surat-lenin-untuk-komite-pusat-pbsdr",
@@ -1747,7 +1814,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 8614,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "tentang-kompromi": {
     "slug": "tentang-kompromi",
@@ -1766,7 +1834,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 18543,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "marxisme-dan-pemberontakan": {
     "slug": "marxisme-dan-pemberontakan",
@@ -1786,7 +1855,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 21546,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "draft-regulasi-atas-kontrol-buruh": {
     "slug": "draft-regulasi-atas-kontrol-buruh",
@@ -1805,7 +1875,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 2871,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "aliansi-antara-kelas-buruh-dan-petani-terhisap": {
     "slug": "aliansi-antara-kelas-buruh-dan-petani-terhisap",
@@ -1825,7 +1896,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 5863,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "tesis-mengenai-majelis-konstituante": {
     "slug": "tesis-mengenai-majelis-konstituante",
@@ -1844,7 +1916,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 12616,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "revolusi-proletariat-dan-kautsky-si-pengkhianat": {
     "slug": "revolusi-proletariat-dan-kautsky-si-pengkhianat",
@@ -2008,7 +2081,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 282721,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "pemilihan-majelis-konstituante-dan-kediktatoran-proletariat": {
     "slug": "pemilihan-majelis-konstituante-dan-kediktatoran-proletariat",
@@ -2034,7 +2108,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 78671,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "kepada-para-pekerja-perempuan": {
     "slug": "kepada-para-pekerja-perempuan",
@@ -2053,7 +2128,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 2823,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "komunisme-sayap-kiri-penyakit-kekanak-kanakan": {
     "slug": "komunisme-sayap-kiri-penyakit-kekanak-kanakan",
@@ -2203,7 +2279,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 268665,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "laporan-komisi-tentang-permasalahan-nasional-dan-kolonial": {
     "slug": "laporan-komisi-tentang-permasalahan-nasional-dan-kolonial",
@@ -2222,7 +2299,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 17568,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "tugas-tugas-liga-pemuda": {
     "slug": "tugas-tugas-liga-pemuda",
@@ -2241,7 +2319,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 47108,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "pendahuluan-sumbangan-untuk-kritik-terhadap-filsafat-hak-hegel": {
     "slug": "pendahuluan-sumbangan-untuk-kritik-terhadap-filsafat-hak-hegel",
@@ -2260,7 +2339,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 7994,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "excerpt"
   },
   "keluarga-suci": {
     "slug": "keluarga-suci",
@@ -2420,7 +2500,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 587593,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "tesis-tentang-feuerbach-versi-asli": {
     "slug": "tesis-tentang-feuerbach-versi-asli",
@@ -2450,7 +2531,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 5284,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "tesis-tentang-feuerbach-versi-suntingan-engels": {
     "slug": "tesis-tentang-feuerbach-versi-suntingan-engels",
@@ -2480,7 +2562,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 5764,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "surat-marx-pada-p-v-annenkov": {
     "slug": "surat-marx-pada-p-v-annenkov",
@@ -2499,7 +2582,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 33612,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "kemiskinan-filsafat": {
     "slug": "kemiskinan-filsafat",
@@ -2709,7 +2793,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 435048,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "anggaran-dasar-liga-komunis": {
     "slug": "anggaran-dasar-liga-komunis",
@@ -2729,7 +2814,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 11064,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "kerja-upahan-dan-kapital": {
     "slug": "kerja-upahan-dan-kapital",
@@ -2802,7 +2888,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 94496,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "prinsip-prinsip-komunisme": {
     "slug": "prinsip-prinsip-komunisme",
@@ -2822,7 +2909,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 59242,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "mengenai-masalah-perdagangan-bebas": {
     "slug": "mengenai-masalah-perdagangan-bebas",
@@ -2841,7 +2929,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 37441,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "manifesto-partai-komunis": {
     "slug": "manifesto-partai-komunis",
@@ -2908,7 +2997,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 194887,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "perang-tani-di-jerman": {
     "slug": "perang-tani-di-jerman",
@@ -3066,7 +3156,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 332438,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "brumaire-xviii-louis-bonaparte": {
     "slug": "brumaire-xviii-louis-bonaparte",
@@ -3197,7 +3288,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 285710,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "kata-pengantar-pada-sebuah-sumbangan-untuk-kritik-terhadap-ekonomi-politik": {
     "slug": "kata-pengantar-pada-sebuah-sumbangan-untuk-kritik-terhadap-ekonomi-politik",
@@ -3216,7 +3308,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 12607,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "sebuah-sumbangan-pada-kritik-atas-ekonomi-politik-hal-61-64": {
     "slug": "sebuah-sumbangan-pada-kritik-atas-ekonomi-politik-hal-61-64",
@@ -3236,7 +3329,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 8904,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "tentang-proudhon": {
     "slug": "tentang-proudhon",
@@ -3256,7 +3350,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 20754,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "upah-harga-dan-laba": {
     "slug": "upah-harga-dan-laba",
@@ -3291,7 +3386,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 134740,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "pdf-format": {
     "slug": "pdf-format",
@@ -3307,7 +3403,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 135209,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "surat-marx-pada-j-b-schweitzer": {
     "slug": "surat-marx-pada-j-b-schweitzer",
@@ -3326,7 +3423,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 20717,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "kapital-i": {
     "slug": "kapital-i",
@@ -3349,7 +3447,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 36617,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "tentang-das-kapital-marx": {
     "slug": "tentang-das-kapital-marx",
@@ -3365,7 +3464,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 287798,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "penghapusan-hak-milik-tanah": {
     "slug": "penghapusan-hak-milik-tanah",
@@ -3385,7 +3485,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 7458,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "masalah-perumahan": {
     "slug": "masalah-perumahan",
@@ -3401,7 +3502,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 257450,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "surat-kepada-cuno-theodor-24-januari-1872": {
     "slug": "surat-kepada-cuno-theodor-24-januari-1872",
@@ -3421,7 +3523,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 5391,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "tentang-kongres-den-haag": {
     "slug": "tentang-kongres-den-haag",
@@ -3441,7 +3544,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 6653,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "mengenai-otoritas": {
     "slug": "mengenai-otoritas",
@@ -3460,7 +3564,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 9021,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "ketidakacuhan-politik": {
     "slug": "ketidakacuhan-politik",
@@ -3479,7 +3584,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 14015,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "peranan-yang-dimainkan-kerja-dalam-peralihan-dari-kera-ke-manusia": {
     "slug": "peranan-yang-dimainkan-kerja-dalam-peralihan-dari-kera-ke-manusia",
@@ -3499,7 +3605,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 35147,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "anti-duhring": {
     "slug": "anti-duhring",
@@ -3515,7 +3622,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 1038617,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "kata-pengantar-lama-pada-anti-d-hring-tentang-dialektika": {
     "slug": "kata-pengantar-lama-pada-anti-d-hring-tentang-dialektika",
@@ -3534,7 +3642,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 21959,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "surat-marx-dan-engels-kepada-bebel-liebknecht-bracke-dan-lainnya-surat-edaran": {
     "slug": "surat-marx-dan-engels-kepada-bebel-liebknecht-bracke-dan-lainnya-surat-edaran",
@@ -3552,7 +3661,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 24341,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "sosialisme-utopis-dan-sosialisme-ilmiah": {
     "slug": "sosialisme-utopis-dan-sosialisme-ilmiah",
@@ -3626,7 +3736,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 197624,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "upah-sehari-yang-layak-bagi-kerja-sehari-yang-layak": {
     "slug": "upah-sehari-yang-layak-bagi-kerja-sehari-yang-layak",
@@ -3645,7 +3756,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 7467,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "klas-klas-masyarakat-diperlukan-dan-berlebihan": {
     "slug": "klas-klas-masyarakat-diperlukan-dan-berlebihan",
@@ -3664,7 +3776,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 9490,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "dialektika": {
     "slug": "dialektika",
@@ -3683,7 +3796,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 16914,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "marx-dan-neue-rheinische-zeitung-1848-49": {
     "slug": "marx-dan-neue-rheinische-zeitung-1848-49",
@@ -3702,7 +3816,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 31355,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "bag-1": {
     "slug": "bag-1",
@@ -3718,7 +3833,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 419190,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "bag-2": {
     "slug": "bag-2",
@@ -3734,7 +3850,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 544741,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "bag-3": {
     "slug": "bag-3",
@@ -3750,7 +3867,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 513085,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "feuerbach-dan-akhir-filsafat-klasik-jerman": {
     "slug": "feuerbach-dan-akhir-filsafat-klasik-jerman",
@@ -3770,7 +3888,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 4270,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "surat-engels-untuk-gerson-trier-di-copenhagen-18-desember-1889": {
     "slug": "surat-engels-untuk-gerson-trier-di-copenhagen-18-desember-1889",
@@ -3790,7 +3909,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 3650,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "bab-1-20": {
     "slug": "bab-1-20",
@@ -3806,7 +3926,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 984630,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "bab-21-36": {
     "slug": "bab-21-36",
@@ -3822,7 +3943,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 809913,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "bab-37-43": {
     "slug": "bab-37-43",
@@ -3838,7 +3960,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 317176,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "bab-44-52": {
     "slug": "bab-44-52",
@@ -3854,7 +3977,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 515754,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "dengan-trotsky-hingga-akhir": {
     "slug": "dengan-trotsky-hingga-akhir",
@@ -3873,7 +3997,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 82724,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "bagaimana-itu-terjadi": {
     "slug": "bagaimana-itu-terjadi",
@@ -3892,7 +4017,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 26396,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "tentang-optimisme-dan-pesimisme": {
     "slug": "tentang-optimisme-dan-pesimisme",
@@ -3912,7 +4038,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 2582,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "kaum-proletar-dan-revolusi": {
     "slug": "kaum-proletar-dan-revolusi",
@@ -3932,7 +4059,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 25952,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "hasil-dan-prospek": {
     "slug": "hasil-dan-prospek",
@@ -4134,7 +4262,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 294722,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "kebangkrutan-terorisme-individual": {
     "slug": "kebangkrutan-terorisme-individual",
@@ -4153,7 +4282,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 10217,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "kaum-intelektual-dan-sosialisme": {
     "slug": "kaum-intelektual-dan-sosialisme",
@@ -4172,7 +4302,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 36513,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "mengapa-kaum-marxis-menentang-terorisme-individual": {
     "slug": "mengapa-kaum-marxis-menentang-terorisme-individual",
@@ -4191,7 +4322,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 11300,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "pasifisme-sebagai-pelayan-imperialisme": {
     "slug": "pasifisme-sebagai-pelayan-imperialisme",
@@ -4210,7 +4342,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 22796,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "sandiwara-kekuasaan-ganda": {
     "slug": "sandiwara-kekuasaan-ganda",
@@ -4229,7 +4362,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 24605,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "dengan-darah-dan-besi": {
     "slug": "dengan-darah-dan-besi",
@@ -4248,7 +4382,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 9417,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "pernyataan-trotsky-mengenai-publikasi-perjanjian-perjanjian-rahasia": {
     "slug": "pernyataan-trotsky-mengenai-publikasi-perjanjian-perjanjian-rahasia",
@@ -4267,7 +4402,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 3574,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "nasionalisme-dalam-lenin": {
     "slug": "nasionalisme-dalam-lenin",
@@ -4286,7 +4422,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 9565,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "pelajaran-komune-paris": {
     "slug": "pelajaran-komune-paris",
@@ -4305,7 +4442,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 33648,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "tugas-tugas-pendidikan-komunis": {
     "slug": "tugas-tugas-pendidikan-komunis",
@@ -4324,7 +4462,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 11319,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "apakah-budaya-proletar-itu-dan-mungkinkah-ada": {
     "slug": "apakah-budaya-proletar-itu-dan-mungkinkah-ada",
@@ -4343,7 +4482,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 34438,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "akar-dan-fungsi-sosial-dunia-sastra": {
     "slug": "akar-dan-fungsi-sosial-dunia-sastra",
@@ -4362,7 +4502,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 28311,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "manusia-tidak-hidup-dari-politik-saja": {
     "slug": "manusia-tidak-hidup-dari-politik-saja",
@@ -4381,7 +4522,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 26080,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "birokratisme-dan-kelompok-faksi": {
     "slug": "birokratisme-dan-kelompok-faksi",
@@ -4400,7 +4542,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 28733,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "kebijakan-kaum-komunis-terhadap-seni": {
     "slug": "kebijakan-kaum-komunis-terhadap-seni",
@@ -4419,7 +4562,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 28495,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "pelajaran-revolusi-oktober": {
     "slug": "pelajaran-revolusi-oktober",
@@ -4448,7 +4592,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 181559,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "kebudayaan-dan-sosialisme": {
     "slug": "kebudayaan-dan-sosialisme",
@@ -4467,7 +4612,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 63258,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "revolusi-permanen": {
     "slug": "revolusi-permanen",
@@ -4630,7 +4776,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 405410,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "sepucuk-surat-untuk-kaum-trotskis-amerika": {
     "slug": "sepucuk-surat-untuk-kaum-trotskis-amerika",
@@ -4650,7 +4797,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 16725,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "kehidupanku": {
     "slug": "kehidupanku",
@@ -4726,7 +4874,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 209680,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "problem-problem-revolusi-italia": {
     "slug": "problem-problem-revolusi-italia",
@@ -4745,7 +4894,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 27299,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "masalah-persatuan-serikat-buruh": {
     "slug": "masalah-persatuan-serikat-buruh",
@@ -4764,7 +4914,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 31193,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "kontrol-buruh-dalam-produksi": {
     "slug": "kontrol-buruh-dalam-produksi",
@@ -4783,7 +4934,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 21229,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "membela-revolusi-oktober": {
     "slug": "membela-revolusi-oktober",
@@ -4802,7 +4954,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 67598,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "oposisi-kiri-internasional-tugas-tugas-dan-metode-metodenya": {
     "slug": "oposisi-kiri-internasional-tugas-tugas-dan-metode-metodenya",
@@ -4821,7 +4974,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 43280,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "kpd-atau-partai-baru-i": {
     "slug": "kpd-atau-partai-baru-i",
@@ -4840,7 +4994,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 6695,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "kpd-atau-partai-baru-ii": {
     "slug": "kpd-atau-partai-baru-ii",
@@ -4859,7 +5014,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 1410,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "kpd-atau-partai-baru-iii": {
     "slug": "kpd-atau-partai-baru-iii",
@@ -4878,7 +5034,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 7554,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "kita-perlu-membangun-partai-partai-komunis-dan-internasional-baru": {
     "slug": "kita-perlu-membangun-partai-partai-komunis-dan-internasional-baru",
@@ -4897,7 +5054,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 21684,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "bonapartisme-dan-fasisme": {
     "slug": "bonapartisme-dan-fasisme",
@@ -4916,7 +5074,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 22988,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "beberapa-catatan-tentang-koran-revolution": {
     "slug": "beberapa-catatan-tentang-koran-revolution",
@@ -4935,7 +5094,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 6356,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "jika-amerika-menjalankan-komunisme": {
     "slug": "jika-amerika-menjalankan-komunisme",
@@ -4954,7 +5114,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 22874,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "tentang-problem-problem-organisasional": {
     "slug": "tentang-problem-problem-organisasional",
@@ -4973,7 +5134,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 18342,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "apakah-koran-massa-itu": {
     "slug": "apakah-koran-massa-itu",
@@ -4992,7 +5154,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 20352,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "revolusi-yang-dikhianati": {
     "slug": "revolusi-yang-dikhianati",
@@ -5206,7 +5369,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 706980,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "stalinisme-dan-bolshevisme": {
     "slug": "stalinisme-dan-bolshevisme",
@@ -5225,7 +5389,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 46455,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "90-tahun-manifesto-komunis": {
     "slug": "90-tahun-manifesto-komunis",
@@ -5244,7 +5409,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 33696,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "beberapa-patah-kata-tentang-lutte-ouvriere": {
     "slug": "beberapa-patah-kata-tentang-lutte-ouvriere",
@@ -5263,7 +5429,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 3136,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "mengenai-sentralisme-demokratis": {
     "slug": "mengenai-sentralisme-demokratis",
@@ -5282,7 +5449,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 6786,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "koran-pabrik-dan-jurnal-teoretis": {
     "slug": "koran-pabrik-dan-jurnal-teoretis",
@@ -5301,7 +5469,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 6744,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "hingar-bingar-kronstadt": {
     "slug": "hingar-bingar-kronstadt",
@@ -5328,7 +5497,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 33521,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "nasionalisasi-industri-dan-kontrol-buruh": {
     "slug": "nasionalisasi-industri-dan-kontrol-buruh",
@@ -5347,7 +5517,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 11954,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "program-transisional": {
     "slug": "program-transisional",
@@ -5368,7 +5539,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 130516,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "diskusi-dengan-trotsky-mengenai-program-transisional": {
     "slug": "diskusi-dengan-trotsky-mengenai-program-transisional",
@@ -5387,7 +5559,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 35650,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "sekali-lagi-mengenai-pemberontakan-kronstadt": {
     "slug": "sekali-lagi-mengenai-pemberontakan-kronstadt",
@@ -5406,7 +5579,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 6091,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "semangat-pengorbanan-mengenai-keuangan": {
     "slug": "semangat-pengorbanan-mengenai-keuangan",
@@ -5425,7 +5599,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 2948,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "problem-problem-socialist-appeal": {
     "slug": "problem-problem-socialist-appeal",
@@ -5444,7 +5619,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 3830,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "abc-dialektika-materialis": {
     "slug": "abc-dialektika-materialis",
@@ -5465,7 +5641,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 34606,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "mengenai-masalah-yahudi-saduran-dari-1937-1940": {
     "slug": "mengenai-masalah-yahudi-saduran-dari-1937-1940",
@@ -5487,7 +5664,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 14004,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "partai-kelas-dan-kepemimpinan": {
     "slug": "partai-kelas-dan-kepemimpinan",
@@ -5507,7 +5685,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 33997,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "fasisme-apa-itu-dan-bagaimana-melawannya": {
     "slug": "fasisme-apa-itu-dan-bagaimana-melawannya",
@@ -5544,7 +5723,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 94964,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "reformasi-atau-revolusi": {
     "slug": "reformasi-atau-revolusi",
@@ -5572,7 +5752,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 152626,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "stagnasi-dan-kemajuan-marxisme": {
     "slug": "stagnasi-dan-kemajuan-marxisme",
@@ -5591,7 +5772,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 16742,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "pemogokan-massa": {
     "slug": "pemogokan-massa",
@@ -5614,7 +5796,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 101312,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "gagasan-may-day-bergerak-maju": {
     "slug": "gagasan-may-day-bergerak-maju",
@@ -5633,7 +5816,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 8992,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "parlemen-atau-soviet": {
     "slug": "parlemen-atau-soviet",
@@ -5763,7 +5947,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 234547,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "si-semarang-dan-onderwijs": {
     "slug": "si-semarang-dan-onderwijs",
@@ -5789,7 +5974,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 40556,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "komunisme-dan-pan-islamisme": {
     "slug": "komunisme-dan-pan-islamisme",
@@ -5808,7 +5994,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 11370,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "menuju-republik-indonesia-naar-de-republiek-indonesia": {
     "slug": "menuju-republik-indonesia-naar-de-republiek-indonesia",
@@ -5839,7 +6026,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 106354,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "semangat-muda": {
     "slug": "semangat-muda",
@@ -5864,7 +6052,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 166846,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "aksi-massa": {
     "slug": "aksi-massa",
@@ -6070,7 +6259,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 215640,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "madilog": {
     "slug": "madilog",
@@ -6202,7 +6392,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 1040047,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "politik": {
     "slug": "politik",
@@ -6229,7 +6420,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 69091,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "rencana-ekonomi-berjuang": {
     "slug": "rencana-ekonomi-berjuang",
@@ -6254,7 +6446,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 140180,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "muslihat": {
     "slug": "muslihat",
@@ -6279,7 +6472,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 86812,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "manifesto-jakarta": {
     "slug": "manifesto-jakarta",
@@ -6299,7 +6493,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 63360,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "situasi-politik-luar-dan-dalam-negeri": {
     "slug": "situasi-politik-luar-dan-dalam-negeri",
@@ -6318,7 +6513,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 71678,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "thesis": {
     "slug": "thesis",
@@ -6338,7 +6534,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 186909,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "kuhandel-di-kaliurang": {
     "slug": "kuhandel-di-kaliurang",
@@ -6357,7 +6554,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 14308,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "getrennt-marschieren-vereint-schlagen-berpisah-kita-berjuang-bersama-kita-memukul": {
     "slug": "getrennt-marschieren-vereint-schlagen-berpisah-kita-berjuang-bersama-kita-memukul",
@@ -6376,7 +6574,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 20442,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "gerpolek-gerilya-politik-ekonomi": {
     "slug": "gerpolek-gerilya-politik-ekonomi",
@@ -6412,7 +6611,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 164484,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "pandangan-dan-langkah-partai-rakyat": {
     "slug": "pandangan-dan-langkah-partai-rakyat",
@@ -6431,7 +6631,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 36757,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "uraian-mendadak": {
     "slug": "uraian-mendadak",
@@ -6450,7 +6651,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 82864,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "proklamasi-17-8-1945-isi-dan-pelaksanaannya": {
     "slug": "proklamasi-17-8-1945-isi-dan-pelaksanaannya",
@@ -6470,7 +6672,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 19288,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "pandangan-hidup": {
     "slug": "pandangan-hidup",
@@ -6490,7 +6693,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 142045,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "islam-dalam-tinjauan-madilog": {
     "slug": "islam-dalam-tinjauan-madilog",
@@ -6510,7 +6714,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 26572,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "sambutan-murba": {
     "slug": "sambutan-murba",
@@ -6529,7 +6734,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 7575,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "hukum-revolusi": {
     "slug": "hukum-revolusi",
@@ -6548,7 +6754,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 10642,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "dari-ir-soekarno-sampai-ke-presiden-soekarno": {
     "slug": "dari-ir-soekarno-sampai-ke-presiden-soekarno",
@@ -6568,7 +6775,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 25416,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "keterangan-ringkas-tentang-program-maksimum": {
     "slug": "keterangan-ringkas-tentang-program-maksimum",
@@ -6587,7 +6795,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 29615,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "nasrani-yahudi-dalam-tinjauan-madilog": {
     "slug": "nasrani-yahudi-dalam-tinjauan-madilog",
@@ -6606,13 +6815,15 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 37044,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "arsip-tan-malaka-bahasa-inggris": {
     "slug": "arsip-tan-malaka-bahasa-inggris",
     "sources": [],
     "totalTextLength": 0,
-    "extractionStatus": "unavailable"
+    "extractionStatus": "unavailable",
+    "documentCoverage": "full"
   },
   "manifesto-komunis": {
     "slug": "manifesto-komunis",
@@ -6679,7 +6890,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 194887,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "tesis-tentang-feuerbach": {
     "slug": "tesis-tentang-feuerbach",
@@ -6709,7 +6921,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 5284,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "brumaire-xviii": {
     "slug": "brumaire-xviii",
@@ -6840,7 +7053,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 285710,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "kapital-jilid-1": {
     "slug": "kapital-jilid-1",
@@ -6863,7 +7077,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 36617,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "kapital-jilid-2": {
     "slug": "kapital-jilid-2",
@@ -6897,7 +7112,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 1477016,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "kapital-jilid-3": {
     "slug": "kapital-jilid-3",
@@ -6940,7 +7156,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 2627473,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "sosialisme-utopis-dan-ilmiah": {
     "slug": "sosialisme-utopis-dan-ilmiah",
@@ -7014,7 +7231,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 197624,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "imperialisme": {
     "slug": "imperialisme",
@@ -7033,7 +7251,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 28477,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "tesis-april": {
     "slug": "tesis-april",
@@ -7053,7 +7272,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 21677,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "naar-de-republiek-indonesia": {
     "slug": "naar-de-republiek-indonesia",
@@ -7084,7 +7304,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 106354,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "gerpolek": {
     "slug": "gerpolek",
@@ -7120,13 +7341,15 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 164484,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "dari-penjara-ke-penjara": {
     "slug": "dari-penjara-ke-penjara",
     "sources": [],
     "totalTextLength": 0,
-    "extractionStatus": "unavailable"
+    "extractionStatus": "unavailable",
+    "documentCoverage": "full"
   },
   "pendahuluan-sumbangan-untuk-kritik-terhadap-filsaf": {
     "slug": "pendahuluan-sumbangan-untuk-kritik-terhadap-filsaf",
@@ -7145,7 +7368,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 7994,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "excerpt"
   },
   "kata-pengantar-pada-sebuah-sumbangan-untuk-kritik-": {
     "slug": "kata-pengantar-pada-sebuah-sumbangan-untuk-kritik-",
@@ -7164,7 +7388,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 12607,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "sebuah-sumbangan-pada-kritik-atas-ekonomi-politik-": {
     "slug": "sebuah-sumbangan-pada-kritik-atas-ekonomi-politik-",
@@ -7184,7 +7409,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 8904,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "peranan-yang-dimainkan-kerja-dalam-peralihan-dari-": {
     "slug": "peranan-yang-dimainkan-kerja-dalam-peralihan-dari-",
@@ -7204,7 +7430,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 35147,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "kata-pengantar-lama-pada-anti-d-hring-tentang-dial": {
     "slug": "kata-pengantar-lama-pada-anti-d-hring-tentang-dial",
@@ -7223,7 +7450,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 21959,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "surat-marx-dan-engels-kepada-bebel-liebknecht-brac": {
     "slug": "surat-marx-dan-engels-kepada-bebel-liebknecht-brac",
@@ -7241,7 +7469,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 24341,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "upah-sehari-yang-layak-bagi-kerja-sehari-yang-laya": {
     "slug": "upah-sehari-yang-layak-bagi-kerja-sehari-yang-laya",
@@ -7260,7 +7489,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 7467,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "surat-engels-untuk-gerson-trier-di-copenhagen-18-d": {
     "slug": "surat-engels-untuk-gerson-trier-di-copenhagen-18-d",
@@ -7280,7 +7510,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 3650,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "sebuah-surat-untuk-seorang-kamerad-mengenai-tugas-": {
     "slug": "sebuah-surat-untuk-seorang-kamerad-mengenai-tugas-",
@@ -7299,7 +7530,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 50605,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "tugas-tugas-demokratik-kaum-proletariat-revolusion": {
     "slug": "tugas-tugas-demokratik-kaum-proletariat-revolusion",
@@ -7318,7 +7550,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 19164,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "kampanye-pemilihan-untuk-duma-keempat-dan-tugas-tu": {
     "slug": "kampanye-pemilihan-untuk-duma-keempat-dan-tugas-tu",
@@ -7337,7 +7570,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 20879,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "situasi-di-dalam-pbsdr-dan-tugas-tugas-segera-part": {
     "slug": "situasi-di-dalam-pbsdr-dan-tugas-tugas-segera-part",
@@ -7359,7 +7593,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 22519,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "revolusi-sosialis-dan-hak-sebuah-bangsa-untuk-mene": {
     "slug": "revolusi-sosialis-dan-hak-sebuah-bangsa-untuk-mene",
@@ -7379,7 +7614,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 39416,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "tugas-kaum-proletar-dalam-revolusi-sekarang-ini-te": {
     "slug": "tugas-kaum-proletar-dalam-revolusi-sekarang-ini-te",
@@ -7399,7 +7635,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 21677,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "keruntuhan-ekonomi-dan-perjuangan-proletariat-mela": {
     "slug": "keruntuhan-ekonomi-dan-perjuangan-proletariat-mela",
@@ -7418,7 +7655,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 9780,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "sumber-kelas-para-cavaignac-masa-ini-dan-masa-yang": {
     "slug": "sumber-kelas-para-cavaignac-masa-ini-dan-masa-yang",
@@ -7437,7 +7675,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 9452,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "pemilihan-majelis-konstituante-dan-kediktatoran-pr": {
     "slug": "pemilihan-majelis-konstituante-dan-kediktatoran-pr",
@@ -7463,7 +7702,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 78671,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "laporan-komisi-tentang-permasalahan-nasional-dan-k": {
     "slug": "laporan-komisi-tentang-permasalahan-nasional-dan-k",
@@ -7482,7 +7722,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 17568,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "pernyataan-trotsky-mengenai-publikasi-perjanjian-p": {
     "slug": "pernyataan-trotsky-mengenai-publikasi-perjanjian-p",
@@ -7501,7 +7742,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 3574,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "oposisi-kiri-internasional-tugas-tugas-dan-metode-": {
     "slug": "oposisi-kiri-internasional-tugas-tugas-dan-metode-",
@@ -7520,7 +7762,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 43280,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "kita-perlu-membangun-partai-partai-komunis-dan-int": {
     "slug": "kita-perlu-membangun-partai-partai-komunis-dan-int",
@@ -7539,7 +7782,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 21684,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "tahun-manifesto-komunis": {
     "slug": "tahun-manifesto-komunis",
@@ -7558,7 +7802,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 33696,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "diskusi-dengan-trotsky-mengenai-program-transision": {
     "slug": "diskusi-dengan-trotsky-mengenai-program-transision",
@@ -7577,7 +7822,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 35650,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "apa-yang-harus-kita-pelajari-dan-apa-yang-harus-ki": {
     "slug": "apa-yang-harus-kita-pelajari-dan-apa-yang-harus-ki",
@@ -7596,7 +7842,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 6212,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "menuju-republik-indonesia-naar-de-republiek-indone": {
     "slug": "menuju-republik-indonesia-naar-de-republiek-indone",
@@ -7627,7 +7874,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 106354,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "getrennt-marschieren-vereint-schlagen-berpisah-kit": {
     "slug": "getrennt-marschieren-vereint-schlagen-berpisah-kit",
@@ -7646,7 +7894,8 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 20442,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   },
   "pejuang-wanita-pada-hari-hari-revolusi-oktober-bes": {
     "slug": "pejuang-wanita-pada-hari-hari-revolusi-oktober-bes",
@@ -7664,6 +7913,7 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
       }
     ],
     "totalTextLength": 11365,
-    "extractionStatus": "complete"
+    "extractionStatus": "complete",
+    "documentCoverage": "full"
   }
 };

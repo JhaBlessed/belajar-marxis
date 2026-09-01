@@ -28,6 +28,7 @@ export interface WorkEvidence {
   sources: SourceEvidence[];
   totalTextLength: number;
   extractionStatus: 'complete' | 'partial' | 'unavailable';
+  documentCoverage: 'full' | 'excerpt' | 'unknown';
 }
 
 function classifyRole(srcPath: string, workSlug: string): 'primary' | 'context' {
@@ -207,11 +208,17 @@ async function main() {
       else if (somePrimaryReadable) extractionStatus = 'partial';
     }
 
+    let documentCoverage: 'full' | 'excerpt' | 'unknown' = 'full';
+    if (work.slug === 'pendahuluan-sumbangan-untuk-kritik-terhadap-filsafat-hak-hegel' || work.slug === 'pendahuluan-sumbangan-untuk-kritik-terhadap-filsaf') {
+      documentCoverage = 'excerpt';
+    }
+
     evidenceManifest[work.slug] = {
       slug: work.slug,
       sources: sourceEvidences,
       totalTextLength,
-      extractionStatus
+      extractionStatus,
+      documentCoverage
     };
   }
 
@@ -233,6 +240,7 @@ export interface WorkEvidence {
   sources: SourceEvidence[];
   totalTextLength: number;
   extractionStatus: 'complete' | 'partial' | 'unavailable';
+  documentCoverage: 'full' | 'excerpt' | 'unknown';
 }
 
 export const workSourceEvidence: Record<string, WorkEvidence> = ${JSON.stringify(evidenceManifest, null, 2)};

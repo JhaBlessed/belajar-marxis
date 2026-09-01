@@ -15,6 +15,7 @@ async function main() {
   const result: Record<string, WorkSummary> = {};
 
   let completeCount = 0;
+  let partialCount = 0;
   let unavailableCount = 0;
   let missingCount = 0;
 
@@ -53,7 +54,11 @@ async function main() {
       unavailableReason = 'Multipart primary sources are only partially readable';
     } else if (evidence.extractionStatus === 'complete' && sourceBasis.length > 0) {
       if (curated) {
-        status = 'complete';
+        if (evidence.documentCoverage === 'excerpt') {
+          status = 'partial';
+        } else {
+          status = 'complete';
+        }
       } else {
         status = 'missing';
       }
@@ -77,12 +82,13 @@ async function main() {
     };
 
     if (status === 'complete') completeCount++;
+    else if (status === 'partial') partialCount++;
     else if (status === 'unavailable') unavailableCount++;
     else missingCount++;
   }
 
   const outputContent = `/* eslint-disable max-len */
-export type SummaryStatus = 'complete' | 'unavailable' | 'missing';
+export type SummaryStatus = 'complete' | 'partial' | 'unavailable' | 'missing';
 
 export interface WorkSummary {
   historicalContext: string;
@@ -101,7 +107,9 @@ export const workSummaries: Record<string, WorkSummary> = ${JSON.stringify(resul
 
 export const summaryAliases: Record<string, string> = {
   'sosialisme-utopis-dan-ilmiah': 'sosialisme-utopis-dan-sosialisme-ilmiah',
-  'tesis-tentang-feuerbach': 'tesis-tentang-feuerbach-versi-asli'
+  'tesis-tentang-feuerbach': 'tesis-tentang-feuerbach-versi-asli',
+  'pendahuluan-sumbangan-untuk-kritik-terhadap-filsaf': 'pendahuluan-sumbangan-untuk-kritik-terhadap-filsafat-hak-hegel',
+  'kata-pengantar-pada-sebuah-sumbangan-untuk-kritik-': 'kata-pengantar-pada-sebuah-sumbangan-untuk-kritik-terhadap-ekonomi-politik'
 };
 
 export function getWorkSummary(slug: string): WorkSummary | undefined {
@@ -119,7 +127,7 @@ export function getWorkSummary(slug: string): WorkSummary | undefined {
 
   fs.writeFileSync(outputFilePath, outputContent);
   console.log(`Generated summaries for ${works.length} works.`);
-  console.log(`Global Status: ${completeCount} complete, ${unavailableCount} unavailable (No source/PDFs/partial), ${missingCount} missing.`);
+  console.log(`Global Status: ${completeCount} complete, ${partialCount} partial, ${unavailableCount} unavailable (No source/PDFs/partial), ${missingCount} missing.`);
 }
 
 main().catch(console.error);

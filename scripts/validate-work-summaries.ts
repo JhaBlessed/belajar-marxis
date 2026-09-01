@@ -6,14 +6,19 @@ function validate() {
   let errors = 0;
 
   let completeCount = 0;
-  let completeWithEvidenceCount = 0;
-  let completeWithoutEvidenceCount = 0;
+  let partialCount = 0;
   let missingCount = 0;
   let unavailableCount = 0;
+
+  let completeWithEvidenceCount = 0;
+  let completeWithoutEvidenceCount = 0;
   let multipartIncompleteCount = 0;
   let aliasErrorCount = 0;
   let evidenceErrorCount = 0;
   let mismatchCount = 0;
+
+  let completeOnExcerptCount = 0;
+  let completeWithFullDocumentCoverageCount = 0;
 
   // Track alias cycles
   for (const [alias, target] of Object.entries(summaryAliases)) {
@@ -24,7 +29,7 @@ function validate() {
     }
     const targetSummary = workSummaries[target];
     if (!targetSummary || targetSummary.summaryStatus === 'missing') {
-      console.error(`FAIL: Alias target ${target} for ${alias} is missing or not complete`);
+      console.error(`FAIL: Alias target ${target} for ${alias} is missing or not complete/partial`);
       aliasErrorCount++;
       errors++;
     }
@@ -55,6 +60,13 @@ function validate() {
         mismatchCount++;
         errors++;
       }
+
+      if (evidence.documentCoverage === 'excerpt' && summary.summaryStatus === 'complete') {
+        console.error(`FAIL: Document coverage is excerpt but summary is complete for ${work.slug}`);
+        completeOnExcerptCount++;
+        mismatchCount++;
+        errors++;
+      }
     } else {
       if (summary.summaryStatus !== 'unavailable') {
         console.error(`FAIL: No evidence manifest but summary is ${summary.summaryStatus} for ${work.slug}`);
@@ -69,21 +81,27 @@ function validate() {
         mismatchCount++;
         errors++;
       }
-    }
-
-    if (summary.summaryStatus === 'missing') {
+      if (evidence && evidence.documentCoverage === 'full') {
+        completeWithFullDocumentCoverageCount++;
+      }
+      completeCount++;
+    } else if (summary.summaryStatus === 'partial') {
+      if (!evidence || evidence.extractionStatus !== 'complete') {
+        console.error(`FAIL: Summary is partial but evidence is not complete for ${work.slug}`);
+        mismatchCount++;
+        errors++;
+      }
+      partialCount++;
+    } else if (summary.summaryStatus === 'missing') {
       missingCount++;
       continue;
-    }
-    if (summary.summaryStatus === 'unavailable') {
+    } else if (summary.summaryStatus === 'unavailable') {
       unavailableCount++;
       continue;
     }
 
-    completeCount++;
-
     if (!evidence) {
-      console.error(`FAIL: Evidence manifest missing for COMPLETE work: ${work.slug}`);
+      console.error(`FAIL: Evidence manifest missing for COMPLETE/PARTIAL work: ${work.slug}`);
       completeWithoutEvidenceCount++;
       evidenceErrorCount++;
       errors++;
@@ -94,7 +112,7 @@ function validate() {
 
     // Check source basis
     if (summary.sourceBasis.length === 0) {
-      console.error(`FAIL: sourceBasis is empty for COMPLETE work: ${work.slug}`);
+      console.error(`FAIL: sourceBasis is empty for COMPLETE/PARTIAL work: ${work.slug}`);
       validEvidence = false;
       evidenceErrorCount++;
       errors++;
@@ -126,7 +144,7 @@ function validate() {
     for (const src of evidence.sources) {
       if (src.role === 'primary') {
         if (!src.readable) {
-          console.error(`FAIL: Primary source ${src.path} is not readable for COMPLETE work: ${work.slug}`);
+          console.error(`FAIL: Primary source ${src.path} is not readable for COMPLETE/PARTIAL work: ${work.slug}`);
           validEvidence = false;
           evidenceErrorCount++;
           errors++;
@@ -166,10 +184,13 @@ function validate() {
   console.log(`\n--- SUMMARY VALIDATION REPORT ---`);
   console.log(`Canonical works: ${works.length}`);
   console.log(`Complete: ${completeCount}`);
+  console.log(`Partial summaries: ${partialCount}`);
   console.log(`Missing: ${missingCount}`);
   console.log(`Unavailable: ${unavailableCount}`);
   console.log(`Complete with verified evidence: ${completeWithEvidenceCount}`);
   console.log(`Complete without verified evidence: ${completeWithoutEvidenceCount}`);
+  console.log(`Complete with full document coverage: ${completeWithFullDocumentCoverageCount}`);
+  console.log(`Complete on excerpt evidence: ${completeOnExcerptCount}`);
   console.log(`Multipart incomplete: ${multipartIncompleteCount}`);
   console.log(`Alias errors: ${aliasErrorCount}`);
   console.log(`Evidence errors: ${evidenceErrorCount}`);
