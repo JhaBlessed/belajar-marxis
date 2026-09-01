@@ -4558,9 +4558,8 @@ export const works: Work[] = [
     "title": "Mengenai Otoritas",
     "originalTitle": null,
     "slug": "mengenai-otoritas",
-    "authorId": "karl-marx",
+    "authorId": "friedrich-engels",
     "authorIds": [
-      "karl-marx",
       "friedrich-engels"
     ],
     "year": 1873,
