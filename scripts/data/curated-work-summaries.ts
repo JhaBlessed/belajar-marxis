@@ -13,6 +13,120 @@ export interface CuratedWorkSummary extends Partial<WorkSummary> {
 }
 
 export const curatedWorkSummaries: Record<string, CuratedWorkSummary> = {
+
+  'surat-engels-untuk-gerson-trier-di-copenhagen-18-desember-1889': {
+    historicalContext: "Surat (draft) dari Engels kepada Gerson Trier ini ditulis pada Desember 1889 di tengah perselisihan taktis dalam Partai Sosialis Denmark. Trier dan rekan-rekannya di sayap radikal baru saja dikeluarkan karena menolak pembentukan blok politik dengan partai radikal borjuis-kecil, Venstre. Engels memberikan pandangannya tentang kebijakan kolaborasi elektoral dan batas-batas kerjasama antar kelas.",
+    mainProblem: "Sejauh mana partai proletariat (sosialis) dapat berkolaborasi atau memberikan dukungan kepada partai-partai borjuis-kecil tanpa mengorbankan independensi dan karakter kelas dari pergerakannya?",
+    mainThesis: "Partai proletariat dapat dan bahkan harus menggunakan atau mendukung partai-partai lain secara taktis untuk tujuan tertentu (seperti penghapusan sisa feodalisme atau kebebasan politik), selama keuntungan tersebut berdampak langsung bagi kaum pekerja dan tidak mengancam karakter kelas independen dari partai.",
+    contentSummary: "Engels menolak prinsip Gerson Trier yang antokolaborasi mutlak (menentang segala bentuk kerja sama dengan partai lain bagaimanapun sementaranya). Engels menjelaskan bahwa demi kemenangan akhir revolusi, partai pekerja kadang perlu memberikan dukungan sementara kepada partai borjuis kecil atau radikal untuk mencapai kemajuan historis atau kebebasan politik. Namun, ia memberikan peringatan keras: kolaborasi hanya diperbolehkan jika tidak mengancam kemandirian dan watak kelas proletariat dari partai pekerja, yang merupakan batas mutlak yang tidak boleh dilanggar. Jika sebuah partai radikal (seperti Venstre) bersikap pengecut dan mundur ketika ditekan (seperti oleh rezim Bismarck atau Estrup), maka kolaborasi dengan mereka menjadi tidak berguna dan patut ditentang.",
+    argumentStructure: [
+      "Menolak pandangan apriori bahwa kolaborasi politik antar-partai selalu dilarang dalam segala kondisi.",
+      "Menegaskan kembali tujuan akhir partai kelas pekerja, yaitu perebutan kekuasaan politik melalui revolusi yang mengharuskan eksistensi sebuah partai yang tegas berkesadaran kelas.",
+      "Menjelaskan pengecualian taktis: partai pekerja dapat mendukung partai lain untuk target spesifik (seperti melawan sisa-sisa feodal atau UU Anti Sosialis).",
+      "Menetapkan batas mutlak kolaborasi: karakter independen proletariat partai tidak boleh dikompromikan, dan taktik tersebut harus membuahkan hasil historis/keuntungan nyata, tidak sekadar bersekutu dengan politisi borjuis yang pengecut."
+    ],
+    significance: "Surat ini memberikan artikulasi kunci mengenai metode taktis Marxis tentang 'Front Persatuan' (United Front) dan kebijakan aliansi dalam pemilihan parlementer, membedakan antara kolaborasi prinsipil (kompromi kelas yang dilarang) dengan dukungan taktis yang fleksibel demi kemajuan sosial.",
+    contextOrigin: "curated",
+    auditEvidence: {
+      mainProblem: [{ source: "/mia/indonesia/archive/marx-engels/1889/18-trier.html" }],
+      mainThesis: [{ source: "/mia/indonesia/archive/marx-engels/1889/18-trier.html", heading: "Surat Engels untuk Gerson Trier di Copenhagen (Draft)" }],
+      contentSummary: [{ source: "/mia/indonesia/archive/marx-engels/1889/18-trier.html", heading: "Surat Engels untuk Gerson Trier di Copenhagen (Draft)" }],
+      argumentStructure: [{ source: "/mia/indonesia/archive/marx-engels/1889/18-trier.html" }]
+    },
+    summaryStatus: 'complete'
+  },
+
+  'surat-kepada-cuno-theodor-24-januari-1872': {
+    historicalContext: "Surat polemis ini dikirimkan Engels kepada Theodor Cuno, seorang insinyur dan sosialis Jerman di Milan, Italia, pasca kekalahan Komune Paris. Surat ini merespon intrik dan pengorganisasian faksi anarkis yang dipimpin Mikhail Bakunin di dalam Asosiasi Pekerja Internasional (Internasionale Pertama).",
+    mainProblem: "Bagaimana cara membongkar dan melawan konsepsi teoritis serta model organisasi anarkis Bakunin, yang menganggap negara sebagai akar segala kejahatan dan menolak segala bentuk aksi politik atau otoritas?",
+    mainThesis: "Engels mengkritik Bakunin dengan membalikkan premis utamanya: bukan negara yang menciptakan kapitalisme, melainkan kapitalisme dan pembagian kelaslah yang memerlukan negara. Oleh karena itu, kaum pekerja mutlak harus melakukan aksi politik untuk merebut kekuasaan, menggunakan otoritas untuk menghapuskan kapital, yang mana setelahnya negara akan memudar dengan sendirinya.",
+    contentSummary: "Engels mengkarakterisasi teori Bakunin sebagai campuran antara anarkisme Proudhon dan komunisme, menuduh Bakunin melihat negara—bukan kapital dan eksploitasi kerja-upahan—sebagai kejahatan utama. Engels membantah gagasan abstensionisme politik (menolak pemilihan umum dan politik praktis), dengan menyatakan bahwa massa pekerja pada dasarnya berwatak politis dan meminta mereka menjauhi politik sama saja dengan menyerahkan mereka ke pelukan partai borjuis. Lebih jauh, Engels menyerang konsep kebebasan tanpa otoritas milik Bakunin, dengan menekankan bahwa masyarakat (seperti pabrik, kapal laut, atau rel kereta) secara material memerlukan otoritas dan keputusan mayoritas untuk beroperasi. Ia menutup dengan menyindir bahwa seruan penghapusan organisasi otoritatif di dalam Internasionale justru akan menghancurkan gerakan pekerja itu sendiri.",
+    argumentStructure: [
+      "Menyajikan gambaran doktrin Bakunin, khususnya premis bahwa negara adalah akar eksploitasi yang harus dilikuidasi tanpa repot-repot terlibat dalam politik.",
+      "Menyajikan posisi materialis historis (Marxis): penghapusan kapital adalah prasyarat, dan revolusi sosial membutuhkan aksi politik. Negara baru akan musnah setelah penghapusan relasi modal.",
+      "Mengkritik abstensionisme politik Bakunin dengan memperingatkan bahwa hal tersebut akan mengalienasi massa buruh.",
+      "Mendemonstrasikan kontradiksi praktis di balik penolakan mutlak terhadap otoritas, dengan menggunakan contoh kerja dalam industri modern (pabrik dan kapal laut) yang niscaya membutuhkan kepemimpinan."
+    ],
+    significance: "Surat ini merangkum inti perpecahan sejarah antara faksi Marxis dan anarkis (Bakunis) di dalam Internasionale Pertama mengenai peran negara, aksi politik, sentralisasi, dan otoritas.",
+    contextOrigin: "curated",
+    auditEvidence: {
+      mainProblem: [{ source: "/mia/indonesia/archive/marx-engels/1872/surat24jan1872.html", heading: "Surat Kepada Cuno Theodor" }],
+      mainThesis: [{ source: "/mia/indonesia/archive/marx-engels/1872/surat24jan1872.html", heading: "Surat Kepada Cuno Theodor" }],
+      contentSummary: [{ source: "/mia/indonesia/archive/marx-engels/1872/surat24jan1872.html", heading: "Surat Kepada Cuno Theodor" }],
+      argumentStructure: [{ source: "/mia/indonesia/archive/marx-engels/1872/surat24jan1872.html" }]
+    },
+    summaryStatus: 'complete'
+  },
+
+  'upah-sehari-yang-layak-bagi-kerja-sehari-yang-layak': {
+    historicalContext: "Artikel ini aslinya diterbitkan oleh Engels di surat kabar pekerja The Labour Standard di London pada tahun 1881. Engels menulis artikel-artikel ini untuk mendidik gerakan Serikat Buruh Inggris mengenai batasan-batasan tuntutan ekonomi mereka di bawah sistem upah.",
+    mainProblem: "Apakah semboyan serikat buruh tradisional Inggris 'Upah sehari yang layak bagi kerja sehari yang layak' masih relevan dan memadai sebagai tujuan akhir pergerakan kaum pekerja?",
+    mainThesis: "Slogan mengenai upah 'layak' adalah usang dan menyesatkan secara ekonomi karena di bawah kapitalisme, kelayakan pertukaran secara objektif selalu berarti kelas pekerja hanya dibayar sebatas biaya reproduksi tenaga kerjanya, sementara seluruh nilai lebih dihisap oleh kapitalis. Slogan tersebut harus digantikan dengan tuntutan kepemilikan sosial atas alat-alat produksi.",
+    contentSummary: "Engels menelaah makna kata 'layak' menurut hukum ekonomi politik kapitalis, bukan melalui sentimen moral. Ia menunjukkan bahwa upah yang layak bagi pekerja secara ekonomi hanyalah jumlah subsistensi minimum untuk mempertahankan hidup dan bereproduksi, yang ditukar dengan batas maksimal tenaga yang bisa diperas kapitalis dalam sehari tanpa membunuh si pekerja. Engels membuktikan bahwa pertukaran ini secara inheren tidak adil karena pekerja, di bawah ancaman kelaparan dan kompetisi dari pengangguran (barisan cadangan industri), dipaksa menjual tenaga kerjanya. Kapitalis membayar upah bukan dari sakunya sendiri, melainkan dari produk yang diciptakan oleh kerja itu sendiri. Karenanya, upah yang layak di bawah sistem upah selalu berujung pada akumulasi kekayaan pada kelas non-pekerja, dan karenanya kaum buruh harus menuntut pembubaran sistem upah itu sendiri.",
+    argumentStructure: [
+      "Mempertanyakan definisi obyektif dari 'layak' di dalam semboyan 'Upah sehari yang layak'.",
+      "Mendefinisikan nilai upah dan batas hari kerja berdasarkan hukum ekonomi politik klasik.",
+      "Menunjukkan asimetri tawar-menawar antara kapitalis (yang punya modal) dan pekerja (yang ditekan ketakutan akan kelaparan dan pasukan cadangan pengangguran).",
+      "Membongkar ilusi bahwa modal yang mempekerjakan buruh: buruhlah yang menghasilkan kekayaan, dan mereka dibayar dari hasil kerja mereka sendiri yang telah disita.",
+      "Mengusulkan semboyan baru: Pemilikan atas alat-alat kerja oleh rakyat pekerja sendiri."
+    ],
+    significance: "Esai pendek ini merupakan upaya populer dari Engels untuk menerapkan teori nilai lebih Marx secara ringkas, guna mentransformasikan tuntutan reformis serikat buruh (upah adil) menjadi kesadaran revolusioner (penghapusan sistem kerja upahan).",
+    contextOrigin: "curated",
+    auditEvidence: {
+      mainProblem: [{ source: "/mia/indonesia/archive/marx-engels/1881/kerja.html", heading: "Upah Sehari Yang Layak Bagi Kerja Sehari Yang Layak!" }],
+      mainThesis: [{ source: "/mia/indonesia/archive/marx-engels/1881/kerja.html", heading: "Upah Sehari Yang Layak Bagi Kerja Sehari Yang Layak!" }],
+      contentSummary: [{ source: "/mia/indonesia/archive/marx-engels/1881/kerja.html", heading: "Upah Sehari Yang Layak Bagi Kerja Sehari Yang Layak!" }],
+      argumentStructure: [{ source: "/mia/indonesia/archive/marx-engels/1881/kerja.html" }]
+    },
+    summaryStatus: 'complete'
+  },
+
+  'klas-klas-masyarakat-diperlukan-dan-berlebihan': {
+    historicalContext: "Esai ini merupakan kontribusi lain dari Friedrich Engels untuk majalah The Labour Standard pada tahun 1881, melanjutkan analisisnya tentang struktur masyarakat Inggris dan peran ekonomi dari kelas-kelas yang berkuasa.",
+    mainProblem: "Apakah kelas-kelas sosial, khususnya aristokrasi tanah dan kelas kapitalis, merupakan suatu kebutuhan yang mutlak diperlukan secara ekonomi untuk kelangsungan produksi modern?",
+    mainThesis: "Fungsi historis kelas-kelas berubah. Sementara kelas borjuasi (kapitalis menengah) pernah sangat diperlukan untuk membangun dan mengatur industri besar, perkembangan kapitalisme monopoli (saham, direksi) membuat mereka menjadi parasitik dan tidak lagi dibutuhkan secara ekonomi (berlebihan/superfluous) karena manajer upahan telah mengambil alih seluruh fungsi administratif produksi.",
+    contentSummary: "Engels meneliti tiga kelas utama di Inggris abad ke-19: Aristokrasi Bertanah, Kapitalis (Borjuasi), dan Pekerja. Ia menegaskan aristokrasi tanah telah lama menjadi parasit ekonomi murni. Selanjutnya, ia menganalisis kapitalis menengah yang pada masa lalu sangat dibutuhkan untuk merintis dan memimpin revolusi manufaktur bertenaga uap. Namun, Engels mendemonstrasikan bahwa dengan munculnya perusahaan perseroan (saham gabungan), perkeretaapian, dan monopoli raksasa, para pemilik kapital tidak lagi bekerja mengelola produksi; mereka telah pensiun dan mengalihdayakan fungsi manajerial kepada 'pekerja atasan' (pegawai bayaran). Para kapitalis itu hanya mengambil dividen atau berjudi di pasar saham. Karena kapitalis tidak lagi melakukan fungsi 'pengawasan', klaim bahwa mereka berhak atas laba ('upah supervisi') gugur. Engels menyimpulkan bahwa kaum kapitalis kini telah menjadi gangguan tak terhingga, dan bahwa industri raksasa sepenuhnya dapat berjalan di bawah pengelolaan kelas pekerja tanpa mereka.",
+    argumentStructure: [
+      "Menilai fungsionalitas Aristokrasi Tanah, dan menyimpulkannya sebagai gangguan nasional.",
+      "Mengakui bahwa kelas Kapitalis dahulunya diperlukan untuk menumbuhkan revolusi industri.",
+      "Menganalisis pergeseran struktural: pembentukan perusahaan perseroan dan perluasan komunikasi bertenaga uap mendelegasikan kerja administratif ke pegawai bayaran (manajer).",
+      "Mendeskripsikan transformasi kapitalis dari produsen menjadi rentenir dan penjudi pasar bursa yang berlebihan.",
+      "Menyimpulkan bahwa kapitalisme kini menjadi penghalang, dan produksi raksasa dapat dipertahankan secara mandiri tanpa campur tangan kelas pemilik."
+    ],
+    significance: "Analisis ini memprediksi apa yang kelak disebut sebagai 'revolusi manajerial' dan pemisahan antara kepemilikan (ownership) dan kontrol dalam kapitalisme lanjut, membantah klaim ideologis liberal bahwa laba adalah imbalan atas 'kerja keras manajemen'.",
+    contextOrigin: "curated",
+    auditEvidence: {
+      mainProblem: [{ source: "/mia/indonesia/archive/marx-engels/1881/klas.html", heading: "Klas-Klas Masyarakat Diperlukan Dan Berlebihan" }],
+      mainThesis: [{ source: "/mia/indonesia/archive/marx-engels/1881/klas.html", heading: "Klas-Klas Masyarakat Diperlukan Dan Berlebihan" }],
+      contentSummary: [{ source: "/mia/indonesia/archive/marx-engels/1881/klas.html", heading: "Klas-Klas Masyarakat Diperlukan Dan Berlebihan" }],
+      argumentStructure: [{ source: "/mia/indonesia/archive/marx-engels/1881/klas.html" }]
+    },
+    summaryStatus: 'complete'
+  },
+
+  'peranan-yang-dimainkan-kerja-dalam-peralihan-dari-kera-ke-manusia': {
+    historicalContext: "Ditulis oleh Friedrich Engels pada tahun 1876 sebagai bagian dari karya yang direncanakan lebih besar, naskah ini tidak pernah diselesaikan dan baru diterbitkan pada tahun 1896 (setelah kematian Engels). Naskah ini merepresentasikan salah satu penerapan pertama dari materialisme dialektis pada pertanyaan-pertanyaan antropologi evolusioner dan biologi manusia pasca-Darwin. Local source ini merupakan keseluruhan naskah yang sempat ditulis (berakhir mid-sentence).",
+    mainProblem: "Bagaimana proses evolutif dari kera primata secara kualitatif bertransisi menjadi manusia, dan faktor material apa yang menjadi penggerak utama spesiasi tersebut?",
+    mainThesis: "Kerja (labour)—secara spesifik, postur tubuh tegak yang membebaskan tangan untuk pembuatan alat (tool-making)—adalah pendorong utama yang memaksa evolusi manusia, yang pada gilirannya mendorong perkembangan bahasa, otak, dan aktivitas sosial, hingga mengubah keterikatan pasif kera terhadap alam menjadi penguasaan manusia yang aktif terhadap alam.",
+    contentSummary: "Engels mengajukan tesis bahwa 'kerja itu sendiri yang menciptakan manusia.' Meninjau dari teori Darwin, Engels mendalilkan bahwa ketika leluhur kera turun dari pohon, mereka mulai berjalan tegak, membebaskan tangan dari fungsi penggerak tubuh. Evolusi biomekanik pada tangan memungkinkan nenek moyang manusia merakit alat. Pembuatan alat menuntut interaksi kolektif dan kerja sama sosial tingkat tinggi, yang melahirkan kebutuhan untuk berkomunikasi, sehingga memicu perkembangan organ laring (bahasa) dan otak (pemikiran abstrak). Tidak seperti hewan yang hanya menggunakan apa yang disediakan alam secara pasif, manusia mengendalikan alam melalui produksi terencana. Namun, naskah yang belum rampung ini ditutup dengan pengingat dialektis: upaya manusia menguasai alam secara eksploitatif atau demi sekadar laba instan dalam masyarakat kelas kapitalis selalu membawa konsekuensi sosial dan ekologis jarak jauh yang merusak (seperti contoh deforestasi). Naskah ini terputus di tengah kalimat saat Engels tengah merangkum kontradiksi kepemilikan privat atas hasil kerja.",
+    argumentStructure: [
+      "Menggagas bahwa kerja bukan sekadar aktivitas, melainkan pencipta eksistensi manusia.",
+      "Menelusuri postur tegak sebagai langkah evolusioner pertama yang membebaskan tangan.",
+      "Menjelaskan kaitan evolusioner antara pergerakan tangan, produksi alat, nutrisi hewani, serta membesarnya kapasitas otak dan artikulasi ujaran.",
+      "Membedakan antara hewan (yang memanfaatkan lingkungan sekitarnya) dan manusia (yang mengubah lingkungan dan menguasai alam melalui kerja produktif).",
+      "Menganalisis hukum akibat yang tak dikehendaki (unintended consequences) dari cara produksi kelas eksploitatif terhadap alam dan masyarakat, sebelum manuskrip berakhir menggantung secara tiba-tiba."
+    ],
+    significance: "Esai ini memelopori pendekatan antropologi materialis. Meskipun beberapa biologi evolusionernya merefleksikan sains abad ke-19, penekanan Engels bahwa pembuatan alat dan kerja sosial (bukan semata-mata pertumbuhan kecerdasan otak abstrak) adalah pendorong awal evolusi manusia ('kerja menciptakan manusia') kelak dikonfirmasi oleh temuan-temuan paleoantropologi modern.",
+    contextOrigin: "curated",
+    auditEvidence: {
+      mainProblem: [{ source: "/mia/indonesia/archive/marx-engels/1876/apetoman.html", heading: "Peranan Yang Dimainkan Kerja Dalam Peralihan Dari Kera Ke Manusia" }],
+      mainThesis: [{ source: "/mia/indonesia/archive/marx-engels/1876/apetoman.html", heading: "Peranan Yang Dimainkan Kerja Dalam Peralihan Dari Kera Ke Manusia" }],
+      contentSummary: [{ source: "/mia/indonesia/archive/marx-engels/1876/apetoman.html", heading: "Peranan Yang Dimainkan Kerja Dalam Peralihan Dari Kera Ke Manusia" }],
+      argumentStructure: [{ source: "/mia/indonesia/archive/marx-engels/1876/apetoman.html" }]
+    },
+    summaryStatus: 'complete'
+  }
+,
   'manifesto-partai-komunis': {
     historicalContext: "Ditulis antara Desember 1847 dan Januari 1848, manifesto ini ditugaskan oleh Liga Komunis di London. Teks ini diterbitkan pertama kali pada Februari 1848, tepat sebelum pecahnya revolusi tahun 1848 di berbagai penjuru Eropa.",
     contextOrigin: "curated",
