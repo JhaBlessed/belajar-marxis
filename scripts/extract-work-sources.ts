@@ -215,8 +215,15 @@ async function main() {
 
     const excerptSlugs = [
       'pendahuluan-sumbangan-untuk-kritik-terhadap-filsafat-hak-hegel',
+      'surat-marx-kepada-friedrich-bolte',
+      'surat-marx-untuk-kugelmann-tanggal-12-april-1871',
+      'surat-marx-kepada-kugelmann-17-april-1871',
+      'surat-kepada-kugelmann-di-hannover',
+      'surat-kepada-r-meyer',
       'pendahuluan-sumbangan-untuk-kritik-terhadap-filsaf',
-      'dialektika' // Preflight: stops discussing law 1, does not reach law 2 and 3.
+      'dialektika', // Preflight: stops discussing law 1, does not reach law 2 and 3.
+      'kapital-jilid-1', // Preflight: only Chapter 1 (Komoditi).
+      'sebuah-sumbangan-pada-kritik-atas-ekonomi-politik-hal-61-64' // Preflight: only excerpt of pages 61-64.
     ];
 
     if (excerptSlugs.includes(work.slug)) {

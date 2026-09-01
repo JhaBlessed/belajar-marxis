@@ -3330,7 +3330,7 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
     ],
     "totalTextLength": 8904,
     "extractionStatus": "complete",
-    "documentCoverage": "full"
+    "documentCoverage": "excerpt"
   },
   "tentang-proudhon": {
     "slug": "tentang-proudhon",
@@ -7126,7 +7126,7 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
     ],
     "totalTextLength": 36617,
     "extractionStatus": "complete",
-    "documentCoverage": "full"
+    "documentCoverage": "excerpt"
   },
   "kapital-jilid-2": {
     "slug": "kapital-jilid-2",
