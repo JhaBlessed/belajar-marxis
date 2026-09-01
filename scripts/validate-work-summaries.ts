@@ -4,7 +4,7 @@ import { workSourceEvidence } from '../src/generated/workSourceEvidence';
 
 function validate() {
   let errors = 0;
-  
+
   let completeCount = 0;
   let completeWithEvidenceCount = 0;
   let completeWithoutEvidenceCount = 0;
@@ -13,7 +13,7 @@ function validate() {
   let multipartIncompleteCount = 0;
   let aliasErrorCount = 0;
   let evidenceErrorCount = 0;
-  
+
   // Track alias cycles
   for (const [alias, target] of Object.entries(summaryAliases)) {
     if (summaryAliases[target]) {
@@ -44,7 +44,7 @@ function validate() {
 
     completeCount++;
     const evidence = workSourceEvidence[work.slug];
-    
+
     if (!evidence) {
       console.error(`FAIL: Evidence manifest missing for COMPLETE work: ${work.slug}`);
       completeWithoutEvidenceCount++;
@@ -85,7 +85,7 @@ function validate() {
     // Check every primary source is readable and has sha256 + textLength
     let primaryReadable = 0;
     const requiredPrimaryCount = evidence.sources.filter(s => s.role === 'primary').length;
-    
+
     for (const src of evidence.sources) {
       if (src.role === 'primary') {
         if (!src.readable) {
@@ -97,14 +97,14 @@ function validate() {
           primaryReadable++;
         }
       }
-      
+
       if (!src.sha256) {
         console.error(`FAIL: Missing SHA256 metadata for ${src.path} in ${work.slug}`);
         validEvidence = false;
         evidenceErrorCount++;
         errors++;
       }
-      
+
       if (src.readable && src.textLength < 100) {
         console.error(`FAIL: textLength too small for readable source ${src.path} in ${work.slug}`);
         validEvidence = false;
@@ -112,7 +112,7 @@ function validate() {
         errors++;
       }
     }
-    
+
     if (evidence.sources.length > 0 && requiredPrimaryCount > 0 && primaryReadable !== requiredPrimaryCount) {
       console.error(`FAIL: Multipart work ${work.slug} is incomplete. Readable: ${primaryReadable}/${requiredPrimaryCount}`);
       multipartIncompleteCount++;

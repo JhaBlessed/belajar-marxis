@@ -19,8 +19,8 @@ async function main() {
   let missingCount = 0;
 
   for (const work of works) {
-    const isMarxEngels = work.authorId === 'karl-marx' || 
-                         work.authorId === 'friedrich-engels' || 
+    const isMarxEngels = work.authorId === 'karl-marx' ||
+                         work.authorId === 'friedrich-engels' ||
                          (work.authorIds && (work.authorIds.includes('karl-marx') || work.authorIds.includes('friedrich-engels')));
 
     let curated = curatedWorkSummaries[work.slug];
@@ -42,7 +42,7 @@ async function main() {
     if (isMarxEngels) {
       if (curated) {
         let status: SummaryStatus = 'missing';
-        
+
         // Completion rule check
         if (evidence && evidence.extractionStatus === 'complete' && sourceBasis.length > 0) {
           status = 'complete';
@@ -62,7 +62,7 @@ async function main() {
           summaryStatus: status,
           unavailableReason: status === 'unavailable' ? 'Beberapa bagian primary source (PDF/HTML) tidak dapat diekstrak' : undefined
         };
-        
+
         if (status === 'complete') completeCount++;
         else if (status === 'unavailable') unavailableCount++;
         else missingCount++;
@@ -71,7 +71,7 @@ async function main() {
         if (evidence && evidence.extractionStatus === 'unavailable' && evidence.sources.length > 0) {
           status = 'unavailable';
         }
-        
+
         result[work.slug] = {
           historicalContext: '',
           mainProblem: '',
@@ -84,7 +84,7 @@ async function main() {
           summaryStatus: status,
           unavailableReason: status === 'unavailable' ? 'Ekstraksi dokumen primary gagal' : undefined
         };
-        
+
         if (status === 'unavailable') unavailableCount++;
         else missingCount++;
       }

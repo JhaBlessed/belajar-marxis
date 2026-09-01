@@ -34,14 +34,14 @@ function classifyRole(srcPath: string, workSlug: string): 'primary' | 'context' 
   // Use heuristic as fallback, but if it's explicitly the canonical primary, mark as primary.
   // Actually, we can use the same logic from the prompt.
   const lower = srcPath.toLowerCase();
-  
+
   if (workSlug === 'kapital-i' || workSlug === 'kapital-jilid-1') {
     if (srcPath === '/mia/indonesia/archive/marx-engels/1867/capital01.html') return 'primary';
     return 'context';
   }
 
-  const isContext = lower.includes('katapengantar') || 
-                    lower.includes('150tahun') || 
+  const isContext = lower.includes('katapengantar') ||
+                    lower.includes('150tahun') ||
                     lower.includes('pengantaredisi') ||
                     lower.includes('editor') ||
                     lower.includes('editorial') ||
@@ -50,7 +50,7 @@ function classifyRole(srcPath: string, workSlug: string): 'primary' | 'context' 
                     lower.includes('komentar') ||
                     lower.includes('anniversary') ||
                     lower.includes('preface');
-                    
+
   return isContext ? 'context' : 'primary';
 }
 
@@ -63,7 +63,7 @@ function decodeBuffer(buffer: Buffer): string {
   } else if (head.includes('charset=iso-8859-1') || head.includes('charset="iso-8859-1"')) {
     charset = 'iso-8859-1';
   }
-  
+
   try {
     const decoder = new TextDecoder(charset);
     return decoder.decode(buffer);
@@ -75,32 +75,32 @@ function decodeBuffer(buffer: Buffer): string {
 function extractHtml(buffer: Buffer): { text: string; headings: string[] } {
   const html = decodeBuffer(buffer);
   const $ = cheerio.load(html);
-  
+
   // Remove unwanted elements
   $('script').remove();
   $('style').remove();
   $('.mia-modern-header').remove();
   $('#belajar-marxis-nav').remove(); // if any
-  
+
   const headings: string[] = [];
   $('h1, h2, h3').each((_, el) => {
     const t = $(el).text().trim();
     if (t) headings.push(t);
   });
-  
+
   // Extract readable text from paragraphs, lists, tables
   const textParts: string[] = [];
-  
+
   const title = $('title').text().trim();
   if (title) textParts.push(title);
-  
+
   $('h1, h2, h3, h4, h5, h6, p, li, blockquote, th, td').each((_, el) => {
     const text = $(el).text().trim();
     if (text) {
       textParts.push(text);
     }
   });
-  
+
   return {
     text: textParts.join('\n\n'),
     headings
@@ -136,7 +136,7 @@ async function main() {
     for (let src of rawSources) {
       if (src.includes('http://') || src.includes('https://') || src.includes('/https:')) continue;
       if (src.includes('mailto:')) continue;
-      
+
       const cleanSrc = src.split('?')[0].split('#')[0];
       if (!cleanSrc.startsWith('/mia/')) continue;
 
@@ -145,22 +145,22 @@ async function main() {
         validSources.add(cleanSrc);
       }
     }
-    
+
     const sources = Array.from(validSources);
-    
+
     const sourceEvidences: SourceEvidence[] = [];
     let combinedText = '';
     let totalTextLength = 0;
-    
+
     for (const src of sources) {
       const fullPath = path.join(PUBLIC_DIR, src);
       const buffer = fs.readFileSync(fullPath);
       const sha256 = crypto.createHash('sha256').update(buffer).digest('hex');
-      
+
       let text = '';
       let headings: string[] = [];
       const type = src.toLowerCase().endsWith('.pdf') ? 'pdf' : 'html';
-      
+
       if (type === 'html') {
         const extracted = extractHtml(buffer);
         text = extracted.text;
@@ -170,14 +170,14 @@ async function main() {
         text = extracted.text;
         headings = extracted.headings;
       }
-      
+
       const readable = text.trim().length > 100;
       if (readable) {
         combinedText += `\n\n--- SOURCE: ${src} ---\n\n` + text;
       }
-      
+
       const role = classifyRole(src, work.slug);
-      
+
       sourceEvidences.push({
         path: src,
         type,
@@ -187,26 +187,26 @@ async function main() {
         textLength: text.length,
         headings
       });
-      
+
       totalTextLength += text.length;
     }
-    
+
     // Save to cache
     if (combinedText.trim().length > 0) {
       fs.writeFileSync(path.join(CACHE_DIR, `${work.slug}.txt`), combinedText);
     }
-    
+
     // Determine extraction status
     const primarySources = sourceEvidences.filter(s => s.role === 'primary');
     let extractionStatus: 'complete' | 'partial' | 'unavailable' = 'unavailable';
-    
+
     if (primarySources.length > 0) {
       const allPrimaryReadable = primarySources.every(s => s.readable);
       const somePrimaryReadable = primarySources.some(s => s.readable);
       if (allPrimaryReadable) extractionStatus = 'complete';
       else if (somePrimaryReadable) extractionStatus = 'partial';
     }
-    
+
     evidenceManifest[work.slug] = {
       slug: work.slug,
       sources: sourceEvidences,

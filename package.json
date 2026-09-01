@@ -24,7 +24,8 @@
     "extract:history-people": "tsx scripts/extract-history-people.ts",
     "generate:work-summaries": "tsx scripts/generate-work-summaries.ts",
     "modernize:history": "tsx scripts/modernize-history.ts",
-    "validate:history-modern": "tsx scripts/validate-history-modern.ts"
+    "validate:history-modern": "tsx scripts/validate-history-modern.ts",
+    "extract:work-sources": "tsx scripts/extract-work-sources.ts"
   },
   "dependencies": {
     "@types/marked": "^5.0.2",
