@@ -3797,7 +3797,7 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
     ],
     "totalTextLength": 16914,
     "extractionStatus": "complete",
-    "documentCoverage": "full"
+    "documentCoverage": "excerpt"
   },
   "marx-dan-neue-rheinische-zeitung-1848-49": {
     "slug": "marx-dan-neue-rheinische-zeitung-1848-49",

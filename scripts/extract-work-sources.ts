@@ -212,7 +212,14 @@ async function main() {
     // NOTE: This does NOT mean all 249 works have received a full bibliographic completeness review,
     // but maintains existing pipeline behavior until verified otherwise.
     let documentCoverage: 'full' | 'excerpt' | 'unknown' = 'full';
-    if (work.slug === 'pendahuluan-sumbangan-untuk-kritik-terhadap-filsafat-hak-hegel' || work.slug === 'pendahuluan-sumbangan-untuk-kritik-terhadap-filsaf') {
+
+    const excerptSlugs = [
+      'pendahuluan-sumbangan-untuk-kritik-terhadap-filsafat-hak-hegel',
+      'pendahuluan-sumbangan-untuk-kritik-terhadap-filsaf',
+      'dialektika' // Preflight: stops discussing law 1, does not reach law 2 and 3.
+    ];
+
+    if (excerptSlugs.includes(work.slug)) {
       documentCoverage = 'excerpt';
     }
 
