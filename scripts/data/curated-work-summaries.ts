@@ -444,5 +444,124 @@ export const curatedWorkSummaries: Record<string, CuratedWorkSummary> = {
       ],
       argumentStructure: [{ source: "/mia/indonesia/archive/marx-engels/1886/ludwig-feuerbach/ch04.html", heading: "IV - Dialektika Materials" }]
     }
+  },
+
+  'brumaire-xviii-louis-bonaparte': {
+    historicalContext: "Ditulis oleh Karl Marx pada awal tahun 1852, sesaat setelah kudeta militer Louis-Napoléon Bonaparte pada 2 Desember 1851 di Prancis (menandai berakhirnya Republik Kedua). Karya ini mengkaji bagaimana perjuangan kelas dan kebuntuan antar faksi borjuasi membuka jalan bagi figur otoriter yang tampak berdiri di atas kelas-kelas sosial.",
+    mainProblem: "Bagaimana menjelaskan kudeta Louis Bonaparte secara materialis, yakni mengungkap bahwa kemenangannya bukanlah kebetulan sejarah atau sekadar ulah individu picik, melainkan hasil niscaya dari dinamika pertarungan kelas dan pengkhianatan borjuasi terhadap republik demokratis mereka sendiri?",
+    mainThesis: "Marx mendemonstrasikan bahwa perjuangan kelas di Prancis pada 1848–1851 telah menciptakan keadaan dan relasi kekuasaan yang membuat suatu kepemimpinan yang rapuh dan konyol (Louis Bonaparte) mampu tampil sebagai pahlawan dan merebut kekuasaan negara aparat birokrasi, di tengah ketidakmampuan borjuasi untuk terus memerintah secara parlementer.",
+    contentSummary: "Brumaire XVIII Louis Bonaparte secara detail membedah kejatuhan Republik Prancis pasca revolusi 1848. Marx mendeskripsikan pengkhianatan borjuasi atas proletariat dan kelas menengah (borjuis kecil). Dalam perebutan kekuasaan ini, faksi-faksi borjuis saling menghancurkan demi dominasi, sampai akhirnya mereka kehilangan dukungan sosial. Louis Bonaparte memanfaatkan kaum tani konservatif (petani gurem kecil) dan melumpuhkan parlemen yang dikuasai borjuasi. Negara (dengan birokrasi dan militernya) tampak memisahkan diri dan mendominasi masyarakat sipil. Marx mengevaluasi bahwa aparatur negara parasitik ini dibentuk oleh monarki dan borjuasi, namun justru mencekik mereka pada akhirnya.",
+    argumentStructure: [
+      "Menggambarkan karakter revolusi 1848 sebagai tragedi yang berulang dari revolusi 1789 (seperti kutipan terkenal: sejarah berulang 'pertama sebagai tragedi, kemudian sebagai lelucon').",
+      "Menganalisis kekalahan kaum proletar pada Juni 1848 yang membuka gerbang dominasi kelompok republikan borjuis.",
+      "Menyajikan kronologi keruntuhan faksi republikan demi kepentingan borjuis pendukung monarki, yang justru saling membatalkan satu sama lain secara parlementer.",
+      "Menganalisis basis kelas Louis Bonaparte: dukungan massal kaum tani gurem yang tidak terorganisir, serta penaklukan aparatur negara, yang mana militer dan eksekutif menggantikan supremasi legislatif (parlemen)."
+    ],
+    significance: "Brumaire XVIII adalah analisis paling brilian dari Marx tentang hubungan antara bentuk politik (negara aparat, republik parlementer) dengan konten material (kepentingan faksi-faksi ekonomi), serta menjadi karya rujukan mutlak untuk anatomi aparatur eksekutif negara dan kediktatoran.",
+    summaryStatus: 'complete',
+    contextOrigin: 'curated',
+    auditEvidence: {
+      mainProblem: [
+        { source: "/mia/indonesia/archive/marx-engels/1852/brumaire/PengantarMarx.html", heading: "KATA PENGANTAR KARL MARX PADA EDISI KEDUA TAHUN 1869" },
+        { source: "/mia/indonesia/archive/marx-engels/1852/brumaire/Bab1.html" }
+      ],
+      mainThesis: [{ source: "/mia/indonesia/archive/marx-engels/1852/brumaire/PengantarMarx.html" }],
+      contentSummary: [
+        { source: "/mia/indonesia/archive/marx-engels/1852/brumaire/Bab1.html" },
+        { source: "/mia/indonesia/archive/marx-engels/1852/brumaire/Bab7.html" }
+      ],
+      argumentStructure: [
+        { source: "/mia/indonesia/archive/marx-engels/1852/brumaire/Bab3.html" },
+        { source: "/mia/indonesia/archive/marx-engels/1852/brumaire/Bab7.html" }
+      ]
+    }
+  },
+
+  'surat-marx-pada-p-v-annenkov': {
+    historicalContext: "Surat korespondensi pribadi Karl Marx tertanggal 28 Desember 1846 kepada pemikir Rusia P.V. Annenkov, ditulis sebagai reaksi keras terhadap penerbitan karya Proudhon, 'System of Economical Contradictions, or, The Philosophy of Poverty'. Karya ini mengantarkan pada penulisan polemik utama Marx, Kemiskinan Filsafat.",
+    mainProblem: "Bagaimana membantah doktrin idealis dan reformis Proudhon yang memandang relasi ekonomi sebagai kategori-kategori abadi nalar akal budi alih-alih sebagai produk historis spesifik dari perkembangan daya-daya produksi dan pembagian kerja material?",
+    mainThesis: "Marx mengkritik Proudhon dengan menegaskan bahwa sejarah manusia adalah hasil dari relasi produksi material (pembagian kerja, teknologi, bentuk hak milik). Kategori-kategori ekonomi, ide, dan formasi sosial bukanlah ide absolut yang berdiri sendiri, melainkan ekspresi sementara dan historis dari organisasi produksi.",
+    contentSummary: "Melalui surat polemis ini, Marx membongkar fundamental metodologi Proudhon yang menurutnya tidak mengerti realitas masyarakat secara empiris maupun filosofis. Marx menilai Proudhon menyajikan sejarah evolusi masyarakat layaknya dialektika murni abstrak Hegelian (suatu 'Hegelianisme borjuis-kecil'). Sebaliknya, Marx mendemonstrasikan bahwa setiap tingkat perkembangan daya-daya produksi mengharuskan corak interaksi sosial, pembagian kerja, dan struktur kelas yang bersesuaian, di mana negara merupakan ekspresi formal dan praktis darinya. Ketika daya produksi berubah, maka akan muncul kontradiksi dan revolusi melawan relasi lama. Marx menolak tawaran Proudhon untuk menciptakan sintesis utopis dari sisi baik/buruk kapitalisme dengan menegaskan bahwa kontradiksi riil itulah pembuat sejarah.",
+    argumentStructure: [
+      "Mengkarakterisasi metodologi Proudhon sebagai idealisme teologis, yang memperlakukan manusia semata-mata sebagai instrumen beroperasinya Ide abadi.",
+      "Mendemonstrasikan argumen materialisme historis: perkembangan daya-daya produksi material membentuk interaksi ekonomi dan politik di dalam sejarah konkret.",
+      "Mengkritik pengkultusan kategori ekonomi Proudhon (seperti 'monopoli' atau 'pembagian kerja'), menekankan bahwa semua itu merupakan ekspresi historis dan dapat lenyap seiring perubahan cara produksi.",
+      "Menyimpulkan bahwa Proudhon adalah ideolog murni borjuis kecil yang mencoba melestarikan sisi baik kapitalisme sembari menghilangkan efek-efek logis buruknya (seperti eksploitasi kelas), tanpa menyadari perlunya penghancuran fondasi kapitalis itu sendiri."
+    ],
+    significance: "Surat ini penting untuk memahami bagaimana Marx pada periode ini menghubungkan kategori ekonomi dan gagasan dengan perkembangan hubungan sosial serta produksi material, sekaligus menandai garis batas tegasnya dengan metode Proudhon.",
+    summaryStatus: 'complete',
+    contextOrigin: 'curated',
+    auditEvidence: {
+      mainProblem: [{ source: "/mia/indonesia/archive/marx-engels/1847/kemiskinan/Lampiran1.html" }],
+      mainThesis: [{ source: "/mia/indonesia/archive/marx-engels/1847/kemiskinan/Lampiran1.html" }],
+      contentSummary: [{ source: "/mia/indonesia/archive/marx-engels/1847/kemiskinan/Lampiran1.html" }],
+      argumentStructure: [{ source: "/mia/indonesia/archive/marx-engels/1847/kemiskinan/Lampiran1.html" }]
+    }
+  },
+
+  'mengenai-masalah-perdagangan-bebas': {
+    historicalContext: "Teks ini merupakan naskah utuh pidato publik yang disampaikan oleh Karl Marx di Asosiasi Demokratik di Brussel pada 9 Januari 1848, merespons kontroversi seputar pencabutan Undang-undang Gandum (Corn Laws) di Inggris dan debat perlindungan/proteksionisme melawan pasaran bebas.",
+    mainProblem: "Di antara kebijakan perdagangan protektif dan perdagangan bebas (free trade), manakah yang secara objektif sejalan dengan pergerakan historis proletariat, dan apakah retorika 'kebebasan' kaum borjuis pedagang-bebas sungguh membawa emansipasi bagi kaum buruh?",
+    mainThesis: "Marx menolak dukungan terhadap proteksionisme, namun tidak pula menyetujui perdagangan bebas atas ilusi kebebasan atau peningkatan kondisi buruh. Marx menilai bahwa sistem perdagangan bebas hanya kebebasan bagi modal untuk mengeksploitasi dan menghancurkan nasionalisme lama, mendorong antagonisme kelas pada titik paling ekstrem yang mempercepat kedatangan revolusi sosial.",
+    contentSummary: "Dalam pidatonya, Marx membongkar kepalsuan para penganjur perdagangan bebas (seperti Bowring dan Bright di Inggris) yang berkampanye atas nama makanan murah untuk rakyat. Marx berargumen, dengan berlandaskan hukum ekonomi upah-minimum, bahwa upah sekadar disesuaikan pada biaya subsistensi buruh; makanan murah pada akhirnya hanya berujung pada penurunan upah buruh karena harga tenaga kerja pun menjadi lebih murah di tengah persaingan kapital. Dengan menjebol rintangan nasional, modal hanya membesarkan eksploitasinya pada skala dunia, menciptakan spesialisasi paksa (seperti Hindia Barat untuk gula) yang menindas pekerja. Pada akhirnya, Marx menyatakan persetujuan ironis terhadap perdagangan bebas hanya karena karakter destruktifnya: kebijakan ini menghancurkan bentuk-bentuk industri lama yang setengah-setengah, mendorong antagonisme antara kelas borjuis dan proletariat pada titik paling ekstrem, dan oleh karenanya mempercepat jalan menuju revolusi sosial.",
+    argumentStructure: [
+      "Mengkritik klaim hipokrit borjuis bahwa perdagangan bebas akan mendatangkan 'makanan murah' yang memperbaiki kesejahteraan buruh miskin.",
+      "Mendemonstrasikan logika upah, yang di bawah hukum pasaran bebas justru akan terus ditekan turun hingga standar minimum penghidupan yang menyedihkan.",
+      "Menyajikan implikasi internasional berupa pembagian kerja paksa di mana suatu negara dijajah/dieksploitasi industri dominan demi kepentingan monopoli.",
+      "Menegaskan pandangan penutup: menolak kembali ke proteksionisme lama yang konservatif, dan hanya menyetujui perdagangan bebas dalam fungsi progresif/destruktifnya untuk mendorong antagonisme kelas pada titik ekstrem demi pecahnya revolusi sosial."
+    ],
+    significance: "Marx menilai perdagangan bebas bukan dari janji kesejahteraan yang dikemukakan para pendukungnya, melainkan dari akibatnya terhadap persaingan, perkembangan modal, dan pertentangan kelas. Pada bagian akhir ia menyatakan dukungannya terhadap perdagangan bebas sejauh, menurut argumennya dalam pidato ini, perdagangan bebas mendorong antagonisme kelas pada titik ekstrem yang mempercepat revolusi sosial.",
+    summaryStatus: 'complete',
+    contextOrigin: 'curated',
+    auditEvidence: {
+      mainProblem: [{ source: "/mia/indonesia/archive/marx-engels/1848/free-trade.html", heading: "Mengenai Masalah Perdagangan Bebas" }],
+      mainThesis: [{ source: "/mia/indonesia/archive/marx-engels/1848/free-trade.html", heading: "Mengenai Masalah Perdagangan Bebas" }],
+      contentSummary: [{ source: "/mia/indonesia/archive/marx-engels/1848/free-trade.html", heading: "Mengenai Masalah Perdagangan Bebas" }],
+      argumentStructure: [{ source: "/mia/indonesia/archive/marx-engels/1848/free-trade.html", heading: "Mengenai Masalah Perdagangan Bebas" }]
+    }
+  },
+
+  'kata-pengantar-lama-pada-anti-d-hring-tentang-dialektika': {
+    historicalContext: "Draf otonom karya Friedrich Engels tahun 1878 yang asalnya dikonsepkan sebagai prakata untuk karya Anti-Dühring, namun tak pernah dimasukkan utuh. Di dalam draf ini, Engels menjelaskan pentingnya studi dialektika bagi ilmuwan alam dalam menjernihkan kebingungan metafisika eklektik pada masa tersebut.",
+    mainProblem: "Mengapa pemikiran para ilmuwan alam modern, terlepas dari keberhasilan-keberhasilan empirisnya, sering terjebak dalam kebingungan teoritis dan eklektisisme, serta bagaimana bentuk penalaran dialektikal mampu mengatasi keterbatasan metode pemikiran metafisika tradisional?",
+    mainThesis: "Engels berargumen bahwa teori pengetahuan tidaklah tetap melainkan produk dari sejarah. Ilmu-ilmu empiris yang beroperasi hanya menggunakan kerangka mekanis-metafisik perlahan dihadapkan pada batas-batasnya oleh penemuan-penemuan ilmiah yang hakikatnya bergerak secara evolusioner/dinamis (seperti biologi, fisika, atau kekekalan energi). Hanya pemikiran dialektikal yang dapat menyediakan analogi dan sarana penjelasan yang akurat untuk mengungkap keterkaitan dan transisi dinamis realitas.",
+    contentSummary: "Engels mendiagnosis kemunduran filsafat sains di Jerman sejak filsafat Hegelianisme lama ditelantarkan. Kebingungan teoritis merebak karena ilmuwan alam sering membanggakan pandangan yang sebenarnya sudah ditolak berabad lalu. Menanggapi kekacauan metafisik dan eklektis tersebut, Engels mengusulkan agar ilmuwan alam mengenalkan diri dengan pemikiran dialektikal secara historis, terutama dari era Yunani kuno atau filsafat klasik Jerman. Menurut Engels, realitas empiris pada masa itu—baik mekanika molekular maupun seleksi evolusioner—dengan sendirinya mendobrak sekat-sekat kategori pengkotak-kotakan kaku metafisika (seperti konsep bahwa yang diam dan gerak adalah absolut berbeda). Filsafat dialektika, karenanya, diusulkan sebagai alat refleksi mutlak yang tak tergantikan, lantaran secara natural sejalan dengan alam semesta yang bergerak dan transisional.",
+    argumentStructure: [
+      "Menguraikan sejarah pikiran manusia, di mana teori pikiran bukan kebenaran statis melainkan senantiasa berubah historis.",
+      "Mengkritik para naturalis (ilmuwan alam) yang acuh tak acuh terhadap sejarah filsafat namun terjebak menggunakan filsafat yang sudah kadaluarsa (metafisika kaku) secara amatiran.",
+      "Menunjukkan bagaimana kebangkitan kembali pertanyaan-pertanyaan ilmiah mendasar (seperti atomisme dari filsafat kuno) memaksa batas pemikiran mekanis abad modern.",
+      "Menyimpulkan jalan keluar berupa pengadopsian metode dialektikal yang sangat dibutuhkan untuk memahami fenomena transisional, evolusi, dan antar-kaitan dalam ilmu alam mutakhir."
+    ],
+    significance: "Draf pengantar ini menjadi fondasi penting bagi elaborasi Engels terhadap filsafat dialektika dalam ilmu pengetahuan (filsafat sains Marxis), yang di kemudian hari menjadi basis sentral proyek manuskrip Dialectics of Nature.",
+    summaryStatus: 'complete',
+    contextOrigin: 'curated',
+    auditEvidence: {
+      mainProblem: [{ source: "/mia/indonesia/archive/marx-engels/1878/tentang-dialektika.html" }],
+      mainThesis: [{ source: "/mia/indonesia/archive/marx-engels/1878/tentang-dialektika.html" }],
+      contentSummary: [{ source: "/mia/indonesia/archive/marx-engels/1878/tentang-dialektika.html" }],
+      argumentStructure: [{ source: "/mia/indonesia/archive/marx-engels/1878/tentang-dialektika.html" }]
+    }
+  },
+
+  'marx-dan-neue-rheinische-zeitung-1848-49': {
+    historicalContext: "Teks berbentuk artikel retrospektif ini ditulis oleh Friedrich Engels pada Februari-Maret 1884 (peringatan kebangkitan 1848) dan diterbitkan di koran Der Sozialdemokrat. Ini merupakan penilaian historiografis Engels atas peran taktis Marx di redaksi harian radikal, Neue Rheinische Zeitung.",
+    mainProblem: "Bagaimana orientasi redaksional dan siasat politik yang ditempuh Marx dan redaktur Liga Komunis dalam surat kabar harian Neue Rheinische Zeitung demi menggerakkan massa demokratis borjuis dan pekerja pada masa revolusi Jerman 1848-1849?",
+    mainThesis: "Engels mendeskripsikan strategi editorial Marx yang menggunakan panji gerakan 'demokrasi', daripada segera menyudutkan gerakan borjuis di awal perlawanan anti-monarki, sebagai satu-satunya cara rasional agar partai buruh bisa berbaur dan membimbing lapisan besar kaum demokrat sayap kiri dan proletariat demi memajukan agenda revolusioner Eropa tanpa terjebak isolasi.",
+    contentSummary: "Engels menguraikan secara retrospektif kondisi Liga Komunis (grup pelopor) yang masih terlalu kecil kekuatannya di Jerman. Engels menggambarkan taktik cemerlang Marx dalam mendirikan surat kabar Neue Rheinische Zeitung bukan sebagai panji sempit komunis belaka, melainkan sebagai corong 'Organ Demokrasi' yang mengambil posisi revolusioner ekstrem. Melalui harian itu, redaksi menuntut kebebasan pers dan menentang reaksioner Jerman serta dominasi Tsarisme Rusia, yang mereka pandang sebagai hambatan utama bagi pencerahan revolusi. Engels mengenang dominasi intelektual Marx ('kediktatoran Marx' di mata musuhnya) yang menuntun staf redaksi menghadapi rezim koln, serangan pengadilan, hingga akhirnya pembredelan militer paksa pada Mei 1849 di tengah kemenangan pasukan reaksi.",
+    argumentStructure: [
+      "Menggambarkan kelemahan material Liga Komunis saat Revolusi 1848 meletus, di mana panji-panji radikal sektarian murni tidak akan berhasil memobilisasi massa.",
+      "Menjelaskan taktik taktis Marx yang cerdik untuk masuk gelanggang massa dengan kedok demokrasi sayap paling kiri, mengambil posisi memimpin agar borjuis radikal terus terseret maju dan tidak lari.",
+      "Meringkas platform jurnalistik redaksi di bawah Marx, yaitu membela republik-bersatu anti-Prusia, melawan reaksi militer Eropa (khususnya Rusia), dan secara internasional mendukung semua pergerakan merdeka Polandia/Italia.",
+      "Mengenang keteguhan Marx dan komite redaksi menghadapi ancaman pembungkaman oleh negara dan kegagalan pemberontakan pekerja Eropa secara keseluruhan."
+    ],
+    significance: "Dokumen historiografis ini menjadi catatan strategis penting yang menerangi praktik nyata dari kerja sama politik sementara dengan unsur-unsur demokratis dan jurnalisme revolusioner radikal era 1848 secara eksplisit sebagaimana dievaluasi langsung oleh Engels.",
+    summaryStatus: 'complete',
+    contextOrigin: 'curated',
+    auditEvidence: {
+      mainProblem: [{ source: "/mia/indonesia/archive/marx-engels/1884/1884-MarxDanNeue.html" }],
+      mainThesis: [{ source: "/mia/indonesia/archive/marx-engels/1884/1884-MarxDanNeue.html" }],
+      contentSummary: [{ source: "/mia/indonesia/archive/marx-engels/1884/1884-MarxDanNeue.html" }],
+      argumentStructure: [{ source: "/mia/indonesia/archive/marx-engels/1884/1884-MarxDanNeue.html" }]
+    }
   }
 };
