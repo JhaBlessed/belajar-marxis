@@ -5,12 +5,12 @@ import { authors } from '../src/data/authors';
 
 function validate() {
   let errors = 0;
-  
+
   const contentDir = path.join(process.cwd(), 'src/content/works');
-  
+
   // existing checks...
   // skip the content manifest part for brevity or keep it? I'll keep it.
-  
+
   let singleHtml = 0;
   let multiHtml = 0;
   let singlePdf = 0;
@@ -18,6 +18,37 @@ function validate() {
   let noLocalSource = 0;
 
   works.forEach(work => {
+    if (work.localSourceParts) {
+      let mainCount = 0;
+      let hasDuplicatePaths = false;
+      const seenPaths = new Set();
+
+      work.localSourceParts.forEach(part => {
+        if (part.sourcePartKind === 'main') {
+          mainCount++;
+        }
+
+        if (part.sourcePartKind && !['main', 'appendix', 'preface', 'editorial'].includes(part.sourcePartKind)) {
+          console.error(`ERROR: Invalid sourcePartKind in ${work.slug}: ${part.sourcePartKind}`);
+          errors++;
+        }
+      });
+
+      if (work.localSourceParts.some(p => p.sourcePartKind) && mainCount === 0) {
+        console.error(`ERROR: Work ${work.slug} uses sourcePartKind but has no 'main' parts.`);
+        errors++;
+      }
+
+      if (work.slug === 'kemiskinan-filsafat') {
+        const prefaceCount = work.localSourceParts.filter(p => p.sourcePartKind === 'preface').length;
+        const appendixCount = work.localSourceParts.filter(p => p.sourcePartKind === 'appendix').length;
+        if (mainCount !== 8 || prefaceCount !== 3 || appendixCount !== 3) {
+          console.error(`ERROR: kemiskinan-filsafat exact part counts violated.`);
+          errors++;
+        }
+      }
+    }
+
     if (!work.sourceFormat && !work.localSourcePath && !work.localSourceParts) {
       noLocalSource++;
     } else if (work.sourceFormat === 'html') {

@@ -17,6 +17,7 @@ export interface SourceEvidence {
   path: string;
   type: 'html' | 'pdf';
   role: 'primary' | 'context';
+  sourcePartKind?: 'main' | 'appendix' | 'preface' | 'editorial';
   readable: boolean;
   sha256: string;
   textLength: number;
@@ -177,12 +178,21 @@ async function main() {
         combinedText += `\n\n--- SOURCE: ${src} ---\n\n` + text;
       }
 
+      let sourcePartKind: 'main' | 'appendix' | 'preface' | 'editorial' | undefined = undefined;
+      if (work.localSourceParts) {
+        const part = work.localSourceParts.find(p => p.path === src || p.path.split('?')[0].split('#')[0] === src);
+        if (part && part.sourcePartKind) {
+          sourcePartKind = part.sourcePartKind;
+        }
+      }
+
       const role = classifyRole(src, work.slug);
 
       sourceEvidences.push({
         path: src,
         type,
         role,
+        sourcePartKind,
         readable,
         sha256,
         textLength: text.length,
@@ -224,6 +234,7 @@ async function main() {
       'dialektika', // Preflight: stops discussing law 1, does not reach law 2 and 3.
       'kapital-jilid-1', // Preflight: only Chapter 1 (Komoditi).
       'sebuah-sumbangan-pada-kritik-atas-ekonomi-politik-hal-61-64', // Preflight: only excerpt of pages 61-64.
+      'sebuah-sumbangan-pada-kritik-atas-ekonomi-politik-', // Preflight: trailing hyphen identity for the same excerpt.
       'surat-marx-dan-engels-kepada-bebel-liebknecht-bracke-dan-lainnya-surat-edaran' // Preflight: only contains section (3)
     ];
 
@@ -247,6 +258,7 @@ export interface SourceEvidence {
   path: string;
   type: 'html' | 'pdf';
   role: 'primary' | 'context';
+  sourcePartKind?: 'main' | 'appendix' | 'preface' | 'editorial';
   readable: boolean;
   sha256: string;
   textLength: number;

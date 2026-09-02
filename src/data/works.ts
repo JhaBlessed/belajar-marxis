@@ -3546,8 +3546,7 @@ export const works: Work[] = [
     "slug": "kemiskinan-filsafat",
     "authorId": "karl-marx",
     "authorIds": [
-      "karl-marx",
-      "friedrich-engels"
+      "karl-marx"
     ],
     "year": null,
     "category": "Artikel",
@@ -3583,59 +3582,87 @@ export const works: Work[] = [
       {
         "title": "PRAKATA OLEH FREDERICK ENGELS Pada Edisi Pertama Jerman",
         "path": "/mia/indonesia/archive/marx-engels/1847/kemiskinan/Prakata1.html"
-      },
+      ,
+          "sourcePartKind": "preface"
+        },
       {
         "title": "PRAKATA OLEH FREDERICK ENGELS Pada Edisi Kedua Jerman",
         "path": "/mia/indonesia/archive/marx-engels/1847/kemiskinan/Prakata2.html"
-      },
+      ,
+          "sourcePartKind": "preface"
+        },
       {
         "title": "PRAKATA OLEH KARL MARX",
         "path": "/mia/indonesia/archive/marx-engels/1847/kemiskinan/Prakata3.html"
-      },
+      ,
+          "sourcePartKind": "preface"
+        },
       {
         "title": "1. Antitesis Nilai Pakai dan Nilai Tukar",
         "path": "/mia/indonesia/archive/marx-engels/1847/kemiskinan/Bab1Sub1.html"
-      },
+      ,
+          "sourcePartKind": "main"
+        },
       {
         "title": "2. Nilai Bentukan atau Nilai Sintetik",
         "path": "/mia/indonesia/archive/marx-engels/1847/kemiskinan/Bab1Sub2.html"
-      },
+      ,
+          "sourcePartKind": "main"
+        },
       {
         "title": "3. Penerapan Hukum Proporsionalitas Nilai",
         "path": "/mia/indonesia/archive/marx-engels/1847/kemiskinan/Bab1Sub3.html"
-      },
+      ,
+          "sourcePartKind": "main"
+        },
       {
         "title": "1. Metode",
         "path": "/mia/indonesia/archive/marx-engels/1847/kemiskinan/Bab2Sub1.html"
-      },
+      ,
+          "sourcePartKind": "main"
+        },
       {
         "title": "2. Pembagian Kerja dan Permesinan",
         "path": "/mia/indonesia/archive/marx-engels/1847/kemiskinan/Bab2Sub2.html"
-      },
+      ,
+          "sourcePartKind": "main"
+        },
       {
         "title": "3. Persaingan dan Monopoli",
         "path": "/mia/indonesia/archive/marx-engels/1847/kemiskinan/Bab2Sub3.html"
-      },
+      ,
+          "sourcePartKind": "main"
+        },
       {
         "title": "4. Pemilikan atau Sewa Tanah",
         "path": "/mia/indonesia/archive/marx-engels/1847/kemiskinan/Bab2Sub4.html"
-      },
+      ,
+          "sourcePartKind": "main"
+        },
       {
         "title": "5. Pemogokan-pemogokan dan Kombinasi- kombinasi Pekerja",
         "path": "/mia/indonesia/archive/marx-engels/1847/kemiskinan/Bab2Sub5.html"
-      },
+      ,
+          "sourcePartKind": "main"
+        },
       {
         "title": "Surat Marx pada P.V. Annenkov",
         "path": "/mia/indonesia/archive/marx-engels/1847/kemiskinan/Lampiran1.html"
-      },
+      ,
+          "sourcePartKind": "appendix"
+        },
       {
         "title": "Surat Marx pada J.B. Schweitzer",
         "path": "/mia/indonesia/archive/marx-engels/1847/kemiskinan/Lampiran2.html"
-      },
+      ,
+          "sourcePartKind": "appendix"
+        },
       {
         "title": "Dari Karya Marx: Sumbangan pada Kritik Ekonomi-Politik",
         "path": "/mia/indonesia/archive/marx-engels/1847/kemiskinan/Lampiran3.html"
-      },
+      ,
+          "sourcePartKind": "appendix"
+        },
       {
         "title": "Karya Marxis",
         "path": "/mia/indonesia/archive/marx-engels/1847/kemiskinan/https:/www.marxists.org/indonesia/archive/index.htm"
@@ -4364,9 +4391,8 @@ export const works: Work[] = [
     "title": "Tentang Das Kapital Marx",
     "originalTitle": null,
     "slug": "tentang-das-kapital-marx",
-    "authorId": "karl-marx",
+    "authorId": "friedrich-engels",
     "authorIds": [
-      "karl-marx",
       "friedrich-engels"
     ],
     "year": null,
@@ -4440,9 +4466,8 @@ export const works: Work[] = [
     "title": "Masalah Perumahan",
     "originalTitle": null,
     "slug": "masalah-perumahan",
-    "authorId": "karl-marx",
+    "authorId": "friedrich-engels",
     "authorIds": [
-      "karl-marx",
       "friedrich-engels"
     ],
     "year": null,

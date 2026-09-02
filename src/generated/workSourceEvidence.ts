@@ -5,6 +5,7 @@ export interface SourceEvidence {
   path: string;
   type: 'html' | 'pdf';
   role: 'primary' | 'context';
+  sourcePartKind?: 'main' | 'appendix' | 'preface' | 'editorial';
   readable: boolean;
   sha256: string;
   textLength: number;
@@ -2592,6 +2593,7 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
         "path": "/mia/indonesia/archive/marx-engels/1847/kemiskinan/Prakata1.html",
         "type": "html",
         "role": "primary",
+        "sourcePartKind": "preface",
         "readable": true,
         "sha256": "fa8083cc3c2cf0aba301bd7c8c78344c11d6f5698570b2de66e9874f06bb1aa1",
         "textLength": 40320,
@@ -2605,6 +2607,7 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
         "path": "/mia/indonesia/archive/marx-engels/1847/kemiskinan/Prakata2.html",
         "type": "html",
         "role": "primary",
+        "sourcePartKind": "preface",
         "readable": true,
         "sha256": "59b8ec187d8ee3c91bba4d78a6c272b2297d370b278b41d64e29e26fdfe38a11",
         "textLength": 649,
@@ -2618,6 +2621,7 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
         "path": "/mia/indonesia/archive/marx-engels/1847/kemiskinan/Prakata3.html",
         "type": "html",
         "role": "primary",
+        "sourcePartKind": "preface",
         "readable": true,
         "sha256": "e0959e3366433b532cee8a08e90cb12f57b3e2a3acaf8bdf95131eb38b21ed0d",
         "textLength": 1664,
@@ -2631,6 +2635,7 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
         "path": "/mia/indonesia/archive/marx-engels/1847/kemiskinan/Bab1Sub1.html",
         "type": "html",
         "role": "primary",
+        "sourcePartKind": "main",
         "readable": true,
         "sha256": "2f00d5922b22f2c57973ddfcff94d3c5ea15a0f09bd25d76503b6c1d6971c8a5",
         "textLength": 28528,
@@ -2646,6 +2651,7 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
         "path": "/mia/indonesia/archive/marx-engels/1847/kemiskinan/Bab1Sub2.html",
         "type": "html",
         "role": "primary",
+        "sourcePartKind": "main",
         "readable": true,
         "sha256": "4b42593bdcaa7d6aef929c1bc0bc70d25f5c48a7765273790d52320ad6ff5c61",
         "textLength": 84140,
@@ -2661,6 +2667,7 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
         "path": "/mia/indonesia/archive/marx-engels/1847/kemiskinan/Bab1Sub3.html",
         "type": "html",
         "role": "primary",
+        "sourcePartKind": "main",
         "readable": true,
         "sha256": "59ce2a76d0988a02ccfe68af5aa3800241648b0c4f99596fba4d085481e4c1da",
         "textLength": 54184,
@@ -2676,6 +2683,7 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
         "path": "/mia/indonesia/archive/marx-engels/1847/kemiskinan/Bab2Sub1.html",
         "type": "html",
         "role": "primary",
+        "sourcePartKind": "main",
         "readable": true,
         "sha256": "f388ad45bf5e7e65f1f2b6eb69d24633e6e36bef9eadc2df77c44872dc63333e",
         "textLength": 51520,
@@ -2698,6 +2706,7 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
         "path": "/mia/indonesia/archive/marx-engels/1847/kemiskinan/Bab2Sub2.html",
         "type": "html",
         "role": "primary",
+        "sourcePartKind": "main",
         "readable": true,
         "sha256": "30b84b58cc4ee9eeaa1626b7c929e2dd1042ed228a8c5caccd7c1034b62b5d6a",
         "textLength": 38937,
@@ -2713,6 +2722,7 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
         "path": "/mia/indonesia/archive/marx-engels/1847/kemiskinan/Bab2Sub3.html",
         "type": "html",
         "role": "primary",
+        "sourcePartKind": "main",
         "readable": true,
         "sha256": "a0db008baff1fe7ed51310fbc12dc569b8c82b3e9919d0161f1c3aa8a85286c4",
         "textLength": 19598,
@@ -2728,6 +2738,7 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
         "path": "/mia/indonesia/archive/marx-engels/1847/kemiskinan/Bab2Sub4.html",
         "type": "html",
         "role": "primary",
+        "sourcePartKind": "main",
         "readable": true,
         "sha256": "c19f95543cec46e66a27f5ed887e9312ccb6e1e55ea589c4e6b2eb9e18d5309b",
         "textLength": 30165,
@@ -2743,6 +2754,7 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
         "path": "/mia/indonesia/archive/marx-engels/1847/kemiskinan/Bab2Sub5.html",
         "type": "html",
         "role": "primary",
+        "sourcePartKind": "main",
         "readable": true,
         "sha256": "3c7d3bd70d63d0e1e22f5b82fb325b1dcccbb4a60fed4162797526f0030ad771",
         "textLength": 22110,
@@ -2758,6 +2770,7 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
         "path": "/mia/indonesia/archive/marx-engels/1847/kemiskinan/Lampiran1.html",
         "type": "html",
         "role": "primary",
+        "sourcePartKind": "appendix",
         "readable": true,
         "sha256": "4ad5ec580d3494277fa7d2e3af991df3cd38511233c5389f75bb1a7d70b4dc4c",
         "textLength": 33612,
@@ -2770,6 +2783,7 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
         "path": "/mia/indonesia/archive/marx-engels/1847/kemiskinan/Lampiran2.html",
         "type": "html",
         "role": "primary",
+        "sourcePartKind": "appendix",
         "readable": true,
         "sha256": "7b46b640e9f3ca6c2e0b0123e1028329f856639d1b2b11c48911fde50a9fb1dd",
         "textLength": 20717,
@@ -2782,6 +2796,7 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
         "path": "/mia/indonesia/archive/marx-engels/1847/kemiskinan/Lampiran3.html",
         "type": "html",
         "role": "primary",
+        "sourcePartKind": "appendix",
         "readable": true,
         "sha256": "17272033dde5db82c35b16e0cb24ec7051d46a1175703cf425fed13a5c062575",
         "textLength": 8904,
@@ -7458,7 +7473,7 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
     ],
     "totalTextLength": 8904,
     "extractionStatus": "complete",
-    "documentCoverage": "full"
+    "documentCoverage": "excerpt"
   },
   "peranan-yang-dimainkan-kerja-dalam-peralihan-dari-": {
     "slug": "peranan-yang-dimainkan-kerja-dalam-peralihan-dari-",

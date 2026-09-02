@@ -15,7 +15,6 @@ export const workAliases: Record<string, string> = {
   "manifesto-komunis": "manifesto-partai-komunis",
   "brumaire-xviii": "brumaire-xviii-louis-bonaparte",
   "kata-pengantar-pada-sebuah-sumbangan-untuk-kritik-": "kata-pengantar-pada-sebuah-sumbangan-untuk-kritik-terhadap-ekonomi-politik",
-  "sebuah-sumbangan-pada-kritik-atas-ekonomi-politik-": "sebuah-sumbangan-pada-kritik-atas-ekonomi-politik-hal-61-64",
   "peranan-yang-dimainkan-kerja-dalam-peralihan-dari-": "peranan-yang-dimainkan-kerja-dalam-peralihan-dari-kera-ke-manusia",
   "kata-pengantar-lama-pada-anti-d-hring-tentang-dial": "kata-pengantar-lama-pada-anti-d-hring-tentang-dialektika",
   "surat-marx-dan-engels-kepada-bebel-liebknecht-brac": "surat-marx-dan-engels-kepada-bebel-liebknecht-bracke-dan-lainnya-surat-edaran",

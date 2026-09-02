@@ -11,6 +11,7 @@ export const canonicalExclusions: Record<string, CanonicalExclusion> = {
   'bab-21-36': { kind: 'fragment', parentSlug: 'kapital-jilid-3' },
   'bab-37-43': { kind: 'fragment', parentSlug: 'kapital-jilid-3' },
   'bab-44-52': { kind: 'fragment', parentSlug: 'kapital-jilid-3' },
-  'sebuah-sumbangan-pada-kritik-atas-ekonomi-politik-hal-61-64': { kind: 'fragment', parentSlug: 'sebuah-sumbangan-pada-kritik-atas-ekonomi-politik-' },
+  'sebuah-sumbangan-pada-kritik-atas-ekonomi-politik-hal-61-64': { kind: 'fragment' },
+  'sebuah-sumbangan-pada-kritik-atas-ekonomi-politik-': { kind: 'fragment' },
   'pdf-format': { kind: 'format-helper', parentSlug: 'upah-harga-dan-laba' }
 };

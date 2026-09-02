@@ -74,6 +74,7 @@ export interface Work {
   localSourceParts?: Array<{
     title: string;
     path: string;
+    sourcePartKind?: 'main' | 'appendix' | 'preface' | 'editorial';
   }>;
   sourceType?: string;
   parts?: Array<{
