@@ -3662,7 +3662,7 @@ export const workSourceEvidence: Record<string, WorkEvidence> = {
     ],
     "totalTextLength": 24341,
     "extractionStatus": "complete",
-    "documentCoverage": "full"
+    "documentCoverage": "excerpt"
   },
   "sosialisme-utopis-dan-sosialisme-ilmiah": {
     "slug": "sosialisme-utopis-dan-sosialisme-ilmiah",

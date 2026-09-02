@@ -223,7 +223,8 @@ async function main() {
       'pendahuluan-sumbangan-untuk-kritik-terhadap-filsaf',
       'dialektika', // Preflight: stops discussing law 1, does not reach law 2 and 3.
       'kapital-jilid-1', // Preflight: only Chapter 1 (Komoditi).
-      'sebuah-sumbangan-pada-kritik-atas-ekonomi-politik-hal-61-64' // Preflight: only excerpt of pages 61-64.
+      'sebuah-sumbangan-pada-kritik-atas-ekonomi-politik-hal-61-64', // Preflight: only excerpt of pages 61-64.
+      'surat-marx-dan-engels-kepada-bebel-liebknecht-bracke-dan-lainnya-surat-edaran' // Preflight: only contains section (3)
     ];
 
     if (excerptSlugs.includes(work.slug)) {

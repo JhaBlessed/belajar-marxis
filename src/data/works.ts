@@ -3509,8 +3509,7 @@ export const works: Work[] = [
     "slug": "surat-marx-pada-p-v-annenkov",
     "authorId": "karl-marx",
     "authorIds": [
-      "karl-marx",
-      "friedrich-engels"
+      "karl-marx"
     ],
     "year": 1847,
     "category": "Artikel",
@@ -3805,8 +3804,7 @@ export const works: Work[] = [
     "slug": "mengenai-masalah-perdagangan-bebas",
     "authorId": "karl-marx",
     "authorIds": [
-      "karl-marx",
-      "friedrich-engels"
+      "karl-marx"
     ],
     "year": 1848,
     "category": "Artikel",
@@ -3916,9 +3914,8 @@ export const works: Work[] = [
     "title": "Perang Tani di Jerman",
     "originalTitle": null,
     "slug": "perang-tani-di-jerman",
-    "authorId": "karl-marx",
+    "authorId": "friedrich-engels",
     "authorIds": [
-      "karl-marx",
       "friedrich-engels"
     ],
     "year": null,
@@ -4013,8 +4010,7 @@ export const works: Work[] = [
     "slug": "brumaire-xviii-louis-bonaparte",
     "authorId": "karl-marx",
     "authorIds": [
-      "karl-marx",
-      "friedrich-engels"
+      "karl-marx"
     ],
     "year": null,
     "category": "Artikel",
@@ -4707,9 +4703,8 @@ export const works: Work[] = [
     "title": "Kata-Pengantar Lama Pada Anti-Dühring. Tentang Dialektika",
     "originalTitle": null,
     "slug": "kata-pengantar-lama-pada-anti-d-hring-tentang-dialektika",
-    "authorId": "karl-marx",
+    "authorId": "friedrich-engels",
     "authorIds": [
-      "karl-marx",
       "friedrich-engels"
     ],
     "year": null,
@@ -4961,9 +4956,8 @@ export const works: Work[] = [
     "title": "Marx dan Neue Rheinische Zeitung (1848-49)",
     "originalTitle": null,
     "slug": "marx-dan-neue-rheinische-zeitung-1848-49",
-    "authorId": "karl-marx",
+    "authorId": "friedrich-engels",
     "authorIds": [
-      "karl-marx",
       "friedrich-engels"
     ],
     "year": 1848,
